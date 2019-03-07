@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<!-- wrapper --><div>
+  <div class="px4 lg-px4">
+    <div class="max-width-4 mx-auto">
+      <div class="clearfix mxn2">
+          <h1>
+          <small>{{ .Page.Params.Subheadline }}</small><br>
+          {{ .Title }}
+          </h1>
+
+          {{ .Content }}
+
+      </div><!-- /clearfix -->
+    </div><!-- /max-width-2 -->
+
+
+  </div><!-- /padding -->
+</div><!-- /wrapper -->
+{{ end }}

@@ -1,0 +1,67 @@
+{{ $value_1 := .Get 0 }}
+{{ $value_2 := .Get 1 }}
+
+<!-- Kombiniert beide Werte -->
+{{ $value := print $value_1 $value_2 }}
+
+
+
+{{ if eq $value "short" }}
+  <ul class="list-reset mt3 pb3 border-bottom">
+  {{ range .Site.Data.termine }}
+  <li>
+    <code class="pr1">{{ .date }}</code> <a href="{{ .Site.BaseURL }}/seminare/termine/#item-{{ .date | anchorize }}">{{ .title }}</a><br>
+  </li>
+  {{ end }}
+  </ul>
+{{ end }}
+
+
+
+{{ if eq $value "long" }}
+  {{ range .Site.Data.termine }}
+  <article class="mt3 mb3" id="item-{{ .date | anchorize }}">
+
+        <!-- Datum Umdrehen -->
+        {{ $datum := split .date "." }}
+        {{ $year := index ($datum) 0 }}
+        {{ $month := index ($datum) 1 }}
+        {{ $day := index ($datum) 1 }}
+
+        <p class="subtitle">{{ $day }}.{{ $month }}.{{ $year }}</p>
+        <h1 class="h3">{{ .title }}</h1>
+        <p>{{ .description | markdownify }}</p>
+        <p>Veranstalter: <a target="_blank" title="Website besuchen" href="{{.url_1}}">{{.url_title_1}}</a></p>
+  {{ partial "footer_jump_to_top" }}
+    </article>
+  {{ end }}
+{{ end }}
+
+
+
+{{ if eq $value "shortlong" }}
+  <ul class="list-reset mt3 pb3 border-bottom">
+  {{ range .Site.Data.termine }}
+  <li>
+<!-- Datum Umdrehen -->
+{{ $datum := split .date "." }}
+{{ $year := index ($datum) 0 }}
+{{ $month := index ($datum) 1 }}
+{{ $day := index ($datum) 1 }}
+    <code class="pr1">{{ $day }}.{{ $month }}.{{ $year }}</code> <a href="#item-{{ .date | anchorize }}">{{ .title }}</a><br>
+  </li>
+  {{ end }}
+  </ul>
+
+
+  {{ range .Site.Data.termine }}
+  <article class="mt3 mb3" id="item-{{ .date | anchorize }}">
+        <p class="subtitle">{{ .date }}</p>
+        <h1 class="h3">{{ .title }}</h1>
+        <p>{{ .description | markdownify }}</p>
+        <p>Veranstalter: <a target="_blank" title="Website besuchen" href="{{.url_1}}">{{.url_title_1}}</a></p>
+  {{ partial "footer_jump_to_top" }}
+    </article>
+  {{ end }}
+{{ end }}
+

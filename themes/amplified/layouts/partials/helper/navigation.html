@@ -1,5 +1,5 @@
 <!-- Start Navbar -->
-<header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4 ">
+<header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4">
   <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger md-hide lg-hide pr2  ">☰
   </div>
     <a href="{{ .Site.BaseURL }}" class="text-decoration-none inline-block mx-auto ampstart-headerbar-home-link  ">
@@ -7,41 +7,23 @@
     </a>
   <nav class="ampstart-headerbar-nav ampstart-nav  xs-hide sm-hide">
     <ul class="list-reset center m0 p0 flex justify-center nowrap">
-        <li class="ampstart-nav-item "><a href="/seminare/index.html" class="text-decoration-none block">Seminare</a></li>
+        <li class="ampstart-nav-item "><a href="{{ "/seminare/programm/" | absURL }}" class="text-decoration-none block">Seminare</a></li>
         <li class="ampstart-nav-item ampstart-nav-dropdown relative">
-
-<!-- Start Dropdown -->
-<amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown absolute top-0 left-0 right-0 bottom-0">
-  <section>
-    <header>Seminare</header>
-    <ul class="ampstart-dropdown-items list-reset m0 p0">
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">All</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Design</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Fashion</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Interiors</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Arts &amp; Culture</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Popular</a></li>
-    </ul>
-  </section>
-</amp-accordion>
-<!-- End Dropdown -->
-          </li>
-          <li class="ampstart-nav-item "><a href="#" class="text-decoration-none block">Termine</a></li>
-          <li class="ampstart-nav-item "><a href="#" class="text-decoration-none block">Seminare</a></li>
-          <li class="ampstart-nav-item "><a href="#" class="text-decoration-none block">Kontakt</a></li>
-          <li class="ampstart-nav-item "><a href="{{ "/info/" | absURL }}" class="text-decoration-none block">Kunden & Info</a></li>
+        <li class="ampstart-nav-item "><a href="{{ "/seminare/termine/" | absURL }}" class="text-decoration-none block">Termine</a></li>
+        <li class="ampstart-nav-item "><a href="{{ "/seminare/kontakt/" | absURL }}" class="text-decoration-none block">Kontakt</a></li>
+        <li class="ampstart-nav-item "><a href="{{ "/seminare/info/" | absURL }}" class="text-decoration-none block">Kunden & Info</a></li>
       </ul>
     </nav>
 
     <div class="ampstart-headerbar-fixed center m0 p0 flex justify-center nowrap ">
       <div class="mr2">
       </div>
+<!-- SEARCH LUPE
         <a href="#" class="text-decoration-none mr2 ampstart-headerbar-fixed-link ">
-
           <div class="ampstart-headerbar-icon-wrapper relative"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11" overflow="visible"><circle fill="none" stroke="#000" stroke-width="1.68" stroke-miterlimit="10" cx="4.67" cy="4.67" r="3.83"></circle><path fill="none" stroke="#000" stroke-width="1.78" stroke-linecap="round" stroke-miterlimit="10" d="M7.258 7.77l2.485 2.485"></path></svg></div>
         </a>
 
-    </div>
+ -->    </div>
   </header>
 
 <!-- Start Sidebar -->
@@ -59,20 +41,20 @@
   <section expanded="">
     <header>Seminare</header>
     <ul class="ampstart-dropdown-items list-reset m0 p0">
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Alle Seminare</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">WordPress</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Social Media</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Suchmaschinenoptimierung</a></li>
-        <li class="ampstart-dropdown-item"><a href="#" class="text-decoration-none">Marketing</a></li>
+        <li class="ampstart-dropdown-item"><a href="/tags/wordpress/" class="text-decoration-none">WordPress</a></li>
+        <li class="ampstart-dropdown-item"><a href="/tags/socialmedia/" class="text-decoration-none">Social Media</a></li>
+        <li class="ampstart-dropdown-item"><a href="/tags/suchmaschinenoptimierung/" class="text-decoration-none">Suchmaschinenoptimierung</a></li>
+        <li class="ampstart-dropdown-item"><a href="/tags/marketing/" class="text-decoration-none">Marketing</a></li>
+        <li class="ampstart-dropdown-item"><a href="/individuelle-seminare/" class="text-decoration-none">Individuelle/Inhouse Seminare</a></li>
     </ul>
   </section>
 </amp-accordion>
 <!-- End Dropdown-inline -->
           </li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="#">Seminare</a></li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="#">Termine</a></li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/info/" | absURL }}">Kunden & Info</a></li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="#">Kontakt</a></li>
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/seminare/programm/" | absURL }}">Seminarübersicht</a></li>
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/seminare/termine/" | absURL }}">Termine</a></li>
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/seminare/info/" | absURL }}">Kunden & Info</a></li>
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/seminare/kontakt/" | absURL }}">Kontakt</a></li>
     </ul>
   </nav>
 

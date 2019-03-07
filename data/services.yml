@@ -1,0 +1,13 @@
+- menu_name : 'Services'
+
+- name      : 'Kontakt'
+  url       : '/kontakt/'
+  title     : 'kontakt'
+
+- name      : 'Info'
+  url       : '/info/'
+  title     : 'info'
+
+- name      : 'Impressum + Datenschutz'
+  url       : https://phlow.de/impressum/
+  title     : 'impressum'
