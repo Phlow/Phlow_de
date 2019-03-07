@@ -1,0 +1,94 @@
+baseURL                     = "http://media.phlow.de/test/"
+languageCode                = "de-DE"
+defaultContentLanguage      = "de"
+title                       = "Phlow Seminare"
+theme                       = "amplified"
+copyright                   = "Alle Rechte vorbehalten"
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+# {{ .Site.GoogleAnalytics }}
+# googleAnalytics             = ""
+
+
+# Markdown
+# https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+
+[author]
+    name                  = "Moritz mo. Sauer"
+    publisher             = "Phlow"
+
+[permalinks]
+  seminare = "/:title/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Verhindern <meta name="generator" content="Hugo 0.18" />
+disableHugoGeneratorInject  = true
+
+[params]
+    slogan                  = "Phlow Seminare – WordPress, Social Media, SEO & Journalismus"
+    description             = "Seit mehr als 10 Jahren trainieren wir unsere Kunden in den Bereichen WordPress, Journalismus, Social Media, Internet Marketing und Webdesign."
+    adsensePublisher        = ""
+  # Wichtig für SCHEMA.ORG
+  [params.publisher]
+    name = "Phlow"
+
+    # Wichtig für SCHEMA.ORG
+    [params.publisher.logo]
+      # https://developers.google.com/search/docs/data-types/article#logo-guidelines
+      # The logo should fit in a 60x600px rectangle, and either be exactly 60px high (preferred), or exactly 600px wide. 
+      url = "/assets/img/amp-logo-schema-small-150-60.png"
+      width = 150
+      height = 60
+
+  # Wichtig für SCHEMA.ORG
+  [params.logo]
+    url = "/assets/img/amp-logo-schema-small-150-60.png"
+    width = 150
+    height = 60
+
+  # Wichtig für SCHEMA.ORG
+  [params.image]
+    # The URL to an image that is representative of the article or AMP story.
+    # Images should be at least 1200 pixels wide.
+    # For best results, provide multiple high-resolution images (minimum of 800,000 pixels when multiplying width and height) with the following aspect ratios: 16x9, 4x3, and 1x1.
+    url = "/assets/img/amp-banner-homepage-1600x900.jpg"
+    width = 1600
+    height = 900
+
+
+# VOM THEME gohugo-amp
+    amp = true # enables amp features
+    ampCdnRoot = "https://cdn.ampproject.org/" # defined base cdn root of the amp projects files
+    ampRelease = "v0" # define amp release you want to use
+    ampElementsVersion = "0.1" # define amp-elements version you want to use
+
+    # define which amp-elements you are using globally, these elements will be included in every page
+    ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-carousel","amp-iframe","amp-app-banner","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
+
+    themeColor = "#112233" # define a theme color (this will colorize the android address-bar)
+
+    adsensePublisher = "" # required if you want to include google adsense
+    googleAnalytics = "" # required if you want to use google analytics
+    appleItunesApp = "" # required if you want to add an app banner with iOS app
+    ampManifest = "/amp-manifest.json" # required if you want to add the app-banner feature
+
+    alternatePageName = "Phlow Seminare – Social Media, WordPress, SEO, Journalismus" # alternative name for website structured data
+    organizationLogo = "https://gohugohq.com/logo.png" # set organization logo for structured data
+    organizationName = "Phlow" # set organization name
+    organizationAddress = "Phlow, c/o Moritz Sauer, Weißer Hauptstraße 135, 50999 Köln, Germany" # set organization address
+
+    socialProfiles = ["https://instagram.com/phlow.media"]  # for sameAs in organization's structured data
+
+    publisherName = "Phlow" # publisher used in article schema
+    publisherLogo = "https://gohugo-amp.gohugohq.com/logo-publisher.png" # https://developers.google.com/search/docs/data-types/articles#logo-guidelines
+    publisherLogoWidth = 600 # logo width
+    publisherLogoHeight = 60 # logo height

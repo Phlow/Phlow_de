@@ -1,0 +1,14 @@
+<div class="px1 border-bottom">
+  <ol class="list-reset" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <li class="inline-block" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Start</span></a><span class="mx1" itemprop="position" content="1">/</span>
+    </li>
+
+      {{ range (split .URL "/") }}
+          {{ if gt (len . ) 0 }}
+            <li class="inline-block" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/{{ . }}"><span itemprop="name">{{ humanize (replace . "posts" "blog") }}</span></a><span class="mx1" itemprop="position" content="2">/</span></li>
+          {{ end }}
+      {{ end }}
+  </ol>
+</div>
+
+

@@ -1,0 +1,9 @@
+    <title>
+    {{ if .Page.Params.meta_title }}
+      {{ .Page.Params.meta_title }}
+    {{ else if .Page.Title }}
+      {{ .Page.Title }}
+    {{ else }}
+      {{ .Site.Title }} – {{ .Site.Params.slogan }}
+    {{ end }}
+    </title>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ⚡="{{ .Site.Language.Lang }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <meta name="amp-google-client-id-api" content="googleanalytics">
+
+{{ partial "seo/_seo" . }}
+
+  <link rel="canonical" href="https://www.ampstart.com/templates/land-see/land-see.amp">
+
+  <script async="" src="https://cdn.ampproject.org/v0.js"></script>
+
+{{ partial "amp/boilerplate.html" . }}
+
+
+<script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
+<script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async=""></script>
+
+<style amp-custom="">
+  {{ partial "css/normalize.css" . | safeCSS }}
+  {{ partial "css/bassplate.css" . | safeCSS }}
+  {{ partial "css/amp-navigation.css" . | safeCSS }}
+</style>
+
+</head>
+<body>
