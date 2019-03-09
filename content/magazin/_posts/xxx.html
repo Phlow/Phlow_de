@@ -1,0 +1,143 @@
+
+= Terminal für Webdesigner: Zeit sparen mit Automatisierung und Stapelverarbeitung
+Moritz Sauer »mo.« – http://moritz.sauer.io
+Version 2017-01-10
+:doctype: book
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 2
+:icons: font
+:quick-uri: http://localhost:4000
+:front-cover-image: ../images/cover-terminal-fuer-webdesigner.jpg
+:skip-front-matter:
+:author: 
+:firstname: Moritz
+:middlename: Sauer
+:lastname: »mo.«
+:revnumber: 2017-01-10
+:revdate: 03. Januar 2017
+:description: Terminal-Befehle und Bash-Scripte sparen Dir als Webdesigner viel Zeit und Arbeit. Dieser Leitfaden zeigt wie das Terminal Deine Arbeit erleichtert.
+:keywords: terminal, webdesign, bash, shell, automatisierung, stapelverarbeitung, produktivität, leitfaden, einführung
+:pdf-page-size: A4
+// :sectnums: // Nummerierung der Überschriften
+large   // large ist wichtig für Menüs und KBD-Shortcuts
+
+
+
+
+
+== Wozu brauche ich das Terminal?
+
+[.lead]
+»Warum soll ich mich mit dem Terminal überhaupt auseinandersetzen«, fragst Du Dich vielleicht. Das ist doch was für nerdige Admins bzw. nur Spielerei und Zeitverlust? Und für die meisten Probleme, die ich kompliziert mit dem Terminal lösen kann, gibt es kleine Helferprogramme. Alle Aspekte stimmen so ein bischen, aber…
+
+…das Terminal ist einerseits ein Stück Ur-Technologie und andererseits das Werkzeug für Automatisierung von Prozessen. Das Terminal bietet Dir auf jedem Unix- oder Linux-Computer vorinstallierte mächtige Programme. Außerdem sitzt Du den ganzen Tag als Webdesigner vor der Maschine. Es hilft immer, sich mit der Maschine noch ein wenig mehr auseinanderzusetzen. Ich wünschte, ich hätte mich schon vor einem Jahrzehnt mit dem Terminal auseinandergesetzt. Ich hätte Stunden meines Lebens gespart. Außerdem sind Computer da, um lästige Dinge zu erledigen, nicht für kreative. Dafür bist Du zuständig.
+
+== Zeit sparen, Kopf trainieren, Helferprogramme selbst schreiben…
+
+So sparst Du z.B. enorm Zeit, wenn Du `sips` für das Konvertieren und Zurechtschneiden von Bildern nutzt. Kleine For-Schleifen mit ein paar Befehlen benennen Dir innerhalb von ein paar Sekunden Dateien sinnvoll und spazieren dabei schnell durch sämtliche Unterordner. Mach das mal mit dem Finder. Oder suche nach und in Dateien mit `find` und `grep` nach einer Variablen oder einem Schnipsel Code, den Du noch einmal verwenden willst. Oder bau Dir Deinen eigenen kleinen Downloader mit Hilfe eines simplen Bash-Scriptes, dass Dir die aktuelle WordPress-Version mitsamt Deiner Lieblings-Erweiterungen herunterlädt, entpackt und alles in die vorhergesehenen Verzeichnisse verschiebt.
+
+Also: Schau mal in dieses Buch hinein. Und solltest Du hilfreiche Informationen finden, hast Du vielleicht auch Lust, mich als Autor zu unterstützen, indem Du das Buch kaufst. Denn Downloads, Übungen und sortierte Beispielskripte und mehr, gibt es nur mit dem Kauf eines Buches :)
+
+Alles andere findest Du auch auf dieser Seite.
+
+Viel Erfolg, wünscht Dir http://moritz.sauer.io/biografie[Moritz »mo.« Sauer]
+
+
+== Einführung: Terminal für Webdesigner
+
+
+[.lead]
+Terminal-Befehle und Bash-Scripte sparen Dir als Webdesigner viel Zeit und Arbeit. Dieser Leitfaden zeigt wie das Terminal Deine Arbeit erleichtert.
+
+=== Welche Bash ist installiert? Die Bash aktualisieren
+
+
+Um zu testen, welche Version der bash Du auf Deinem Rechner nutzt, tippst Du einfach `bash --version` ein. Das Ergebnis kann dann so aussehen:
+
+-----
+$ bash --version
+bash --version
+GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin14)
+Copyright (C) 2007 Free Software Foundation, Inc.
+-----
+
+Die eigentliche Installation wird mit link:http://brew.sh/index_de.html[HomeBrew], einem OS X-Paket-Manager installiert. Um zu überprüfen, ob Du HomeBrew installiert hast, tippst Du in das Terminal:
+
+-----
+$ brew --version
+-----
+
+TIP: Ein *Paket-Manager*, ist eine Software-Paketverwaltung. Viele Open Source-Programme installiert man als Paket und nicht als  ausführbare Datei. Mit Hilfe eines Paket-Managers installierst, aktualisierst und deinstallierst Du Software auf Deinem Rechner. Im englischen heißen Paket-Manager auch _package manager_ oder _package management system_. Auf OS X-Systemen ist _HomeBrew_ sehr beliebt, muss aber erst selbst installiert werden, bevor man ihn nutzen kann.
+
+
+Wenn HomeBrew nicht installiert ist, dann kannst Du es unkompliziert mit dem folgenden Befehl installieren:
+
+-----
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+-----
+
+Um die aktuelle Version der Bash zu installieren, startest Du HomeBrew mit:
+
+-----
+$ brew update && brew install bash
+-----
+
+
+
+=== Wichtige Begrifflichkeiten zuerst
+
+directory::
+  Verzeichnisse werden _directory_ genannt.
+home directory::
+  Als _home directory_ wird das Arbeitsverzeichnis, in welchem das
+  Terminal startet – in der Regel `/Users/Name/`.
+
+
+=== Versteckte Ordner & Dateien mit Finder anzeigen
+
+Damit Finder alle versteckten Dateien und Ordner anzeigt, gibt man über das Terminal den folgenden Befehl ein.
+
+-----
+$ defaults write com.apple.finder AppleShowAllFiles TRUE
+-----
+
+Danach muss man den Finder neu starten, damit die Änderungen aktiv
+werden:
+
+-----
+$ killall Finder
+-----
+
+Um den Vorgang rückgängig zu machen, nutzt man den folgenden Befehl und
+startet erneut den Finder von vorne mit `killall Finder`.
+
+-----
+$ defaults write com.apple.finder AppleShowAllFiles FALSE
+-----
+
+
+
+== Schnellstart: Arbeiten mit dem Terminal am Mac
+large
+:icons: font
+
+[.lead]
+So startest Du blitzschnell mit dem (Mac) Terminal durch. Dazu nutzt Du am Besten Spotlight und tippst…
+
+
+== Terminal Schnellstart
+
+Das Terminal-Programm findet man auf dem Mac unter menu:Programme[Dienstprogramme > Terminal].
+
+Der schnellste Weg das Terminal zu starten ist Spotlight footnote:[http://support.apple.com/kb/HT2531?viewlocale=de_DE&locale=de_DE]. Um das Terminal mit Spotlight zu öffnen, drückst Du die Tastenkombination kbd:[CMD + Space] und tippst anschließend die Anfangsbuchstaben kbd:[ter] ein und Spotlight bietet dir an das Terminal mittels der kbd:[Eingabetaste] zu starten.
+
+Selbstverständlich kann man das Terminal über das Dock starten, indem man es einfach in das Dock zieht. Oder man nutzt einen kostenlosen Tastenkombinationmanager wie Spark footnote:[https://www.youtube.com/watch?v=SV4B3boVNmc] und legt eine individuelle Tastenkombination für das Terminal fest. Ich z.B. starte das Terminal einfach mit kbd:[ctrl + alt + cmd + t]. Schneller geht es nicht.
+
+== Sonderzeichen eingeben
+
+Die Tilde, also `~`, gibt man mit der Tastenkombination Alt + n gefolgt von einmal anschließend Leertaste drücken.
+
+Das Backslash-Zeichen `\` erhalten Sie, wenn Sie kbd:[Umschalt + alt + 7] drücken.
+
+Die geschwungenen Klammern `{` und `}` liegen auf den normalen Klammern. Über die Tastatur geben Sie diese mit kbd:[alt + 8] oder kbd:[alt + 9] ein.

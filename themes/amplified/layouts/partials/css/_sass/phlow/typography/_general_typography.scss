@@ -1,0 +1,285 @@
+/* Inhaltsverzeichnis
+--------------------------------------------------------------------
+
+- Headlines
+- Customize Typography
+- Images
+- Tables
+- Code
+- Lists
+- Quotes
+- Small & Lines
+
+*/
+
+
+/* Headlines
+----------------------------------------------------------------- */
+
+h1 {
+  font-family: $header-font-family-h1;
+  font-weight: bold;
+  color: $ci-1;
+  font-size: $h1;
+  letter-spacing: 1px;
+  padding: 0;
+  line-height: 1.3;
+  margin-top: 0;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
+  font-weight: $font-weight-normal;
+  color: $ci-1;
+  padding: 0;
+  line-height: 1.3;
+  margin: 1.5em 0 .5em 0;
+}
+
+h2 { font-size: $h2; }
+
+h3 { font-size: $h3; }
+
+h4 { font-size: $h4; }
+
+h5 { font-size: $h5; }
+
+h6 { font-size: $h6; }
+
+
+
+/* Customize Typography
+----------------------------------------------------------------- */
+
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  -ms-word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+}
+
+
+
+/* Images
+----------------------------------------------------------------- */
+
+img {
+  max-width: 100%;
+}
+
+figure {
+  margin: .5em 0 1em 0;
+}
+
+figcaption {
+  font-family: $font-family-sans;
+  color: $grey-color-light;
+  font-size: $font-size-small;
+  text-align: right;
+
+  a,
+  a:link,
+  a:visited {
+    color: $grey-color-light;
+    border-bottom: 1px dotted $grey-color-light;
+    box-shadow: inset 0 0 0 $grey-color-light;
+  }
+
+  a:hover {
+    border-bottom-style: solid !important;
+    box-shadow: inset 0 0 0 $grey-color-light !important;
+  }
+  strong:after {
+    content: ' // ';
+    font-weight: normal;
+  }
+}
+
+
+
+/* Tables
+----------------------------------------------------------------- */
+table {
+  margin: 1em 0;
+  font-family: $font-family-sans;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+caption {
+  font-family: $font-family-mono;
+}
+
+table thead, table tbody, table tfoot {
+  border-top: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-light;
+  line-height: 2em;
+}
+
+td {
+  font-size: $font-size-small;
+  vertical-align: top;
+  padding: .25em;
+}
+
+tr:nth-child(even) {
+  background: $background-light-color;
+}
+
+tr:nth-child(odd) {
+  background: $background-color;
+}
+
+tr:hover {
+  background: $grey-color-light;
+}
+
+tfoot {
+  border-top: 1px solid $grey-color-light;
+  font-family: $font-family-mono;
+}
+
+/* Code
+----------------------------------------------------------------- */
+
+pre {
+  border-left: 3px solid $ci-1;
+  font-size: 1em;
+  font-family: $font-family-mono;
+  font-weight: normal;
+  overflow: auto;
+  padding: 0 0 0 .5em;
+  border-radius: $global-radius;
+}
+
+pre code {
+  border: 0;
+}
+
+code {
+  font-family: $font-family-mono;
+  line-height: 1.5;
+}
+
+p code {
+  background: $ci-2;
+  box-decoration-break: clone;
+  padding: 0 .25em;
+}
+
+
+
+/* Lists
+----------------------------------------------------------------- */
+
+ul, ol {
+  margin-left: 0em;
+  padding: 0;
+}
+
+ul ul, ol ol {
+  margin-left: 1.25em;
+  padding: 0;
+}
+
+li {
+  margin-left: 0;
+}
+
+li {
+  > ul,
+  > ol {
+   margin-bottom: 0;
+ }
+}
+
+dl {}
+
+dt:first-child {
+  padding-top: 0px;
+}
+
+dt {
+  font-weight: bold;
+  padding-top: 1.25em;
+}
+
+dd {
+  margin-left: 1.5em;
+}
+
+article dl dt   { line-height: 1.3; }
+article dl dd   { line-height: 1.6; margin-bottom: rem-calc(12); margin-left: rem-calc(24); }
+
+
+
+/* Quotes
+----------------------------------------------------------------- */
+
+blockquote {
+  margin: 2em;
+  color: $grey-color-dark;
+  font-family: $font-family-serif;
+  font-style: italic;
+  p {
+    font-family: $font-family-serif;
+    font-style: italic;
+  }
+  a {
+    color: $grey-color-dark !important;
+    border-color: $grey-color-dark !important;
+  }
+  cite:before {
+    content:"\2014 \0020";
+    margin-left: .25em;
+  }
+}
+cite {
+  padding-top: 5px;
+}
+.frontpage blockquote {
+  margin: 0;
+}
+
+button, .button {
+  letter-spacing: 1px;
+}
+
+mark {
+  background-color: mix(#ff0, $warning-color, 35%);
+  box-decoration-break: clone;
+  padding: 0 .25em;
+}
+kbd {
+  background: $grey-color-light-light;
+  color: $grey-color;
+  border-radius: $global-radius;
+  padding:0 0.25em;
+}
+
+sub,
+sup {
+  font-family: $font-family-sans;
+}
+
+/* Small & Lines
+----------------------------------------------------------------- */
+
+.small {
+  font-size: $font-size-small;
+  line-height: 1.3;
+}
+
+hr {
+  border: 0;
+  border-top: solid 1px  $line-color;
+}
+
+// The ::selection CSS pseudo-element applies rules to the portion of
+// a document that has been highlighted by the user.
+::selection {
+  background: $ci-2;
+}

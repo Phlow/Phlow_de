@@ -1,0 +1,38 @@
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit; }
+
+html {
+  overflow: -moz-scrollbars-vertical;
+  overflow-y: scroll;
+}
+
+html,
+body {
+  box-sizing: border-box; // IMPORTANT FOR FOUNDATION GRID
+  height: 100%;
+  background-color: $background-color;
+}
+
+/* Body
+------------------------------------------------------------------- */
+
+body {
+    background-color: $background-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    color: $text-color;
+    -webkit-text-size-adjust: 100%;
+    // http://blog.typekit.com/2014/02/05/kerning-on-the-web/
+    text-rendering: optimizeLegibility;
+    // http://practice.typekit.com/lesson/caring-about-opentype-features/
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures, contextual;
+    -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+    -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+    -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+    font-feature-settings: "kern", "liga", "clig", "calt";
+}

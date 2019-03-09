@@ -14,7 +14,7 @@ image:
 date: "2019-03-06"
 ---
 Lernen Sie Videos zu konzipieren, zu produzieren und im Video-Schnitt perfekt für YouTube-Zuschauer in Szene zu setzen.
-<!--more-->
+<!-- readmore -->
 
 Die Produktion und Verbreitung von YouTube-Videos ist einfach, preiswert und ein unschlagbares
 Marketing-Werkzeug für PR im Social. Alles was Sie benötigen, ist eine Idee für das Video, ein Smartphone oder eine moderne Kamera und einen Computer zum Schneiden.

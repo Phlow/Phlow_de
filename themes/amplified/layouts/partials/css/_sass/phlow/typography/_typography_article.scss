@@ -1,0 +1,20 @@
+/* Typography for Articles
+------------------------------------------------------------------- */
+
+.subtitle {
+  text-transform: uppercase;
+  font-weight: 100;
+  color: $grey-color;
+}
+
+.lead {
+  font-size: $h6;
+}
+
+article p {
+  margin-bottom: 1em;
+}
+
+article img {
+  border-radius: $global-radius;
+}

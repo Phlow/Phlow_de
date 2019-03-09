@@ -1,0 +1,67 @@
+/* Variables
+------------------------------------------------------------------- */
+
+
+/* Alternative Fonts
+   Import your favorite font and change the font families beneath
+------------------------------------------------------------------- */
+
+/* Font Families */
+
+$font-family-serif:         Georgia, "Times New Roman", serif;
+$font-family-sans:    "Open Sans", "Neue Helvetica", Arial, serif;
+$base-font-family:          "Open Sans", "Times New Roman", serif;
+$font-family-mono:     "Inconsolata", "Courier New", Monaco, monospace;
+$header-font-family:        "Inconsolata", "Open Sans", "Neue Helvetica", Arial, serif;
+$header-font-family-h1:     $header-font-family;
+$drop-cap-family:           $font-family-mono;
+
+
+
+/* Font Sizes
+   http://www.modularscale.com/?1&em&1.125&web&table
+------------------------------------------------------------------- */
+
+$base-font-size:                    16px;
+$base-font-size-medium-screen:      18px;
+$base-font-size-large-screen:       20px;
+$font-size-p:                        1em;
+$h1:                       2.281em;
+$h2:                       1.802em;
+$h3:                       1.602em;
+$h4:                       1.424em;
+$h5:                       1.266em;
+$h6:                       1.125em;
+$font-size-small:                    .85em;
+
+
+
+/* Line-height */
+$base-line-height: 1.65;
+
+
+/* Font Weight */
+$base-font-weight: normal;
+$font-weight-normal: normal;
+$font-weight-bold: bold;
+
+
+/* Body
+------------------------------------------------------------------- */
+
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    color: $text-color;
+    -webkit-text-size-adjust: 100%;
+    // http://blog.typekit.com/2014/02/05/kerning-on-the-web/
+    text-rendering: optimizeLegibility;
+    // http://practice.typekit.com/lesson/caring-about-opentype-features/
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures, contextual;
+    -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+    -ms-font-feature-settings: "kern", "liga", "clig", "alt";
+    -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+    font-feature-settings: "kern", "liga", "clig", "calt";
+}

@@ -1,0 +1,4 @@
+---
+layout 				: build
+permalink 			: /adoc/
+---

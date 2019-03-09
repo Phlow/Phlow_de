@@ -1,0 +1,16 @@
+---
+permalink           : /autor/
+categories          : [Anhang]
+---
+= Über den Autor Moritz »mo.« Sauer
+
+image::../images/moritz-mo-sauer.jpg[Moritz »mo.« Sauer]
+
+*Moritz »mo.« Sauer* ist
+http://moritz.sauer.io/biografie/#journalismus[Journalist], http://moritz.sauer.io/seminare/[Dozent], http://moritz.sauer.io/buecher/[Buchautor] und http://moritz.sauer.io/webdesign/[Webdesigner]. Als versierter Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, (Online) Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.
+
+http://moritz.sauer.io/biografie[http://moritz.sauer.io]:: Die persönliche Website von »mo.« verschafft Dir einen Überblick über Moritz Bücher, Seminare, Projekte, seinen Werdegang und bietet ein paar DJ-Mixe und ein wenig Musik.
+http://magazin.phlow.de/[http://magazin.phlow.de/]:: Das Phlow Magazin bietet Anleitungen und Informationen rund um die Themen Journalismus, Webdesign, Social Media.
+http://www.youtube.com/c/Phlow[www.youtube.com/c/Phlow]:: Im Phlow-Kanal auf YouTube findest Du zahlreiche Video-Tutorials zum Thema Webdesign, Produktivität und Social Media.
+http://twitter.com/phlow[www.twitter.com/phlow]:: Aktuelle Links zu lesenswerten Artikeln, witzige Links, ein wenig Musik und Persönliches twittert »mo.« bei Twitter.
+https://github.com/phlow[www.github.com/phlow]:: Auf GitHub pflegt »mo.« seine Open Source Projekte, wie z.B. das erfolgreiche kostenlose Theme link:http://phlow.github.io/feeling-responsive/[Feeling Responsive]  für den Static Website Generator Jekyll.

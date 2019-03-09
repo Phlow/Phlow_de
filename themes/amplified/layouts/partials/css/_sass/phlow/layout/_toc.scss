@@ -1,0 +1,128 @@
+/* TOC Styles
+-----------------------------------------------------------------
+
+- .toc is a special table of content for a book style toc with
+  numbering
+- .toc-article is a table of content used in posts through
+  _include/toc
+
+ */
+
+
+.toc ol {
+  // margin: 0;
+  list-style-type:decimal-leading-zero;
+  margin-left: 2em;
+}
+.toc ol ol {
+  margin-left: -1.75em;
+  padding: 0 0 1em 0;
+}
+.toc ol ol ol {
+  margin-left: 1.75em;
+  padding: 0;
+}
+.toc li {
+  font-weight: bold;
+}
+.toc li li {
+  font-weight: normal;
+  list-style: none;
+  padding-left: 0;
+}
+.toc li li::before {
+  content: "\2014\00a0\00a0\00a0";    // em dash \2014   en dash \2013   space \00a0
+}
+
+.toc-article  {
+  font-family: $header-font-family;
+  padding: .5em 0 .5em 0;
+  border-top: 1px solid $line-color;
+  border-bottom: 1px solid $line-color;
+}
+
+.toc-article p {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.toc-article ul {
+  list-style: none;
+  margin-top: 0;
+}
+
+
+// Remove margin only on frontpage - toc
+.first-h2 {
+  margin: 0;
+}
+ul.toc-list,
+ul.toc-list ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: $header-font-family;
+}
+
+ul.toc-list li  {
+  border-top: 1px solid $line-color;
+  line-height: 1.85em;
+}
+
+body.archive ul.toc-list li:nth-child(5n) {
+  margin-bottom: 2em;
+  border-bottom: 1px solid $line-color;
+}
+
+ul.toc-list li:last-child  {
+  border-bottom: 1px solid $line-color;
+}
+
+ul.toc-list li li:last-child  {
+  border-bottom: 0;
+}
+
+// If there is a link to the article archive, don't
+// show border bottom and instead a border on top
+ul.toc-list li.archive-link  {
+  border: 0;
+  border-top: 1px solid $line-color;
+}
+
+ul.toc-list li a {
+  border: 0;
+  display: block;
+  -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
+  transition: all .15s cubic-bezier(.33,.66,.66,1);
+  box-shadow: inset 0 0 0 transparent;
+}
+
+ul.toc-list li a span {
+  color: $grey-color;
+  display: none;
+  padding-right: .5em;
+}
+
+ul.toc-list li a:hover span {
+  display: inline;
+}
+
+ul.toc-list li:hover a {
+  padding-left: 1em;
+}
+
+ul.toc-list li {
+ -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
+ transition: all .15s cubic-bezier(.33,.66,.66,1);
+}
+
+ul.toc-list li:hover a {
+  padding-left: .5em;
+  background: $background-light-color;
+}
+
+ul.toc-list li li:hover a {
+  background: mix(#000, $background-light-color, 10%);
+  padding-left: .25em;
+}

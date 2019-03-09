@@ -19,7 +19,7 @@ image:
 date: "2019-03-06"
 ---
 Nach diesem Workshop besitzen Sie eine eigene Website, die Sie selbst betreuen und mit Inhalten füllen können. Dabei unterteilt sich der Workshop in zwei Phasen: eine Vorbereitungs- und eine Umsetzungsphase. Während Sie im ersten Schritt ein Konzept und eine Strategie für Ihre Internet-Präsenz entwickeln, setzen Sie im zweiten Schritt das Projekt gezielt um.
-<!--more-->
+<!-- readmore -->
 
 Damit Sie genügend Zeit haben sämtliche Materialien für die Umsetzung zusammenzustellen und vorzubereiten, findet der Workshop an zwei auseinanderliegenden Terminen statt.
 

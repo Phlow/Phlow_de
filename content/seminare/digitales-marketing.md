@@ -10,7 +10,7 @@ image:
 date: "2019-03-06"
 ---
 Der Workshop zeigt, wie man Suchmaschinen, soziale Medien (Social Media), Blogs, Automatisierung, RSS, Syndizierung und Aggregation sowie Communities für die eigene Selbstvermarktung nutzt.
-<!--more-->
+<!-- readmore -->
 
 Das Internet bietet jedem ein einfaches und preiswertes Promotion-Schaufenster für die Selbstvermarktung. Mit Hilfe von Blogs, Communities und einer eigenen Website präsentiert man sich weltweit.
 

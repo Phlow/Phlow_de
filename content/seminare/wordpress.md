@@ -16,7 +16,7 @@ image:
 date: "2019-03-06"
 ---
 Lernen Sie den Umgang mit WordPress. Ob Installation, Konfiguration, Optimierung oder die perfekte Gestaltung, wir zeigen Ihnen in unseren Kursen, wie Sie eine Website optimal nach Ihren Wünschen erstellen und in die Google-Top-10 bringen.
-<!--more-->
+<!-- readmore -->
 
 ## Seminar Teil 1    {#seminar-teil-1}
 

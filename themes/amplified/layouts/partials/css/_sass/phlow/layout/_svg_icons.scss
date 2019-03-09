@@ -1,0 +1,59 @@
+.svg-icon {
+  height: 2em;
+  width: 4em;
+  display: inline-block;
+}
+
+.svg-icon-32 svg {
+  height: 1.5em;
+  width: 1.5em;
+}
+
+.svg-icon-64 svg {
+  height: 2em;
+  width: 2em;
+}
+
+.svg-icon-ci-1 svg {
+    fill: $ci-1;
+}
+
+.svg-icon-grey svg {
+    fill: $grey-color;
+}
+
+a.svg-icon {
+    border: 0;
+    box-shadow: inset 0 0 0 $ci-1;
+}
+
+a:hover.svg-icon {
+    background: transparent;
+}
+
+a:hover.svg-icon svg {
+    fill: $ci-1;
+}
+
+.social-media-icon,
+.social-media-icon:link,
+.social-media-icon:hover,
+.social-media-icon:visited,
+.social-media-icon:active,
+{
+	border: 0;
+}
+.social-media-icon svg {
+  margin-bottom: -.35em;
+  height: 1.5em;
+  width: 1.5em;
+  fill: $grey-color;
+  transition: all .15s cubic-bezier(.33,.66,.66,1);
+}
+.social-media-icon:hover svg {
+ fill: $ci-1;
+}
+#footer ul.inline-list li.social-media-icon:before {
+  content: '';
+  padding: 0;
+}

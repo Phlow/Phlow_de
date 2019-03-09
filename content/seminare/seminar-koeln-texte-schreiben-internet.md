@@ -12,7 +12,7 @@ image:
 date: "2019-03-06"
 ---
 Gute lesbare Texte bilden die wichtigste Basis einer Website. Dieser Workshop zeigt, wie man Texte für Leser und Suchmaschinen optimal aufbereitet.
-<!--more-->
+<!-- readmore -->
 
 Ein exzellenter, strukturierter und lesbarer Texte bildet die wichtigste Basis einer Website. Sie müssen gleichermaßen Leser als auch Suchmaschinen ansprechen. Sie müssen kurz, prägnant und mit den richtigen Schlagworten versehen sein. Sie müssen strukturiert und attraktiv aufgemacht werden. In diesem Workshop lernen Sie, was einen guten für das Internet optimierten Text ausmacht.
 

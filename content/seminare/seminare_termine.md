@@ -10,6 +10,6 @@ meta_description:   "Suchen Sie sich einen passenden Termin für unsere kommende
 url                       : /seminare/termine/
 ---
 Unsere Termine für Workshops, Seminare und Weiterbildungen. Klicken Sie auf den jeweiligen Seminartitel für mehr Informationen.
-<!--more-->
+<!-- readmore -->
 
 {{< seminar-termine short long  >}}

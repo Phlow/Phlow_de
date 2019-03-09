@@ -1,0 +1,20 @@
+/* Full Width Background Image
+------------------------------------------------------------------- */
+
+#full-width-background-image {
+  background-size: cover;
+  min-height: 100%;
+  background-position: center;
+}
+
+#full-width-background-image-arrow {
+  position: absolute;
+  bottom: 1em;
+  left: 50%;
+}
+
+#full-width-background-image-arrow svg {
+  fill: $ci-1;
+  border-radius: 50%;
+  background: $background-color;
+}

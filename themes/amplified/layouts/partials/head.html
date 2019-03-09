@@ -14,16 +14,19 @@
 
 {{ partial "amp/boilerplate.html" . }}
 
-
 <script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
 <script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async=""></script>
 
 <style amp-custom="">
-  {{ partial "css/normalize.css" . | safeCSS }}
-  {{ partial "css/bassplate.css" . | safeCSS }}
-  {{ partial "css/amp-navigation.css" . | safeCSS }}
-  {{ partial "css/phlow.css" . | safeCSS }}
+  {{ partial "css/hugo_supa_styles.css" . | safeCSS }}
 </style>
+
+{{ if .RSSLink }}
+<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ end }}
+
+{{ partial "helper/favicon.html" . }}
 
 </head>
 <body>

@@ -1,0 +1,77 @@
+/* Panel
+------------------------------------------------------------------
+
+- border
+- Colors
+- CSS-Classes to add margin at top or bottom
+- banner
+
+*/
+
+
+.border-dotted { border: 1px dotted $line-color; }
+.border-solid  { border: 1px solid $line-color; }
+.round         { border-radius: 50% }
+.radius        { border-radius: $global-radius; }
+
+/* Colors
+------------------------------------------------------------------- */
+
+.ci-1 { color: $ci-1; }
+.ci-2 { color: $ci-2; }
+.ci-3 { color: $ci-3; }
+.ci-4 { color: $ci-4; }
+
+.ci-1-bg { background: $ci-1; }
+.ci-2-bg { background: $ci-2; }
+.ci-3-bg { background: $ci-3; }
+.ci-4-bg { background: $ci-4; }
+
+.alert-color { color: $alert-color; }
+.success-color { color: $success-color; }
+.warning-color { color: $warning-color; }
+.info-color { color: $info-color; }
+
+.alert-color-bg { background: $alert-color; }
+.success-color-bg { background: $success-color; }
+.warning-color-bg { background: $warning-color; }
+.info-color-bg { background: $info-color; }
+
+
+.grey { color: $grey-color; }
+.grey-light { color: $grey-color-light; }
+.grey-dark { color: $grey-color-dark; }
+
+
+
+
+/* Banner
+------------------------------------------------------------------- */
+
+.banner {
+  background: $ci-1;
+}
+
+.banner p,
+.banner h1,
+.banner h2 {
+  color: #fff;
+}
+
+.banner a {
+  color: $ci-2;
+}
+
+.banner a.button {
+  color: #fff;
+  background: $ci-3;
+  box-shadow: 0 3px mix(#000, $ci-3, 15%);
+}
+.banner a.button:hover {
+  background: lighten( $ci-3, 5% ) !important;
+  box-shadow: 0 3px lighten( $ci-3, 15% ) !important;
+}
+
+.banner a.button {
+  background: $ci-3;
+}

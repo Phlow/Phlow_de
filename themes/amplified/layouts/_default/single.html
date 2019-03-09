@@ -1,18 +1,37 @@
 {{ define "main" }}
 
 <!-- wrapper --><div>
-  <div class="px4 lg-px4">
+  <div class="px3 lg-px4">
 
     <div class="max-width-2 mx-auto">
-      <div class="clearfix mxn2">
-          <h1>
-          <small>{{ .Page.Params.Subheadline }}</small><br>
-          {{ .Title }}
-          </h1>
+      <article class="clearfix mxn2">
+        <header>
+          <p class="sans caps mt2 mb0">{{ .Page.Params.Subheadline }}</p>
+          <h1>{{ .Title }}</h1>
+        </header>
+          {{ if in .RawContent "<!-- readmore -->" }}
+            {{ $parts := split .RawContent "<!-- readmore -->" }}
+            {{ $summary := index $parts 0 }}
+            {{ $summaryHTML := safeHTML $summary }}
+
+            {{ $summaryHTML := replace $summaryHTML "<p>" "" }}
+            {{ $summaryHTML := replace $summaryHTML "</p>" "" }}
+
+            {{ $content := index $parts 1 }}
+            {{ $contentHTML := safeHTML $content }}
+
+            {{ if eq $summaryHTML .Content }}
+                {{ .Content }}
+            {{ else }}
+                <p class="h6">{{ $summaryHTML }}</p>
+                {{ $contentHTML | markdownify }}
+            {{ end }}
+          {{ else }}
 
           {{ .Content }}
+          {{ end}}
 
-      </div><!-- /clearfix -->
+      </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->
 
 

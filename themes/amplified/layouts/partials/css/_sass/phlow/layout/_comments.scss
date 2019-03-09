@@ -1,0 +1,31 @@
+/* Inhaltsverzeichnis
+--------------------------------------------------------------------
+
+- Comments
+
+*/
+.comment {
+  padding: 0 0 .1em .75em;
+  font-size: $font-size-small;
+  font-family: $font-family-sans;
+  border-radius: .25em;
+  background: mix(#fff, $grey-color-light,50%);
+  position: relative;
+}
+.comment:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 14%;
+	width: 0;
+	height: 0;
+  border: 1.125em solid transparent;
+	border-top-color: mix(#fff, $grey-color-light,50%);
+	border-bottom: 0;
+	border-left: 0;
+  margin-left: -0.562em;
+	margin-bottom: -1.125em;
+}
+.comment-meta {
+  margin: 1.25em 0 2em .1em;
+}

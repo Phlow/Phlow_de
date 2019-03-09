@@ -1,0 +1,84 @@
+/* Inhaltsverzeichnis
+--------------------------------------------------------------------
+
+- Font Sizes
+- Colors
+- Shadows
+- Drop Capitals
+- Pull-Quotes
+
+*/
+
+/* Font Sizes
+------------------------------------------------------------------- */
+
+.sans           { font-family: $font-family-sans; }
+.serif          { font-family: $font-family-serif; }
+.monospace      { font-family: $font-family-mono; }
+
+.h1   { font-size: $h1; }
+.h2   { font-size: $h2; }
+.h3   { font-size: $h3; }
+.h4   { font-size: $h4; }
+.h5   { font-size: $h5; }
+.h6   { font-size: $h6; }
+.font-size-p    { font-size: $font-size-p; }
+
+
+
+/* Colors
+------------------------------------------------------------------- */
+.alert { color: $alert-color; }
+.success { color: $success-color; }
+.warning { color: $warning-color; }
+.info { color: $info-color; }
+
+
+
+/* Shadows
+------------------------------------------------------------------- */
+
+.shadow-no      {text-shadow: rgba(0, 0, 0, 0) 0 0 0;}
+.shadow-black   {text-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 2px;}
+.shadow-white   {text-shadow: rgba(255, 255, 255, 0.498039) 0px 1px 2px;}
+
+
+
+/* Drop Capitals
+
+   A “Drop Cap” is the art of using an uppercase glyph to mark the
+   start of copy. A technique that has been around for almost
+   two thousand years!
+
+------------------------------------------------------------------- */
+
+.drop-cap:first-letter {
+  float: left;
+  font-size: 4em;
+  font-family: $base-font-family;
+  text-indent: 0;
+  margin: 10px 10px 0 0;
+  padding: 0 20px;
+  line-height: 1;
+}
+
+
+
+/* Pull-Quotes
+
+   A pull quote is a key phrase, quotation, or excerpt that has been
+   pulled from an article and used as a graphic element, serving to
+   entice readers into the article or to highlight a key topic.
+
+------------------------------------------------------------------- */
+
+.pull-quote {
+  position: relative;
+  padding: .5em;
+  float: right;
+  width: 50%;
+}
+
+.pull-quote p {
+  font-size: 1.25em;
+}
