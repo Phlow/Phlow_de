@@ -1,6 +1,6 @@
 ---
 title: "diff: Inhalte von Dateien und Ordnern vergleichen"
-categories : \[Ordner und Dateien\]
+categories : "Ordner und Dateien"
 description : 'Will man Dateien in
 einem Ordner samt Unterordner mit einem anderen Ordner vergleichen,
 hilft der Befehl diff. Auch fehlende Bilddateien spürt man so auf.'

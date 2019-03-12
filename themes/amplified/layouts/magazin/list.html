@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<!-- wrapper --><div>
+  <div class="px4 lg-px4">
+
+    <h1>Magazin</h1>
+
+    <div class="max-width-2 mx-auto">
+      <article class="clearfix mxn2">
+          <h1>
+          <small>{{ .Page.Params.Subheadline }}</small><br>
+          {{ .Title }}
+          </h1>
+
+          {{ .Content }}
+
+          <ul>
+            {{ range .Pages }}
+                <li>
+                  <a href="{{.Permalink}}">{{.Title}}</a>
+                </li>
+            {{ end }}
+          </ul>
+
+      </article><!-- /clearfix -->
+    </div><!-- /max-width-2 -->
+
+
+  </div><!-- /padding -->
+</div><!-- /wrapper -->
+{{ end }}

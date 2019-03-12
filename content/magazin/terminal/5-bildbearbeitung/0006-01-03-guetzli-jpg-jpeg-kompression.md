@@ -1,6 +1,6 @@
 ---
 title: "guetzli: JPG/JPEG-Bilder schrumpfen auf ein Drittel"
-categories : \[Bildbearbeitung\]
+categories : "Bildbearbeitung"
 description : 'Mit der Open
 Source-Software Guetzli komprimierst Du JPG-Bilddateien. Guetzli
 komprimiert die Bilder zwar verlustbehaftet, aber Du siehst es nicht.'

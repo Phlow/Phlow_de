@@ -1,7 +1,6 @@
 ---
 title : "Zufällige Passwörter über das Terminal erstellen"
-categories :
-\[Produktivität und Terminal anpassen\]
+categories : "Produktivität und Terminal anpassen"
 description : 'Zufällige
 Passwörter erzeugst Du mit dem vorinstallierten Befehl `openssl`. Noch
 bessere Passwörter mit Sonderzeichen erlaubt Dir `pwgen`.'

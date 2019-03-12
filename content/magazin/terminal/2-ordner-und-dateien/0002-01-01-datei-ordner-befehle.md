@@ -1,6 +1,6 @@
 ---
-title:  Navigieren im Terminal:
-categories : \[Ordner und Dateien\]
+title:  Navigieren im Terminal
+categories : "Ordner und Dateien"
 description : 'Dieses Kapitel
 erklärt Dir wichtige Begriffe und Konzepte des Terminals und zeigt Dir,
 wie Du mit Dateien und Ordnern umgehst.'

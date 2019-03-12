@@ -1,6 +1,6 @@
 ---
 title:  Literatur
-categories : \[Anhang\]
+categories : "Anhang"
 permalink : /literatur/
 ---
 

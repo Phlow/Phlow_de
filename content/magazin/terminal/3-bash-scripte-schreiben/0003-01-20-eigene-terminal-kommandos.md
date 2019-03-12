@@ -1,6 +1,6 @@
 ---
 title: Eigene Terminal Kommandos
-categories : \[Bash Scripte schreiben\]
+categories : "Bash Scripte schreiben"
 description : 'Dieses Kapitel
 erklärt Dir, wie Du eigene Terminal-Kommandos erstellst und über Dein
 eigenes `.bash_profile` zu jeder Zeit aufrufbar machst.'

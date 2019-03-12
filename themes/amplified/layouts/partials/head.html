@@ -16,7 +16,12 @@
 <script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async=""></script>
 
 <style amp-custom="">
-  {{ partial "css/hugo_supa_styles.css" . | safeCSS }}
+  {{ if eq .Page.Section "seminare" }}
+  {{ partial "css/phlow_seminare_styles.css" . | safeCSS }}
+  {{ else if eq .Page.Section "magazin" }}
+  {{ else }}
+  {{ partial "css/phlow_styles.css" . | safeCSS }}
+  {{ end }}
 </style>
 
 {{ if .RSSLink }}

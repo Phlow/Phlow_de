@@ -1,6 +1,6 @@
 ---
 title:  WordPress per ssh installieren
-categories : \[Dateien Upload und Download\]
+categories : "Dateien Upload und Download"
 description : 'Per Terminal
 installierst Du WordPress mit einem kleinen Script in weniger als einer
 Minute. Bedingung: Du musst Dich auf Deinem Server per ssh einloggen

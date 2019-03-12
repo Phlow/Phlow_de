@@ -1,9 +1,7 @@
 ---
-title:  Konvertierung: Von Asciidoc zu PDF
-categories : \[Dateien konvertieren\]
-description : 'Tipps um aus
-Asciidoc ein perfektes PDF mit eigenem Design, Cover, Schriften und
-Vorlage zu erstellen.'
+title: "Konvertierung: Von Asciidoc zu PDF"
+categories : "Dateien konvertieren"
+description : 'Tipps um aus Asciidoc ein perfektes PDF mit eigenem Design, Cover, Schriften und Vorlage zu erstellen.'
 ---
 Als Web-Entickler schreibt man oft auch Dokumentationen oder
 veröffentlicht wie ich eigene Fachbücher. Asciidoc eignet sich für

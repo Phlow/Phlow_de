@@ -1,6 +1,6 @@
 ---
 title:  Versteckte Ordner & Dateien mit Finder anzeigen
-categories : \[Mac einstellen per Terminal\]
+categories : "Mac einstellen per Terminal"
 ---
 Über das Terminal kannst Du zahlreiche Einstellungen Deines Macs
 justieren. Dieser Tipp zeigt, wie Du Deinem Finder befiehlst versteckte

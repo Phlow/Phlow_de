@@ -1,6 +1,6 @@
 ---
 title : "Schneller mit dem Terminal arbeiten"
-categories : \[Produktivität und Terminal anpassen\]
+categories : "Produktivität und Terminal anpassen"
 ---
 Dieses Kapitel hilft Dir schneller mit dem Terminal zu arbeiten. Du lernst, wie Du bereits eingebene Befehle schnell wiederfindest, wie Du im Terminal den
 Cursor schneller positionierst und wie Du Befehle automatisch vervollständigst.

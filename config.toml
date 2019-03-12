@@ -1,7 +1,7 @@
 baseURL                     = "http://media.phlow.de/test/"
 languageCode                = "de-DE"
 defaultContentLanguage      = "de"
-title                       = "Phlow Seminare"
+title                       = "Phlow"
 theme                       = "amplified"
 copyright                   = "Alle Rechte vorbehalten"
 
@@ -32,7 +32,7 @@ quality = 80
     publisher             = "Phlow"
 
 [permalinks]
-  seminare = "/:title/"
+  seminare = "/:sections/:filename/"
 
 [taxonomies]
   tag = "tags"

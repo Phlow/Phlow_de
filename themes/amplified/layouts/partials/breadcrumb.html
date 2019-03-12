@@ -1,17 +1,19 @@
-    {{ if .IsHome }}
-    {{ else }}
+{{ define "breadcrumb" }}
+  {{ if .p1.Parent }}
+  {{ template "breadcrumb" (dict "p1" .p1.Parent "p2" .p2 )  }}
+  {{ else if not .p1.IsHome }}
+  {{ template "breadcrumb" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+  {{ end }}
+  <li class="inline-block{{ if eq .p1 .p2 }} active{{ end }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a href="{{ .p1.Permalink }}">{{ if eq .p1.Title "Bildung ist unser Produkt!" }}Start{{ else }}{{ .p1.Title }}{{ end }}</a> /
+  </li>
+{{ end }}
+
+{{ if .IsHome }}
+{{ else }}
 <div id="breadcrumb" class="px1 border-bottom">
-  <ol class="list-reset sans" itemscope itemtype="http://schema.org/BreadcrumbList">
-      <li class="inline-block" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Start</span></a><span class="mx1" itemprop="position" content="1">/</span>
-    </li>
-
-      {{ range (split .URL "/") }}
-          {{ if gt (len . ) 0 }}
-            <li class="inline-block" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/{{ . }}"><span itemprop="name">{{ humanize . }}</span></a><span class="mx1" itemprop="position" content="2">/</span></li>
-          {{ end }}
-      {{ end }}
-  </ol>
+<ol class="list-reset sans" itemscope itemtype="http://schema.org/BreadcrumbList">
+  {{ template "breadcrumb" (dict "p1" . "p2" .) }}
+</ol>
 </div>
-
-
-    {{ end }}
+{{ end }}

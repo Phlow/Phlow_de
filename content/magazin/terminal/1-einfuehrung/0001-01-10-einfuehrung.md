@@ -1,6 +1,6 @@
 ---
 title:  Shell? Bash? Terminal? Kommandozeile? – Eine Einführung
-categories : \[Einführung\]
+categories : "Einführung"
 description : 'Ein Grund warum viele erst
 einmal einen Bogen vor dem Terminal machen, ist die Verwirrung um
 Begriffe und das komische Kauderwelsch der »Experten«.'

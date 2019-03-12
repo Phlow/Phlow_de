@@ -1,6 +1,6 @@
 ---
-title:  Terminal: Dateien öffnen
-categories : \[Ordner und Dateien\]
+title:  "Terminal: Dateien öffnen"
+categories : "Ordner und Dateien"
 description : 'Mit dem Kommando open
 öffnet man Dateien direkt über das Terminal in der dazugehörigen
 Anwendung. So funktioniert das Kommando:'

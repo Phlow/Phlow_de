@@ -1,6 +1,6 @@
 ---
 title: Dateien finden mit dem Terminal
-categories : \[Ordner und Dateien\]
+categories : "Ordner und Dateien"
 description : 'Die Terminal Suche mit find ist ein mächtiges Werkzeug. Mit find findest Du nicht nur Dateien, sondern kannst Sie auch z.B. löschen oder verschieben.'
 ---
 

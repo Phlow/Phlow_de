@@ -1,6 +1,6 @@
 ---
 title: "Stapelverarbeitung: Die Magie der Bash/Shell-Skripte"
-categories : \[Bash Scripte schreiben\]
+categories : "Bash Scripte schreiben"
 description : 'Soll das Terminal
 eine Kette von Befehlen nacheinander abarbeiten, nutzt man die Magie der
 **Bash-Datei** auch Shell-Script genannt.'

@@ -1,6 +1,6 @@
 ---
 title:  Starten und Arbeiten mit dem Terminal am Mac
-categories : \[Einführung\]
+categories : "Einführung"
 description : 'So startest Du blitzschnell
 mit dem (Mac) Terminal durch. Dazu nutzt Du am Besten Spotlight und
 tippst…'

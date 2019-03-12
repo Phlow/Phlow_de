@@ -1,6 +1,6 @@
 ---
 title: Bash-Scripte-Sammlung für Webdesigner
-categories : \[Bash Scripte schreiben\]
+categories : "Bash Scripte schreiben"
 description : 'Dieses Script
 benennt Dateien um, indem es das Entstehungsdatum der jeweiligen Datei
 nutzt und es mit einer Wunschzeichenkombination kombiniert.'
