@@ -68,8 +68,8 @@
   box-shadow: 0 3px mix(#000, $ci-3, 15%);
 }
 .banner a.button:hover {
-  background: lighten( $ci-3, 5% ) !important;
-  box-shadow: 0 3px lighten( $ci-3, 15% ) !important;
+  background: lighten( $ci-3, 5% );
+  box-shadow: 0 3px lighten( $ci-3, 15% );
 }
 
 .banner a.button {

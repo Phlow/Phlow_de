@@ -1,0 +1,28 @@
+{{/* How it works
+*
+*   https://www.talotics.com/post/blogging/hugo-seo-tips/
+*
+*   If this is not an index page then
+*      - if there is a canonical meta data defined then use that
+*      - otherwise use the permalink for the page
+*
+*/}}
+{{ if or (eq .Kind "home") (eq .Kind "page")}}
+{{ if isset .Params "canonical" }}
+<link rel="canonical" href="{{ .Params.Canonical}}" />
+{{ else }}
+<link rel="canonical" href="{{ .Permalink}}" />
+{{ end }}
+{{ end }}
+
+{{/* How it works
+*
+*   Exclude sections and taxonomy index pages from the site indexing
+*
+*/}}
+
+{{ if or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Type "categories")}}
+<meta name="robots" content="noindex, follow"/>
+{{ else }}
+<meta name="robots" content="index, follow"/>
+{{ end }}

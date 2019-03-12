@@ -11,6 +11,7 @@ categories        : seminare
 image:
   header                  : images/workshop-digitales-marketing-musiker.jpg
 date: "2019-03-06"
+url               : /marketing-musiker/
 ---
 Lernen Sie digitales Marketing und wie Sie sich als Musiker, Label oder Produzent erfolgreich im Internet vermarkten.
 <!-- readmore -->

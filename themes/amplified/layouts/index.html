@@ -2,19 +2,12 @@
 <!-- wrapper --><div>
   <!-- padding --><div class="px4 lg-px4">
 
-    <div class="max-width-4 mx-auto">
+    <div class="max-width-4 mt2 mx-auto">
       <div class="clearfix">
         <h1>{{ .Title }}</h1>
 
         {{ .Content }}
 
-          <ul>
-            {{ range .Pages }}
-                <li>
-                  <a href="{{.Permalink}}">{{.Title}}</a>
-                </li>
-            {{ end }}
-          </ul>
       </div><!-- /clearfix -->
 
 
@@ -23,8 +16,31 @@
 
           <h2>WordPress</h2>
 
-          <ul>
+          <ul class="toc-list">
             {{ range .Site.Taxonomies.tags.wordpress }}
+              <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+
+        <div class="sm-col sm-col-6 px2">
+
+          <h2>Social Media</h2>
+
+          <ul class="toc-list">
+            {{ range .Site.Taxonomies.tags.socialmedia }}
+              <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+
+
+        <div class="sm-col sm-col-6 px2">
+
+          <h2>Marketing</h2>
+
+          <ul class="toc-list">
+            {{ range .Site.Taxonomies.tags.marketing }}
               <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}
           </ul>
@@ -34,7 +50,7 @@
 
           <h2>Journalismus</h2>
 
-          <ul>
+          <ul class="toc-list">
             {{ range .Site.Taxonomies.tags.journalismus }}
                   <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}

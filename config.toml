@@ -18,6 +18,14 @@ canonifyURLs = true
   plainIDAnchors = true
   hrefTargetBlank = true
 
+[imaging]
+# Default resample filter used for resizing. Default is Box,
+# a simple and fast averaging filter appropriate for downscaling.
+# See https://github.com/disintegration/imaging
+resampleFilter = "box"
+
+# Default JPEG quality setting. Default is 75.
+quality = 80
 
 [author]
     name                  = "Moritz mo. Sauer"

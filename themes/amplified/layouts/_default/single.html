@@ -10,26 +10,32 @@
           <h1>{{ .Title }}</h1>
         </header>
           {{ if in .RawContent "<!-- readmore -->" }}
-            {{ $parts := split .RawContent "<!-- readmore -->" }}
-            {{ $summary := index $parts 0 }}
+            {{ $summary_part := split .RawContent "<!-- readmore -->" }}
+            {{ $summary := index $summary_part 0 }}
             {{ $summaryHTML := safeHTML $summary }}
-
             {{ $summaryHTML := replace $summaryHTML "<p>" "" }}
             {{ $summaryHTML := replace $summaryHTML "</p>" "" }}
 
-            {{ $content := index $parts 1 }}
+            {{ $summary_content := split .Content "<!-- readmore -->" }}
+            {{ $content := index $summary_content 1 }}
             {{ $contentHTML := safeHTML $content }}
 
             {{ if eq $summaryHTML .Content }}
                 {{ .Content }}
             {{ else }}
                 <p class="h6">{{ $summaryHTML }}</p>
-                {{ $contentHTML | markdownify }}
+                {{ $contentHTML }}
             {{ end }}
           {{ else }}
-
-          {{ .Content }}
+            {{ .Content }}
           {{ end}}
+
+{{ if eq .Page.Params.Categories "seminare" }}
+<a class="button" href="{{ "/seminare/programm/" | absURL }}">Seminartermin finden ›</a>
+{{ end }}
+
+
+
 
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->

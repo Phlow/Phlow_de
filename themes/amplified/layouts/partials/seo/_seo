@@ -1,5 +1,6 @@
 {{ partial "seo/seo_title.html" . }}
 {{ partial "seo/seo_description.html" . }}
+{{ partial "seo/canonical_and_robots.html" . }}
 {{ partial "seo/seo_facebook.html" . }}
 {{ partial "seo/seo_twitter.html" . }}
 {{ partial "seo/seo_pinterest.html" . }}

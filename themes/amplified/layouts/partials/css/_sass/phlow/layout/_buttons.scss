@@ -32,7 +32,7 @@ a.button:visited {
 .button:hover,
 a.button:hover {
   background: $grey-color-super-light;
-  box-shadow: 0 3px $grey-color-light-light !important;
+  box-shadow: 0 3px $grey-color-light-light;
 }
 
 .button:active {
@@ -46,69 +46,69 @@ a.button:hover {
 ----------------------------------------------------------------- */
 
 .button.noborder {
-  color: $text-color !important;
-  background: transparent !important;
-  box-shadow: 0 0 #fff !important;
-  border: 1px solid $grey-color-light !important;
+  color: $text-color;
+  background: transparent;
+  box-shadow: 0 0 #fff;
+  border: 1px solid $grey-color-light;
 }
 .button.noborder:hover {
-  background: rgba(0, 0, 0, .1) !important;
-  box-shadow: 0 0 $grey-color-light !important;
+  background: rgba(0, 0, 0, .1);
+  box-shadow: 0 0 $grey-color-light;
 }
 
 .button.alert {
-  color: #fff !important;
-  background: $alert-color !important;
-  box-shadow: 0 3px mix(#000, $alert-color, 20%) !important;
+  color: #fff;
+  background: $alert-color;
+  box-shadow: 0 3px mix(#000, $alert-color, 20%);
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
 .button.alert:hover {
-  background: lighten( $alert-color, 5% ) !important;
-  box-shadow: 0 3px lighten( $alert-color, 15% ) !important;
+  background: lighten( $alert-color, 5% );
+  box-shadow: 0 3px lighten( $alert-color, 15% );
 }
 
 .button.success {
-  color: #fff !important;
-  background: $success-color !important;
-  box-shadow: 0 3px mix(#000, $success-color, 20%) !important;
+  color: #fff;
+  background: $success-color;
+  box-shadow: 0 3px mix(#000, $success-color, 20%);
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
 .button.success:hover {
-  background: lighten( $success-color, 5% ) !important;
-  box-shadow: 0 3px lighten( $success-color, 15% ) !important;
+  background: lighten( $success-color, 5% );
+  box-shadow: 0 3px lighten( $success-color, 15% );
 }
 
 .button.warning {
-  color: #fff !important;
-  background: $warning-color !important;
-  box-shadow: 0 3px mix(#f00, $warning-color, 20%) !important;
+  color: #fff;
+  background: $warning-color;
+  box-shadow: 0 3px mix(#f00, $warning-color, 20%);
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
 .button.warning:hover {
-  background: lighten( $warning-color, 10% ) !important;
-  box-shadow: 0 3px lighten( $warning-color, 25% ) !important;
+  background: lighten( $warning-color, 10% );
+  box-shadow: 0 3px lighten( $warning-color, 25% );
 }
 
 .button.info {
-  color: #fff !important;
-  background: $info-color !important;
-  box-shadow: 0 3px mix(#000, $info-color, 40%) !important;
+  color: #fff;
+  background: $info-color;
+  box-shadow: 0 3px mix(#000, $info-color, 40%);
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
 .button.info:hover {
-  background: lighten( $info-color, 10% ) !important;
-  box-shadow: 0 3px lighten( $info-color, 40% ) !important;
+  background: lighten( $info-color, 10% );
+  box-shadow: 0 3px lighten( $info-color, 40% );
 }
 
 .button.grey {
-  color: #fff !important;
-  background: $grey-color !important;
-  box-shadow: 0 3px $grey-color-dark !important;
+  color: #fff;
+  background: $grey-color;
+  box-shadow: 0 3px $grey-color-dark;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
 .button.grey:hover {
-  background: mix(#000, $grey-color, 30%) !important;
-  box-shadow: 0 3px mix(#000, $grey-color, 60%) !important;
+  background: mix(#000, $grey-color, 30%);
+  box-shadow: 0 3px mix(#000, $grey-color, 60%);
 }
 
 /* Button Sizes

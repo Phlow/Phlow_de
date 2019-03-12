@@ -11,12 +11,12 @@
         "phlow/typography/links",
         "phlow/typography/typography_media_queries";
 
-
 @import
-            // "phlow/layout/search",
+        "phlow/layout/search",
         // "phlow/layout/meta",
         // "phlow/layout/footer",
-        // "phlow/layout/alerts",
+        "phlow/layout/alerts",
+        "phlow/layout/buttons",
         "phlow/layout/toc",
         "phlow/layout/side-nav",
             // "phlow/layout/layout_elements",
@@ -24,6 +24,5 @@
         // "phlow/layout/card",
         // "phlow/layout/comments",
             // "phlow/layout/cookieconsent",
-        // "phlow/layout/svg_icons",
+        "phlow/layout/svg_icons",
         "phlow/layout/responsive_video";
-
