@@ -1,0 +1,54 @@
+<!-- Start Navbar -->
+<header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4">
+  <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger md-hide lg-hide pr2  ">☰
+  </div>
+    <a href="{{ .Site.BaseURL }}" class="text-decoration-none inline-block mx-auto ampstart-headerbar-home-link  ">
+      <div id="logo" class="ampstart-headerbar-title mx-auto ">{{ partial "svg/phlow_logo.svg" }}</div>
+    </a>
+  <nav class="ampstart-headerbar-nav ampstart-nav xs-hide sm-hide">
+    <ul class="list-reset center m0 p0 flex justify-center nowrap">
+        <li class="ampstart-nav-item"><a href="{{ "/seminare/" | absURL }}" class="text-decoration-none block">Seminare</a></li>
+        <li class="ampstart-nav-item"><a href="https://magazin.phlow.de/" class="text-decoration-none block">Magazin</a></li>
+        <li class="ampstart-nav-item"><a href="{{ "/kontakt/" | absURL }}" class="text-decoration-none block">Kontakt</a></li>
+      </ul>
+    </nav>
+
+    <div class="ampstart-headerbar-fixed center m0 p0 flex justify-center nowrap ">
+      <div class="mr2">
+      </div>
+<!-- SEARCH LUPE
+        <a href="#" class="text-decoration-none mr2 ampstart-headerbar-fixed-link ">
+          <div class="ampstart-headerbar-icon-wrapper relative"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11" overflow="visible"><circle fill="none" stroke="#000" stroke-width="1.68" stroke-miterlimit="10" cx="4.67" cy="4.67" r="3.83"></circle><path fill="none" stroke="#000" stroke-width="1.78" stroke-linecap="round" stroke-miterlimit="10" d="M7.258 7.77l2.485 2.485"></path></svg></div>
+        </a>
+
+ -->    </div>
+  </header>
+
+<!-- Start Sidebar -->
+<amp-sidebar id="header-sidebar" class="ampstart-sidebar px3  md-hide lg-hide " layout="nodisplay">
+  <div class="flex justify-start items-center ampstart-sidebar-header">
+    <div role="button" aria-label="Seitenleiste schließen" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger items-start">✕</div>
+  </div>
+  <nav class="ampstart-sidebar-nav ampstart-nav">
+    <ul class="list-reset m0 p0 pb2 ampstart-label">
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/seminare/" | absURL }}">Seminare</a></li>
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="https://magazin.phlow.de/">Magazin</a></li>
+
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/info/" | absURL }}">Über Phlow</a></li>
+
+
+
+          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "/kontakt/" | absURL }}">Kontakt</a></li>
+
+          
+    </ul>
+  </nav>
+
+
+{{ partial "helper/navigation_social_icons.html" . }}
+
+
+</amp-sidebar>
+<!-- End Sidebar -->
+  <!-- End Navbar -->
+

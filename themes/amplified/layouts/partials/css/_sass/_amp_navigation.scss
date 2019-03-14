@@ -48,9 +48,9 @@
 }
 
 .ampstart-dropdown>section>header {
-  background-color: #fff;
+  background-color: $background-color;
   border: 0;
-  color: #021425
+  color: $text-color
 }
 
 .ampstart-dropdown>section>header:after {
@@ -69,8 +69,8 @@
 }
 
 .ampstart-dropdown-item {
-  background-color: #fff;
-  color: #808992;
+  background-color: $background-color;
+  color: $text-color;
   opacity: .9
 }
 
@@ -79,13 +79,13 @@
 }
 
 .ampstart-footer {
-  background-color: #fff;
+  background-color: $background-color;
   padding-top: 5rem;
   padding-bottom: 5rem
 }
 
 .ampstart-image-fullpage-hero {
-  color: #021425
+  color: $text-color
 }
 
 .ampstart-fullpage-hero-heading-text,.ampstart-image-fullpage-hero .ampstart-image-credit {
@@ -114,7 +114,7 @@
 
 .ampstart-readmore {
   background: linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent);
-  color: #021425;
+  color: $text-color;
   margin-top: 5rem;
   padding-bottom: 3.5rem
 }
@@ -136,7 +136,7 @@
 }
 
 .ampstart-image-heading {
-  color: #021425;
+  color: $text-color;
   background: linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent)
 }
 
@@ -365,7 +365,7 @@ amp-carousel .ampstart-image-with-caption {
 }
 
 .ampstart-headerbar {
-  background-color: #fff;
+  background-color: $background-color;
   z-index: 999;
   box-shadow: 0 0 5px 2px rgba(0,0,0,.1)
 }
@@ -431,17 +431,17 @@ amp-carousel .ampstart-image-with-caption {
 }
 
 .ampstart-nav-dropdown amp-accordion header {
-  background-color: #fff;
+  background-color: $background-color;
   border: none
 }
 
 .ampstart-nav-dropdown amp-accordion ul {
-  background-color: #fff
+  background-color: $background-color
 }
 
 .ampstart-nav-dropdown .ampstart-dropdown-item,.ampstart-nav-dropdown .ampstart-dropdown>section>header {
-  background-color: #fff;
-  color: #021425
+  background-color: $background-color;
+  color: $text-color
 }
 
 .ampstart-nav-dropdown .ampstart-dropdown-item {
@@ -449,8 +449,8 @@ amp-carousel .ampstart-image-with-caption {
 }
 
 .ampstart-sidebar {
-  background-color: #fff;
-  color: #021425;
+  background-color: $background-color;
+  color: $text-color;
   min-width: 300px;
   width: 300px
 }
@@ -482,8 +482,8 @@ amp-carousel .ampstart-image-with-caption {
 
 
 .ampstart-headerbar {
-  background: #fff;
-  color: #021425;
+  background: $background-color;
+  color: $text-color;
   padding-right: 1rem
 }
 
@@ -538,7 +538,7 @@ amp-carousel .ampstart-image-with-caption {
 
 .land-see-sidebar-nav-item {
   font-family: Montserrat,arial,sans-serif;
-  color: #021425;
+  color: $text-color;
   text-transform: capitalize;
   letter-spacing: .6px;
   line-height: 2.0625
@@ -559,7 +559,7 @@ amp-carousel .ampstart-image-with-caption {
 }
 
 .ampstart-nav-dropdown .ampstart-dropdown-item,.ampstart-nav-dropdown amp-accordion ul,.ampstart-sidebar {
-  background-color: #fef4f2
+  background-color: $background-color;
 }
 
 .ampstart-sidebar-nav>ul>li:first-child {
@@ -594,8 +594,8 @@ amp-carousel .ampstart-image-with-caption {
   }
 
 .ampstart-sidebar .ampstart-icon,.land-see-story-nav .ampstart-icon {
-  color: #021425;
-  fill: #021425
+  color: $background-color;
+  fill: $background-color;
 }
 
 .ampstart-sidebar .ampstart-social-follow,.ampstart-social-follow {

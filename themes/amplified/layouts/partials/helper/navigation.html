@@ -3,7 +3,7 @@
   <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger md-hide lg-hide pr2  ">☰
   </div>
     <a href="{{ .Site.BaseURL }}" class="text-decoration-none inline-block mx-auto ampstart-headerbar-home-link  ">
-      <div class="ampstart-headerbar-title mx-auto ">{{ .Site.Title }}</div>
+      <div id="logo" class="ampstart-headerbar-title mx-auto ">{{ partial "svg/phlow_logo.svg" }}</div>
     </a>
   <nav class="ampstart-headerbar-nav ampstart-nav xs-hide sm-hide">
     <ul class="list-reset center m0 p0 flex justify-center nowrap">

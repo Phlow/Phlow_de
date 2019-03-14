@@ -14,22 +14,29 @@
 
 <script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
 <script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async=""></script>
+{{ if not .Site.IsServer }}<script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async=""></script>{{ end }}
+{{ if .Page.Params.Amp.Carousel }}<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+<script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>{{ end }}
 
-<style amp-custom="">
+<style amp-custom>
   {{ if eq .Page.Section "seminare" }}
   {{ partial "css/phlow_seminare_styles.css" . | safeCSS }}
+  {{ else if or (eq .Page.Section "pages") (eq .Kind "home") }}
+  {{ partial "css/phlow_pages_styles.css" . | safeCSS }}
   {{ else if eq .Page.Section "magazin" }}
   {{ else }}
   {{ partial "css/phlow_styles.css" . | safeCSS }}
   {{ end }}
 </style>
 
+
 {{ if .RSSLink }}
 <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 {{ end }}
 
 {{ partial "helper/favicon.html" . }}
 
 </head>
 <body>
+<a id="topofpage" style="height:0; width:0"></a>
+{{ partial "helper/google-analytics.html" . }}

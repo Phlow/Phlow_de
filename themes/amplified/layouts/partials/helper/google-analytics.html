@@ -1,0 +1,19 @@
+{{ if not .Site.IsServer }}
+<!--ONLY PRODUCTION-->
+
+<amp-analytics type="gtag" data-credentials="include">
+<script type="application/json">
+{
+  "vars" : {
+    "gtag_id": "{{ .Site.Params.GoogleAnalytics }}",
+    "config" : {
+      "{{ .Site.Params.GoogleAnalytics }}": { "groups": "default" }
+    }
+  }
+}
+</script>
+</amp-analytics>
+
+{{ end }}
+
+

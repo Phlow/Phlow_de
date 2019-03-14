@@ -10,28 +10,23 @@ $border-radius: 3px !default;
 /* Basscss Border */
 
 .border {
-  border-style: solid;
-  border-width: $border-width;
+  border-top: $border-width solid $line-color;
 }
 
 .border-top {
-  border-top-style: solid;
-  border-top-width: $border-width;
+  border-top: $border-width solid $line-color;
 }
 
 .border-right {
-  border-right-style: solid;
-  border-right-width: $border-width;
+  border-right: $border-width solid $line-color;
 }
 
 .border-bottom {
-  border-bottom-style: solid;
-  border-bottom-width: $border-width;
+  border-bottom: $border-width solid $line-color;
 }
 
 .border-left {
-  border-left-style: solid;
-  border-left-width: $border-width;
+  border-left: $border-width solid $line-color;
 }
 
 .border-none { border: 0 }

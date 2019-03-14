@@ -1,22 +1,32 @@
+#      ___       _ __   __
+#     / _ )__ __(_) /__/ /
+#    / _  / // / / / _  /
+#   /____/\_,_/_/_/\_,_/
+#
+title                       = "Phlow"
 baseURL                     = "http://media.phlow.de/test/"
 languageCode                = "de-DE"
 defaultContentLanguage      = "de"
-title                       = "Phlow"
 theme                       = "amplified"
 copyright                   = "Alle Rechte vorbehalten"
+disableHugoGeneratorInject  = true   # Verhindern <meta name="generator" content="Hugo 0.18" />
+canonifyURLs                = true   # https://gohugo.io/content-management/urls/#canonicalization
+metadataformat              = "yaml"
+paginate                    = 7
+paginatepath                = "seite"
+summarylength               = 70    # The length of text to show in a .Summary in words.
+enableRobotsTXT             = true
+# ignorefiles = []   # Ignore Files When Rendering
 
-enableRobotsTXT = true
-canonifyURLs = true
-
-# {{ .Site.GoogleAnalytics }}
-# googleAnalytics             = ""
 
 
 # Markdown
 # https://gohugo.io/getting-started/configuration/#configure-blackfriday
+footnoteReturnLinkContents = "↑"   # Text to display for footnote return links.
+footnoteAnchorPrefix = "fussnote-"   # Prefix for footnote anchors in URL
 [blackfriday]
   plainIDAnchors = true
-  hrefTargetBlank = true
+  hrefTargetBlank = false
 
 [imaging]
 # Default resample filter used for resizing. Default is Box,
@@ -38,13 +48,11 @@ quality = 80
   tag = "tags"
   category = "categories"
 
-# Verhindern <meta name="generator" content="Hugo 0.18" />
-disableHugoGeneratorInject  = true
-
 [params]
     slogan                  = "Phlow Seminare – WordPress, Social Media, SEO & Journalismus"
     description             = "Seit mehr als 10 Jahren trainieren wir unsere Kunden in den Bereichen WordPress, Journalismus, Social Media, Internet Marketing und Webdesign."
     adsensePublisher        = ""
+    googleAnalytics         = "UA-21853271-1"   # {{ .Site.Params.googleAnalytics }}
   # Wichtig für SCHEMA.ORG
   [params.publisher]
     name = "Phlow"
@@ -80,3 +88,22 @@ disableHugoGeneratorInject  = true
     github    = "phlow"
     # soundcloud: phlow
     # rss: # Full URL needed
+
+
+#       ____________
+#      / __/ __/ __ \
+#     _\ \/ _// /_/ /
+#    /___/___/\____/
+#
+
+  [params.SiteVerification]
+    Google = "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
+    Bing = "0FB4C028ABCF07C908C54386ABD2D97F"
+
+
+# pygmentscodefences = false
+# pygmentscodefencesguesssyntax = false
+# pygmentsoptions = ""
+# pygmentsstyle = "monokai"
+# pygmentsuseclasses = false
+# pygmentsuseclassic = false

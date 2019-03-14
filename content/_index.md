@@ -1,10 +1,15 @@
 ---
-title               : Bildung ist unser Produkt!
-meta_title               : Phlow Seminare – WordPress, Social Media, SEO & Journalismus
-meta_description    : "Seit mehr als 10 Jahren trainieren wir unsere Kunden in den Bereichen WordPress, Journalismus, Social Media, Internet Marketing und Webdesign."
-image:
-  header          : images/social-media-seminar-workshop.jpg
+section: pages
+layout              : pages/splash
+title               : 'Phlow – Social Media, digital Marketing & SEO Seminare (Köln/Umgebung)'
 ---
-<div class="h3">Für mehr Erfolg trainieren wir Sie in den Bereichen WordPress, Journalismus, Social Media, Internet Marketing und Webdesign.</div>
+[Wir][1] helfen Menschen *ins*, *im* und *über* das Internet. In [Seminaren und Workshops][2] vermitteln wir direkt unser Wissen über Social Media, Webdesign, WordPress und Journalismus. Unsere [Sachbücher][3] veröffentlichen wir seit 2005 und Fachartikel im [Phlow Magazin][4] seit 2000. Unsere [Video-Tutorials][5] auf YouTube komplettieren unseren Medienmix. Brauchen Sie Unterstützung?
 
-<a href="{{< ref "seminare_programm.md" >}}" class="button">Unser Programm anschauen »</a>
+<div class="center"><a class="button success" href="{{< ref "kontakt.md" >}}">Kontaktieren Sie uns ›</a></div>
+
+
+[1]: {{< ref "info.md" >}}
+[2]: {{< ref "seminare/_index.md" >}}
+[3]: http://moritz.sauer.io/buecher/
+[4]: http://magazin.phlow.de/
+[5]: http://phlow.tv

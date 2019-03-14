@@ -5,3 +5,4 @@
 {{ partial "seo/seo_twitter.html" . }}
 {{ partial "seo/seo_pinterest.html" . }}
 {{ partial "seo/seo_schema.html" . }}
+{{ partial "seo/seo_search_console_webmaster_tools.html" . }}
