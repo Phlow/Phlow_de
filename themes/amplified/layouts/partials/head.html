@@ -20,12 +20,12 @@
 
 <style amp-custom>
   {{ if eq .Page.Section "seminare" }}
-  {{ partial "css/phlow_seminare_styles.css" . | safeCSS }}
+  {{ partial "css/phlow_seminare.css" . | safeCSS }}
   {{ else if or (eq .Page.Section "pages") (eq .Kind "home") }}
-  {{ partial "css/phlow_pages_styles.css" . | safeCSS }}
+  {{ partial "css/phlow_pages.css" . | safeCSS }}
   {{ else if eq .Page.Section "magazin" }}
   {{ else }}
-  {{ partial "css/phlow_styles.css" . | safeCSS }}
+  {{ partial "css/phlow.css" . | safeCSS }}
   {{ end }}
 </style>
 

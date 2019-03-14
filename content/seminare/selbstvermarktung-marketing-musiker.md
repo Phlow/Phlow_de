@@ -1,6 +1,6 @@
 ---
 layout            : page-workshop
-subheadline       : "Selbstvermarktung im Internet"
+subtitle       : "Selbstvermarktung im Internet"
 title             : "Marketing für Musiker"
 tags:
     - marketing

@@ -1,0 +1,37 @@
+{{ define "breadcrumb" }}
+<!-- No Breadcrumb -->
+{{ end }}
+
+{{ define "main" }}
+
+<!-- wrapper --><div>
+  <div class="mt4 px4 lg-px4">
+    <div class="max-width-2 mx-auto">
+      <article class="clearfix mxn2">
+          <h1>
+          {{ .Title }}
+          </h1>
+          <h2>{{ .Page.Params.Subtitle }}</h2>
+
+          {{ .Content }}
+
+          <ul class="toc-list">
+            {{ range .Pages }}
+                <li>
+                  <a href="{{.Permalink}}">{{ if .Params.Subtitle }}{{ .Params.Subtitle }} | {{ end }}{{ .Title }}</a>
+                </li>
+            {{ end }}
+          </ul>
+
+      </article><!-- /clearfix -->
+    </div><!-- /max-width-2 -->
+
+
+  </div><!-- /padding -->
+</div><!-- /wrapper -->
+{{ end }}
+
+
+{{ define "topfooter" }}
+<!-- No SUBFOOTER -->
+{{ end }}

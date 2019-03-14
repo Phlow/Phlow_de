@@ -1,6 +1,6 @@
 ---
 layout            : page-workshop
-subheadline          : "SEO – Inhalte in die Google Top-10 bringen"
+subtitle          : "SEO – Inhalte in die Google Top-10 bringen"
 title             : "Suchmaschinenoptimierung"
 tags:
     - webdesign

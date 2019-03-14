@@ -1,7 +1,7 @@
 ---
 layout            : page-workshop
 title             : "Digitales Marketing"
-subheadline          : "Selbstvermarktung im Internet"
+subtitle          : "Selbstvermarktung im Internet"
 tags:
     - marketing
 categories        : seminare

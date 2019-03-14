@@ -1,11 +1,16 @@
 {{ partial "head.html" . }}
 {{ partial "helper/navigation.html" . }}
-{{ partial "header.html" . -}}
-{{ partial "masthead.html" . }}
-{{ partial "breadcrumb.html" . }}
+{{ block "masthead" . }}{{ partial "masthead.html" . }}{{ end }}
+{{ block "breadcrumb" . }}{{ partial "breadcrumb.html" . }}{{ end }}
 
 {{- block "main" . }}{{- end }}
 
-{{ partial "footer.html" . }}
+
+{{ partial "footer_jump_to_top.html" . }}
+<footer id="footer-content">
+  {{ block "topfooter" . }}{{ partial "footer_top.html" . }}{{ end }}
+  {{ block "subfooter" . }}{{ partial "footer_sub.html" . }}{{ end }}
+</footer>
+
 </body>
 </html>

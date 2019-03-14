@@ -1,6 +1,6 @@
 ---
 layout            : page-workshop
-subheadline       : "Professionell WordPress nutzen"
+subtitle       : "Professionell WordPress nutzen"
 title             : "In zwei Tagen zur WordPress-Website"
 #
 #  SEO

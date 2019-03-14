@@ -1,6 +1,6 @@
 ---
 layout            : page-workshop
-subheadline          : Digitale Musikdistribution
+subtitle          : Digitale Musikdistribution
 title             : Alle sollen meine Musik hören!
 meta_title        : 'Workshop Digitale Musikdistribution: Alle sollen meine Musik hören!'
 meta_description  : Alle sollen meine Musik hören!

@@ -1,7 +1,7 @@
 ---
 layout            : page-workshop
 title             : "WordPress Workshop"
-subheadline          : "Eigene Websites mit WordPress erstellen"
+subtitle          : "Eigene Websites mit WordPress erstellen"
 #
 #  SEO
 #

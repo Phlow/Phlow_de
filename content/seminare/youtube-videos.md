@@ -1,6 +1,6 @@
 ---
 layout            : page-workshop
-subheadline          : "Social Web Videos"
+subtitle          : "Social Web Videos"
 title             : "Marketing mit YouTube-Videos"
 tags:
     - marketing

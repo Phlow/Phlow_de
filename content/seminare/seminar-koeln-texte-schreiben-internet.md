@@ -1,6 +1,6 @@
 ---
 layout            : page-workshop
-subheadline          : "Online-Journalismus"
+subtitle          : "Online-Journalismus"
 title             : "Texte schreiben für das Internet"
 tags:
     - journalismus

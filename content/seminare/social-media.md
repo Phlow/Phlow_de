@@ -1,6 +1,6 @@
 ---
 layout            : page-workshop
-subheadline          : 'Soziale Medien effektiv für das Marketing nutzen'
+subtitle          : 'Soziale Medien effektiv für das Marketing nutzen'
 title             : 'Leitfaden Social Media'
 #
 #  SEO

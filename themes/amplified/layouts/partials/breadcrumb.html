@@ -10,6 +10,7 @@
 {{ end }}
 
 {{ if .IsHome }}
+{{ else if eq .Page.Params.breadcrumb false }}
 {{ else }}
 <div id="breadcrumb" class="px1 border-bottom">
 <ol class="list-reset sans" itemscope itemtype="http://schema.org/BreadcrumbList">
