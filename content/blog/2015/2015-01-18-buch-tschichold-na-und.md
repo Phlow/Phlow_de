@@ -1,7 +1,6 @@
 ---
 subtitle: Typografie
 title: Generalcheck der Typografie-Gesetze von Tschichold
-url: /tschichold-buch/
 category: buchkritik
 tags:
     - aesthetik des buches

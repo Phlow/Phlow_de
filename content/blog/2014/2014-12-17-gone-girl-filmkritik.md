@@ -1,7 +1,6 @@
 ---
 subtitle        : Filmkritik
 title           : "»Gone Girl« – Boshafter Thriller mit zahlreichen Twists"
-url: /gone-girl-filmkritik/
 image:
     title           : /images/gone-girl-filmkritik.jpg
 category            : film

@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<!-- wrapper --><div>
+  <div class="px3 lg-px4">
+
+    <div class="max-width-2 mx-auto">
+      <article class="clearfix mxn2">
+        <header>
+          <p class="sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</p>
+          <h1>{{ .Title }}</h1>
+        </header>
+          {{ if in .RawContent "<!-- readmore -->" }}
+            {{ $summary_part := split .RawContent "<!-- readmore -->" }}
+            {{ $summary := index $summary_part 0 }}
+            {{ $summaryHTML := safeHTML $summary }}
+            {{ $summaryHTML := replace $summaryHTML "<p>" "" }}
+            {{ $summaryHTML := replace $summaryHTML "</p>" "" }}
+
+            {{ $summary_content := split .Content "<!-- readmore -->" }}
+            {{ $content := index $summary_content 1 }}
+            {{ $contentHTML := safeHTML $content }}
+
+            {{ if eq $summaryHTML .Content }}
+                {{ .Content }}
+            {{ else }}
+                <p class="h6">{{ $summaryHTML }}</p>
+                {{ $contentHTML }}
+            {{ end }}
+          {{ else }}
+            {{ .Content }}
+          {{ end}}
+
+{{ if eq .Page.Params.Categories "seminare" }}
+<a class="button" href="{{ "/seminare/programm/" | absURL }}">Seminartermin finden ›</a>
+{{ end }}
+
+
+
+
+      </article><!-- /clearfix -->
+    </div><!-- /max-width-2 -->
+
+
+  </div><!-- /padding -->
+</div><!-- /wrapper -->
+{{ end }}

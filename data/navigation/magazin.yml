@@ -1,0 +1,15 @@
+- menu_title    : 'Webdesign'
+  title         : 'Lerne mit unseren Webdesign Tutorials'
+  url           : 'webdesign/'
+
+- menu_title    : 'Texten fürs Web'
+  title         : 'Digitaler Journalismus'
+  url           : 'journalismus/'
+
+- menu_title    : 'Social Media'
+  title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'
+  url           : 'social-media/'
+
+- menu_title    : 'WordPress'
+  title         : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
+  url           : 'wordpress/'

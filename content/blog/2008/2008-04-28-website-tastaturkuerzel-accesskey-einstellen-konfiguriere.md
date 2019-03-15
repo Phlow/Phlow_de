@@ -2,7 +2,6 @@
 subtitle: Webdesign
 title: Website-Steuerung per Accesskey bzw. Tastaturkürzel
 category: webdesign
-url: /website-tastaturkuerzel-accesskey-einstellen-konfiguriere/
 tags:
   - accesskey
   - Browser

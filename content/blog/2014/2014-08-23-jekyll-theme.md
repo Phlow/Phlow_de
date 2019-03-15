@@ -10,7 +10,6 @@ tags:
 image:
    title: /images/jekyll-theme.jpg
    caption: Jekyll Theme von Phlow
-url:  /jekyll-theme/
 ---
 Zur Zeit sitze ich an meinem ersten Theme namens Feeling Responsive. Das Theme entwickle ich für den Static Website Generator Jekyll. Das Theme basiert auf dem Foundation Framework und ist natürlich Responsive Webdesign. Das Theme ist kostenlos, nutzt eine Auswahl Bilder von Unsplash und greift auf die wunderbaren Entypo-Icons von Daniel Bruce zurück.
 <!-- readmore -->

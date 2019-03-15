@@ -3,7 +3,6 @@ subtitle            : 'Open Source'
 title               : 'Erfahrungsbericht Ubuntu'
 image:
     title: /images/ubuntu-logo.png
-url           : /ubuntu-start/
 category            : linux
 ---
 Megakonzerne wie Apple sind mir unsympathisch und werden immer unsympathischer. Ich nutze seit Jahren mein erstes und solide arbeitendes Macbook Pro. Ich bin mit diesem Computer sehr zufrieden, bis auf die lächerlichen zwei USB-Schnittstellen. Aber während Apple sich weigert in Europa Steuern und hinterzogenes Geld zu bezahlen, Apple neuere Computer immer weniger für Professionelle produziert, die erst mit zig Kabeladaptern funktionieren, habe ich immer mehr das Gefühl, dass man den Konzern boykottieren sollte. Ist da [Linux]({{ '/linux' | absolute_url }}) bzw. Ubuntu eine Alternative? Ein Erfahrungsbericht meiner ersten Schritte.

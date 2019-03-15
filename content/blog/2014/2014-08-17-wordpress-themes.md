@@ -1,7 +1,6 @@
 ---
 subtitle           : WordPress Themes
 title           : WordPress Themes – Drei schöne unterschiedliche Themes
-url: /wordpress-themes/
 tags:
   - responsive webdesign
   - theme

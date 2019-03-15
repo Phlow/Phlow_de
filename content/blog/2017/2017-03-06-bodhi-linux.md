@@ -3,7 +3,6 @@ subtitle            : 'Linux-Betriebssystem'
 title               : 'Von Lubuntu nach Bodhi'
 image:
     title: /images/bodhi-linux.jpg
-url           : /bodhi-linux/
 comments            : true
 comments_data       :
   -

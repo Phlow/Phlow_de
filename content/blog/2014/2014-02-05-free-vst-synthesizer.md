@@ -1,7 +1,6 @@
 ---
 subtitle           : Elektronische Musikproduktion
 title           : 4 Freeware VST Synthesizer-Plugins
-url:  /free-vst-synthesizer/
 tags:
   - synthesizer
   - vst

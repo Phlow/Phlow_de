@@ -1,6 +1,5 @@
 ---
 title: Grid Index – Visuelles Nachschlagewerk für zweidimensionale Raster
-url: /grid-index-visuelles-nachschlagewerk/
 category: design
 tags:
   - 2D

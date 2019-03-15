@@ -2,7 +2,6 @@
 subtitle: Typografie
 title: 'Lato versus PT Sans'
 layout: post
-url: /typografie-lato-versus-pt-sans/
 categories: design
 tags:
   - font

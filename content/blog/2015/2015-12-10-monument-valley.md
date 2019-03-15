@@ -1,7 +1,6 @@
 ---
 subtitle            : "iPad Spiel"
 title               : "Monument Valley - Liebevoll gestaltet"
-url: /monument-valley/
 image:
     title: /images/monument-valley.jpg
 category            : spiel

@@ -1,7 +1,6 @@
 ---
 subtitle        : Sachbuch
 title           : Erste Hilfe in Typografie
-url       : /erste-hilfe-in-typografie/
 tags:
   - buchkritik
   - design

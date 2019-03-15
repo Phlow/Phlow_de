@@ -2,7 +2,6 @@
 layout              : post
 subtitle            : 'Superhelden '
 title               : 'Legion – Science Fiction Serie'
-url           : /legion-serie/
 image:
     title: /images/legion.jpg
 category            : serie

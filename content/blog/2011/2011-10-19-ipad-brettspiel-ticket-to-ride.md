@@ -1,7 +1,6 @@
 ---
 subtitle    : iPad Brettspiel
 title       : 'Zug um Zug: Ticket to Ride auf dem iPad'
-url: /ipad-brettspiel-ticket-to-ride/
 tags:
   - brettspiel
   - ipad

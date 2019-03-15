@@ -1,0 +1,21 @@
+  <div id="footer" class="border-top px4 lg-px4">
+    <div class="max-width-4 mx-auto">
+      <div class="clearfix">
+        <div class="mt2 sm-col sm-col-6 px2">
+          <p class="h5 mb1 sans">Über Phlow Seminare</p>
+          <p class="sans mt0"><small>
+            Seit mehr als 10 Jahren trainieren wir unsere Kunden in den Bereichen WordPress, Journalismus, Social Media, Internet Marketing und Webdesign.
+            <a href="{{ "/seminare/info/" | absURL }}">Mehr&nbsp;›</a>
+          </small></p>
+        </div>
+        <div class="mt2 mb4 sm-col sm-col-6 px2">
+          <p class="h5 mb1 sans">{{ range .Site.Data.services }}{{ with .menu_name }}{{ . }}{{ end }}{{ end }}</p>
+          <ul class="list-reset mt0">
+          {{ range .Site.Data.services }}
+              {{ if .url }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}
+          {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div><!-- /#footer -->

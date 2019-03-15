@@ -2,7 +2,6 @@
 subtitle: Rechercheportale
 title: 'Dienstleister helfen bei der Recherche'
 category: journalismus
-url: /journalismus-rechercheportale/
 tags:
   - journalismus
   - Recherche

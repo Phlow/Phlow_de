@@ -6,7 +6,6 @@ image:
     title           : /images/linux-schriften-installieren.jpg
     caption         : Raphael Schaller raphaelphoto.ch
 comments            : true
-url           : /linux-schriften-installieren-microsoft-google-fonts/
 category            : linux
 ---
 Die Installation von Schriften bei [Linux]({{ '/linux' | absolute_url }}) ist wunderbar unkompliziert. Ein paar Befehle in das Terminal kopiert und schon stehen die Standardschriften von Microsoft und sämtliche Google Fonts zur Verfügung. Eine Kurzanleitung für die schnelle Installation von ca. 900 professionellen Schriften.

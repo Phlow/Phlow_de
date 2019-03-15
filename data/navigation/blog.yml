@@ -1,0 +1,7 @@
+- menu_title    : 'Blog'
+  title         : 'Alle Beiträge auf einer Seite'
+  url           : 'blog/'
+
+- menu_title    : 'Archiv'
+  title         : 'Alle Beiträge auf einer Seite'
+  url           : 'blog/archiv/'

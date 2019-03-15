@@ -1,7 +1,6 @@
 ---
 subtitle: ' iPad Brettspiel'
 title: 'Gelungene Ablenkung: Carcassonne auf dem iPad'
-url: /ipad-brettspiel-carcassonne/
 category: spiel
 tags:
   - brettspiel

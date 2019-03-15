@@ -1,7 +1,6 @@
 ---
 subtitle: Schriften finden, verstehen und einsetzen
 title: 'Typografie Buch&#8221;Schriftwechsel&#8221;'
-url: /typografie-buch-schriftwechsel/
 category: typografie
 tags:
   - buchstaben

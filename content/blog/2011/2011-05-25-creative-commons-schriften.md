@@ -1,6 +1,5 @@
 ---
 title: Creative Commons Schriften
-url: /creative-commons-schriften/
 tags:
   - Creative Commons
   - Font

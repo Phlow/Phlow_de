@@ -1,7 +1,6 @@
 ---
 subtitle: Software für Autoren
 title: Schöner Schreiben mit Scrivener!
-url: /scrivener/
 category: software
 tags:
   - autor

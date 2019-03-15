@@ -4,7 +4,6 @@ category: software
 image:
   title: /images/instapaper_app.jpg
   caption: Mit Instapaper entschlackt man Artikel und speichert diese für später
-url: /schoner-und-bequemer-lesen-mit-dem-instapaper-bookmarklet/
 ---
 Instapaper ist ein kleines Werkzeug, um Webseiten bzw. Artikel später zu lesen, wenn man im jeweiligen Moment keine Zeit bzw. Muße besitzt. Die gespeicherten Artikel liest man später dann dort, wo man gerade Zeit hat, mit dem Gerät, mit dem man gerade unterwegs ist.
 

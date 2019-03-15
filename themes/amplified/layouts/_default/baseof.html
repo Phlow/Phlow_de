@@ -1,15 +1,15 @@
-{{ partial "head.html" . }}
+{{ partial "helper/head.html" . }}
 {{ partial "helper/navigation.html" . }}
-{{ block "masthead" . }}{{ partial "masthead.html" . }}{{ end }}
-{{ block "breadcrumb" . }}{{ partial "breadcrumb.html" . }}{{ end }}
+{{ block "masthead" . }}{{ partial "helper/masthead.html" . }}{{ end }}
+{{ block "breadcrumb" . }}{{ partial "helper/breadcrumb.html" . }}{{ end }}
 
 {{- block "main" . }}{{- end }}
 
 
-{{ partial "footer_jump_to_top.html" . }}
+{{ partial "helper/footer_jump_to_top.html" . }}
 <footer id="footer-content">
-  {{ block "topfooter" . }}{{ partial "footer_top.html" . }}{{ end }}
-  {{ block "subfooter" . }}{{ partial "footer_sub.html" . }}{{ end }}
+  {{ block "topfooter" . }}{{ partial "helper/footer_top.html" . }}{{ end }}
+  {{ block "subfooter" . }}{{ partial "helper/footer_sub.html" . }}{{ end }}
 </footer>
 
 </body>

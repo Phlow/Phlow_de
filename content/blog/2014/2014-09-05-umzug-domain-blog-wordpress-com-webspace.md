@@ -1,7 +1,6 @@
 ---
 subtitle        : Webdesign
 title           : Wie transferiere ich meine Domain und mein Blog von WordPress.com auf eigenen Webspace?
-url: /umzug-domain-blog-wordpress-com-webspace/
 tags:
   - export
   - import

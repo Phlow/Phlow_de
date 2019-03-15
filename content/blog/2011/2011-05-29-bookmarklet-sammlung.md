@@ -1,6 +1,5 @@
 ---
 title: 'Kleine Helferlein: Bookmarklet-Woche bei Phlow'
-url: /bookmarklet-sammlung/
 category: linktipp
 ---
 Eine Sammlung der besten und hilfreichsten Bookmarklets/Favelets für den Browser.

@@ -2,7 +2,6 @@
 title           : »Das Ende einer Last«
 subtitle        : Fakten zum Medium Buch
 teaser: "In »Das Ende einer Last« untersucht Karl Günter Bose das Buch. Auf 50 Seiten setzt sich der Professor für Typografie in Ruhe mit dem Medium auseinander."
-url: '/buch-das-ende-einer-last/'
 category:
     - buchkritik
 tags:

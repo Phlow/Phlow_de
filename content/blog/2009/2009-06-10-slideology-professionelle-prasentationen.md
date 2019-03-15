@@ -1,7 +1,6 @@
 ---
 subtitle: Sachbuch
 title: 'slide:ology &#8211; Professionelle (Powerpoint-)Präsentationen'
-url: /slideology-professionelle-prasentationen/
 category: buchkritik
 image:
   title: /images/cover-slideology.jpg

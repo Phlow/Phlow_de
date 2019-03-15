@@ -2,7 +2,6 @@
 layout              : post
 subtitle            : 'Instrumental HipHop'
 title               : 'Warme, lockere Beats von Eric Lau'
-url           : /eric-lau-examples/
 image:
     title: /images/cover-eric-lau-examples.jpg
 category            : musik

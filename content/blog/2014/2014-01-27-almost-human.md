@@ -1,8 +1,7 @@
 ---
 subtitle        : Blick in eine dystopische Zukunft
 title           : 'Almost Human'
-url: /almost-human/
-category: 
+category:
   - serie
 tags:
   - ScienceFiction

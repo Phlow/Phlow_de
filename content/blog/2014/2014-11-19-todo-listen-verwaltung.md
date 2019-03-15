@@ -1,9 +1,8 @@
 ---
 title           : Mein Lieblingswerkzeug für ToDo-Listen
 subtitle        : Organisation
-meta_description: 
+meta_description:
 teaser: "Will man seinen Arbeitsalltag nicht dem Chaos überlassen, kommt man um ToDo-Listen nicht herum. Mir erleichtern gleich zwei Werkzeuge den Umgang mit ToDo-Listen: Die <em>Getting Things Done-Methodik</em> und der Online-Service <em>Remember The Milk</em>."
-url: 
 category: software
 tags:
     - online-service

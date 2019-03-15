@@ -2,7 +2,6 @@
 subtitle: Webdesign
 title: Mein Responsive Webdesign für Psychotherapie Schriefer
 layout: post
-url: /webdesign-psychotherapie-schriefer/
 category:
   - webdesign
 tags:

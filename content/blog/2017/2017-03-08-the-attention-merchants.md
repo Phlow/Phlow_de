@@ -3,7 +3,6 @@ subtitle            : Sachbuch
 title               : »The Attention Merchants« von Tim Wu
 image:
     title: /images/cover-tim-wu-the-attention-merchants.jpg
-url           : /the-attention-merchants/
 category            : buchkritik
 ---
 In seinem Buch »The Attention Merchants« untersucht Tim Woo, wie das Buhlen um unsere Aufmerksamkeit begann und welchen Siedepunkt es heute erreicht hat. Anhand einer präzisen Aufarbeitung der Geschichte der Werbung, des Marketings und seiner verschiedenen Taktiken nimmt Tim Woo uns Leser auf eine außergewöhnliche Reise mit, die kritisch die Durchdringung unseres Lebens durch Werbung und Beeinflussung der Gedanken durchleuchtet.

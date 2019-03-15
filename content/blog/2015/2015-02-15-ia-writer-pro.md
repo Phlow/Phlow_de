@@ -1,7 +1,6 @@
 ---
 subtitle: Offener Brief an iA
 title: Werte Entwickler von iA Writer Pro
-url: /ia-writer-pro/
 category: software
 tags:
     - texteditor

@@ -1,7 +1,6 @@
 ---
 subtitle        : Linktipp für Journalisten
 title           : Webvideos und mobiler Journalismus
-url: /webvideos-mobiler-journalismus/
 tags:
   - journalismus
   - mobile

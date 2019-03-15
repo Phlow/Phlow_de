@@ -2,7 +2,6 @@
 subtitle: iPad Brettspiel Puerto Rico
 title: Dauerbrenner Puerto Rico auf dem iPad
 category: spiel
-url: /ipad-brettspiel-puerto-rico/
 tags:
   - brettspiel
   - ipad

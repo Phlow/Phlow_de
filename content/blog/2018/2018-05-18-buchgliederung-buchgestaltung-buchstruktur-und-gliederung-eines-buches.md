@@ -1,7 +1,6 @@
 ---
 date                : 2018-05-18
 title: 'Buchgliederung &#038; Buchgestaltung – Buchstruktur und Gliederung eines Buches'
-slug /buchgliederung-buchgestaltung-buchstruktur-und-gliederung-eines-buches/
 categories:
   - Journalismus
 tags:

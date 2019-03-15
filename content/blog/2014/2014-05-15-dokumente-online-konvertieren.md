@@ -1,7 +1,6 @@
 ---
 subtitle           : Online-Service
 title           : Dokumente online konvertieren
-url: /dokumente-online-konvertieren/
 tags:
   - dokumente konvertieren
   - konvertieren

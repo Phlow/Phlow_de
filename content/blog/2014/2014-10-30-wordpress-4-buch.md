@@ -3,7 +3,6 @@ title           : "Das WordPress 4-Buch – Nach dem Erfolg kommt die Aktualisi
 subtitle        : Mein neues Buch
 meta_description: "Mein »Das WordPress-Buch« war ein voller Erfolg. Anfang Dezember 2014 ist die komplett überarbeitete und aktualisierte Version erschienen."
 teaser: "Mein »Das WordPress-Buch« war ein voller Erfolg. Gemeinsam mit Imke Hirschmann von O'Reilly habe ich es jetzt – ein Jahr später – komplett überarbeitet und aktualisiert. Jetzt wartet es auf Euch..."
-url: /das-wordpress-4-buch/
 category:
     - webdesign
 tags:

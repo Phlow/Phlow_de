@@ -32,7 +32,7 @@
         <h1 class="h3">{{ .title }}</h1>
         <p>{{ .description | markdownify }}</p>
         <p>Veranstalter: <a target="_blank" title="Website besuchen" href="{{.url_1}}">{{.url_title_1}}</a></p>
-  {{ partial "footer_jump_to_top" }}
+  {{ partial "helper/footer_jump_to_top" }}
     </article>
   {{ end }}
 {{ end }}
@@ -60,7 +60,7 @@
         <h1 class="h3">{{ .title }}</h1>
         <p>{{ .description | markdownify }}</p>
         <p>Veranstalter: <a target="_blank" title="Website besuchen" href="{{.url_1}}">{{.url_title_1}}</a></p>
-  {{ partial "footer_jump_to_top" }}
+  {{ partial "helper/footer_jump_to_top" }}
     </article>
   {{ end }}
 {{ end }}

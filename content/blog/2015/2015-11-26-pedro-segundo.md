@@ -1,7 +1,6 @@
 ---
 subtitle        : "Entwicklungshilfe"
 title           : "Spenden ohne Spendengeld zu verschwenden"
-url       : /pedro-segundo/
 image:
     title: /images/pedro-segundo.jpg
 category            : webdesign

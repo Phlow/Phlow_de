@@ -1,6 +1,5 @@
 ---
 title: 'WordPress Plugin: Begriffe in mehreren Artikel gleichzeitig suchen und ersetzen'
-url: /wordpress-plugin-begriffe-in-mehreren-artikel-gleichzeitig-suchen-und-ersetzen/
 category: wordpress
 ---
 **Suchen & Ersetzen WordPress Plugin ** &middot; Mit Hilfe des *Search Regex Plugins* durchsucht man WordPress-Artikel, und  ersetzt Begriffe, Textbausteine und ähnliches in einem Rutsch. Selbst <a href="http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck" target="_blank">reguläre Ausrücke</a> dürfen verwendet werden. Schnell tauscht man Platzhalter veralteter Plugins aus oder löscht sie gleich ganz aus dem Artikel und der Datenbank. Oder man sucht nach Wörtern und ersetzt sie durch einen Link, um die internen Linkstrukturen zu stärken.<!-- readmore -->

@@ -1,7 +1,6 @@
 ---
 subtitle: Musikapp
 title: Björk und Brian Eno auf Entdeckungsreise ins App-Universum
-url: /biophilia-bjork-bloom-brian-eno/
 image:
     title: /images/bjoerk_biophilia-virus.png
 category: musik
