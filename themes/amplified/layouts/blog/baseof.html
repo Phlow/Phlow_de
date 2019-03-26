@@ -1,0 +1,34 @@
+{{ partial "helper/head.html" . }}
+{{ partial "helper/navigation.html" . }}
+{{ block "masthead" . }}{{ partial "helper/masthead.html" . }}{{ end }}
+
+<header class="center mb4" style="margin-top: 5em;" role="banner">
+  <div id="bloglogo">
+    <a href="{{ .Site.BaseURL }}blog/" title="Sign &#39;O&#39; The Times">Sign 'O' The Times</a>
+  </div>
+  <div id="slogan">
+    Digitale Kultur / Digitales Leben
+  </div>
+</header>
+
+
+
+<div class="px1 lg-px4">
+  <main class="max-width-3 mx-auto">
+    {{- block "main" . }}{{- end }}
+  </main><!-- /max-width-2 -->
+</div><!-- /padding -->
+
+
+
+<footer id="footer-content" class="center mt4 mb3">
+  <div id="footer">
+      <small><a href="https://phlow.de/impressum/" target="_blank">Impressum &amp; Datenschutz</a></small> /
+      <small><a href="https://phlow.de/kontakt/">Kontakt</a></small> /
+      <small><a class="button" href="#topofpage">↑</a></small>
+  </div><!-- /#footer -->
+</footer>
+
+
+</body>
+</html>

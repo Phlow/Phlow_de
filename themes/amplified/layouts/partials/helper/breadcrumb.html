@@ -5,7 +5,9 @@
   {{ template "breadcrumb" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
   {{ end }}
   <li class="inline-block{{ if eq .p1 .p2 }} active{{ end }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-    <a href="{{ .p1.Permalink }}">{{ if eq .p1.Title "Bildung ist unser Produkt!" }}Start{{ else }}{{ .p1.Title }}{{ end }}</a> /
+    <small>
+      <a href="{{ .p1.Permalink }}">{{ if eq .p1.Title "Bildung ist unser Produkt!" }}Start{{ else }}{{ .p1.Title | safeHTML | truncate 40 }}{{ end }}</a> /
+    </small>
   </li>
 {{ end }}
 
@@ -13,7 +15,7 @@
 {{ else if eq .Page.Params.breadcrumb false }}
 {{ else }}
 <div id="breadcrumb" class="px1 border-bottom">
-<ol class="list-reset sans" itemscope itemtype="http://schema.org/BreadcrumbList">
+<ol class="list-reset mt1 mb1 sans" itemscope itemtype="http://schema.org/BreadcrumbList">
   {{ template "breadcrumb" (dict "p1" . "p2" .) }}
 </ol>
 </div>

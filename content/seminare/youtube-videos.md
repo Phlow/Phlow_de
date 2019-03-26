@@ -8,7 +8,8 @@ tags:
     - video
     - socialmedia
     - social-media
-categories        : seminare
+    - seminar
+categories        : socialmedia
 image:
   header                  : images/workshop-youtube-marketing.jpg
 date: "2019-03-06"

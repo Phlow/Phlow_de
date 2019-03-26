@@ -6,7 +6,8 @@ tags:
     - journalismus
     - suchmaschinenoptimierung
     - seo
-categories        : seminare
+    - seminar
+categories        : journalismus
 image:
   header                  : images/seminar-koeln-texte-schreiben.jpg
 date: "2019-03-06"

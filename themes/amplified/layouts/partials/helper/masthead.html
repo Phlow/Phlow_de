@@ -1,5 +1,5 @@
+{{ if .Page.Params.image.header }}
 <div id="masthead">
-    {{ if .Page.Params.image.header }}
     <amp-img src="{{ .Site.BaseURL }}{{ .Page.Params.image.header }}" alt="{{ .Title }}" width="1920" height="823" layout="responsive"></amp-img>
-    {{ end }}
 </div>
+{{ end }}

@@ -1,7 +1,17 @@
 - menu_title    : 'Blog'
   title         : 'Alle Beiträge auf einer Seite'
   url           : 'blog/'
+  topbar        : true
+  sidebar       : true
 
 - menu_title    : 'Archiv'
   title         : 'Alle Beiträge auf einer Seite'
   url           : 'blog/archiv/'
+  topbar        : true
+  sidebar       : true
+
+- menu_title    : 'Über'
+  title         : 'Alle Beiträge auf einer Seite'
+  url           : 'blog/info/'
+  topbar        : true
+  sidebar       : true

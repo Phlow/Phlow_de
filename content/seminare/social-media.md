@@ -11,7 +11,8 @@ tags:
     - marketing
     - social-media
     - socialmedia
-categories        : seminare
+    - seminar
+categories        : socialmedia
 image:
   header          : images/social-media-seminar-workshop.jpg
 date: "2019-03-06"

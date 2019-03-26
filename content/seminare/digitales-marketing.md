@@ -4,7 +4,8 @@ title             : "Digitales Marketing"
 subtitle          : "Selbstvermarktung im Internet"
 tags:
     - marketing
-categories        : seminare
+    - seminar
+categories        : marketing
 image:
   header                  : images/workshop-digitales-marketing.jpg
 date: "2019-03-06"

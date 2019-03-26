@@ -1,20 +1,23 @@
-{{ define "breadcrumb" }}
-<!-- no breadcrumb -->
-{{ end }}
 {{ define "main" }}
 
 <!-- wrapper --><div>
   <div class="px4 lg-px4">
 
-    <div class="max-width-2 mx-auto">
+    <div class="max-width-4 mx-auto">
       <article class="clearfix mxn2">
 
+        <header>
+          <p class="sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</p>
+          <h1>{{ .Title }}</h1>
+        </header>
+
           {{ .Content }}
+
 
           <ul>
             {{ range .Pages }}
                 <li>
-                  <a href="{{.Permalink}}">{{.Title}}</a>
+                  <a href="{{.Permalink}}">{{ .Title }}</a>
                 </li>
             {{ end }}
           </ul>

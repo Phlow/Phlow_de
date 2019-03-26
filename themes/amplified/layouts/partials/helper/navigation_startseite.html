@@ -10,7 +10,9 @@
 
 
 {{ range (index .Site.Data.navigation.pages) }}
-<li class="ampstart-nav-item "><a href="{{ $.Site.BaseURL }}{{  .url }}" title="{{ .title }}" class="text-decoration-none block">{{.menu_title}}</a></li>
+  {{ if .topbar }}
+<li class="ampstart-nav-item "><a href="{{ $.Site.BaseURL }}{{ .url }}" title="{{ .title }}" class="text-decoration-none block">{{.menu_title}}</a></li>
+      {{ end }}
 {{ end }}
 
 
@@ -36,11 +38,11 @@
   </div>
   <nav class="ampstart-sidebar-nav ampstart-nav">
     <ul class="list-reset m0 p0 pb2 ampstart-label">
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "seminare/" | absURL }}">Seminare</a></li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="https://magazin.phlow.de/">Magazin</a></li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "blog/" | absURL }}">Blog</a></li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "info/" | absURL }}">Über Phlow</a></li>
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ "kontakt/" | absURL }}">Kontakt</a></li>
+{{ range (index .Site.Data.navigation.pages) }}
+  {{ if .sidebar }}
+      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url }}">{{.menu_title}}</a></li>
+      {{ end }}
+{{ end }}
     </ul>
   </nav>
 

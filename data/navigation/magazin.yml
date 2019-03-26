@@ -1,15 +1,41 @@
-- menu_title    : 'Webdesign'
-  title         : 'Lerne mit unseren Webdesign Tutorials'
-  url           : 'webdesign/'
+- menu_title    : 'Phlow Magazin'
+  title         : 'Social Media, Webdesign, WordPress und Journalismus'
+  url           : 'magazin/'
+  topbar        : true
+  sidebar       : true
 
-- menu_title    : 'Texten fürs Web'
-  title         : 'Digitaler Journalismus'
-  url           : 'journalismus/'
+# - menu_title    : 'Webdesign'
+#   title         : 'Lerne mit unseren Webdesign Tutorials'
+#   url           : 'magazin/webdesign/'
+#   topbar        : true
+#   sidebar       : true
+
+# - menu_title    : 'Texten fürs Web'
+#   title         : 'Digitaler Journalismus'
+#   url           : 'magazin/journalismus/'
+#   topbar        : true
+#   sidebar       : true
+
+- menu_title    : 'Hugo'
+  title         : 'Websites bauen mit dem Static Website Generator'
+  url           : 'magazin/webdesign/hugo/'
+  topbar        : true
+  sidebar       : true
 
 - menu_title    : 'Social Media'
   title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'
-  url           : 'social-media/'
+  url           : 'magazin/social-media/'
+  topbar        : true
+  sidebar       : true
 
-- menu_title    : 'WordPress'
-  title         : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
-  url           : 'wordpress/'
+- menu_title    : 'Terminal für Webdesigner'
+  title         : 'Optimiere und beschleunige lästige Arbeitsabläufe mit dem Terminal'
+  url           : 'magazin/terminal/'
+  topbar        : true
+  sidebar       : true
+
+# - menu_title    : 'WordPress'
+#   title         : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
+#   url           : 'magazin/wordpress/'
+#   topbar        : true
+#   sidebar       : true

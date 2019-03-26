@@ -8,15 +8,8 @@
 
 {{ partial "seo/_seo" . }}
 
-  <script async="" src="https://cdn.ampproject.org/v0.js"></script>
-
+{{ partial "amp/scripts.html" . }}
 {{ partial "amp/boilerplate.html" . }}
-
-<script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
-<script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async=""></script>
-{{ if not .Site.IsServer }}<script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async=""></script>{{ end }}
-{{ if .Page.Params.Amp.Carousel }}<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
-<script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>{{ end }}
 
 <style amp-custom>
   {{ if eq .Page.Section "seminare" }}
@@ -25,6 +18,8 @@
   {{ partial "css/phlow_pages.css" . | safeCSS }}
   {{ else if eq .Page.Section "magazin" }}
   {{ partial "css/phlow_magazin.css" . | safeCSS }}
+  {{ else if eq .Page.Section "blog" }}
+  {{ partial "css/phlow_blog.css" . | safeCSS }}
   {{ else }}
   {{ partial "css/phlow.css" . | safeCSS }}
   {{ end }}

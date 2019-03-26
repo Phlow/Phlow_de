@@ -1,0 +1,185 @@
+/* Inhaltsverzeichnis
+--------------------------------------------------------------------
+
+- Headlines
+- Customize Typography
+- Images
+- Tables
+- Code
+- Lists
+- Quotes
+- Small & Lines
+- Drop Capitals
+
+*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+  line-height: 1.2em;
+}
+
+nav {
+  font-style: italic;
+  text-align: center;
+}
+
+/* https://www.modularscale.com/?1&em&1.2 */
+
+h1 { margin: 0; font-size: $h1 }
+h2 { font-size: $h2 }
+h3 { font-size: $h3 }
+h4 { font-size: $h4 }
+
+p { font-weight: 300; }
+strong, b { font-weight: 500; }
+
+img { border-radius: 3px; }
+figure { margin: 0 0 1em 0 }
+figcaption { text-align: right; font-size: .65em; }
+
+dt {
+  font-weight: 500;
+  margin-top: 1em;
+}
+hr { margin: 1em 0; height: 1px; border: 0; background: #ccc; }
+
+/* LINKS ------------------------------*/
+
+a,
+a:link {
+  color: $ci-1;
+  text-decoration: none;
+  -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
+  transition: all .15s cubic-bezier(.33,.66,.66,1);
+  font-weight: 500;
+}
+
+.ampstart-headerbar a:hover {
+  box-shadow: inset 0 0px 0 $ci-1;
+}
+
+
+#content a,
+#content a:link {
+  color: $ci-1;
+  text-decoration: none;
+  -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
+  transition: all .15s cubic-bezier(.33,.66,.66,1);
+  font-weight: 500;
+  border-bottom: 2px solid $text-color;
+}
+
+
+a:visited { border-bottom: 0; }
+a:hover { box-shadow: inset 0 -3px 0 $ci-1; }
+a:focus { color: lighten( $ci-1, 20% ); }
+a:active { color: darken( $ci-1, 20% ); }
+
+a:link img,
+a:hover img,
+a:focus img,
+a:active img,
+a img { border: 0; }
+
+#content .toc-list a,#content .toc-list a:visited,#content .toc-list a:link,
+#content h1 a,#content h1 a:visited,#content  h1 a:link,
+#content h2 a,#content h2 a:visited,#content  h2 a:link,
+#content h3 a,#content h3 a:visited,#content  h3 a:link {
+    border: 0;
+}
+
+article a img  {
+  // z-index und relative sind wichtig, damit das Bild unter der Navigation hergleitet
+  z-index: -1;
+  position: relative;
+  display: block;
+  border: 0;
+  -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
+  transition: all .15s cubic-bezier(.33,.66,.66,1);
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000px;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+article a img:hover {
+    box-shadow: -2px 0 2px 0 rgba(0,0,0,0.16) , 2px 0 2px 0 rgba(0,0,0,0.16) , 0 2px 2px 0 rgba(0,0,0,0.23);
+    -webkit-transform: translate3d(0,-3px,0);
+    transform: translate3d(0,-3px,0);
+}
+
+#footer a { border-bottom: 0 inset $text-color; }
+
+
+/* Lists
+----------------------------------------------------------------- */
+
+
+ul.toc-list li:hover a {
+  padding-left: .5em;
+  background: $ci-2;
+}
+
+
+/* BUTTON ------------------------------*/
+
+button,
+.button,
+a.button {
+  border: none;
+  display: inline-block;
+  padding: 0 .5em;
+  line-height: 1.25em;
+  text-shadow: 0 0 0 rgba(0,0,0,0.5);
+  background: $ci-1;
+  color: $background-color;
+  border-radius: 3px;
+}
+a.button:hover {
+  box-shadow: inset 0 0 0 $text-color;
+  background: $text-color;
+  color: $background-color;
+}
+
+blockquote {
+  font-style: italic;
+  margin: 2em 1em;
+  display: block;
+  padding: 0 1em;
+  border-left: 5px solid $ci-1;
+}
+blockquote cite {
+  text-align: center;
+}
+cite:before {
+    content:"\2014 \0020";
+    margin-left: .25em;
+}
+
+
+/* Drop Capitals
+
+   A “Drop Cap” is the art of using an uppercase glyph to
+   mark the start of copy. A technique that has been around
+   for almost two thousand years!
+
+-------------------------------------------------------- */
+
+.drop-cap:first-letter {
+
+  text-shadow: -4px 0 1px rgb(30,242,241),
+  4px 0 1px rgb(246,5,10);
+
+  float: left;
+  font-size: 4em;
+  font-family: UnifrakturMaguntia;
+  text-indent: 0;
+  margin: 10px 10px 0 0;
+  padding: 0 15px;
+  line-height: 1;
+}
+
+.lead {
+  font-weight: 500;
+}

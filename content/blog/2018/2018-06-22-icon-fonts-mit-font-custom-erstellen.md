@@ -2,7 +2,6 @@
 title: Icon Fonts mit Font Custom erstellen
 date: 2018-06-22T12:28:57+00:00
 author: Moritz »mo.« Sauer
-layout: post
 categories:
   - Webdesign
 ---

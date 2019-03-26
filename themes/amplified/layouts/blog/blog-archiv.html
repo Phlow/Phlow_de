@@ -1,0 +1,29 @@
+{{ define "main" }}
+<header class="mb2">
+  {{ if .Page.Params.image.title }}
+    <amp-img
+        src="{{ .Site.BaseURL }}{{ .Page.Params.image.title }}"
+        alt="{{ .Title }}"
+        width="{{ with .Page.Params.image.title_width }}{{ . }}{{ else }}1600{{ end }}"
+        height="{{ with .Page.Params.image.title_height }}{{ . }}{{ else }}900{{ end }}"
+        layout="responsive">
+        >
+    </amp-img>
+  {{ end }}
+
+  <p class="sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</p>
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{ .Content }}
+
+<ul class="toc-list">
+  {{ range (where .Site.Pages "Type" "blog") }}
+      <li>
+        <a href="{{.Permalink}}">{{ if .Params.Subtitle }}{{ .Params.Subtitle }} | {{ end }}{{ .Title }}</a>
+      </li>
+  {{ end }}
+</ul>
+
+{{ end }}
+

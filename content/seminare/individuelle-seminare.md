@@ -4,7 +4,10 @@ title                     : Individuelle Seminare
 subtitle                  : Workshops & Spezial-Trainings
 meta_title                : Bestimmen Sie die Schwerpunkte/Inhalte unser individuellen Trainings
 meta_description          : Die Inhalte unserer individuellen Einzeltrainings in WordPress, SEO oder Social Media bestimmen Sie. Gerne kombinieren und erweitern wir die Einzelthemen.
-categories                : seminare
+tags:
+    - seminar
+    - inhouse
+categories                : inhouse
 image:
   header                  : images/individuelle-workshop-seminare-trainings.jpg
 date: "2019-03-06"

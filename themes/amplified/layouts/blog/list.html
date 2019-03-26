@@ -1,37 +1,42 @@
-{{ define "breadcrumb" }}
-<!-- No Breadcrumb -->
-{{ end }}
-
 {{ define "main" }}
 
-<!-- wrapper --><div>
-  <div class="mt4 px4 lg-px4">
-    <div class="max-width-2 mx-auto">
-      <article class="clearfix mxn2">
-          <h1>
-          {{ .Title }}
-          </h1>
-          <h2>{{ .Page.Params.Subtitle }}</h2>
+<article class="clearfix">
 
-          {{ .Content }}
+    {{ .Content }}
 
-          <ul class="toc-list">
-            {{ range .Pages }}
-                <li>
-                  <a href="{{.Permalink}}">{{ if .Params.Subtitle }}{{ .Params.Subtitle }} | {{ end }}{{ .Title }}</a>
-                </li>
-            {{ end }}
-          </ul>
+    {{ range first 3 .Pages }}
+      <div class="mb4">
 
-      </article><!-- /clearfix -->
-    </div><!-- /max-width-2 -->
+        {{ if .Params.image.title }}
+          <amp-img
+              src="{{ .Site.BaseURL }}{{ .Params.image.title }}"
+              alt="{{ .Title }}"
+              width="{{ with .Params.image.title_width }}{{ . }}{{ else }}1600{{ end }}"
+              height="{{ with .Params.image.title_height }}{{ . }}{{ else }}900{{ end }}"
+              layout="responsive">
+          </amp-img>
+        {{ end }}
 
 
-  </div><!-- /padding -->
-</div><!-- /wrapper -->
+        {{ if .Params.Subtitle }}
+          <p class="mt1 mb0">{{ .Params.Subtitle }}</p>
+        {{ end }}
+
+        <h2 class="mt0 mb0"><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+
+        <p>{{.Summary}}</p>
+      </div>
+    {{ end }}
+
+
+    <ul class="toc-list">
+      {{ range after 3 (first 12 .Pages) }}
+          <li>
+            <a href="{{.Permalink}}">{{ if .Params.Subtitle }}{{ .Params.Subtitle }} | {{ end }}{{ .Title }}</a>
+          </li>
+      {{ end }}
+    </ul>
+
+</article><!-- /clearfix -->
 {{ end }}
 
-
-{{ define "topfooter" }}
-<!-- No SUBFOOTER -->
-{{ end }}

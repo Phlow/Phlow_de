@@ -17,9 +17,12 @@
           <h2>WordPress</h2>
 
           <ul class="toc-list">
-            {{ range .Site.Taxonomies.tags.wordpress }}
-              <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "wordpress" }}
+                <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}
+
+
+
           </ul>
         </div>
 
@@ -28,7 +31,7 @@
           <h2>Social Media</h2>
 
           <ul class="toc-list">
-            {{ range .Site.Taxonomies.tags.socialmedia }}
+            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "socialmedia" }}
               <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}
           </ul>
@@ -40,7 +43,7 @@
           <h2>Marketing</h2>
 
           <ul class="toc-list">
-            {{ range .Site.Taxonomies.tags.marketing }}
+            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "marketing" }}
               <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}
           </ul>
@@ -48,10 +51,10 @@
 
         <div class="sm-col sm-col-6 px2">
 
-          <h2>Journalismus</h2>
+          <h2>SEO & Journalismus</h2>
 
           <ul class="toc-list">
-            {{ range .Site.Taxonomies.tags.journalismus }}
+            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "journalismus" }}
                   <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}
           </ul>

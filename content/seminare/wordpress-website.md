@@ -10,7 +10,8 @@ meta_description  : "Nach diesem Workshop besitzen Sie eine eigene Website, die 
 tags:
     - wordpress
     - webdesign
-categories        : seminare
+    - seminar
+categories        : wordpress
 image:
     header                  : images/wordpress-website-zwei-tagen.jpg
 #    schema_url: "images/"

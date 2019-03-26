@@ -7,7 +7,8 @@ tags:
     - journalismus
     - seo
     - suchmaschinenoptimierung
-categories        : seminare
+    - seminar
+categories        : journalismus
 image:
   header                  : images/workshop-suchmaschinenoptimierung-seo-training-koeln.jpg
 date: "2019-03-06"

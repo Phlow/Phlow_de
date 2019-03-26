@@ -131,6 +131,5 @@ Dein
 # Hilfreiche Asciidoctor-Links
 
   - [Asciidoctor User Manual](http://asciidoctor.org/docs/user-manual/)
-
   - [AsciiDoc Syntax Quick
     Reference](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)

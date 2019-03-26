@@ -2,7 +2,7 @@
 date                : 2018-01-17
 subtitle            : Fantasy Buchkritik
 title               : Edgedancer von Brandon Sanderson
-slug           : /edgedancer-brandon-sanderson/
+slug                : /edgedancer-brandon-sanderson/
 category            : 
   - buchkritik
   - fantasy

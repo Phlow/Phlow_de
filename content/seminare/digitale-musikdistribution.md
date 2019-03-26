@@ -9,7 +9,8 @@ tags:
     - musikmarketing
     - musicmarketing
     - musik
-categories        : seminare
+    - seminar
+categories        : marketing
 image:
   header                  : images/workshop-digitale-musikdistribution.jpg
 ---

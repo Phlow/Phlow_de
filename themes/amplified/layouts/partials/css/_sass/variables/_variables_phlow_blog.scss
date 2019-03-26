@@ -1,0 +1,82 @@
+/* Global Variables
+-------------------------------------------------------------------
+
+These settings are needed to set the breakpoints for typography
+and to adjust the masthead
+
+*/
+
+$global-radius  :     3px;
+$small          :   640px;
+$medium         :  1024px;
+$large          :  1440px;
+
+
+/* Color Variables
+-------------------------------------------------------------------- */
+
+$ci-1                               : #f0c674;   // phlow-rotbraun
+$ci-2                               : #600;   // phlow-orange
+$ci-3                               : #005380;   // phlow-dunkel-blau
+$ci-4                               : #82cbd0;   // phlow-hell-blau
+// Alerts
+$alert-color                        : #cc6666;
+$success-color                      : #b5bd68;
+$warning-color                      : #de935f;
+$info-color                         : #81a2be;
+// Grey Scale
+$grey-color-super-light             : #f8f8f8;
+$grey-color-light-light             : #f0f0f0;
+$grey-color-light                   : #ccc;
+$grey-color                         : #828282;
+$grey-color-dark                    : #aaa;
+// Basics
+$text-color                         : #E7E3DF;
+$background-color                   : #1d1f21;
+$background-light-color             : $grey-color-light-light;
+$line-color                         : #282a2e;
+$topbar-navigation-background-color : 'rgba(#fefefe, 0.8)';   // background-color
+$topbar-navigation-link-color       : #005380;
+$topbar-navigation-link-hover-color : #82cbd0;
+$topbar-navigation-border-bottom    : 1px solid #ccc;
+$footer-color                       : #828282;
+
+$selection: #373b41; // Selection
+$comment: #969896; // Comment
+
+
+/* Typography
+------------------------------------------------------------------- */
+
+/* Font Families */
+$base-font-family                  : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif    : Georgia, "Times New Roman", serif;
+
+$font-family-sans     : Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-mono     : Inconsolata, Menlo, monospace;
+$header-font-family   : "Exo 2", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$header-font-family-h1             : "Open Sans Condensed", "Open Sans", "Neue Helvetica", Arial, serif;
+
+
+
+/* Font Sizes */
+$base-font-size                    :    18px;
+$base-font-size-medium-screen      :    18px;
+$base-font-size-large-screen       :    20px;
+$font-size-p                       :     1em;
+$h1                                : 2.488em;
+$h2                                : 1.728em;
+$h3                                : 1.44em;
+$h4                                : 1.2em;
+$h5                                : 1em;
+$h6                                : 1em;
+$font-size-small                   :   .85em;
+
+
+/* Line-height */
+$base-line-height: 1.65;
+
+/* Font Weight */
+$base-font-weight     : 400;
+$font-weight-normal   : normal;
+$font-weight-bold     : bold;

@@ -1,0 +1,143 @@
+body {
+  background: $background-color;
+  color: $text-color;
+  font-family: $base-font-family;
+  font-size: 18px;
+  font-weight: 300;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+#bloglogo {
+  font-family: UnifrakturMaguntia;
+  line-height: 1em;
+  font-size: 5em;
+  color: $ci-1;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+#bloglogo a { border: 0; }
+#bloglogo a:hover {
+  box-shadow: inset 0 0 0 $text-color; 
+  -webkit-box-sizing: content-box; 
+  box-sizing: content-box; 
+  border: none;
+  color: $text-color;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  letter-spacing: 3px;
+  text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
+}
+#slogan {
+  font-family: $base-font-family;
+  font-style: italic;
+  font-weight: 300;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+@media only screen and (max-width: 480px) {
+    #bloglogo {
+      font-size: 3.5em;
+    }
+}
+
+@media only screen and (min-width: 481px) {
+    body {
+      font-size: 20px;
+    }
+}
+
+/* Button Styles
+-------------------------------------------------------- */
+
+button,
+.button.noborder {
+  -webkit-transition: all .3s cubic-bezier(.33,.66,.66,1);
+  transition: all .3s cubic-bezier(.33,.66,.66,1);
+  color: $background-color;
+  background: $ci-1;
+  box-shadow: 0 0 #fff;
+  border: 0;
+}
+button:hover,
+.button.noborder:hover {
+  background: darken($ci-1, 20%);
+  box-shadow: 0 0 $grey-color-light;
+}
+
+button.alert,
+.button.alert {
+  color: #fff;
+  background: $alert-color;
+  box-shadow: 0 3px mix(#000, $alert-color, 20%);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+button.alert,
+.button.alert:hover {
+  background: lighten( $alert-color, 5% );
+  box-shadow: 0 3px lighten( $alert-color, 15% );
+}
+
+button.success,
+.button.success {
+  color: #fff;
+  background: $success-color;
+  box-shadow: 0 3px mix(#000, $success-color, 20%);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+button.success,
+.button.success:hover {
+  background: lighten( $success-color, 5% );
+  box-shadow: 0 3px lighten( $success-color, 15% );
+}
+
+button.warning,
+.button.warning {
+  color: #fff;
+  background: $warning-color;
+  box-shadow: 0 3px mix(#f00, $warning-color, 20%);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+button.warning,
+.button.warning:hover {
+  background: lighten( $warning-color, 10% );
+  box-shadow: 0 3px lighten( $warning-color, 25% );
+}
+
+button.info,
+.button.info {
+  color: #fff;
+  background: $info-color;
+  box-shadow: 0 3px mix(#000, $info-color, 40%);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+button.info,
+.button.info:hover {
+  background: lighten( $info-color, 10% );
+  box-shadow: 0 3px lighten( $info-color, 40% );
+}
+
+button.grey,
+.button.grey {
+  color: #fff;
+  background: $grey-color;
+  box-shadow: 0 3px $grey-color-dark;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+button.grey,
+.button.grey:hover {
+  background: mix(#000, $grey-color, 30%);
+  box-shadow: 0 3px mix(#000, $grey-color, 60%);
+}
+
+/* Button Sizes
+-------------------------------------------------------- */
+
+button,
+.button-small {
+  font-size: $font-size-small;
+  line-height: $font-size-small*1.5;
+}
+button,
+.button-large {
+  font-size: $h5;
+}
+

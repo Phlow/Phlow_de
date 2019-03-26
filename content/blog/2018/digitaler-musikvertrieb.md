@@ -3,7 +3,7 @@ date                : 2018-11-23
 subtitle            : Digitaler Musikvertrieb
 title               : Alle sollen meine Musik hören
 image:
-  title             : /images/workshop-digitale-musikdistribution.jpg
+  title             : images/blog/workshop-digitale-musikdistribution.jpg
 category           : marketing
 tags:
   - musik

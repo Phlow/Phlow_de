@@ -7,7 +7,8 @@ tags:
     - musikmarketing
     - musicmarketing
     - musik
-categories        : seminare
+    - seminar
+categories        : marketing
 image:
   header                  : images/workshop-digitales-marketing-musiker.jpg
 date: "2019-03-06"

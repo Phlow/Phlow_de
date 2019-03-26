@@ -10,7 +10,8 @@ meta_description:   "Lernen Sie den Umgang mit WordPress. Ob Installation, Konfi
 tags:
     - wordpress
     - webdesign
-categories        : seminare
+    - seminar
+categories        : wordpress
 image:
   header                  : images/wordpress-workshop-training.jpg
 date: "2019-03-06"

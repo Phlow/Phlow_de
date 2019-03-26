@@ -1,15 +1,23 @@
 - menu_title    : 'Seminare'
   title         : 'Übersicht über unsere Themen'
   url           : 'seminare/programm/'
+  topbar        : true
+  sidebar       : true
 
 - menu_title    : 'Termine'
   title         : 'Unsere aktuellen Seminartermine'
   url           : 'seminare/termine/'
+  topbar        : true
+  sidebar       : true
 
 - menu_title    : 'Kontakt'
   title         : 'Sie haben Fragen zu unseren Seminaren? Rufen Sie uns an!'
   url           : 'seminare/kontakt/'
+  topbar        : true
+  sidebar       : true
 
 - menu_title    : 'Kunden & Info'
   title         : 'Unsere Kunden lieben uns'
   url           : 'seminare/info/'
+  topbar        : true
+  sidebar       : true

@@ -13,16 +13,20 @@ tags                :
     - homeonwheels
     - lifeontheroad
     - wohnwagen
+image:
+    title: images/blog/nomadland.jpg
+    title_width: 473
+    title_height: 509
 ---
 In »Nomadland« steigen wir mit Jessica Bruder in einen Van und folgen den Spuren der »neuen« Nomaden Amerikas. Es ist eine herzerschütternde Reise.
 <!-- readmore -->
 
+{{< dropcap >}}
 Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag [»Meet the CamperForce, Amazon's Nomadic Retiree Army«](https://www.wired.com/story/meet-camperforce-amazons-nomadic-retiree-army/) auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht's?
-{: .drop-cap }
+{{< /dropcap >}}
+
 
 [»Nomadland«](https://www.jessicabruder.com/nomadlandbook/) basiert auf einer dreijährigen Recherche der Journalistin [Jessica Bruder](https://www.jessicabruder.com/). Das Buch dokumentiert, verfolgt und beschreibt eine »neue« wachsende Bevölkerungsgruppe in den USA, die sich eine Wohnung nicht mehr leisten können. Die einzige Alternative, um nicht auf der Straße zu landen, besteht darin ein Wohnmobil zu kaufen oder einen Van für das Leben auf der Straße umzubauen.
-
-<img src="{{ '/images/nomadland.jpg' | absolute_url }}" alt="Cover Nomadland">
 
 Aber mit glorifiziertem [van life](https://www.instagram.com/explore/tags/vanlife/) hat diese Entwicklung nichts gemeinsam. Denn die Recherchen nehmen uns auf eine Reise mit, die bei vielen Protagonisten in der Immobilienkrise 2008 ihren Ursprung findet. Bürger, oftmals fast gebrochen, alt und ohne soziales Netz, die während der Krise 2008 ihr gesamtes Hab und Gut verloren haben.
 
