@@ -18,11 +18,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2em;
 }
 
-nav {
-  font-style: italic;
-  text-align: center;
-}
-
 /* https://www.modularscale.com/?1&em&1.2 */
 
 h1 { margin: 0; font-size: $h1 }
@@ -81,10 +76,9 @@ a:focus img,
 a:active img,
 a img { border: 0; }
 
-#content .toc-list a,#content .toc-list a:visited,#content .toc-list a:link,
-#content h1 a,#content h1 a:visited,#content  h1 a:link,
-#content h2 a,#content h2 a:visited,#content  h2 a:link,
-#content h3 a,#content h3 a:visited,#content  h3 a:link {
+main h1 a,main h1 a:visited,main  h1 a:link,
+main h2 a,main h2 a:visited,main  h2 a:link,
+main h3 a,main h3 a:visited,main  h3 a:link {
     border: 0;
 }
 
@@ -110,16 +104,6 @@ article a img:hover {
 }
 
 #footer a { border-bottom: 0 inset $text-color; }
-
-
-/* Lists
------------------------------------------------------------------ */
-
-
-ul.toc-list li:hover a {
-  padding-left: .5em;
-  background: $ci-2;
-}
 
 
 /* BUTTON ------------------------------*/

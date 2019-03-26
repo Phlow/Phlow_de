@@ -13,9 +13,7 @@ tags:
 Alle sollen meine Musik hören! In diesem Beitrag zum *Create Music Workshop*, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes, Amazon & Co verbreitest.
 <!-- readmore -->
 
-**Inhaltsverzeichnis**
-* Inhaltsverzeichnis
-{:toc}
+{{< toc >}}
 
 Deine Musikaufnahmen liegen fertig auf der Festplatte und was jetzt? Heute vertreibst Du Deine Musik weltweit mit einer jährlichen Investition von 30€. Denn mit Distrokid schiebst Du Deine Musik weltweit in die Streaming-Services wie Spotify, Apple Music oder verkaufst Deinen Sound bei iTunes, Amazon, Google Music und so weiter…
 
@@ -88,7 +86,7 @@ Wer Techno und House produziert, wird von Distrokid aber nicht auf Beatport gesc
 
 Unter [artists.spotify.com](https://artists.spotify.com/) erfährst Du alles über die Möglichkeiten, die Dir Spotify als Künstler bietet sowie den [Hilfestellungen zu den Funktionen](https://artists.spotify.com/guide/spotify-for-artists). So kannst Du z.B. eigene Musik-Playlisten erstellen. Mehr erfährst Du unter [Hinzufügen von Wiedergabelisten zu Ihrem Künstlerprofil (englisch).](https://artists.spotify.com/faq/profile#how-do-i-post-an-artist-playlist-to-my-profile)
 
-#### Hol das maximale aus Spotify-Biografie heraus
+### Hol das maximale aus Spotify-Biografie heraus
  
 Du hast 1.500 Zeichen, um Deinen Fans auf Spotify mitzuteilen, wer Du bist, und Du kannst @tags verwenden, um Links zu anderen Spotify-Inhalten wie Alben, die Dich inspiriert haben, Künstlern, mit denen Du zusammengearbeitest hast, oder Wiedergabelisten, auf denen Du zu finden bist, zu verlinken. Du kannst auch Spotify-Links in das Textfeld einfügen und einen Link zu deiner Wikipedia-Seite hinzufügen, für Fans, die tiefer graben wollen.
 
@@ -100,7 +98,7 @@ Bandcamp bietet Dir als Musikdienst eine Plattform für Promotion, Musikstreamin
 
 Bandcamp nimmt einen Anteil von 15 % von Deinen Verkäufen auf der Website, wobei der Anteil nach der Einnahme von mehr als 5.000 US-Dollar durch Verkäufe auf 10 % sinkt. Der gesamte Musikservice von Bandcamp ist kostenlos. Bandcamp sorgt aber nicht dafür, Deine Musik auf andere Websites zu verteilen.
 
-#### Lass Dich von anderen Bandcamp-Websites inspirieren
+### Lass Dich von anderen Bandcamp-Websites inspirieren
 
 Künstler // Cœur de Pirate
 : <https://musique.coeurdepirate.com>

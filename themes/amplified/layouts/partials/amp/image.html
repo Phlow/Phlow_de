@@ -8,5 +8,5 @@
     {{ with .role }}role="{{ . }}"{{ end }}
     {{ with .width }}width="{{ . }}"{{ end }}
     {{ with .height }}height="{{ . }}"{{ end }}
-    {{ with .layout }}layout="{{ . }}"{{ end }}>
+    layout="{{ if .layout }}{{ . }}{{ else }}responsive{{ end }}">
 </amp-img>

@@ -16,9 +16,9 @@
 
           <ul class="toc-list">
             {{ range sort .Pages "File.TranslationBaseName" }}
-                <li>
-                  <a href="{{.Permalink}}">{{ .Params.Categories }} – {{ .Title }}</a>
-                </li>
+              <li>
+                <a href="{{.Permalink}}"><strong>{{ .Params.Categories }}</strong> | {{ .Title }}</a>
+              </li>
             {{ end }}
           </ul>
 
