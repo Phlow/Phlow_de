@@ -1,9 +1,11 @@
 ---
-title           :  Shell? Bash? Terminal? Kommandozeile? – Eine Einführung
+subtitle        : Terminal
+title           : Shell? Bash? Terminal? Kommandozeile? – Eine Einführung
 categories      : "Einführung"
 description     : 'Ein Grund warum viele erst
 einmal einen Bogen vor dem Terminal machen, ist die Verwirrung um
 Begriffe und das komische Kauderwelsch der »Experten«.'
+slug            : start
 ---
 Ein Grund warum viele erst einmal einen Bogen vor dem Terminal machen,
 ist die Verwirrung um Begriffe und das komische Kauderwelsch der

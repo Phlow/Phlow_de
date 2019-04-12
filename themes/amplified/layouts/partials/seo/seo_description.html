@@ -1,9 +1,19 @@
-    {{ if .Page.Params.meta_description }}
-      <meta name="description" content="{{ .Page.Params.meta_description }}">
-    {{ else if .Page.Description }}
-      <meta name="description" content="{{ .Description }}">
-    {{ else if .Page.Summary }}
-      <meta name="description" content="{{ .Summary }}">
-    {{ else if eq .URL "/" }}
-      <meta name="description" content="{{ .Site.Params.Description }}">
-    {{ end }}
+  {{ if .Page.Params.meta_description -}}
+    <meta name="description" content="{{ .Page.Params.meta_description }}">
+  {{- else if .Page.Description -}}
+    <meta name="description" content="{{ .Description }}">
+  {{- else if .Page.Summary -}}
+    {{- if in .RawContent "<!-- readmore -->" -}}
+      {{- $summary_part := split .RawContent "<!-- readmore -->" -}}
+      {{- $summary := index $summary_part 0 -}}
+      {{- $summaryHTML := safeHTML $summary -}}
+      {{- $summaryHTML := replace $summaryHTML "<p>" "" -}}
+      {{- $summaryHTML := replace $summaryHTML "</p>" "" -}}
+      {{- $summaryHTML := replace $summaryHTML "\n" "" -}}
+    <meta name="description" content="{{ $summaryHTML }}">
+    {{ else }}
+    <meta name="description" content="{{ .Summary | truncate 150 }}">
+    {{- end -}}
+  {{- else if eq .URL "/" -}}
+    <meta name="description" content="{{ .Site.Params.Description }}">
+  {{- end -}}

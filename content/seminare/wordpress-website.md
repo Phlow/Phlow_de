@@ -24,13 +24,17 @@ Nach diesem Workshop besitzen Sie eine eigene Website, die Sie selbst betreuen u
 
 Damit Sie genügend Zeit haben sämtliche Materialien für die Umsetzung zusammenzustellen und vorzubereiten, findet der Workshop an zwei auseinanderliegenden Terminen statt.
 
-## Ablauf des Workshops
+## Ablauf des WordPress-Workshops
 
-Beim ersten Termin zeigt Moritz »mo.« Sauer, wie man ein Konzept für eine Website und eine Strategie mit »Call for Action« für das Website-Projekt entwickelt. Anschließend erläutert Moritz »mo.« Sauer verschiedene Webdesigns, von denen Sie beim zweiten Termin eines für Ihr Projekt, Portfolio oder Produkt umsetzen. Außerdem erläuert der Internetspezialist, welche Art von Webspace und welche Funktionen Sie für den Betrieb einer WordPress-Website benötigen und wie Sie Ihre Inhalte optimal für Besucher und Suchmaschinen aufbereiten. Beim zweiten Termin installiert Moritz »mo.« Sauer mit Ihnen gemeinsam das weltweit führende und kostenlose WordPress-Redaktionssystem auf Ihrem eigenen Webspace. Nach der Konfiguration setzen Sie schrittweise Ihre Website um: Eingabe von Inhalten, Navigation erstellen, Bilder hochladen, Website gestalten. Zum Schluss installieren Sie auf Ihrer Website wichtige Erweiterungen für die Suchmaschinenoptimierung und den Einbau eines Kontaktformulars als auch wichtiger Social Media-Funktionen.
+Beim ersten Termin zeigt Moritz »mo.« Sauer, wie man ein Konzept für eine Website und eine Strategie mit »Call for Action« für das Website-Projekt entwickelt. Anschließend erläutert Moritz »mo.« Sauer verschiedene Webdesigns, von denen Sie beim zweiten Termin eines für Ihr Projekt, Portfolio oder Produkt umsetzen.
+
+Außerdem erläuert der Internetspezialist, welche Art von Webspace und welche Funktionen Sie für den Betrieb einer WordPress-Website benötigen und wie Sie Ihre Inhalte optimal für Besucher und Suchmaschinen aufbereiten. Beim zweiten Termin installiert Moritz »mo.« Sauer mit Ihnen gemeinsam das weltweit führende und kostenlose WordPress-Redaktionssystem auf Ihrem eigenen Webspace.
+
+Nach der Konfiguration setzen Sie schrittweise Ihre Website um: Eingabe von Inhalten, Navigation erstellen, Bilder hochladen, Website gestalten. Zum Schluss installieren Sie auf Ihrer Website wichtige Erweiterungen für die Suchmaschinenoptimierung und den Einbau eines Kontaktformulars als auch wichtiger Social Media-Funktionen.
 
 
 
-## Ziel
+## Ziele des WordPress-Seminars
 
 * Entwicklung eines Konzepts und einer Strategie für den Webauftritt samt »Call for Action«
 * Mieten von eigenem Webspace (Beratung innerhalb des Workshops)

@@ -1,0 +1,58 @@
+{{/*
+*  die Funktion index pickt sich aus dem ersten Wert
+*  width
+*/}}
+<div>
+
+  <amp-carousel id="carousel"
+    width="{{ if index .Page.Params.slideshow 0 "width" }}{{ index .Page.Params.slideshow 0 "width" }}{{ else }}942{{ end }}"
+    height="{{ if index .Page.Params.slideshow 0 "height" }}{{ index .Page.Params.slideshow 0 "height" }}{{ else }}594{{ end }}"
+    layout="responsive"
+    type="slides"
+    on="slideChange:
+            carouselSelector.toggle(index=event.index, value=true),
+            carouselPreview.goToSlide(index=event.index)
+    ">
+
+    {{ $counter := 0 }}
+    {{ range .Page.Params.slideshow }}
+    {{ if .image_url }}
+    {{ $counter = add $counter 1 }}
+      <amp-img class="rounded" src="{{ .image_url }}?image=?image={{ $counter }}"
+        width="{{ if .width }}{{ .width }}{{ else }}942{{ end }}"
+        height="{{ if .height }}{{ .height }}{{ else }}594{{ end }}"
+        layout="responsive"
+        alt="{{ .caption }}"></amp-img>
+    {{ end }}
+    {{ end }}
+  </amp-carousel>
+
+{{/*
+
+  <amp-selector class="mt3" id="carouselSelector"
+    on="select:carousel.goToSlide(index=event.targetOption)"
+    layout="container">
+    <amp-carousel id="carouselPreview"
+      class="carousel-preview"
+      height="110"
+      layout="fixed-height"
+      type="carousel">
+      {{ $counter := 0 }}
+      {{ range .Page.Params.slideshow }}
+      {{ if .image_url }}
+        <amp-img option="{{ $counter }}"
+          selected
+      {{ $counter = add $counter 1 }}
+          src="{{ .image_url }}?image=?image={{ $counter }}"
+          width="160"
+          height="80"
+          alt="{{ .caption }}"></amp-img>
+      {{ end }}
+      {{ end }}
+    </amp-carousel>
+  </amp-selector>
+*/}}
+
+
+
+</div>

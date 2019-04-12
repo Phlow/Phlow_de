@@ -20,9 +20,29 @@ redirect 301 /kontakt/ http://phlow.de/kontakt.html
 redirect 301 /kontakt/ http://phlow.de/kontakt.html
 
 redirect 301 /twitter http://magazin.phlow.de/twitter/
-Redirect 301 /magazin http://magazin.phlow.de/
-Redirect 301 /magazin/ http://magazin.phlow.de/
 
+
+#
+# Redirects Social Media // 2019-04-11
+#
+redirect 301 /social_media/einfuehrung-social-media/ https://phlow.de/magazin/social-media/einfuehrung-social-media/
+redirect 301 /social_media/zahlen-fakten-internet-social-media/ https://phlow.de/magazin/social-media/zahlen-fakten-internet/
+redirect 301 /social_media/social-media-guidelines/ https://phlow.de/magazin/social-media/social-media-guidelines/
+redirect 301 /social_media/urheberrecht/ https://phlow.de/magazin/social-media/urheberrecht/
+redirect 301 /social_media/filter-blase/ https://phlow.de/magazin/social-media/filterblase/
+redirect 301 /social_media/digitaler-werkzeugkasten/ https://phlow.de/magazin/social-media/digitaler-werkzeugkasten/
+redirect 301 /social_media/internet-strategie/ https://phlow.de/magazin/social-media/internet-strategie/
+redirect 301 /social_media/facebook/ https://phlow.de/magazin/social-media/facebook/
+redirect 301 /social_media/instagram/ https://phlow.de/magazin/social-media/instragram/
+redirect 301 /social_media/youtube/ https://phlow.de/magazin/social-media/youtube/
+redirect 301 /social_media/snapchat/ https://phlow.de/magazin/social-media/snpachat/
+redirect 301 /social_media/twitter/ https://phlow.de/magazin/social-media/twitter/
+redirect 301 /social_media/pinterest/ https://phlow.de/magazin/social-media/pinterest/
+redirect 301 /social_media/tiktok/ https://phlow.de/magazin/social-media/tiktok/
+redirect 301 /social_media/blogs/ https://phlow.de/magazin/social-media/blogs/
+redirect 301 /social_media/wordpress/ https://phlow.de/magazin/social-media/wordpress/
+redirect 301 /social_media/tumblr/ https://phlow.de/magazin/social-media/tumblr/
+redirect 301 /social_media/literatur/ https://phlow.de/magazin/social-media/literatur/
 
 
 #
@@ -62,8 +82,6 @@ redirect 301 /atom-texteditor-themes/ https://magazin.phlow.de/webdesign/atom-te
 redirect 301 /atom-texteditor-erweiterungen/ http://magazin.phlow.de/webdesign/atom-texteditor-erweiterungen/
 redirect 301 /html-relative-absolute-links/ http://magazin.phlow.de/webdesign/html/relative-absolute-links/
 
-redirect 301 /mac-spark-tastenkombinationen-manager/ https://www.youtube.com/watch?v=SV4B3boVNmc
-redirect 301 /mac-clipmenu-zwischenablage-manager/ https://www.youtube.com/watch?v=SV4B3boVNmc
 redirect 301 /css-schrift-schriftgroeße-em-rem-px-prozent/ https://magazin.phlow.de/webdesign/html/css-schrift-schriftgroe%C3%9Fe-em-rem-px-prozent/
 redirect 301 /css-schrift-schriftart-zeilenhoehe/ https://magazin.phlow.de/webdesign/html/css-schrift-schriftart-zeilenhoehe/
 redirect 301 /html-google-fonts-kostenlose-webfonts/ https://magazin.phlow.de/webdesign/html/google-fonts-kostenlose-webfonts/
@@ -109,15 +127,6 @@ redirect 301 /tipps-tricks-quellen-podcast-produktion http://magazin.phlow.de/au
 redirect 301 /webdesign http://magazin.phlow.de/webdesign/
 redirect 301 /webdesign/ http://magazin.phlow.de/webdesign/
 redirect 301 /seminare/selbstvermarktung-im-internet /seminare/selbstvermarktung-internet
-
-redirect 301 /seminare/suchmaschinenoptimierung-seo-schulung-seminare-kurse https://phlow.de/seminare/suchmaschinenoptimierung.php
-redirect 301 /seminare/selbstmanagement-koordination-organisation-digitalen-tools https://phlow.de/seminare/getting-things-done.php
-redirect 301 /seminare/facebook-marketing-mit-fanseiten-und-apps https://phlow.de/seminare/facebook-marketing.php
-redirect 301 /seminare/web-2-0-werkzeuge-kommunikation-dialog-kunde https://phlow.de/seminare/kommunikation-kunde.php
-redirect 301 /seminare/produktion-verbreitung-marketing-videos-web-2-0 https://phlow.de/seminare/video-marketing-internet.php
-redirect 301 /seminare/webdesign-professionelle-websites-redaktionssystem https://phlow.de/seminare/wordpress-programmierung.php
-redirect 301 /seminare/marketing-promotion-selbstvermarktung-internet https://phlow.de/seminare/selbstvermarktung.php
-
 
 </IfModule>
 

@@ -1,7 +1,9 @@
 ---
-categories : Soziale Netzwerke
-title: "Pinterest – Abheften & Kaufen"
-date                : 2018-03-06
+categories  : Soziale Netzwerke
+subtitle    : Pinterest
+title       : "Abheften & Kaufen"
+date        : 2018-03-06
+slug        : pinterest
 ---
 
 ![alt](../images/Pinterest-badge-144px.png)
@@ -19,21 +21,21 @@ teilen (repinnen), ihren Gefallen daran ausdrücken oder es kommentieren.
 
 # Fakten zu Pinterest
 
-  - Pinterest ist eine Social Media Plattform für visuelle Lesezeichen
-  - Speicherort für Erinnerungen (Fotos, Postkarten, Konzertkarten,
+* Pinterest ist eine Social Media Plattform für visuelle Lesezeichen
+* Speicherort für Erinnerungen (Fotos, Postkarten, Konzertkarten,
     Eintrittskarten)
-  - Nutzer können eigene oder im Netz gefundene Bilder an virtuelle
+* Nutzer können eigene oder im Netz gefundene Bilder an virtuelle
     Pinnwand anheften („pinnen“) und spannende Ideen
     entdecken/aufheben/teilen
-  - Insgesamt in 30 Sprachen verfügbar
-  - 100 Millionen Nutzer monatlich
-  - Pinterest Nutzer (2014): 44% männlich und 56% weiblich (aktive
+* Insgesamt in 30 Sprachen verfügbar
+* 100 Millionen Nutzer monatlich
+* Pinterest Nutzer (2014): 44% männlich und 56% weiblich (aktive
     Nutzer 80% weiblich)
-  - Beliebteste Kategorien: Food, Fashion, Home, DIY (Do-it-Yourself),
+* Beliebteste Kategorien: Food, Fashion, Home, DIY (Do-it-Yourself),
     Technik
-  - 88% der Pinterest-Nutzer kaufen tendenziell das Produkt welches sie
+* 88% der Pinterest-Nutzer kaufen tendenziell das Produkt welches sie
     pinnen
-  - Pinterest-User geben mehr Geld aus, als Facebook-User
+* Pinterest-User geben mehr Geld aus, als Facebook-User
 
 ![alt](../images/pinterest-ipad-homefeed.png)
 
@@ -51,55 +53,55 @@ Nutzer weltweit. In Deutschland hat sich die Plattform im Vergleich zu
 anderen sozialen Netzwerken noch nicht so stark etabliert. Bevorzugt
 wird sie von weiblichen Nutzern zwischen 10 und 24 Jahren..\[1\]
 
-  - Laut Mitgründer Evan Sharp ist Pinterest eher vergleichbar mit einem
+* Laut Mitgründer Evan Sharp ist Pinterest eher vergleichbar mit einem
     Tool für die Online-Suche als mit einem sozialen Netzwerk
-  - Bei Pinterest handelt es sich um eine visuelle Pinnwand, die es
+* Bei Pinterest handelt es sich um eine visuelle Pinnwand, die es
     ermöglicht kreative Ideen auf eigens erstellten Pinnwänden
     festzuhalten
-  - Die Idee von Pinterest basiert nicht auf der Vernetzung der
+* Die Idee von Pinterest basiert nicht auf der Vernetzung der
     Benutzer, sondern auf der Entdeckung von Inhalten
-  - Das Besondere an Pinterest: Hier werden Inhalte für zukünftige
+* Das Besondere an Pinterest: Hier werden Inhalte für zukünftige
     Planungen dargestellt, während andere soziale Medien lediglich die
     Vergangenheit oder Aktuelles abbilden
-  - Viele **Pinnter** suchen und entdecken über Pinterest neue Ideen und
+* Viele **Pinnter** suchen und entdecken über Pinterest neue Ideen und
     Inspiration
 
 # Pinterest – Zahlen, Daten, Fakten
 
-  - 50 Milliarden Pins, die von Nutzern auf mehr als 1 Milliarde Boards
+* 50 Milliarden Pins, die von Nutzern auf mehr als 1 Milliarde Boards
     gepostet wurden
-  - 80% des Traffics kommt von mobilen Endgeräten
-  - Pro Tag: Veröffentlichung von mehr als 14 Mio. Artikeln auf
+* 80% des Traffics kommt von mobilen Endgeräten
+* Pro Tag: Veröffentlichung von mehr als 14 Mio. Artikeln auf
     Pinterest, mehr als 2 Mio. **Product Rich Pins** mit direkten Links
     zu Online Shops
-  - 2/3 aller Inhalte (Über 50 Mrd. Pins) bei Pinterest führen zu
+* 2/3 aller Inhalte (Über 50 Mrd. Pins) bei Pinterest führen zu
     Business-Webseiten
-  - Pinterest steht mittlerweile in 30 Sprachen zur Verfügung und hat
+* Pinterest steht mittlerweile in 30 Sprachen zur Verfügung und hat
     globale Büros in London, Berlin, Tokio, Sao Paulo und Paris
-  - Die internationalen Nutzer stiegen 2014 um 135%, die monatlich
+* Die internationalen Nutzer stiegen 2014 um 135%, die monatlich
     aktiven Nutzer um 150%
-  - Die Mehrheit der aktiven User ist weiblich
-  - 100 Millionen Nutzer monatlich
-  - Pinterest Nutzer (2014): 44% männlich und 56% weiblich (aktive
+* Die Mehrheit der aktiven User ist weiblich
+* 100 Millionen Nutzer monatlich
+* Pinterest Nutzer (2014): 44% männlich und 56% weiblich (aktive
     Nutzer 80% weiblich)
-  - Beliebteste Kategorien: Food, Fashion, Home, DIY (Do-it-Yourself),
+* Beliebteste Kategorien: Food, Fashion, Home, DIY (Do-it-Yourself),
     Technik
-  - 88% der Pinterest-Nutzer kaufen tendenziell das Produkt welches sie
+* 88% der Pinterest-Nutzer kaufen tendenziell das Produkt welches sie
     pinnen
-  - Pinterest-User geben mehr Geld aus, als Facebook-User
+* Pinterest-User geben mehr Geld aus, als Facebook-User
 
 # Vorteile von Pinterest
 
-  - Shitstorms entstehen auf Pinterest in der Regel nicht
-  - Kostenlose Nutzung
-  - Direkte Zielgruppenansprache
-  - Mögliche Vernetzung mit anderen Netzwerken
-  - Inspirationsquelle von Nutzern
+* Shitstorms entstehen auf Pinterest in der Regel nicht
+* Kostenlose Nutzung
+* Direkte Zielgruppenansprache
+* Mögliche Vernetzung mit anderen Netzwerken
+* Inspirationsquelle von Nutzern
 
 # Nachteile von Pinterest
 
-  - 80% Frauen nutzen den Service
-  - Man benötigt hochwertiges Bildmaterial.
+* 80% Frauen nutzen den Service
+* Man benötigt hochwertiges Bildmaterial.
 
 # Pinterest Beispiele
 
@@ -114,38 +116,38 @@ wird sie von weiblichen Nutzern zwischen 10 und 24 Jahren..\[1\]
 
 ## Weitere Beispiele
 
-  - [Kraft](https://de.pinterest.com/kraftrecipes/).[^2]  
+* [Kraft](https://de.pinterest.com/kraftrecipes/).[^2]  
     Lebensmittelkonzern Kraft sammelt bei Pinterest auf 74 Boards
     Rezepte aller Art
-  - [Four Seasons Hotels and
+* [Four Seasons Hotels and
     Resorts](https://de.pinterest.com/fourseasons/).[^3]  
     Die Four Seasons-Hotelkette versucht seine Besucher mit Tipps und
     Informationen zu Reisezielen und Ausflugsorten zu versorgen, um den
     eigenen Brand nach vorne zu
     bringen.
-  - [www.pinterest.com/dpflueger/poster-design/](https://www.pinterest.com/dpflueger/poster-design/).[^4]  
+* [www.pinterest.com/dpflueger/poster-design/](https://www.pinterest.com/dpflueger/poster-design/).[^4]  
     Professionelles Pinterest-Portfolio des digital Marketing-Experten
     Dietrich Pflüger.
-  - [Karen Nyberg](http://de.pinterest.com/knyberg/).[^5]  
+* [Karen Nyberg](http://de.pinterest.com/knyberg/).[^5]  
     Astronaut by day. Aspiring artist, quilter, crafter, runner by
     night. Wife and Mommy 24/7.
-  - [NASA EDGE](https://de.pinterest.com/nasaedge/).[^6]  
+* [NASA EDGE](https://de.pinterest.com/nasaedge/).[^6]  
     The show that takes an inside and outside look at all things NASA\!
-  - [NASA Goddard Space Flight
+* [NASA Goddard Space Flight
     Center](https://de.pinterest.com/nasagoddard/).[^7]  
     NASA Goddard Space Flight Center enables NASA’s mission through four
     scientific endeavors: Earth Science, Heliophysics, Solar System
     Exploration & Astrophysics.
-  - [WWF
+* [WWF
     Deutschland](https://www.pinterest.com/wwf_deutschland/).[^8]  
     Der World Wide Fund For Nature ist eine der größten unabhängigen
     Naturschutzorganisationen der Welt.
 
 # Artikel zu Pinterest
 
-  - NASA astronaut Karen Nyberg took Pinterest where it’s never gone
+* NASA astronaut Karen Nyberg took Pinterest where it’s never gone
     before.[^9]
-  - Pinterest In Space: NASA Astronaut 'Pins' Cosmic Photos from
+* Pinterest In Space: NASA Astronaut 'Pins' Cosmic Photos from
     Orbit.[^10]
 
 [^1]: Quelle: <https://de.statista.com/statistik/daten/studie/218314/umfrage/alter-der-besucher-von-pinterestcom/>

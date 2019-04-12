@@ -1,6 +1,7 @@
 ---
-subtitle    : "Static Website Generator"
-title       : "Hugo If – Beispiele"
+subtitle     : "Static Website Generator"
+title        : "Hugo If – Beispiele"
+categories   : hugo
 ---
 To tell if some value doesn’t exist. (There is probably a less convoluted way to handle this.)
 

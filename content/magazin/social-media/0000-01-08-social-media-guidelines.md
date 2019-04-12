@@ -1,11 +1,11 @@
 ---
-subsection: socialmedia
-title: Social Media Guidelines
-categories : Einführung
-date                : 2018-01-08
+subtitle        : Richtlinien
+title           : Social Media Guidelines
+categories      : Einführung
+date            : 2018-01-08
+slug            : social-media-guidelines
 ---
-
-**Social Media Guidelines** helfen Mitarbeitern in Unternehmen, und
+Social Media Guidelines helfen Mitarbeitern in Unternehmen, und
 dienen als Richtlinien für das Marketing und die Kommunikation mit
 Kunden, Fans und Interessierten nutzen. Social Media Guidelines sind in
 der Regel mit den eigenen Marketingziele abgestimmt und spiegeln sich in
@@ -25,55 +25,29 @@ B. Shitstorms) fest.
 > —  Maggie Haberman NY Times, CNN, [Maggie
 > Haberman](https://twitter.com/maggieNYT) 
 
+{{< warning >}}
 Link-Tipp: [Social Media Guidelines: Nie waren sie wichtiger als
 heute](https://upload-magazin.de/blog/20673-social-media-guidelines/)
+{{< /warning >}}
 
-# Beispiel-Video von Linde
+## Beispiel-Video von Linde
 
-![linde video youtube](../images/linde-video-youtube.png)
+<a href="https://www.youtube.com/watch?v=TFtNU_yBRNM">{{< amp/img src="/images/socialmedia/linde-video-youtube.png" alt="linde video youtube" width="784" height="488" >}}</a>
 
 Das Video von Linde fasst gut die Idee von Social Media Guidelines
-zusammen. \[1\]. Unterhaltsam ist auch das ähnliche Video von Tchibo:
-[Herr Bohne geht ins Netz](https://www.youtube.com/watch?v=e_mLQ_eWk_o)
-\[2\]
+zusammen. Unterhaltsam ist auch das ähnliche Video von Tchibo:
+[»Herr Bohne geht ins Netz«](https://www.youtube.com/watch?v=e_mLQ_eWk_o).
 
-# Link-Listen mit deutschen Social Media Guidelines
+## Link-Listen mit deutschen Social Media Guidelines
 
-  - [Beispiele: Social Media
+* [Beispiele: Social Media
     Guidelines](http://www.social-media-guidelines.com/beispiele/)
-
-  - [Ausführliche Liste deutscher Social Media
+* [Ausführliche Liste deutscher Social Media
     Guidelines](https://buggisch.wordpress.com/2011/10/12/deutsche-social-media-guidelines/)
 
-# Exemplarische Beispiele für Social Media Guide Lines
+## Exemplarische Beispiele für Social Media Guide Lines
 
-  - Social Media Guidelines Beispiele\[3\]
-
-  - Deutsche Social Media Guidelines\[4\]
-
-  - Social Media Leitfaden für die Caritas\[5\]
-
-  - Social Media Leitfaden Deutsche Post\[6\]
-
-  - Video: Social Media Richtlinien bei Linde\[7\]
-
-  - Video: Social Media Leitfaden
-    Tchibo\[8\]
-
-<!-- end list -->
-
-1.  <https://www.youtube.com/watch?v=TFtNU_yBRNM>
-
-2.  <https://www.youtube.com/watch?v=e_mLQ_eWk_o>
-
-3.  <http://www.social-media-guidelines.com/beispiele/>
-
-4.  <https://buggisch.wordpress.com/2011/10/12/deutsche-social-media-guidelines/>
-
-5.  <http://blog.caritas-webfamilie.de/2011/05/27/social-media-leitfaden-fuer-caritas-entwurf/>
-
-6.  <http://www.dpdhl.com/content/dam/dpdhl/presse/social_media/dpdhl_social_media_guidelines_de.pdf>
-
-7.  <https://www.youtube.com/watch?&v=TFtNU_yBRNM>
-
-8.  <https://www.youtube.com/watch?v=e_mLQ_eWk_o>
+* [Social Media Leitfaden für die Caritas](http://blog.caritas-webfamilie.de/2011/05/27/social-media-leitfaden-fuer-caritas-entwurf/)
+* [Social Media Leitfaden Deutsche Post](http://www.dpdhl.com/content/dam/dpdhl/presse/social_media/dpdhl_social_media_guidelines_de.pdf)
+* [Video: Social Media Richtlinien bei Linde](https://www.youtube.com/watch?&v=TFtNU_yBRNM)
+* [Video: Social Media Leitfaden Tchibo](https://www.youtube.com/watch?v=e_mLQ_eWk_o)

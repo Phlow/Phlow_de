@@ -1,11 +1,13 @@
 ---
-categories : Soziale Netzwerke
-title: "WordPress – Blog-Plattform und Blog-Software"
-date                : 2018-03-09
+categories      : Soziale Netzwerke
+subtitle        : WordPress
+title           : "Blog-Plattform und Blog-Software"
+date            : 2018-03-09
+slug            : wordpress
 ---
 ![WordPress.com Plattform](../images/wordpress-com.jpg)
 
-{{% amp-img src="images/wordpress-com.jpg" width="300" height="100" %}}
+{{< amp/img src="images/wordpress-com.jpg" width="300" height="100" >}}
 
 WordPress ist ein Redaktionssystem, mit dem Sie eine Website aufbauen
 und betreuen können. Dazu müssen Sie keine Programmiersprache lernen

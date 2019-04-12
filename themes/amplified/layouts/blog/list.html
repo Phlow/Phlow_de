@@ -8,6 +8,7 @@
       <div class="mb4">
 
         {{ if .Params.image.title }}
+        <a href="{{.Permalink}}">
           <amp-img
               src="{{ .Site.BaseURL }}{{ .Params.image.title }}"
               alt="{{ .Title }}"
@@ -15,6 +16,7 @@
               height="{{ with .Params.image.title_height }}{{ . }}{{ else }}900{{ end }}"
               layout="responsive">
           </amp-img>
+          </a>
         {{ end }}
 
 

@@ -1,6 +1,7 @@
 ---
-subtitle    : "Static Website Generator"
-title       : "Hugo Variablen"
+subtitle     : "Static Website Generator"
+title        : "Hugo Variablen"
+categories   : hugo
 ---
 ## Variablen
 
@@ -11,12 +12,22 @@ title       : "Hugo Variablen"
 - {{ .Permalink }}
 .Params.param-name
 
-Eigene Variablen
+## Eigene Variablen erstellen
 
 {{ $myVar := value }} // assigns value to $myVar
 {{ $myVar }} // prints $myVar
 
-To add custom global variables.
+## Counter für range-Schleifen
+
+Vor der Schleife legst Du den Wert des Zählers fest:
+
+    {{ $counter := 0 }}
+
+Innerhalb der Schleife erhöhst Du dann den Zähler mit `add $counter 1`.
+
+    {{ $counter = add $counter 1 }}
+
+## Gloabele Variablen erstellen
 
 in your config.toml or theme.toml
 [params]

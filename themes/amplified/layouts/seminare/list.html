@@ -13,21 +13,16 @@
 
       <div class="clearfix mxn2">
         <div class="sm-col sm-col-6 px2">
-
           <h2>WordPress</h2>
 
           <ul class="toc-list">
             {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "wordpress" }}
                 <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}
-
-
-
           </ul>
         </div>
 
         <div class="sm-col sm-col-6 px2">
-
           <h2>Social Media</h2>
 
           <ul class="toc-list">
@@ -39,7 +34,6 @@
 
 
         <div class="sm-col sm-col-6 px2">
-
           <h2>Marketing</h2>
 
           <ul class="toc-list">
@@ -50,7 +44,6 @@
         </div>
 
         <div class="sm-col sm-col-6 px2">
-
           <h2>SEO & Journalismus</h2>
 
           <ul class="toc-list">
@@ -58,7 +51,6 @@
                   <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{ end }}
           </ul>
-
         </div>
       </div>
     </div><!-- /max-width-4 -->

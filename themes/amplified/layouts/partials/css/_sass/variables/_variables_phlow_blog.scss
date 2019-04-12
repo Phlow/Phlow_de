@@ -23,7 +23,7 @@ $ci-4                               : #82cbd0;   // phlow-hell-blau
 $alert-color                        : #cc6666;
 $success-color                      : #b5bd68;
 $warning-color                      : #de935f;
-$info-color                         : #81a2be;
+$info-color                         : #005380;
 // Grey Scale
 $grey-color-super-light             : #f8f8f8;
 $grey-color-light-light             : #f0f0f0;
@@ -49,10 +49,10 @@ $comment: #969896; // Comment
 ------------------------------------------------------------------- */
 
 /* Font Families */
-$base-font-family                  : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family     : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif    : Georgia, "Times New Roman", serif;
 
-$font-family-sans     : Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-sans     : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-mono     : Inconsolata, Menlo, monospace;
 $header-font-family   : "Exo 2", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $header-font-family-h1             : "Open Sans Condensed", "Open Sans", "Neue Helvetica", Arial, serif;

@@ -1,7 +1,8 @@
 ---
-title:  Navigieren im Terminal
-categories : "Ordner und Dateien"
-description : 'Dieses Kapitel erklärt Dir wichtige Begriffe und Konzepte des Terminals und zeigt Dir, wie Du mit Dateien und Ordnern umgehst.'
+title           :  Navigieren im Terminal
+categories      : "Ordner und Dateien"
+description     : 'Dieses Kapitel erklärt Dir wichtige Begriffe und Konzepte des Terminals und zeigt Dir, wie Du mit Dateien und Ordnern umgehst.'
+slug            : datei-ordner-befehle
 ---
 Befehle für Dateien und Ordner :description: Dieses Kapitel erklärt Dir
 wichtige Begriffe und Konzepte des Terminals und zeigt Dir, wie Du mit
@@ -18,14 +19,13 @@ Dazu öffnest Du zuerst einmal das Terminal auf Deinem Mac. Am
 schnellsten geht das, indem Du mit kbd:\[cmd + Leertaste\] Spotlight
 öffnest.
 
-{{< amp-img src="/images/terminal/terminal-spotlight-1.png" width="680" height="56" alt="Spotlight auf dem Mac" >}}
-
+{{< amp/img src="/images/terminal/terminal-spotlight-1.png" width="680" height="56" alt="Spotlight auf dem Mac" >}}
 
 Jetzt tippst Du einfach die Buchstaben `ter` ein und in der Regel sucht
 und zeigt Dir jetzt Spotlight die Terminal-App an. Starte das Terminal
 jetzt mit der Eingabetaste.
 
-{{< amp-img src="/images/terminal/terminal-spotlight-2.png" width="680" height="157" alt="Spotlight auf dem Mac" >}}
+{{< amp/img src="/images/terminal/terminal-spotlight-2.png" width="680" height="157" alt="Spotlight auf dem Mac" >}}
 
 ## Wo befinde ich mich im Terminal?
 

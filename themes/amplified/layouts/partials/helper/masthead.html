@@ -1,5 +1,8 @@
 {{ if .Page.Params.image.header }}
 <div id="masthead">
-    <amp-img src="{{ .Site.BaseURL }}{{ .Page.Params.image.header }}" alt="{{ .Title }}" width="1920" height="823" layout="responsive"></amp-img>
+    <amp-img src="{{ .Site.BaseURL }}{{ .Page.Params.image.header }}" alt="{{ .Title }}"
+    width="{{ if .Page.Params.image.header_weight }}{{ .Page.Params.image.header_weight }}{{ else }}1920{{ end }}"
+    height="{{ if .Page.Params.image.header_height }}{{ .Page.Params.image.header_height }}{{ else }}823{{ end }}"
+    layout="responsive"></amp-img>
 </div>
 {{ end }}

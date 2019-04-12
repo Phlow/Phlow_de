@@ -1,0 +1,17 @@
+<figure{{ with .class }} class="{{ . }}"{{ end }}>
+<amp-img
+    {{ with .src }}src="{{ . }}"{{ end }}
+    {{ if .figcaption }}{{ .figcaption }}{{ else if .alt }}{{ .alt }}{{ end }}
+    {{ with .attribution }}attribution="{{ range (split . " ") }}{{ . }} {{ end }}"{{ end }}
+    {{ with .srcset }}srcset="{{ range (split . " ") }}{{ . }} {{ end }}"{{ end }}
+    {{ with .tabindex }}tabindex="{{ . }}"{{ end }}
+    {{ with .onTap }}on="tap:{{- . -}}"{{ end }}
+    {{ with .role }}role="{{ . }}"{{ end }}
+    {{ with .width }}width="{{ . }}"{{ end }}
+    {{ with .height }}height="{{ . }}"{{ end }}
+    layout="{{ if .layout }}{{ .layout }}{{ else }}responsive{{ end }}">
+</amp-img>
+{{ with .figcaption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>
+
+

@@ -1,0 +1,49 @@
+{{/*
+*
+*  .Params.show muss von einem String in einen Zahlenwert
+*  umgewandelt werden. das passiert mit `int`.
+*
+*/}}
+
+{{/* --- Prüfe, ob es Parameter im Shortcode gibt --- */}}
+{{ if $.Params }}
+
+            {{ $counter := 0 }}
+            {{ $show := int .Params.show }}
+
+            <ul {{ if $.Params.show  }}class="toc-list"{{ else }}{{ end }}>
+              {{ range .Data }}
+                {{/* --- Filter bitte alle Items heraus, die der Kategorie entspreichen --- */}}
+                {{ if eq .network $.Params.category  }}
+
+                  {{/* --- Wenn show gesetzt ist für eine limitierte Schleife aus --- */}}
+                  {{ if $.Params.show  }}
+                    {{ if eq $show $counter }}
+                    {{ else }}
+                      <li>
+                        <a href="{{ .url }}" target="_blank"><span class="monospace">{{ .date }}</span> {{ .title }}</a>
+                      </li>
+                      {{ $counter = add $counter 1 }}
+                    {{ end }}
+
+                  {{ else }}
+
+                    {{/* --- Wenn show NICHT gesetzt ist für eine Schleife aus --- */}}
+                    <li>
+                      <p class="sans"><span class="monospace">{{ .date }}</span> <a href="{{ .url }}" target="_blank">{{ .title }}</a><br>
+                      <p>{{ .description }}</p>
+                    </li>
+                  {{ end }}
+
+                {{ end }}
+              {{ end }}{{/* --- range ende --- */}}
+            </ul>
+
+{{/* --- Es gibt keine Parameter dann liste alles auf --- */}}
+{{ else }}
+  {{ range .Data }}
+    <h2 class="h4"><a href="{{ .url }}" target="_blank">{{ .title }}</a></h2>
+    <p><code>{{ .date }}</code> {{ .description }}</p>
+  {{ end }}{{/* --- range ende --- */}}
+{{ end }}
+

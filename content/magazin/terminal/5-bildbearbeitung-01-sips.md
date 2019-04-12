@@ -117,7 +117,7 @@ anschließend noch einmal ohne Qualitätsverluste zu optimieren. Das
 folgende Video[^1] stellt ImageOptim vor. Das Programm lädst Du über
 <https://imageoptim.com> herunter.
 
-{{< amp-img src="/images/terminal/video-imageoptim.jpg" width="1280" height="720" alt="Video anschauen" >}}
+{{< amp/img src="/images/terminal/video-imageoptim.jpg" width="1280" height="720" alt="Video anschauen" >}}
 Link: <https://www.youtube.com/watch?v=rTZEDv1VDPU>
 
 Der einfachste Weg, *ImageOptim* vom Terminal aus zu starten,

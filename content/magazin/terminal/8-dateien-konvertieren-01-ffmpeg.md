@@ -180,7 +180,7 @@ Und der folgende Befehl wandelt eine mpg- in eine mp4-Datei.
 Um WAV-Dateien in MP3-Dateien umzuwandeln, solltest Du unbedingt die
 Option `-ab` plus einen entsprechenden Wert nutzen. Konvertierst Du mit
 ffmpeg Audiodateien ohne eine Qualitätsangabe komprimiert ffmpeg MP3s
-mit der schlechtesten Qualität: mit .
+mit der schlechtesten Qualität. Also, besser so:
 
     ffmpeg -i song.wav -ab 320k song.mp3
 
@@ -222,7 +222,7 @@ Mittelmaß.
 
 ## GIF-Bilder mit ffmpeg erstellen
 
-{{< amp-img src="/images/terminal/bigbuckbunny.gif" width="480" height="270" alt="Big Buck Bunny – GIF-Bilder mit ffmpeg erstellen" >}}
+{{< amp/img src="/images/terminal/bigbuckbunny.gif" width="480" height="270" alt="Big Buck Bunny – GIF-Bilder mit ffmpeg erstellen" >}}
 
 Der folgende Befehl erstellt eine GIF-Datei mit den gleichen Abmessungen
 wie die Eingabedatei. In der Regel ist das eine schlechte Idee, da GIFs

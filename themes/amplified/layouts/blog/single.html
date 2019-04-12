@@ -1,45 +1,10 @@
 {{ define "main" }}
 
 <article class="clearfix">
-  <header>
-    {{ if .Page.Params.image.title }}
-      <amp-img
-          src="{{ .Site.BaseURL }}{{ .Page.Params.image.title }}"
-          alt="{{ .Title }}"
-          width="{{ with .Page.Params.image.title_width }}{{ . }}{{ else }}1600{{ end }}"
-          height="{{ with .Page.Params.image.title_height }}{{ . }}{{ else }}900{{ end }}"
-          layout="responsive">
-      </amp-img>
-    {{ end }}
-
-    <p class="sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</p>
-    <h1>{{ .Title }}</h1>
-  </header>
-    {{ if in .RawContent "<!-- readmore -->" }}
-      {{ $summary_part := split .RawContent "<!-- readmore -->" }}
-      {{ $summary := index $summary_part 0 }}
-      {{ $summaryHTML := safeHTML $summary }}
-      {{ $summaryHTML := replace $summaryHTML "<p>" "" }}
-      {{ $summaryHTML := replace $summaryHTML "</p>" "" }}
-
-      {{ $summary_content := split .Content "<!-- readmore -->" }}
-      {{ $content := index $summary_content 1 }}
-      {{ $contentHTML := safeHTML $content }}
-
-      {{ if eq $summaryHTML .Content }}
-          {{ .Content }}
-      {{ else }}
-          <p class="h6">{{ $summaryHTML | markdownify }}</p>
-          {{ $contentHTML }}
-      {{ end }}
-    {{ else }}
-      {{ .Content }}
-    {{ end}}
-
-    {{ if eq .Page.Params.Categories "seminare" }}
-    <a class="button" href="{{ "/seminare/programm/" | absURL }}">Seminartermin finden ›</a>
-    {{ end }}
-
+    {{ partial "helper/article-header.html" . }}
+    {{ partial "helper/summary-content.html" . }}
+    {{ partial "helper/tags.html" . }}
+    {{ partial "helper/prevnext.html" . }}
 
 </article><!-- /clearfix -->
 {{ end }}

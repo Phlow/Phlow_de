@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<!-- wrapper --><div>
+  <div class="px3 lg-px4">
+
+    <div class="max-width-2 mx-auto">
+      <article class="clearfix mxn2">
+
+      {{ partial "helper/article-header.html" . }}
+      {{ partial "helper/summary-content.html" . }}
+      <a class="button" href="{{ "/seminare/programm/" | absURL }}">Seminartermin finden ›</a>
+
+      </article><!-- /clearfix -->
+    </div><!-- /max-width-2 -->
+  </div><!-- /padding -->
+</div><!-- /wrapper -->
+{{ end }}

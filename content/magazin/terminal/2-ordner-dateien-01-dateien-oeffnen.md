@@ -1,17 +1,11 @@
 ---
-title:  "Terminal: Dateien öffnen"
-categories : "Ordner und Dateien"
-description : 'Mit dem Kommando open
-öffnet man Dateien direkt über das Terminal in der dazugehörigen
-Anwendung. So funktioniert das Kommando:'
+subtitle        :  "Terminal"
+title           :  "Dateien und Verzeichnisse öffnen"
+categories      : "Ordner und Dateien"
+slug            : dateien-oeffnen
 ---
-mit open :description: Mit dem Kommando open öffnet man Dateien direkt
-über das Terminal in der dazugehörigen Anwendung. So funktioniert das
-Kommando:
+Mit dem Kommando `open` öffnet man Dateien direkt über das Terminal in der dazugehörigen Anwendung. So funktioniert das Kommando:
 <!-- readmore -->
-
-Mit dem Kommando open öffnet man Dateien direkt über das Terminal in der
-dazugehörigen Anwendung. So funktioniert das Kommando:
 
 Wenn Du eine Datei mit der Standardanwendung öffnen möchtest, die diesem
 Dateityp auf Deinem Mac zugeordnet ist, benutzt Du einfach `open` plus
@@ -19,9 +13,17 @@ den Dateinamen.
 
     $ open datei.txt
 
-Du kannst eine Datei auch in anderen Verzeichnissen öffnen.
+Du kannst eine Datei über den Dateipfad auch in anderen »fernen« Verzeichnissen öffnen.
 
-# Öffnen mehrerer Dateien
+## Das Verzeichnis direkt im Finder öffnen
+
+Befindest Du Dich in einem Verzeichnis, dass Du gerne im Finder öffnen willst, dann tippst Du einfach…
+
+    $ open .
+
+…und Finder öffnet das aktuelle Verzeichnis.
+
+## Öffnen mehrerer Dateien
 
 Angenommen, Du hast mehrere Dateien auf der Suche auf Deiner Festplatte
 gefunden. Um alle Dateien gleichzeitig zu öffnen, tippst Du hinter das
@@ -29,7 +31,7 @@ gefunden. Um alle Dateien gleichzeitig zu öffnen, tippst Du hinter das
 
     $ open datei-1 datei-2 datei-3
 
-# Auswahl der Anwendung
+## Auswahl der Anwendung
 
 Nicht immer will man die Standard-Anwendung nutzen. Um das Programm zu
 bestimmen, mit welchem `open` die Datei öffnen soll, steht ein Flag zur

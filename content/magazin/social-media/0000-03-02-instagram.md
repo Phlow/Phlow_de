@@ -1,7 +1,9 @@
 ---
-categories : Soziale Netzwerke
-title: "Instagram – Selfie olé!"
-date                : 2018-03-02
+categories      : Soziale Netzwerke
+subtitle        : "Instagram"
+title           : "Selfie olé!"
+date            : 2018-03-02
+slug            : instragram
 ---
 
 ![instagram 128x](../images/instagram-128x.png)
@@ -46,38 +48,38 @@ Instagram 40 Millionen Nutzer.
 
 # Statistiken zu Instagram
 
-  - 1 Milliarde aktive Nutzer pro Monat weltweit (75% außerhalb der USA
+* 1 Milliarde aktive Nutzer pro Monat weltweit (75% außerhalb der USA
     registriert).\[1\]
 
-  - 15 Mio. Nutzer in Deutschland
+* 15 Mio. Nutzer in Deutschland
 
-  - Die größte Nutzergruppe: 16 - 24 Jahre
+* Die größte Nutzergruppe: 16 - 24 Jahre
 
-  - 40 Mrd. geteilte Bilder seit der Gründung
+* 40 Mrd. geteilte Bilder seit der Gründung
 
-  - 3,5 Mrd. »gelikte« Fotos täglich
+* 3,5 Mrd. »gelikte« Fotos täglich
 
-  - Durchschnittlich werden 80 Millionen Fotos täglich geteilt.
+* Durchschnittlich werden 80 Millionen Fotos täglich geteilt.
 
-  - 60% aller Nutzer verwenden die App täglich
+* 60% aller Nutzer verwenden die App täglich
 
-  - 30% aller Internet-Nutzer haben einen Instagram-Account.
+* 30% aller Internet-Nutzer haben einen Instagram-Account.
 
-  - Zielgruppe/ Nutzer: unter 35 Jahren (90%), meistens weibliche
+* Zielgruppe/ Nutzer: unter 35 Jahren (90%), meistens weibliche
     Nutzer.
 
-  - 50% der Instagram- Nutzer abonnieren Marken: Customer Touch Points.
+* 50% der Instagram- Nutzer abonnieren Marken: Customer Touch Points.
 
-  - 70% der am meisten benutzen Hashtags sind über Marken.
+* 70% der am meisten benutzen Hashtags sind über Marken.
 
-  - 80 Mrd. neue hochgeladene Fotos pro Tag
+* 80 Mrd. neue hochgeladene Fotos pro Tag
 
-  - 75% der Instagram Nutzer kommen nicht aus den USA
+* 75% der Instagram Nutzer kommen nicht aus den USA
 
-  - 35% der unter 19-Jährigen in Deutschland nutzen Instagram, in den
+* 35% der unter 19-Jährigen in Deutschland nutzen Instagram, in den
     USA sind es in der gleichen Altersgruppe nur 19%
 
-  - Instagram hat 2015 weltweit 595 Millionen US-Dollar Umsatz mit
+* Instagram hat 2015 weltweit 595 Millionen US-Dollar Umsatz mit
     Werbung auf mobilen Endgeräten erzielt. Bis 2017 sollen es 2,81
     Milliarden US-Dollar sein
 
@@ -87,76 +89,76 @@ Instagram 40 Millionen Nutzer.
 > Damit haben wir das größte Problem mobiler Fotos besiegt.« – Kevin
 > Systrom, Co-Gründer und CEO von Instagram
 
-  - Schlüssel des Erfolgs ist die einfache Bedienung der App
+* Schlüssel des Erfolgs ist die einfache Bedienung der App
 
-  - Die App ist kostenlos
+* Die App ist kostenlos
 
-  - In wenigen Sekunden legen Nutzer über die einfache
+* In wenigen Sekunden legen Nutzer über die einfache
     Benutzeroberfläche Filter auf ihre Bilder
 
-  - Fertige Bild können mit Hashtags, Bildbeschreibung und Geotag
+* Fertige Bild können mit Hashtags, Bildbeschreibung und Geotag
     versehen werden
 
-  - Bilder werden innerhalb von wenigen Sekunden hochgeladen und können
+* Bilder werden innerhalb von wenigen Sekunden hochgeladen und können
     ohne Umwege auch auf anderen Plattformen geteilt werden – z.B.
     Facebook, Twitter, Tumblr oder E-Mail.
 
-  - Innerhalb der App können andere Nutzer interagieren und die Bilder
+* Innerhalb der App können andere Nutzer interagieren und die Bilder
     »liken«, kommentieren oder weiterleiten.
 
 # Bedeutung von Instagram in Abgrenzung zu anderen sozialen Medien
 
-  - Bilder ersetzen immer häufiger das geschriebene Wort in sozialen
+* Bilder ersetzen immer häufiger das geschriebene Wort in sozialen
     Netzwerken
 
-  - Eines der am schnellsten wachsenden sozialen Medien
+* Eines der am schnellsten wachsenden sozialen Medien
 
-  - Nutzen für Unternehmen: Stützung von Markenbekanntheit, Markenimage,
+* Nutzen für Unternehmen: Stützung von Markenbekanntheit, Markenimage,
     Verlängerung von Kampagnen. Unternehmen erreichen auf Instagram über
     Bilder und kurze Videos Aufmerksamkeit.
 
-  - Instagram weist kontinuierlich ein sehr starkes Wachstum auf
+* Instagram weist kontinuierlich ein sehr starkes Wachstum auf
 
-  - Instagram ist das social Network mit den höchsten Interaktionsraten
+* Instagram ist das social Network mit den höchsten Interaktionsraten
 
-  - Instagram trifft den Zeitgeist und erreicht viele junge User
+* Instagram trifft den Zeitgeist und erreicht viele junge User
 
 # Nachteile von Instagram
 
-  - Nur geringe Möglichkeiten für Angaben in der Beschreibung/Biografie
+* Nur geringe Möglichkeiten für Angaben in der Beschreibung/Biografie
 
-  - Verlinkung ist nur in der Biografie möglich
+* Verlinkung ist nur in der Biografie möglich
 
-  - Links auf externe Quellen nur über Anzeigen möglich
+* Links auf externe Quellen nur über Anzeigen möglich
 
-  - Instagram darf die Bilder von Nutzern zu eigenen Zwecken benutzen
+* Instagram darf die Bilder von Nutzern zu eigenen Zwecken benutzen
 
-  - Unsicherheit bei Einschränkungen/Einstellungen der Privatsphäre
+* Unsicherheit bei Einschränkungen/Einstellungen der Privatsphäre
 
-  - Facebook verfügt nun über die Nutzungs- und Verwaltungsrechte über
+* Facebook verfügt nun über die Nutzungs- und Verwaltungsrechte über
     die auf Instagram geteilten Bilder
 
 # Zehn Tipps für mehr Abonnenten auf Instagram
 
-  - Veröffentlichen Sie kontinuierlich (mindestens einmal am Tag)
+* Veröffentlichen Sie kontinuierlich (mindestens einmal am Tag)
 
-  - Probieren Sie Medienformate wie Videos, Live-Videos und Stories aus
+* Probieren Sie Medienformate wie Videos, Live-Videos und Stories aus
 
-  - Recherchieren und verwenden Sie Qualitäts-Hashtags
+* Recherchieren und verwenden Sie Qualitäts-Hashtags
 
-  - Teilen Sie benutzergenerierte Inhalte
+* Teilen Sie benutzergenerierte Inhalte
 
-  - Koopierieren Sie mit anderen
+* Koopierieren Sie mit anderen
 
-  - Veröffentlichen Sie Beiträge zu Ihren besten Zeiten
+* Veröffentlichen Sie Beiträge zu Ihren besten Zeiten
 
-  - Nutzen Sie die Statistiken
+* Nutzen Sie die Statistiken
 
-  - Kommunizieren und interagieren Sie mit Ihren Fans
+* Kommunizieren und interagieren Sie mit Ihren Fans
 
-  - Veranstalten Sie Wettbewerbe
+* Veranstalten Sie Wettbewerbe
 
-  - Veröffentlichen Sie Ihre Inhalte auf mehren sozialen Kanälen
+* Veröffentlichen Sie Ihre Inhalte auf mehren sozialen Kanälen
     (Cross-Posting)
 
 # Instagram Formate, Pixelgrößen und Dateiformate
@@ -167,17 +169,17 @@ Bilder im Porträt nehmen auf dem Smartphone-Bildschirm den größten Platz
 ein und empfehlen sich darum für maximale Aufmerksamkeit. Das sind
 aktuell die Maße 1080 x 1350 Pixel.
 
-  - **Standardformat** für Instagram Fotos 1080 x 1080 Pixel mit einer
+* **Standardformat** für Instagram Fotos 1080 x 1080 Pixel mit einer
     maximalen Auflösung von 2048 x 2048 Pixel
 
-  - **Story Format** hat das Seitenverhältnis 9:16 mit einer
+* **Story Format** hat das Seitenverhältnis 9:16 mit einer
     FullHD-Auflösung von 1080 x 1920 Pixel
 
-  - **Profilbild** mit einer Größe von 110 x 110 Pixel
+* **Profilbild** mit einer Größe von 110 x 110 Pixel
 
-  - **Landschaft**-Format mit 1080 x 566 Pixel
+* **Landschaft**-Format mit 1080 x 566 Pixel
 
-  - **Porträt** mit 1080 x 1350 Pixel
+* **Porträt** mit 1080 x 1350 Pixel
 
 ## Beste Einstellungen und Maße für das Video-Format
 
@@ -190,26 +192,26 @@ Diese Dimensionen geben Ihnen die maximale Größe auf einem Bildschirm.
 Das beste Instagram-Videoformat ist MP4. Das MP4-Videodateiformat sollte
 diese technischen Spezifikationen enthalten:
 
-  - H.264 Codec
+* H.264 Codec
 
-  - AAC Audio
+* AAC Audio
 
-  - 3500 kbps bitrate für Videos
+* 3500 kbps bitrate für Videos
 
-  - Frame rate of 30 fps (frames per second)
+* Frame rate of 30 fps (frames per second)
 
-  - Maximale Größe eines Videos 15MB
+* Maximale Größe eines Videos 15MB
 
-  - Das Video darf maximal 60 Sekunden lang sein.
+* Das Video darf maximal 60 Sekunden lang sein.
 
-  - Die maximale Videobreite beträgt 1080px (Pixel) Breite
+* Die maximale Videobreite beträgt 1080px (Pixel) Breite
 
 # Instagram Beispiele
 
 ![instagram humans of new
 york](../images/instagram-humans-of-new-york.jpg)
 
-  - [instagram.com/humansofny/](https://www.instagram.com/humansofny/)  
+* [instagram.com/humansofny/](https://www.instagram.com/humansofny/)  
     Der Fotograf Brandon Stanton fragt seine Protagonisten, in der Regel
     ganz normale Bürger, die immer gleichen Fragen. Dazu veröffentlicht
     er ein Foto der Personen. Heraus kommen bewegende private
@@ -217,7 +219,7 @@ york](../images/instagram-humans-of-new-york.jpg)
 
 ![instagram lilmiquela cgi](../images/instagram-lilmiquela-cgi.jpg)
 
-  - [instagram.com/lilmiquela/](https://www.instagram.com/lilmiquela/)  
+* [instagram.com/lilmiquela/](https://www.instagram.com/lilmiquela/)  
     lilmiquela ist keine richtige Person, trotzdem folgenden mehr als
     eine Million Mensche den computer-generierten Bildern. Die Macher
     hinter den Bildern vermischen oft Realität – richtige Personen – mit
@@ -225,42 +227,42 @@ york](../images/instagram-humans-of-new-york.jpg)
     »Influcenern« und verdient womöglich bereits Geld mit Product
     Placement.
 
-  - [instagram.com/marcinho11/](https://www.instagram.com/marcinho11/)  
+* [instagram.com/marcinho11/](https://www.instagram.com/marcinho11/)  
     Instagram-Profil des Fußballspielers Marco Reus.
 
-  - [instagram.com/reuters/](https://www.instagram.com/reuters/)  
+* [instagram.com/reuters/](https://www.instagram.com/reuters/)  
     Die Nachrichtenagentur Reuters kombiniert professionelle Fotografie
     mit Kurznachrichten in seinen Instagram-Postings.
 
-  - [instagram.com/cnn/](https://www.instagram.com/cnn/)  
+* [instagram.com/cnn/](https://www.instagram.com/cnn/)  
     Der Nachrichtensender CNN kombiniert professionelle Fotografie und
     Videos mit Kurznachrichten in seinen Instagram-Postings.
 
-  - [instagram.com/greenpeace/](http://instagram.com/greenpeace/)  
+* [instagram.com/greenpeace/](http://instagram.com/greenpeace/)  
     Greepeace versucht Menschen über Instagram zu informieren und zu
     motivieren mitzumachen. Dafür mischt Greenpeade Berichterstattung
     mit kleinen persönlichen Stories.
 
 ![instagram spacex](../images/instagram-spacex.png)
 
-  - [instagram.com/spacex/](https://www.instagram.com/spacex/)  
+* [instagram.com/spacex/](https://www.instagram.com/spacex/)  
     Marketing-Kanal von Space X, einem US-amerikanisches Unternehmen,
     das in der privaten Raumfahrtindustrie aktiv ist.
 
 ## Weitere Beispiele
 
-  - [Роскосмос/Roscosmos –
+* [Роскосмос/Roscosmos –
     instagram.com/roscosmosofficial/](https://www.instagram.com/roscosmosofficial/)
 
-  - [Künstler –
+* [Künstler –
     instagram.com/banksy/](http://instagram.com/banksy/)
 
-  - [instagram.com/generalelectric/](https://www.instagram.com/generalelectric/)
+* [instagram.com/generalelectric/](https://www.instagram.com/generalelectric/)
 
-  - [National Geographics](https://www.instagram.com/natgeo/) mit mehr
+* [National Geographics](https://www.instagram.com/natgeo/) mit mehr
     als 63 Mio. Abonnenten
 
-  - [Ben and Jerry’s](https://www.instagram.com/benandjerrys/) mit mehr
+* [Ben and Jerry’s](https://www.instagram.com/benandjerrys/) mit mehr
     als 675 Tsd.
     Abonnenten
 

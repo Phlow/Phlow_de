@@ -25,7 +25,7 @@ alle Unterschiede für alle Textdateien zeilenweisen aus.
 
 ## Unterschiede nebeneinander anzeigen
 
-{{< amp-img src="/images/terminal/vergleichen-1.png" width="960" height="381" alt="Dateien nebeneinander vergleichen mit diff" >}}
+{{< amp/img src="/images/terminal/vergleichen-1.png" width="960" height="381" alt="Dateien nebeneinander vergleichen mit diff" >}}
 
 Wenn es viele Unterschiede zwischen den Dateien und Ordnern gibt, wird
 die Darstellung schnell verwirrend. Mehr Übersicht erzielst Du mit der

@@ -1,5 +1,9 @@
 ---
 subtitle    : "Fakten, Tipps und Tricks, Tutorials und hilfreiche Apps"
-title       : "Social Media"
+title       : "Social Media Leitfaden"
 meta_title  : "Social Media – Fakten, Tipps und Tricks, Tutorials und hilfreiche Apps"
+image:
+  header    : images/socialmedia/startbild-social-media-leitfaden.jpg
 ---
+Dieser Leitfaden komplettiert meine Social Media Seminare. An dieser Stelle findest Du aktuelle Fakten, Entwicklungen und Beschreibungen der sozialen Netzwerke.
+<!-- readmore -->

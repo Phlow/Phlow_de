@@ -1,0 +1,432 @@
+#- title       : ''
+#  url         : 
+#  description : ''
+#  network     : 
+#  date        : 
+
+- title       : '"Momo Challenge": Polizei warnt vor Kettenbrief auf Whatsapp'
+  url         : https://www.nytimes.com/2019/03/10/style/what-is-tik-tok.html
+  description : 'In München soll ein 13-jähriges Mädchen im Zusammenhang mit der "Momo Challenge" fast zu Tode gekommen sein. Nun warnt die Polizei vor dem Kettenbrief.'
+  network     : news
+  date        : 2019-03-14
+
+- title       : 'How TikTok Is Rewriting the World'
+  url         : https://www.nytimes.com/2019/03/10/style/what-is-tik-tok.html
+  description : 'Großartiger Artikel in der New York Times, der das TikTok-Phänomen bzw. die Arbeitsweise der chinesischen Social Media-App erklärt.'
+  network     : tiktok
+  date        : 2019-03-10
+
+- title       : '»Zuckerbergs Datenschutz-Essay zeigt, dass die Macht von Facebook zu groß ist«'
+  url         : https://www.heise.de/newsticker/meldung/Zuckerbergs-Datenschutz-Essay-zeigt-dass-die-Macht-von-Facebook-zu-gross-ist-4329539.html
+  description : 'Facebook will mehr Wert auf Privatsphäre legen, behauptet sein Gründer. Doch in der Rolle als reuiger Sünder ist er nicht überzeugend, findet Konstantin Kakaes.'
+  network     : facebook
+  date        : 2019-03-08
+
+- title       : 'Computerspielsucht: 465.000 auffällige Kinder und Jugendliche'
+  url         : https://www.heise.de/newsticker/meldung/Computerspielsucht-465-000-auffaellige-Kinder-und-Jugendliche-4326295.html
+  description : 'Computerspiele sind Teil der Jugendkultur. Aber können sie auch ungesund für Kinder sein? Manche Experten sehen die Sache deutlich anders als die Spielebranche.'
+  network     : studien
+  date        : 2019-03-05
+
+- title       : 'Teenies in sozialen Medien – Daumen hoch fürs Puppengesicht'
+  url         : http://www.spiegel.de/kultur/gesellschaft/instagram-so-bearbeiten-teenies-ihre-fotos-fuer-likes-a-1252263.html
+  description : 'Für ein Fotoprojekt sollten Jugendliche ihre Porträts "Social-Media-tauglich" retuschieren. Das Experiment zeigt: Der Einfluss von Instagram und Co. auf das Selbstbild von Teenies ist gewaltig.'
+  network     : instagram
+  date        : 2019-03-02
+
+- title       : 'Delete your account: leaving Facebook can make you happier, study finds'
+  url         : https://www.theguardian.com/technology/2019/feb/01/facebook-mental-health-study-happiness-delete-account
+  description : 'Eine neue Studie aus Stanford und NYU zeigt, dass die Abmeldung zu "kleinen, aber signifikanten Verbesserungen des Wohlbefindens" führt.'
+  network     : facebook
+  date        : 2019-02-21
+
+- title       : 'YouTube: Werbeboykott wegen pädophiler Kommentare in Kindervideos'
+  url         : https://www.heise.de/newsticker/meldung/YouTube-Werbeboykott-wegen-paedophiler-Kommentare-in-Kindervideos-4315125.html
+  description : 'Einige Werbekunden schalten keine Werbung mehr auf YouTube. Ihre Werbung war in Videos aufgetaucht, die von Pädophilen kommentiert wurden.'
+  network     : youtube
+  date        : 2019-02-21
+
+- title       : 'Vor fünf Jahren kaufte Facebook WhatsApp – wie geht es weiter?'
+  url         : https://www.heise.de/newsticker/meldung/Vor-fuenf-Jahren-kaufte-Facebook-WhatsApp-wie-geht-es-weiter-4312349.html
+  description : 'Vor fünf Jahren übernahm Facebook den populären Messenger WhatsApp – eine kluge Entscheidung. Doch wie geht es künftig weiter? Werden die Dienste bald eins?'
+  network     : facebook
+  date        : 2019-02-19
+
+- title       : 'Sexualisierte Kindervideos bei Youtube weiterhin ein Problem'
+  url         : https://www.heise.de/newsticker/meldung/Sexualisierte-Kindervideos-bei-Youtube-weiterhin-ein-Problem-4312518.html
+  description : 'Youtube bekommt das Problem von sexualisierten Kindervideos nicht in den Griff. Ein Youtuber zeigt, wie einfach es die Plattform pädophilen Nutzern macht.'
+  network     : youtube
+  date        : 2019-02-19
+
+- title       : 'Vortäuschung: Wie Selfie-Dysmorphie Menschen dazu bringt, sich operieren zu lassen.'
+  url         : https://www.theguardian.com/lifeandstyle/2019/jan/23/faking-it-how-selfie-dysmorphia-is-driving-people-to-seek-surgery
+  description : 'Artikel über die Gefahr von Filtern und Selfies'
+  network     : snapchat
+  date        : 2019-01-23
+
+- title       : 'Studie zur Mediennutzung: Deutsche verbringen täglich 634 Minuten mit audiovisuellen Medien'
+  url         : https://www.heise.de/newsticker/meldung/Studie-zur-Mediennutzung-Deutsche-verbringen-taeglich-634-Minuten-mit-audiovisuellen-Medien-4284840.html
+  description : 'Deutsche nutzten Medien 2018 rund zehneinhalb Stunden täglich wie aus einer Studie des Verbands für private Medien Vaunet hervorgeht.'
+  network     : studien
+  date        : 2019-01-21
+
+- title       : 'Depressionen bei Mädchen im Zusammenhang mit einer stärkeren Nutzung von Social Media'
+  url         : https://www.theguardian.com/society/2019/jan/04/depression-in-girls-linked-to-higher-use-of-social-media
+  description : 'Die Forschung deutet darauf hin, dass der Zusammenhang zwischen Social Media Nutzung und depressiven Symptomen für Mädchen stärker war als für Jungen.'
+  network     : studien
+  date        : 2019-01-04
+
+- title       : 'Zwei Drittel sagen: Kinder und Jugendliche zu lang am Handy'
+  url         : https://www.heise.de/newsticker/meldung/Zwei-Drittel-sagen-Kinder-und-Jugendliche-zu-lang-am-Handy-4259118.html
+  description : 'Kurz vor dem Fest hatte die Bundesdrogenbeauftragte Marlene Mortler die Familien zum Handy-Verzicht über die Feiertage aufgerufen.'
+  network     : studien
+  date        : 2019-01-02
+
+- title       : 'Instagram unterstützt ab sofort auch Sprachnachrichten'
+  url         : https://www.heise.de/newsticker/meldung/Instagram-unterstuetzt-ab-sofort-auch-Sprachnachrichten-4247833.html
+  description : 'Das zu Facebook gehörende Netzwerk Instagram erlaubt nun auch den Versand von Sprachnachrichten in Gruppen und Privatchats.'
+  network     : instagram
+  date        : 2019-01-02
+
+- title       : 'JIM-Studie 2018'
+  url         : https://www.mpfs.de/studien/jim-studie/2018/
+  description : 'Der Siegeszug von Netflix und Co. bei den Jugendlichen hält an. Die Hälfte der Zwölf- bis 19-Jährigen schaut regelmäßig Sendungen, Serien und Filme bei Netflix (47 %), jeder Fünfte nutzt Amazon Prime Video (22 %). Damit hat sich der Anteil regelmäßiger Netflix-Nutzer im Vergleich zum Vorjahr fast verdoppelt (2017: 26 %). Weiterer Gewinner bei den Jugendlichen ist Spotify, erstmals verzeichnet die Musiknutzung über Spotify einen höheren Anteil regelmäßiger Nutzer als die Musiknutzung live im Radio.'
+  network     : studien
+  date        : 2018-12-01
+
+- title       : 'Jugendliche lieben Netflix und WhatsApp – keiner mag Facebook'
+  url         : https://www.heise.de/newsticker/meldung/Jugendliche-lieben-Netflix-und-WhatsApp-keiner-mag-Facebook-4234532.html
+  description : 'Bei Jugendlichen in Deutschland ist das lineare Fernsehen ziemlich out – viel lieber streamen sie Serien und Filme bei Netflix, Amazon und in diversen Mediatheken. Fast jeder zweite Jugendliche schaut regelmäßig Netflix, jeder Fünfte nutzt Amazon Prime. Der Anteil der regelmäßigen Netflix-Nutzer hat sich im Vergleich zum Vorjahr verdoppelt. Auch beim Musikkonsum ist Streaming äußerst beliebt bei den Jugendlichen: Erstmals hören mehr junge Leute Musik bei Spotify als live im Radio.'
+  network     : facebook
+  date        : 2018-12-01
+
+- title       : 'Quitting Instagram: She’s one of the millions disillusioned with social media. But she also helped create it.'
+  url         : https://www.washingtonpost.com/technology/2018/11/14/quitting-instagram-shes-one-millions-disillusioned-with-social-media-she-also-helped-create-it/
+  description : 
+  network     : instagram
+  date        : 2018-11-30
+
+- title       : 'Swiss hotels are hiring Instagram “sitters” to post photos for you'
+  url         : https://qz.com/1475378/swiss-hotels-are-hiring-instagram-sitters-to-post-photos-for-you/
+  description : 'Eine Hotelkette in der Schweiz bietet einen neuen Service an: einen "Social Media Sitter", der den Urlaub eines Gastes fotografiert und in seinem Namen in Instagram veröffentlicht. Das ist die Welt, in der wir jetzt alle leben.'
+  network     : news
+  date        : 2018-11-30
+
+- title       : 'Cybermobbing in Hessen: Schüler montieren Gesichter ihrer Lehrer in Pornos'
+  url         : http://www.spiegel.de/lebenundlernen/schule/heppenheim-schueler-montieren-gesichter-ihrer-lehrer-in-pornos-a-1240794.html
+  description : 'In Heppenheim haben Gymnasiasten heimlich Fotos von Lehrern gemacht und in Pornoszenen eingebaut. Wie sollen Schulen mit Cybermobbing umgehen, wenn es die eigenen Lehrkräfte trifft?'
+  network     : news
+  date        : 2018-11-28
+
+- title       : 'Social-Credit-System könnte China etwas weniger repressiv machen'
+  url         : https://www.heise.de/newsticker/meldung/Kommentar-Social-Credit-System-koennte-China-weniger-repressiv-machen-4158782.html
+  description : 'Immer aufdringlichere Überwachungstechnik könnte in China paradoxerweise die bürgerlichen Freiheiten stärken.'
+  network     : news
+  date        : 2018-11-24
+
+- title       : '"Social Scoring": Ab 2020 Punktesystem für vorbildliches Verhalten in Peking'
+  url         : https://www.heise.de/newsticker/meldung/Social-Scoring-Ab-2020-Punktesystem-fuer-vorbildliches-Verhalten-in-Peking-4231644.html
+  description : 'Die chinesische Hauptstadt Peking will 2020 ein Punktesystem einführen, um die "persönliche Vertrauenswürdigkeit" der 22 Millionen Einwohner bewerten zu können. Das hat die lokale Verwaltung angekündigt und zumindest einige Details dieser lokalen Ausprägung des "Social Scorings" erläutert, berichtet Reuters.'
+  network     : news
+  date        : 2018-11-24
+
+- title       : 'Das Wachstum der sozialen Medien ist in den USA - dem wertvollsten Markt - vorbei.'
+  description : 'Social Media Unternehmen wachsen nicht mehr so schnell wie früher. In einigen Fällen wachsen sie überhaupt nicht. In den Vereinigten Staaten ist es für sie noch schlimmer: Sie schrumpfen. Facebook, Twitter und Snapchat fügen in den Vereinigten Staaten keine neuen Nutzer mehr hinzu. Die tägliche Nutzerzahl von Facebook ist in den letzten drei Quartalen unverändert geblieben. Twitter und Snapchat haben beide Nutzer in den USA bzw. Nordamerika verloren.'
+  url         : https://www.recode.net/2018/11/5/18043528/social-media-growth-facebook-twitter-snap
+  network     : news
+  date        : 2018-11-22
+
+- title       : 'Inside the Pricey War to Influence Your Instagram Feed'
+  description : 'Ausführlicher Artikel über Vorgehensweise und Zahlungen an Influencer.'
+  url         : https://wired.com/story/pricey-war-influence-your-instagram-feed/
+  network     : news
+  date        : 2018-11-15
+
+- title       : 'Facebook reportedly discredited critics by linking them to George Soros'
+  description : 'Angesichts einer Reihe von Krisen engagierte Facebook eine PR-Firma, um Verschwörungstheorien über den Milliardär voranzutreiben, berichtet die New York Times'
+  url         : https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis
+  network     : facebook
+  date        : 2018-11-15
+
+- title       : 'Video-App Lasso: Facebook wirbt mit TikTok-Klon um Teenager'
+  description : 'Facebook kämpft mit Lasso, einem TikTok-Klon, um Teenager in seinem sozialen Netzwerk. Die still und leise veröffentlichte App gibt es vorerst nur in den USA.'
+  url         : https://www.heise.de/newsticker/meldung/Video-App-Lasso-Facebook-wirbt-mit-TikTok-Klon-um-Teenager-4218412.html
+  network     : facebook
+  date        : 2018-11-10
+
+- title       : 'Half of YouTube viewers use it to learn how to do things they’ve never done'
+  description : 'Eine neue Pew-Studie, die 2018 4.594 Amerikaner befragte, ergab, dass 51 Prozent der YouTube-Nutzer angaben, sich auf den Videodienst zu verlassen, um herauszufinden, wie man neue Dinge tut, und der Service erwies sich sowohl für normale Nutzer als auch für unregelmäßige Nutzer als wichtig. "Das entspricht 35 Prozent aller erwachsenen US-Bürger, sobald sowohl Benutzer als auch Nicht-Nutzer der Website berücksichtigt werden", heißt es in der Studie.'
+  url         : https://www.theverge.com/2018/11/7/18071992/youtube-pew-study-education-news-childrens-videos
+  network     : youtube
+  date        : 2018-11-08
+
+- title       : 'Overview and Key Findings of the Digital News Report 2018'
+  description : 'Der diesjährige Bericht enthält Anzeichen von Hoffnung für die Nachrichtenindustrie. Der Wandel liegt in der Luft, da viele Medienunternehmen ihre Modelle auf qualitativ hochwertigere Inhalte und mehr Wert auf die Bezahlung der Leser legen.'
+  url         : http://www.digitalnewsreport.org/survey/2018/overview-key-findings-2018/
+  network     : studien
+  date        : 2018-10-04
+
+- title       : 'PDF-Download des Digital News Reports (Reuters Institute/Oxford University)'
+  url         : http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf
+  network     : studien
+  date        : 2018-10-04
+
+- title       : 'Untersuchung: Facebook nutzt 2FA-Telefonnummer für Werbung'
+  description : 'Eigentlich soll 2-Faktor-Authentifizierung die Sicherheit verbessern, auch auf Facebook. Das Portal nutzt sie aber wohl auch, um Werbung zielgenauer zu machen.'
+  url         : https://www.heise.de/newsticker/meldung/Untersuchung-Facebook-nutzt-2FA-Telefonnummer-fuer-Werbung-4178145.html
+  network     : facebook
+  date        : 2018-09-28
+
+- title       : 'As Germans Seek News, YouTube Delivers Far-Right Tirades'
+  description : 'NY Times-Artikel über den YouTube-Algorithmus und wie dieser Hass und rechtes Gedankengut auf YouTube hervorhebt.'
+  url         : https://www.nytimes.com/2018/09/07/world/europe/youtube-far-right-extremism.html
+  network     : YouTube
+  date        : 2018-09-13
+
+- title       : 'BRAVO-Mediennutzungsstudie 2018 '
+  description : 'Die Umfrageergebnisse der „Mediennutzungsstudie 2018“ basieren auf einer Erhebung im Youth Insight Panel der Bauer Media Group, bei der 863 Mädchen und Jungen im Alter von zehn bis 19 Jahren teilgenommen haben.'
+  url         : https://www.bauermedia.com/presse/newsroom/artikel/generation-z-medienprofis-auf-allen-kanaelen-bravo-praesentiert-mediennutzungsstudie-medienkos/controller/2018/8/13/
+  network     : studien
+  date        : 2018-08-14
+
+- title       : 'We Analyzed 43 Million Facebook Posts From the Top 20,000 Brands (New Research)'
+  url         : https://blog.bufferapp.com/facebook-marketing-strategy
+  description : 'Fünf Ergebnisse: 1. Die Top-Facebook-Pages posten viel mehr als früher. 2. Das Gesamtengagement der für Facebook-Seiten nimmt ab. 3. Facebook-Engagement für Videos, Bilder und Links nimmt ab. 4. Fünfmaliges Posten pro Tag führte zu höchstem Gesamtengagement. 5. Die Kategorien der Top-Pages erlebten einen Rückgang des Engagements um 49-70%.'
+  network     : facebook
+  date        : 2018-08-07
+
+- title       : 'Instagram veröffentlicht Lite-Version seiner App'
+  url         : https://www.heise.de/newsticker/meldung/Instagram-veroeffentlicht-Lite-Version-seiner-App-4093848.html
+  network     : instagram
+  date        : 2018-06-28
+
+- title       : 'Social Media Studie 2018: Neue Zahlen für die Schweiz'
+  url         : https://www.mcschindler.com/2018/06/19/social-media-studie-2018-neue-zahlen-fuer-die-schweiz/
+  network     : studien
+  date        : 2018-06-27
+
+- title       : 'Stories – auf den Spuren eines neuen Medienformats'
+  url         : http://mobile-journalism.com/2018/06/stories-auf-den-spuren-eines-neues-medienformats/
+  network     : instagram
+  date        : 2018-06-25
+
+- title       : 'Wie sich Instagram journalistisch nutzen lässt'
+  description : 'Instagram und Journalismus – passt das zusammen? Ja, ziemlich gut sogar, finden Medien wie National Geographic, die BBC oder die New York Times. Während hierzulande viele Publisher noch zögern, hat man vor allem im angelsächsischen Raum begonnen, innovative Formen für visuelles Storytelling auf Instagram zu entwickeln.'
+  url         : https://freelens.com/social-media/wie-sich-instagram-journalistisch-nutzen-laesst/
+  network     : instagram
+  date        : 2018-06-23
+
+- title       : 'IGTV – Instagram TV'
+  url         : https://instagram-press.com/blog/2018/06/20/welcome-to-igtv/
+  network     : instagram
+  date        : 2018-06-20
+
+- title       : 'YouTube, Instagram and Snapchat are the most popular online platforms among teens'
+  url         : http://www.pewinternet.org/2018/05/31/teens-social-media-technology-2018/pi_2018-05-31_teenstech_0-01/
+  network     : studien
+  date        : 2018-05-18
+
+- title       : 'How the Financial Times uses Instagram Stories as a traffic driver'
+  url         : https://digiday.com/media/financial-times-uses-instagram-drive-subscribers/
+  network     : instagram
+  date        : 2018-05-18
+
+- title       : 'What 7 Creepy Patents Reveal About Facebook'
+  url         : https://www.nytimes.com/interactive/2018/06/21/opinion/sunday/facebook-patents-privacy.html
+  network     : facebook
+  date        : 2018-06-22
+
+- title       : 'YouTube Music and YouTube Premium launch in 17 countries: It’s all here'
+  url         : https://youtube.googleblog.com/2018/06/youtube-music-and-youtube-premium.html
+  network     : youtube
+  date        : 2018-06-18
+
+- title       : 'Here Are 18 Things You Might Not Have Realized Facebook Tracks About You'
+  url         : https://www.buzzfeed.com/nicolenguyen/here-are-18-things-you-might-not-have-realized-facebook?utm_term=.xi09enABj#.ypqqb0w3n
+  network     : facebook
+  date        : 2018-06-18
+
+- title       : 'So viel gibt die Regierung für Werbung auf Instagram, Facebook und YouTube aus'
+  url         : https://motherboard.vice.com/de/article/4358d3/so-viel-gibt-die-regierung-fuer-werbung-auf-facebook-instagram-und-youtube-aus-sponsored-posts
+  network     : Bericht
+  date        : 2018-06-18
+
+- title       : 'Facebook-Fanseiten sind zusammen mit Facebook für den Schutz von Nutzerdaten verantwortlich'
+  url         : https://www.tagesschau.de/wirtschaft/faq-eugh-fb-103.html
+  network     : facebook
+  date        : 2018-06-05
+
+- title       : 'How Instagram’s algorithm works'
+  url         : https://techcrunch.com/2018/06/01/how-instagram-feed-works/
+  network     : instagram
+  date        : 2018-06-01
+
+- title       : 'Smartphone use during family time may affect your kids’ behaviour: Study'
+  url         : https://www.financialexpress.com/lifestyle/smartphone-use-during-family-time-may-affect-your-kids-behaviour-study/1206253/
+  network     : studien
+  date        : 2018-06-14
+
+- title       : 'Behind the Messy, Expensive Split Between Facebook and WhatsApp’s Founders'
+  url         : https://www.wsj.com/articles/behind-the-messy-expensive-split-between-facebook-and-whatsapps-founders-1528208641
+  network     : whatsapp
+  date        : 2018-06-05
+
+- title       : 'Teens are abandoning Facebook in dramatic numbers, study finds'
+  url         : https://www.theguardian.com/technology/2018/jun/01/facebook-teens-leaving-instagram-snapchat-study-user-numbers
+  network     : facebook
+  date        : 2018-06-01
+
+- title       : 'Journalistische Inhalte mit Instagram Stories erzählen'
+  url         : https://www.youtube.com/watch?v=E0fChBDq4E4
+  network     : instagram
+  date        : 2018-05-18
+
+- title       : 'Selfies, bitte! Neuer Museums-Typ in USA giert nach Instagram'
+  url         : https://m.heise.de/newsticker/meldung/Selfies-bitte-Neuer-Museums-Typ-in-USA-giert-nach-Instagram-4046377.html
+  network     : instagram
+  date        : 2018-05-11
+
+- title       : 'Why »Stories« Took Over Your Smartphone'
+  url         : https://www.theatlantic.com/technology/archive/2018/05/smartphone-stories-snapchat-instagram-facebook/559517/
+  network     : 2018-05-03
+  date        : Instagram
+
+- title       : 'CGI ‘Influencers’ Like Lil Miquela Are About to Flood Your Feeds'
+  url         : https://www.wired.com/story/lil-miquela-digital-humans/
+  network     : instagram
+  date        : 2018-05-01
+
+- title       : 'How BBC News is experimenting with Instagram Stories to engage younger audiences'
+  url         : https://www.journalism.co.uk/news/bbc-news-experiments-with-instagram-stories-to-engage-younger-audiences-/s2/a697503/
+  network     : instagram
+  date        : 2018-01-03
+
+- title       : 'WhatsApp erhöht Mindestalter für Nutzung auf 16 Jahre'
+  url         : https://m.heise.de/newsticker/meldung/WhatsApp-erhoeht-Mindestalter-fuer-Nutzung-auf-16-Jahre-4032761.html
+  network     : whatsapp
+  date        : 2018-04-15
+
+
+- title       : 'Zeynep Tufekci: Again, this isn’t a community; this is a regime of one-sided, highly profitable surveillance, carried out on a scale that has made Facebook one of the largest companies in the world by market capitalization.'
+  url         : https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/
+  network     : facebook
+  date        : 2018-04-06
+
+- title       : 'How Trump Consultants Exploited the Facebook Data of Millions'
+  url         : https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html
+  network     : facebook
+  date        : 2018-03-23
+
+- title       : 'Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach'
+  url         : https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election
+  network     : facebook
+  date        : 2018-03-17
+
+- title       : 'WhatsApp Could Shake Up Digital Payments in India'
+  url         : https://www.bloomberg.com/news/articles/2018-03-13/whatsapp-stirs-up-india-market-with-push-into-digital-payments
+  network     : whatsapp
+  date        : 2018-03-13
+
+- title       : 'Neue Twitter-Funktion: Nutzer können nun Lesezeichen setzen'
+  url         : https://www.derwesten.de/leben/digital/neue-twitter-funktion-nutzer-koennen-nun-lesezeichen-setzen-id213581485.html
+  network     : twitter
+  date        : 2018-02-28
+
+- title       : 'An Whatsapp führt kaum ein Weg vorbei'
+  url         : http://www.horizont.net/medien/nachrichten/Mediennutzung-der-Generation-Z-An-Whatsapp-fuehrt-kaum-ein-Weg-vorbei-165372
+  network     : whatsapp
+  date        : 2018-03-06
+
+- title       : 'Everything You Need to Know About Using Facebook Groups for Business'
+  url         : https://blog.hootsuite.com/facebook-groups-business/
+  network     : facebook
+  date        : 2017-12-11
+
+- title       : How Facebook Figures Out Everyone You’ve Ever Met
+  url         : https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691
+  network     : facebook
+  date        : 2017-11-07
+
+- title       : 'Facebook’s newsfeed changes: a disaster or an opportunity for news publishers?'
+  url         : http://blogs.lse.ac.uk/polis/2018/01/12/facebooks-newsfeed-changes-a-disaster-or-an-opportunity-for-news-publishers/
+  network     : facebook
+  date        : 2018-01-12
+
+- title       : 'Instagram-Hacks: 44 Tricks und Funktionen, die Sie vielleicht doch noch nicht kennen'
+  url         : https://blog.hootsuite.com/de/44-instagram-tricks-und-funktionen/
+  network     : instagram
+  date        : 2018-02-02
+
+- title       : '5 metrics every YouTube marketer needs to track'
+  url         : https://thenextweb.com/contributors/2018/01/09/5-things-every-youtube-marketer-needs-track/
+  network     : youtube
+  date        : 2018-01-09
+
+- title       : 'Introducing Stories Highlights and Stories Archive'
+  url         : http://blog.instagram.com/post/168221445012/171205-highlights
+  network     : instagram
+  date        : 2017-12-05
+
+- title       : 'ARD/ZDF-Onlinestudie 2017'
+  url         : http://www.ard-zdf-onlinestudie.de/
+  network     : studien
+  date        : 2017-10-11
+
+- title       : 'Öffentliche Facebook Instagram Gruppe Alles rund um Instagram'
+  url         : https://www.facebook.com/groups/341937702660752/
+  network     : facebook
+
+- title       : 'Kampagnen-Check: Wie Aldi Süd, Milka und Ikea zu Weihnachten auf Influencer setzen'
+  url         : https://onlinemarketing.de/news/kampagnen-check-influencer-marketing-weihnachten-2017
+  network     : facebook
+  date        : 2017-12-18
+
+- title       : 'Links in Instagram: So geht es auch ohne verifizierten Account'
+  url         : https://allfacebook.de/instagram/instagram_story_links
+  network     : instagram
+  date        : 2017-05-26
+
+- title       : 'Twitch-Streams: Gronkh bekommt eine Rundfunklizenz'
+  url         : https://m.heise.de/newsticker/meldung/Twitch-Streams-Gronkh-bekommt-eine-Rundfunklizenz-3941102.html
+  network     : youtube
+  date        : 2018-01-15
+
+- title       : 'Facebook-Gruppen: Das grandios verkannte Kommunikationsinstrument'
+  url         : https://www.kerstin-hoffmann.de/pr-doktor/facebook-gruppen-kommunikation-verkannt/
+  network     : facebook
+  date        : 2017-06-17
+
+- title       : 'Ofcom Communications Market Report 2017'
+  url         : https://www.ofcom.org.uk/research-and-data/multi-sector-research/cmr/cmr-2017
+  network     : studien
+  date        : 2017-01-01
+
+- title       : 'State of the News Media'
+  url         : http://www.pewresearch.org/topics/state-of-the-news-media/
+  network     : studien
+  date        : 2017-01-01
+
+- title       : 'ComScore’s 2017 U.S. Mobile App Report'
+  url         : http://www.comscore.com/Insights/Presentations-and-Whitepapers/2017/The-2017-US-Mobile-App-Report
+  network     : studien
+  date        : 2017-08-24
+
+- title       : 'Reuters/Oxford Digital Report for 2017'
+  url         : http://www.digitalnewsreport.org/survey/2017/overview-key-findings-2017/
+  network     : studien
+  date        : 2017-01-01
+
+- title       : 'Ericsson Mobility Report 2017'
+  url         : https://www.ericsson.com/assets/local/mobility-report/documents/2017/ericsson-mobility-report-june-2017.pdf
+  network     : studienn
+  date        : 2017-06-01
+
+- title       : 'Mary Meeker’s 2017 Internet Trends'
+  url         : http://www.kpcb.com/internet-trends
+  network     : studien
+  date        : 2017-05-30
+
+- title       : 'We Are Social’s 2017 Report'
+  url         : https://www.slideshare.net/wearesocialsg/digital-in-2017-global-overview
+  network     : studien
+  date        : 2017-01-24

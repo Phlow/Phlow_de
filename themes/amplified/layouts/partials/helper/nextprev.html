@@ -1,0 +1,11 @@
+
+<div class="center mt4">
+{{ with .NextInSection }}
+  <a class="small button" href="{{ .Permalink }}" title="Nächster Beitrag – {{ .Title }}">‹ {{ .Title | safeHTML | truncate 20 }}</a>
+{{ end }}
+
+
+{{ with .PrevInSection }}
+  <a class="small button" href="{{ .Permalink }}" title="Vorheriger Beitrag – {{ .Title }}">{{ .Title | safeHTML | truncate 20 }} ›</a>
+{{ end }}
+</div>

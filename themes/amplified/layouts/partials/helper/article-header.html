@@ -1,0 +1,19 @@
+<header>
+  {{ if .Page.Params.image.title }}
+  <figure class="mt0">
+    <amp-img
+        src="{{ .Site.BaseURL }}{{ .Page.Params.image.title }}"
+        alt="{{ .Title }}"
+        width="{{ with .Page.Params.image.title_width }}{{ . }}{{ else }}1600{{ end }}"
+        height="{{ with .Page.Params.image.title_height }}{{ . }}{{ else }}900{{ end }}"
+        layout="responsive">
+    </amp-img>
+    {{ if .Page.Params.image.caption }}<figcaption>{{ .Page.Params.image.caption }}</figcaption>{{ end }}
+  </figure>
+  {{ end }}
+
+    <h1>{{ if .Page.Params.Subtitle }}
+      <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
+      {{ .Title }}
+    </h1>
+  </header>

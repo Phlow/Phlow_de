@@ -1,2 +1,0 @@
-# SUPAHUGO
-Phlow on Hugo

@@ -4,6 +4,7 @@ categories      : "Einführung"
 description     : 'Terminal-Befehle und
 Bash-Scripte sparen Dir als Webdesigner viel Zeit und Arbeit. Dieser
 Leitfaden zeigt wie das Terminal Deine Arbeit erleichtert.'
+slug: vorwort
 ---
 Terminal-Befehle und Bash-Scripte sparen Dir als Webdesigner viel Zeit
 und Arbeit. Dieser Leitfaden zeigt wie das Terminal Deine Arbeit
@@ -11,41 +12,36 @@ erleichtert.
 <!-- readmore -->
 
 »Warum soll ich mich mit dem Terminal überhaupt auseinandersetzen«,
-fragst Du Dich vielleicht. Das ist doch was für nerdige Admins bzw. nur
+fragst Du Dich vielleicht. »Das ist doch was für nerdige Admins bzw. nur
 Spielerei und Zeitverlust? Und für die meisten Probleme, die ich
-kompliziert mit dem Terminal lösen kann, gibt es kleine Helferprogramme.
+kompliziert mit dem Terminal lösen kann, gibt es kleine Helferprogramme.«
+
 Alle Aspekte stimmen so ein bischen, aber…
 
 …das Terminal ist einerseits ein Stück Ur-Technologie und andererseits
-das Werkzeug für Automatisierung von Prozessen. Das Terminal bietet Dir
+das Werkzeug für die Automatisierung von Prozessen. Das Terminal bietet Dir
 auf jedem Unix- oder Linux-Computer vorinstallierte mächtige Programme.
+
 Außerdem sitzt Du den ganzen Tag als Webdesigner vor der Maschine. Es
 hilft immer, sich mit der Maschine noch ein wenig mehr
 auseinanderzusetzen. Ich wünschte, ich hätte mich schon vor einem
 Jahrzehnt mit dem Terminal auseinandergesetzt. Ich hätte Stunden meines
-Lebens gespart. Außerdem sind Computer da, um lästige Dinge zu
-erledigen, nicht für kreative. Dafür bist Du zuständig.
+Lebens gespart. Denn so hätte mir mein Computer unzählige lästige Dinge
+erledigt, die meine kreative Energie aufgefressen haben.
 
-# Zeit sparen, Kopf trainieren, Helferprogramme selbst schreiben…
+## Zeit sparen, Kopf trainieren, Helferprogramme selbst schreiben…
 
-So sparst Du z.B. enorm Zeit, wenn Du `sips` für das Konvertieren und
-Zurechtschneiden von Bildern nutzt. Kleine For-Schleifen mit ein paar
-Befehlen benennen Dir innerhalb von ein paar Sekunden Dateien sinnvoll
-und spazieren dabei schnell durch sämtliche Unterordner. Mach das mal
-mit dem Finder. Oder suche nach und in Dateien mit `find` und `grep`
-nach einer Variablen oder einem Schnipsel Code, den Du noch einmal
+So sparst Du z.B. enorm Zeit, wenn Du den Befehle `sips` auf dem Mac für die  Konvertierung und das Beschneiden von Bildern nutzt.
+
+Kleine For-Schleifen, die ein paar Befehlen abarbeiten, benennen Dir innerhalb von ein paar Sekunden Dateien sinnvoll und spazieren dabei schnell durch sämtliche Unterordner.
+
+Versuch das mal mit dem Finder. Oder suche _nach_ und _in_ Dateien mit `find` und `grep` nach einer Variablen oder einem Schnipsel Code, den Du noch einmal
 verwenden willst. Oder bau Dir Deinen eigenen kleinen Downloader mit
-Hilfe eines simplen Bash-Scriptes, dass Dir die aktuelle
-WordPress-Version mitsamt Deiner Lieblings-Erweiterungen herunterlädt,
-entpackt und alles in die vorhergesehenen Verzeichnisse verschiebt.
+Hilfe eines simplen Bash-Scriptes, dass Dir a) die aktuelle
+[WordPress]({{< ref "wordpress.md" >}})-Version mitsamt Deiner Lieblings-Erweiterungen herunterlädt, b)
+entpackt und c) alles in die vorhergesehenen Verzeichnisse verschiebt.
 
-Also: Schau mal in dieses Buch hinein. Und solltest Du hilfreiche
-Informationen finden, hast Du vielleicht auch Lust, mich als Autor zu
-unterstützen, indem Du das Buch kaufst. Denn Downloads, Übungen und
-sortierte Beispielskripte und mehr, gibt es nur mit dem Kauf eines
-Buches :)
-
-Alles andere findest Du auch auf dieser Seite.
+Also: Schau mal in in die folgenden Seiten hinein. Und solltest Du hilfreiche Informationen finden, hast Du vielleicht auch Lust, mich als Autor zu unterstützen.
 
 Viel Erfolg, wünscht Dir [Moritz »mo.«
 Sauer](http://moritz.sauer.io/biografie)

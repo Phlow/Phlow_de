@@ -4,23 +4,38 @@
   topbar        : true
   sidebar       : true
 
-# - menu_title    : 'Webdesign'
-#   title         : 'Lerne mit unseren Webdesign Tutorials'
-#   url           : 'magazin/webdesign/'
-#   topbar        : true
-#   sidebar       : true
-
 # - menu_title    : 'Texten fürs Web'
 #   title         : 'Digitaler Journalismus'
 #   url           : 'magazin/journalismus/'
 #   topbar        : true
 #   sidebar       : true
 
-- menu_title    : 'Hugo'
-  title         : 'Websites bauen mit dem Static Website Generator'
-  url           : 'magazin/webdesign/hugo/'
+- menu_title    : 'Webdesign'
+  title         : 'Unsere Webdesign Themen'
+  url           : 'magazin/webdesign/'
   topbar        : true
   sidebar       : true
+  dropdown:
+    - menu_title      : 'Webdesign von Anfang an'
+      title           : 'Lerne mit unseren Webdesign Tutorials'
+      url             : 'magazin/webdesign/'
+      sidebar         : true
+      topbar          : true
+    - menu_title      : 'Hugo Website Generator'
+      title           : 'hugo'
+      url             : 'magazin/webdesign/hugo/'
+      sidebar         : true
+      topbar          : true
+    - menu_title      : 'Wordpress'
+      title          : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
+      url             : 'magazin/wordpress/'
+      sidebar         : true
+      topbar          : true
+    - menu_title    : 'Terminal für Webdesigner'
+      title         : 'Optimiere und beschleunige lästige Arbeitsabläufe mit dem Terminal'
+      url           : 'magazin/terminal/'
+      topbar        : true
+      sidebar       : true
 
 - menu_title    : 'Social Media'
   title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'
@@ -28,14 +43,3 @@
   topbar        : true
   sidebar       : true
 
-- menu_title    : 'Terminal für Webdesigner'
-  title         : 'Optimiere und beschleunige lästige Arbeitsabläufe mit dem Terminal'
-  url           : 'magazin/terminal/'
-  topbar        : true
-  sidebar       : true
-
-# - menu_title    : 'WordPress'
-#   title         : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
-#   url           : 'magazin/wordpress/'
-#   topbar        : true
-#   sidebar       : true

@@ -1,0 +1,4 @@
+    {{ range .Page.Params.Tags }}
+      {{ $random := index (seq 13 | shuffle) 0 }}
+      <small><a class="button" style="transform: rotate(1.{{$random}}deg);" href="{{$.Site.BaseURL}}tags/{{ . | urlize }}">#{{.}}</a></small >
+    {{ end }}

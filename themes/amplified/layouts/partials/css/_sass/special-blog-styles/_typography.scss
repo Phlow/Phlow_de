@@ -84,9 +84,6 @@ main h3 a,main h3 a:visited,main  h3 a:link {
 
 article a img  {
   // z-index und relative sind wichtig, damit das Bild unter der Navigation hergleitet
-  z-index: -1;
-  position: relative;
-  display: block;
   border: 0;
   -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
   transition: all .15s cubic-bezier(.33,.66,.66,1);

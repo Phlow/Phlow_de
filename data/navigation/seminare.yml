@@ -3,6 +3,27 @@
   url           : 'seminare/programm/'
   topbar        : true
   sidebar       : true
+  dropdown:
+    - menu_title      : 'Wordpress'
+      title           : 'wordpress'
+      url             : 'seminare/wordpress-website/'
+      sidebar         : true
+      topbar          : true
+    - menu_title      : 'Social Media'
+      title           : 'social-media'
+      url             : 'seminare/social-media/'
+      sidebar         : true
+      topbar          : true
+    - menu_title      : 'Suchmaschinenoptimierung'
+      title           : 'Gute lesbare Texte bilden die wichtigste Basis einer Website. Dieser Workshop zeigt, wie man Texte für Leser und Suchmaschinen optimal aufbereitet.'
+      url             : 'seminare/seminar-koeln-texte-schreiben-internet/'
+      sidebar         : true
+      topbar          : true
+    - menu_title      : 'InHouse & Individuelle Seminare'
+      title           : 'Maßgeschneiderte Seminare und Workshops für Sie'
+      url             : 'seminare/individuelle-seminare/'
+      sidebar         : true
+      topbar          : true
 
 - menu_title    : 'Termine'
   title         : 'Unsere aktuellen Seminartermine'
@@ -21,3 +42,5 @@
   url           : 'seminare/info/'
   topbar        : true
   sidebar       : true
+
+

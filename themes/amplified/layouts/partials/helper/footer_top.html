@@ -2,11 +2,26 @@
     <div class="max-width-4 mx-auto">
       <div class="clearfix">
         <div class="mt2 sm-col sm-col-6 px2">
+
+{{ if eq .Page.Type "seminare" }}
           <p class="h5 mb1 sans">Über Phlow Seminare</p>
-          <p class="sans mt0"><small>
-            Seit mehr als 10 Jahren trainieren wir unsere Kunden in den Bereichen WordPress, Journalismus, Social Media, Internet Marketing und Webdesign.
-            <a href="{{ "/seminare/info/" | absURL }}">Mehr&nbsp;›</a>
-          </small></p>
+          <p class="sans mt0">
+            <small>
+              Seit mehr als 10 Jahren trainieren wir unsere Kunden in den Bereichen WordPress, Journalismus, Social Media, Internet Marketing und Webdesign.
+              <a href="{{ "/seminare/info/" | absURL }}">Mehr&nbsp;›</a>
+            </small>
+          </p>
+{{ else if eq .Page.Type "magazin" }}
+          <p class="h5 mb1 sans">Über Phlow Magazin</p>
+          <p class="sans mt0">
+            <small>
+              Phlow Magazin bietet ausführliche Anleitungen, um Texte, Bilder, Videos und Inhalte perfekt im Internet zu veröffentlichen und zu präsentieren.
+            </small>
+        </p>
+{{ end }}
+
+
+
         </div>
         <div class="mt2 mb4 sm-col sm-col-6 px2">
           <p class="h5 mb1 sans">{{ range .Site.Data.services }}{{ with .menu_name }}{{ . }}{{ end }}{{ end }}</p>

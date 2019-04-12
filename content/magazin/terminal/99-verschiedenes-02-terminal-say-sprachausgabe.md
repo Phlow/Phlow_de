@@ -71,14 +71,14 @@ Bedienungshilfen › Sprachausgabe* – siehe Bildschirmfoto. An dieser
 Stelle bestimmst Du auch die Standardeinstellung für die
 Sprachgeschwindigkeit.
 
-{{< amp-img src="/images/terminal/terminal-say-sprachausgabe.png" width="762" height="432" alt="Die Standardstimme ändert man über Systemeinstellungen › Bedienungshilfen › Sprachausgabe" >}}
+{{< amp/img src="/images/terminal/terminal-say-sprachausgabe.png" width="762" height="432" alt="Die Standardstimme ändert man über Systemeinstellungen › Bedienungshilfen › Sprachausgabe" >}}
 
 Außerdem kannst Du auch [weitere Stimmen
 hinzufügen](https://support.apple.com/kb/PH25378?locale=de_DE&viewlocale=de_DE).
 So bietet Mac OS X auch *außergewöhnliche* Stimmen an. Dazu gehören z.B.
 *Bad News*, *Cellos* oder *Pipe Organ*.
 
-{{< amp-img src="/images/terminal/terminal-say-noch-mehr-stimmen.png" width="762" height="432" alt="Außergewöhnliche Stimmen lädt man über die Systemeinstellungen nach" >}}
+{{< amp/img src="/images/terminal/terminal-say-noch-mehr-stimmen.png" width="762" height="432" alt="Außergewöhnliche Stimmen lädt man über die Systemeinstellungen nach" >}}
 
     $ say -v 'bad news' This is so bad.
 

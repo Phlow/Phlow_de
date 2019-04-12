@@ -1,6 +1,7 @@
 ---
-subtitle    : "Static Website Generator"
-title       : "Hugo Shortcodes"
+subtitle     : "Static Website Generator"
+title        : "Hugo Shortcodes"
+categories   : hugo
 ---
 Damit Markdown in Shortcodes nach HTML konvertiert wird, muss der Shortcode `%` nutzen.
 

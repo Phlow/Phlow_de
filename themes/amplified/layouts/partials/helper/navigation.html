@@ -3,7 +3,7 @@
   <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger md-hide lg-hide pr2  ">☰
   </div>
     <a href="{{ .Site.BaseURL }}" class="text-decoration-none inline-block mx-auto ampstart-headerbar-home-link  ">
-      <div id="logo" class="ampstart-headerbar-title mx-auto ">{{ partial "svg/phlow_logo.svg" }}</div>
+      <div id="logo" class="ampstart-headerbar-title mx-auto mt2">{{ partial "svg/phlow_logo.svg" }}</div>
     </a>
   <nav class="ampstart-headerbar-nav ampstart-nav xs-hide sm-hide">
     <ul class="list-reset center m0 p0 flex justify-center nowrap">
@@ -11,9 +11,30 @@
 
 {{ $nav := .Section }}
 {{ range (index .Site.Data.navigation $nav) }}
-  {{ if .topbar }}
-<li class="ampstart-nav-item "><a href="{{ $.Site.BaseURL }}{{  .url }}" title="{{ .title }}" class="text-decoration-none block">{{.menu_title}}</a></li>
+    {{ if .sidebar }}
+      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm monospace {{ if .class }}{{ .class }}{{ end }}"><a class="caps ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url }}">{{ .menu_title }}</a></li>
+
+        {{ if .dropdown }}
+          <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ if .class }}{{ .class }}{{ end }}">
+
+          <!-- Start Dropdown-inline -->
+          <amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown">
+            <section expanded="">
+            <header>Info</header>
+            <ul class="ampstart-dropdown-items list-reset m0 p0">
+
+        {{ range .dropdown }}
+          <li class="ampstart-dropdown-item"><a href="{{ $.Site.BaseURL }}{{ .url }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
+        {{ end }}
+
+            </ul>
+            </section>
+          </amp-accordion>
+  <!-- End Dropdown-inline -->
+            </li>
+
       {{ end }}
+    {{ end }}
 {{ end }}
 
 
@@ -38,30 +59,32 @@
   </div>
   <nav class="ampstart-sidebar-nav ampstart-nav">
     <ul class="list-reset m0 p0 pb2 ampstart-label">
-          <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="#">Seminare</a></li>
-          <li class="ampstart-nav-item ampstart-nav-dropdown relative ">
-
-<!-- Start Dropdown-inline -->
-<amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown">
-  <section expanded="">
-    <header>Seminare</header>
-    <ul class="ampstart-dropdown-items list-reset m0 p0">
-        <li class="ampstart-dropdown-item"><a href="/tags/wordpress/" class="text-decoration-none">WordPress</a></li>
-        <li class="ampstart-dropdown-item"><a href="/tags/socialmedia/" class="text-decoration-none">Social Media</a></li>
-        <li class="ampstart-dropdown-item"><a href="/tags/suchmaschinenoptimierung/" class="text-decoration-none">Suchmaschinenoptimierung</a></li>
-        <li class="ampstart-dropdown-item"><a href="/tags/marketing/" class="text-decoration-none">Marketing</a></li>
-        <li class="ampstart-dropdown-item"><a href="/individuelle-seminare/" class="text-decoration-none">Individuelle/Inhouse Seminare</a></li>
-    </ul>
-  </section>
-</amp-accordion>
-<!-- End Dropdown-inline -->
-          </li>
-
 {{ $nav := .Section }}
 {{ range (index .Site.Data.navigation $nav) }}
-  {{ if .sidebar }}
-      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold"><a class="ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url }}">{{.menu_title}}</a></li>
+    {{ if .sidebar }}
+      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold {{ if .class }}{{ .class }}{{ end }}"><a class="ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url }}">{{ .menu_title }}</a></li>
+
+        {{ if .dropdown }}
+          <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ if .class }}{{ .class }}{{ end }}">
+
+          <!-- Start Dropdown-inline -->
+          <amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown">
+            <section expanded="">
+            <header>Info</header>
+            <ul class="ampstart-dropdown-items list-reset m0 p0">
+
+        {{ range .dropdown }}
+          <li class="ampstart-dropdown-item"><a href="{{ $.Site.BaseURL }}{{ .url }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
+        {{ end }}
+
+            </ul>
+            </section>
+          </amp-accordion>
+  <!-- End Dropdown-inline -->
+            </li>
+
       {{ end }}
+    {{ end }}
 {{ end }}
 
 

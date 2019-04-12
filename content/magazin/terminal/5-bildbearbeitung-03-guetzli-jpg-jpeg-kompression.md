@@ -10,7 +10,7 @@ Guetzli komprimiert die Bilder zwar verlustbehaftet, aber Du siehst es
 nicht.
 <!-- readmore -->
 
-{{< amp-img src="/images/terminal/guetzli.jpg" width="1066" height="800" alt="Guetzli Kompression Vergleichsbild" >}}
+{{< amp/img src="/images/terminal/guetzli.jpg" width="1066" height="800" alt="Guetzli Kompression Vergleichsbild" >}}
 
 [Guetzli](https://github.com/google/guetzli) von Google arbeitet als
 JPG/JPEG-Encoder, der Bilder noch effektiver komprimiert als andere

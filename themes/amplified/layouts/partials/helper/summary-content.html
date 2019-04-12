@@ -1,0 +1,20 @@
+    {{ if in .RawContent "<!-- readmore -->" }}
+      {{ $summary_part := split .RawContent "<!-- readmore -->" }}
+      {{ $summary := index $summary_part 0 }}
+      {{ $summaryHTML := safeHTML $summary }}
+      {{ $summaryHTML := replace $summaryHTML "<p>" "" }}
+      {{ $summaryHTML := replace $summaryHTML "</p>" "" }}
+
+      {{ $summary_content := split .Content "<!-- readmore -->" }}
+      {{ $content := index $summary_content 1 }}
+      {{ $contentHTML := safeHTML $content }}
+
+      {{ if eq $summaryHTML .Content }}
+          {{ .Content }}
+      {{ else }}
+          <p class="h6">{{ $summaryHTML | markdownify }}</p>
+          {{ $contentHTML }}
+      {{ end }}
+    {{ else }}
+      {{ .Content }}
+    {{ end}}

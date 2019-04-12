@@ -62,74 +62,11 @@ button,
 }
 button:hover,
 .button.noborder:hover {
-  background: darken($ci-1, 20%);
+  background: darken($ci-1, 50%);
   box-shadow: 0 0 $grey-color-light;
 }
 
-button.alert,
-.button.alert {
-  color: #fff;
-  background: $alert-color;
-  box-shadow: 0 3px mix(#000, $alert-color, 20%);
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-}
-button.alert,
-.button.alert:hover {
-  background: lighten( $alert-color, 5% );
-  box-shadow: 0 3px lighten( $alert-color, 15% );
-}
 
-button.success,
-.button.success {
-  color: #fff;
-  background: $success-color;
-  box-shadow: 0 3px mix(#000, $success-color, 20%);
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-}
-button.success,
-.button.success:hover {
-  background: lighten( $success-color, 5% );
-  box-shadow: 0 3px lighten( $success-color, 15% );
-}
-
-button.warning,
-.button.warning {
-  color: #fff;
-  background: $warning-color;
-  box-shadow: 0 3px mix(#f00, $warning-color, 20%);
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-}
-button.warning,
-.button.warning:hover {
-  background: lighten( $warning-color, 10% );
-  box-shadow: 0 3px lighten( $warning-color, 25% );
-}
-
-button.info,
-.button.info {
-  color: #fff;
-  background: $info-color;
-  box-shadow: 0 3px mix(#000, $info-color, 40%);
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-}
-button.info,
-.button.info:hover {
-  background: lighten( $info-color, 10% );
-  box-shadow: 0 3px lighten( $info-color, 40% );
-}
-
-button.grey,
-.button.grey {
-  color: #fff;
-  background: $grey-color;
-  box-shadow: 0 3px $grey-color-dark;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
-}
-button.grey,
-.button.grey:hover {
-  background: mix(#000, $grey-color, 30%);
-  box-shadow: 0 3px mix(#000, $grey-color, 60%);
-}
 
 /* Button Sizes
 -------------------------------------------------------- */

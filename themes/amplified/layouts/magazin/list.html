@@ -3,24 +3,27 @@
 <!-- wrapper --><div>
   <div class="px4 lg-px4">
 
-    <div class="max-width-4 mx-auto">
+    <div class="max-width-3 mx-auto">
       <article class="clearfix mxn2">
 
         <header>
-          <p class="sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</p>
-          <h1>{{ .Title }}</h1>
+          <h1>{{ if .Page.Params.Subtitle }}
+            <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
+            {{ .Title }}
+          </h1>
         </header>
 
-          {{ .Content }}
-
+          {{ partial "helper/summary-content.html" . }}
 
           <ul class="toc-list">
             {{ range sort .Pages "File.TranslationBaseName" }}
                 <li>
-                  <a href="{{.Permalink}}">{{ .Params.Categories }} – {{ .Title }}</a>
+                  <a href="{{.Permalink}}">{{ if .Params.Categories }}{{ .Params.Categories }} – {{ end }}{{ if .Params.Subtitle }}{{ .Params.Subtitle }} – {{ end }}{{ .Title }}</a>
                 </li>
             {{ end }}
           </ul>
+
+
 
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->
