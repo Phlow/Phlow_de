@@ -40,4 +40,6 @@ Domkloster 4
 50667 Köln  
 Deutschland  
 
-{% include alert success='**Übung:** Gliedere Dein Impressum mit Absätzen, Überschriften und Zeilenumbrüchen. Öffne die anderen Seiten und gib allen Dokumenten eine &lt;h1&gt;-Überschrift.' %}
+{{< success >}}
+**Übung:** Gliedere Dein Impressum mit Absätzen, Überschriften und Zeilenumbrüchen. Öffne die anderen Seiten und gib allen Dokumenten eine &lt;h1&gt;-Überschrift.
+{{< /success >}}

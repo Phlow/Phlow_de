@@ -18,8 +18,6 @@ comments: true
 
 Die Reihe »Ästhetik des Buches« des Wallstein Verlages setzt sich mit den Themen Buch, Typografie und Geschichte der Schrift auseinander, *den einzigartigen Qualitäten dieses Mediums*. Besonders an diesen Büchern ist neben ihrem Inhalt alleine schon die Tatsache, dass – *zumindest die Bücher, die ich gekauft habe* – von den Autoren selbst typografisch und layout-technisch gestaltet wurden.
 
-
-
 ## Die materielle Geschichte des Buches
 
 In [»Das Ende einer Last«][1] beschäftigt sich [Günter Karl Bose][2] mit der *materiellen Geschichte* des Buches. Das fängt erst einmal grundlegend beim Papier und seiner Herstellung an. Anschließend nimmt Günter Karl Bose das Buch in die Hand, schaut es sich von allen Seiten an und berichtet vom Gewicht sowie dem  Konsum des Buches über die Jahrhunderte und seiner fast schon inflationären Entwicklung.
@@ -34,22 +32,12 @@ Trotzdem liest man das Buch im lockeren Fluss und folgt den Fakten und spannende
 
 > Bevor wir zu jenen ›Denk-, Schreib- und Redemaschinen‹ werden, die Nietzsche vorausgesagt hat, verloren in einem Univerum binärer Zahlen, scheint von dem, was wir sehen und anfassen, was wir begreifen können und was schwer in der Hand liegt, eine gewisse Beruhigung auszugehen. Vielleicht sind es solche Empfindungen, die uns bei den Büchern halten.
 
-
-
 ## Zum Buch »Das Ende einer Last«
 
 Günter Karl Bose  
 »Das Ende einer Last – Die Befreiung von den Büchern«  
 Wallstein Verlag  
 ISBN: 978-3-8353-1355-2 (2013)  
-
-
-
-### Weitere Typografie-Themen
-
-{% include list-posts entries='15' tag='typografie' %}
-
-
 
 
  [1]: http://www.wallstein-verlag.de/9783835313552-guenter-karl-bose-das-ende-einer-last.html

@@ -12,13 +12,6 @@ image:
 ---
 Neben <a href="/ipad-brettspiel-carcassonne/">Carcassonne</a> und <a href="/ipad-brettspiel-puerto-rico/">Puerto Rico</a> gehört Ticket to Ride zu den wenigen großartigen Brettspielen auf dem iPad. Gegen seine Konkurrenz hebt sich Ticket to Ride besonders durch seine gelungene Grafik ab und die Art und Weise wie man in das Spiel eingeführt wird.
 
-
-## Phlow iPad-Brettspiele-Serie {#phlowipad-brettspiele-serie}
-
-<ul>
-{% include list-posts tag="ipad brettspiel" %}
-</ul>
-
 ## Variantenreiches iPad-Brettspiel {#variantenreichesipad-brettspiel}
 
 Das **Ziel von Ticket to Ride** ist der Bau von Bahnlinien auf einem Plan mit vorgelegten Routen. Bevor man Routen baut, wählt man Destinationskarten. Um die Zielorte zu verbinden, benötigt man verschiedenfarbige Zugkarten, die man wahlweise von einem verdeckten Stapel zieht oder von offen ausliegenden Karten.
@@ -57,12 +50,6 @@ Ticket to Ride gehört zu den schönsten und besten Umsetzungen eines Brettspiel
 ## iTunes-Link zum iPad-Brettspiel {#itunes-linkzumipad-brettspiel}
 
 iTunes-Link: **[iTunes-Link Ticket to Ride][10]**
-
-## Phlow iPad-Brettspiele-Serie {#phlowipad-brettspiele-serie}
-
-<ul>
-{% include list-posts tag="ipad brettspiel" %}
-</ul>
 
 <img src="http://vg02.met.vgwort.de/na/5f2a1f5029704b5c95374eef4b3a6838" alt="" width="1" height="1" />
 

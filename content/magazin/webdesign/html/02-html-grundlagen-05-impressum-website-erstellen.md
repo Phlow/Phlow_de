@@ -24,7 +24,9 @@ Weitere hilfreiche Webseiten:
 Website: [Impressum Generator][4]
 
 
-{% include alert success='**Übung:** Erstelle ein eigenes Impressum und kopiere das Impressum in Deine *impressum.html*-HTML-Webseite' %}
+{{< success >}}
+**Übung:** Erstelle ein eigenes Impressum und kopiere das Impressum in Deine *impressum.html*-HTML-Webseite
+{{< /success >}}
 
  [1]: http://www.gesetze-im-internet.de/tmg/__5.html
  [2]: http://www.linksandlaw.info/Impressumspflicht-Notwendige-Angaben.html

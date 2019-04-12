@@ -33,12 +33,9 @@ Während Du mit `width` die Breite des Bildes in Pixeln angibst, bestimmst Du mi
 {% endhighlight %}
 
 
-
-
-
-
-
-{% include alert success='**Übung:** Erstelle eine *info.html*-Webseite und füge ein Bild von Dir ein. Wenn Du noch Zeit hast, schreib eine Kurzbeschreibung über Dich. Gestalte den Text mit <a href="http://webdesign.phlow.de/html-absaetze-ueberschriften-zeilenumbruch/">Überschriften und Absätzen</a>' %}
+{{< success >}}
+**Übung:** Erstelle eine *info.html*-Webseite und füge ein Bild von Dir ein. Wenn Du noch Zeit hast, schreib eine Kurzbeschreibung über Dich. Gestalte den Text mit <a href="http://webdesign.phlow.de/html-absaetze-ueberschriften-zeilenumbruch/">Überschriften und Absätzen</a>
+{{< /success >}}
 
 ## Attribute für den HTML-Bild-Befehl `img`
 

@@ -17,10 +17,6 @@ Bereits das Original Puerto Rico Brettspiel von Ravensburger stand lange Zeit in
 
 ## Phlow iPad-Brettspiele-Serie {#phlowipad-brettspiele-serie}
 
-<ul>
-{% include list-posts tag="ipad brettspiel" %}
-</ul>
-
 Beim rundenbasierten **Brettspiel Puerto Rico** dreht sich alles um die Produktion, den Bau von Produktionsstätten, den Handel sowie den Versand der Waren nach »Hause«. Das Spiel kann gemeinsam mit bis zu fünf Spielern gespielt werden. Puerto Rico überzeugt mit einem ausgewogenen Spielablauf, weil die Eigenschaften sämtlicher Elemente gut gegeneinander abgewogen wurden. Ein kleiner Glücksfaktor rundet das ansonsten rein strategisch-orientierte Brettspiel ab. Schon aus diesen Gründen ist das [Original Spiel][6] ([Amazon Link][7]) ein exzellenter Ausgangspunkt für ein gelungenes iPad-Spiel.
 
 ## Einziger Minuspunkt: Eine leicht altbackene grafische Umsetzung {#einzigerminuspunkt:eineleichtaltbackenegrafischeumsetzung}

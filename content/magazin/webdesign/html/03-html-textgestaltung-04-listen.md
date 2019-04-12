@@ -46,10 +46,6 @@ Du kannst auch Listen verschachteln. Also, wenn eine Liste eine Unterliste erhä
 
 Ungeordnete Listen werden unter anderem oft für die Navigation genutzt, da man sie gemeinsam mit links sehr gut gestalten kann.
 
-
-
-
-
 ## Geordnete Listen
 
 {% highlight html %}
@@ -88,6 +84,6 @@ Es gibt die folgenden Attribute:
 | ``           |      |
 | ``           |      |
 
-
-
-{% include alert success='**Übung:** Erstelle eine Navigation und nutze dazu eine ungeordnete Liste. Öffne anschließen die *info.html*-Datei und erstelle mit einer Definitionsliste mindestens fünf Lieblingslinks von Dir samt Beschreibung.' %}
+{{< success >}}
+**Übung:** Erstelle eine Navigation und nutze dazu eine ungeordnete Liste. Öffne anschließen die *info.html*-Datei und erstelle mit einer Definitionsliste mindestens fünf Lieblingslinks von Dir samt Beschreibung.
+{{< /success >}}

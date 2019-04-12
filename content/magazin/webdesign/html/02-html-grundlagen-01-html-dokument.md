@@ -182,15 +182,8 @@ Jede Webseite benötigt eine eigene Beschreibung mit maximal 150 Zeichen.
 
 - Die Startseite einer Website benennt man mit *index.html*
 
-
-
-
-
-
-
-
 ## Beispiel Quelltext
 
-
-
-{% include alert success='**Übung:** Erstelle eine dritte Webseite für das Impressum und benenne die Datei mit *impressum.html*. Bearbeite das &lt;title&gt;-Tag mit Impressum und verlink die neue Webseite mit den beiden anderen.' %}
+{{< success >}}
+**Übung:** Erstelle eine dritte Webseite für das Impressum und benenne die Datei mit *impressum.html*. Bearbeite das &lt;title&gt;-Tag mit Impressum und verlink die neue Webseite mit den beiden anderen.
+{{< /success >}}

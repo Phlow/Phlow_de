@@ -22,12 +22,6 @@ Der besonderste Kniff dieses düsteren, unterhaltsamen und faszinierenden Thrill
 
 »Gone Girl« ist also einer dieser wunderbaren Ausnahme-Thriller, die auf voller Länge überzeugen und während der Entwicklung der Geschichte zahlreiche Drehungen offenbaren, die stimmig sind. Dazu kommt dann noch das exzellente Filmhandwerk von David Fincher, die überzeugenden Darstellungen von Ben Affleck und Rosamund Pike und sämtliche ihrer Schauspielerkollegen. Gäbe so doch einfach nur mehr solcher Filme...
 
-### Filmkritiken
-
-<ul>
-  {% include list-posts entries='15' category='film' %}
-</ul>
-
  [1]: http://www.imdb.com/name/nm0000399/
  [2]: http://de.wikipedia.org/wiki/Ben_Affleck
  [3]: http://de.wikipedia.org/wiki/Rosamund_Pike

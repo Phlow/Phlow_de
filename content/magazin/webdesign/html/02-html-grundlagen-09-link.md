@@ -50,11 +50,11 @@ Auch diese Webseite kann ich absolut verlinken. Das Problem entsteht aber, wenn 
 <figcaption>Fehlerseite: Die Datei konnte vom Browser nicht gefunden und aufgerufen werden</figcaption>
 </figure>
 
-
 ## Links in einem neuen Fenster öffnen mit target
 
-
-{% include alert info='Die zwei wichtigsten Attribute für einen Link – die Du Dir unbedingt merken soltest – sind *href* und *target*.' %}
+{{< info >}}
+Die zwei wichtigsten Attribute für einen Link – die Du Dir unbedingt merken soltest – sind *href* und *target*.
+{{< /info >}}
 
 ## Attribute für den HTML-Link-Befehl a
 

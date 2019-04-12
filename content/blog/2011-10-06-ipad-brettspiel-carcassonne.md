@@ -17,9 +17,6 @@ Das iPad Brettspiel Carcassonne von Schmidtspiele gehört zu den exquisiten und 
 
 Es gibt wenig Brettspiele, die so exquisit und elegant für iPhone, iTouch und iPad umgesetzt wurden wie Carcassonne. Eines der besten iPad-Spiele im App Store.
 
-## Phlow iPad-Brettspiele-Serie 
-
-{% include list-posts tag="ipad brettspiel" %}
 
 ## Carcassonne: Bauen, positionieren, gewinnen 
 
@@ -45,13 +42,6 @@ Die grafische Umsetzung als auch die Navigation von Carcassonne ist hervorragend
 Carcassonne ist ein rundum **exzellent gelungene Spielumsetzung** für das iPad. Ein witziger Solitäre-Modus als Bonus rundet das Spielpaket ab. Besonders lobenswert, finde ich übrigens den Punkt, dass ich für die iPad-Variante nicht noch einmal das Spiel erwerben musste, sondern einfach ein Upgrade ohne Nachfrage durchführen konnte. Toll. Eine Empfehlung ohne Wenn-und-Aber :)
 
 iTunes-Link: [Carcassonne auf dem iPad][8]
-
-
-
-## Phlow iPad-Brettspiele-Serie 
-
-{% include list-posts tag="ipad brettspiel" %}
-
 
 <img src='http://vg02.met.vgwort.de/na/11fa17eef44c457f91bed80e84db2e3a' width='1' height='1' alt='' />
 

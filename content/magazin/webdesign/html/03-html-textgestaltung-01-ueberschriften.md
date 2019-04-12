@@ -14,7 +14,9 @@ Mithilfe der Überschriften-Tags gliederst Du Texte nicht nur optisch und regst 
 
 Wie ein Autor ein Buch meist in Kapitel unterteilt, gliederst Du Deine Texte auf einer Webseite auch mit Zwischenüberschriften. HTML folgt dabei der Logik. Nach der `<h1>`-Überschrift folgt die `<h2>`. Das `<h2>`-Tag kannst Du so oft einsetzen wie Du möchtest.
 
-{% include alert warning='Die &lt;h1&gt;-Überschrift darf nur einmal pro HTML-Dokument genutzt werden.' %}
+{{< warning >}}
+Die &lt;h1&gt;-Überschrift darf nur einmal pro HTML-Dokument genutzt werden.
+{{< /warning >}}
 
 Schreibst Du einen längeren Text, kannst Du swie bei ein Buch Kapitel die Unterkapitel besitzen, auch einen Abschnitt nach einer `<h2>`-Überschrift mit `<h3>`-Überschriften gliedern. Es macht aber wenig Sinn wenn Nach einer `<h2>`-Überschrift nur eine `<h3>` und dann wieder eine `<h2>`-Überschrift folgt.
 
@@ -53,6 +55,11 @@ Platzierst Du Deine Suchwörter in Überschriften, dann erhalten die Suchwörter
 
 Beachte hierbei, dass Wörter, Begriffe und Sätze, die Du in der Hauptüberschrift nutzt, eine höhere Priorität als Abschnittsüberschriften haben.
 
-{% include alert info='In dem Phlow-Artikel <a href="http://magazin.phlow.de/text/meldung-nachricht-news/">»Wie man eine Nachricht schreibt!«</a> lernst Du wie Du spannende Nachrichtenbeiträgen schreibst.' %}
+{{< info >}}
+In dem Phlow-Artikel <a href="http://magazin.phlow.de/text/meldung-nachricht-news/">»Wie man eine Nachricht schreibt!«</a> lernst Du wie Du spannende Nachrichtenbeiträgen schreibst.
+{{< /info >}}
 
-{% include alert success='**Übung:** Gliedere Dein Impressum mit Absätzen, Überschriften und Zeilenumbrüchen. Öffne die anderen Seiten und gib allen Dokumenten eine &lt;h1&gt;-Überschrift.' %}
+{{< success >}}
+**Übung:** Gliedere Dein Impressum mit Absätzen, Überschriften und Zeilenumbrüchen. Öffne die anderen Seiten und gib allen Dokumenten eine &lt;h1&gt;-Überschrift.
+{{< /success >}}
+

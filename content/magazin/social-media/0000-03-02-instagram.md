@@ -22,7 +22,7 @@ Netzwerken möglich.
 
 # Aktuelle Instagram-Entwicklungen
 
-{% include news entries='5' network='instagram' %}
+{{< social-media-news category="instagram" show="5" >}}
 
 Mehr Nachrichten ›
 
