@@ -94,7 +94,7 @@ konvertieren, benötigst Du die Option `-s formatOptions` und einen
 dazugehörigen Wert. Der höchste Wert ist hierbei 100. Den neuen
 Dateinamen gibst Du dann über `--out` an. Der Befehl sieht dann so aus:
 
-    -s formatOptions 100bild.tif --out bild.jpg
+    -s formatOptions 100 bild.tif --out bild.jpg
 
 Richtig komfortabel konvertierst Du dann z.B. einen Ordner mit
 TIFF-Bildern über eine {{ '/for-loop/' | absolute\_url

@@ -1,0 +1,132 @@
+= digitalKULTUR.TV
+
+== Kurzbeschreibung
+
+digitalKultur.TV interviewt Internetspezialisten, Computerexperten, Hacker, Netzaktivisten und Künstler zum Thema Digitalität in Form von Video und Audio.
+
+
+
+== Slogan
+
+Digitales Leben, Netzkultur & Internet
+
+
+
+== Schrift
+
+Open Sans
+
+
+
+== Suchwörter/Keywords
+
+digital, kultur, digitale Gesellschaft, Technologie, Copyright, Datenschutz, Social Media, Netzkultur, Webdesign, Web-Aktionen, Hacktivismus, IT-Sicherheit, Urheberrecht, Verbraucherschutz
+
+
+
+== Farben
+
+Dunkelgrün › #44a12b
+Hellgrün › #93C12A
+
+
+
+== Navigation
+
+- Start
+- Sendungen
+  - Wie werde ich Hacker?
+  - GEMA versus YouTube
+  - Wie sicher sind Daten auf Handy und Smartphone?
+  - Facebook Datenschutz
+- Blog & Neues
+- Über digitalKULTUR.TV
+  - Über Moritz »mo.« Sauer
+  - Über Lars Sobiraj
+  - Pressematerial
+- Kontakt
+- Impressum
+
+
+
+== Sendungen
+
+=== Wie werde ich Hacker?
+
+Video & Audio-Interview – Wie wird man zum Hacker? Was bringen Website-Blockaden? Warum entdeckt Matthias Ungethuem aka Unnex überhaupt Sicherheitslücken bei CIA, Spiegel Online, PayPal & co.? digitalKultur.TV im Interview mit einem Hacker.
+
+Mathias Ungethuem hat seine Leidenschaft – das Hacken –  im Laufe der Jahre zum Beruf machen. In seiner Freizeit fing er als Hacker an und entdeckte Lücken bei Spiegel Online, ICQ, MyVideo, der NASA, Paypal, CIA & Co. Heute arbeitet er im Auftrag von Unternehmen und hackt und testet gegen Bezahlung Websites auf ihre Sicherheit. Was seinen Anfang in den Untiefen von Untergrund-Foren nahm und in Aktionen mit gleichgesinnten Hackern Form mündete, entwickelte sich so zu einer professionellen Tätigkeit.
+
+Im Interview mit digitalKultur.TV erläutert Mathias Ungethuem die verschiedenen (Wesens)Arten von Anonymous-Protesthackern über Skript-Kiddies über Cyberkriminellen bis hin zu “gutartigen” Hackern.
+
+=== GEMA versus YouTube
+
+Video & Audio-Interview Was bedeutet eigentlich Urheberrecht? Was ist das Leistungsschutzrecht? Warum wurde die GEMA gegründet und welche Idee steckt hinter der Organisation? Wie ist sie heute organisiert? Wird die GEMA eigentlich kontrolliert? Was ist die GEMA-Vermutung? Wie rechnet die GEMA ab? Wer profitiert von der GEMA? digitalKultur.TV fragt kritisch nach und beleuchtet gemeinsam mit dem Rechtsanwalt Stephan das GEMA vesus YouTube, GEMA versus Musiker, GEMA versus CLubs…
+
+==== Wie »böse« ist die GEMA wirklich?
+
+Auch wenn die GEMA jede Menge Geld einsammelt, so kann man sie wahrlich nicht zu den Wohlfahrtsverbänden zählen. Manche Künstler oder Clubbetreiber sehen sie sogar als das genaue Gegenteil.
+
+Und doch gibt es Parallelen: Zwar gehen die Musikschaffenden in Vorkasse und müssen im Laufe des Jahres kräftig einzahlen. Viele beschweren sich aber, hinterher kämen nur Almosen dabei heraus. Streitpunkte gibt es viele.
+
+Die GEMA schafft es immer wieder, die Menschen und Musiker gegen sich aufzubringen. Leider sind manche der Pauschalurteile falsch und auf den zweiten Blick ist alles viel komplizierter, als es zunächst erscheint. Wir klären mit Rechtsanwalt Stephan Benn, wer beim Streit mit den Clubbetreibern, Musikpiraten und YouTube das Opfer und wer evil ist.
+
+=== Wie sicher sind Daten auf Handy und Smartphone?
+
+Video & Audio-Interview In unser Sendung beantwortet der IT-Sicherheitsspezialist Pascal Kurschildgen die folgenden Fragen: Wie schlimm ist es, das eigene Handy zu verlieren? Welche Möglichkeiten gibt es, das eigene Handy zu orten, um es wiederzufinden? Wie lösche ich alle Daten auf meinem Handy/Smartphone dauerhaft? Sind Deine Daten harmlos oder was kann man mit ihnen anfangen? Welches Betriebssystem ist besser: iOS oder Android? Und wie gefährlich ist ein Jailbreak für die Sicherheit meines iPhones?
+
+Der [IT-Sicherheitsberater und Handy-Forensiker Pascal Kurschildgen](http://www.kurschildgen.com/) erklärt, was man beim Verkauf oder Verlust des Handys zum Schutz der eigenen Daten tun kann. Sein Fazit: Mit dem nötigen Wissen kann man beinahe jedes gesperrte Gerät auslesen. Wer sein Handy verkauft, verkauft seine Daten mit. Wer sie schützen will, behält es lieber. Alle wichtigen Informationen kann man sich hier in unserem ausführlichen Audio-Podcast anhören:
+
+=== Facebook Datenschutz
+
+Video & Audio-Interview Wenn ihr wissen wollt, was Facebook so alles mit euren Daten anstellt und wie ihr euch vor Missbrauch schützen könnt, bleibt dran. Wir erklären Euch die neue Chronik und wo und wie ihr eure Privatssphäre schützt.
+
+==== Leitfaden für den Datenschutz auf Facebook
+
+Facebook Leitfaden // http://www.digitalkultur.tv/facebook-leitfaden
+Facebook Hilfe // http://www.facebook.com/help/privacy/basic-controls
+
+
+=== Über digitalKULTUR.TV
+
+DIGITALES LEBEN, NETZKULTUR & INTERNET
+
+Die Webvideo-Sendung digitalKultur.TV interviewt Internetspezialisten, Computerexperten, Hacker, Netzaktivisten, Programmierer und Künstler zum Thema Digitalität.
+
+Es gibt kein zurück, wir stecken mittendrin im digitalen Leben. Technologie und Technik verändern oder beherrschen den Alltag. Computer sammeln und verknüpfen Daten, ob an der Tankstelle, im Supermarkt oder in einem der sozialen Netzwerke. Letztendlich ahnen wir nur, wie der technologische Sauseschritt samt digitaler Vernetzung unser Leben verändert. Oft verstehen nur noch Experten Computerprogramme und -protokolle, mobile Geräte, Speichermedien und technologische Ein- und Übergriffe. Digitalität prägt unser Leben und unsere Kultur.
+
+digitalKultur.TV überbrückt fehlendes Wissen und interviewt Spezialisten vor Kamera und Mikrofon. Diese Experten erklären uns in wenigen, leicht verständlich Sätzen, durch welche Faktoren unsere Gesellschaft verändert wird, wie die technischen Neuerungen im Detail funktionieren und worauf wir achten müssen, um keinen Schaden zu nehmen.
+
+
+=== Über Moritz »mo.« Sauer
+
+Hallo, ich bin Moritz »mo.« Sauer. Mein Produkt ist Bildung. Ich erkläre Lesern, Hörern und Zuschauern die Möglichkeiten des Internets sowie der Vernetzung. Kunden, Studenten und Kursteilnehmer zeige ich, wie man das Netz und seine Werkzeuge für die Kommunikation, die Veröffentlichung von Inhalten und das Marketing nutzt.
+
+Das Medium kann ein Seminar, eine Videoanleitung, ein Buch oder ein Artikel sein. Mein Ziel ist es, Leser, Zuhörer und Zuschauer abzuholen und weiterzubilden.
+
+Mehr Informationen
+
+Mehr Informationen zu Moritz »mo.« Sauer liest man auf Phlow.de.
+
+=== Über Lars Sobiraj
+
+Der Profiler eines Geheimdienstes würde mich wahrscheinlich ungefähr so beschreiben:
+
+geboren im Jahr 1966
+
+nicht ortsgebunden, lebte in mehreren Städten Nordrhein-Westfalens. Der Unterschied zwischen einem Kölsch und einem Altbier ist ihm durchaus bekannt. Entscheidend dabei ist aber nicht der Brauort, sondern alleine der Geschmack des Bieres. Auch die Wahl des Betriebssystems ist für ihn keine Glaubensfrage.
+
+geht gerne mit für ihn fremden Themen und Menschen um. Er verfügt über ein freundliches Wesen und eine stets kritische Grundhaltung.
+
+ist mitunter gerne auch einmal mit systemkritischen Personen in Kontakt. Interessant sind vor allem die Hintergründe, die sich hinter der Fassade verbergen. So mit Urheberrechtsverletzern, Datenschützern, vom Verfassungsschutz beobachteten Personen, Hackern u.s.w.
+
+legt sich gerne bei öffentlichen Diskussionsveranstaltungen zum Thema Urheberrecht mit Abmahnanwälten und Vertretern der Film- oder Musikbranche an. Ist für neue Erkenntnisse und eine Erweiterung seines Horizonts stets zu haben.
+
+glaubt, keine Daten seien stets die besten Daten. Vermittelt mit viel Freude Schülern und anderen Menschen im Rahmen seiner Seminare, warum auch sie sparsam mit den Angaben zu ihrer Person umgehen sollten.
+Mehr Informationen
+
+Mehr zu Lars Sobiraj liest man auf Lars-Sobiraj.de.
+
+
+
+=== Pressematerial

@@ -1,0 +1,7 @@
+# Farbpalette
+
+#ffb20d - orange
+#267fb5 - hellblau
+#748aa6 - graublau
+#ff410d - rot
+#14191f - schwarz
