@@ -2,6 +2,7 @@
 subtitle     : "Static Website Generator"
 title        : "Hugo starten – Die Terminal Kommandos"
 categories   : hugo
+slug            : hugo-schnellstart
 ---
 ## Die wichtigsten Kommandos für das Terminal
 

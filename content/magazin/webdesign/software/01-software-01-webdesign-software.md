@@ -7,6 +7,7 @@ image:
   caption_url             : 'https://unsplash.com/@_imkiran'
 categories                : software
 weight: 1
+slug            : webdesign-softare
 ---
 Als Webdesigner kommst Du mit zahlreichen Programmen und Werkzeugen in Kontakt. Zu Beginn benötigst Du aber nur drei Programme.
 <!-- readmore -->

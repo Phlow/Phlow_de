@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- wrapper --><div>
+<div><!-- wrapper -->
   <div class="px4 lg-px4">
 
     <div class="max-width-4 mx-auto">
@@ -11,7 +11,7 @@
           <h1>{{ .Title }}</h1>
         </header>
 
-          {{ .Content }}
+          {{ partial "helper/summary-content.html" . }}
 
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->

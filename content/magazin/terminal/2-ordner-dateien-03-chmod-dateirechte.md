@@ -4,6 +4,7 @@ categories : "Ordner und Dateien"
 description : 'Jede Datei und jeder
 Ordner verfügt über Dateirechte. Wie Dateirechte funktioneren und wie Du
 Sie mit chmod änderst erklärt dieses Kapitel.'
+slug            : chmod-dateirechte-bearbeiten
 ---
 Jede Datei und jeder Ordner verfügt über Dateirechte. Mit dem Befehl
 `chmod` lassen sich die Rechte leicht ändern, wenn man das System

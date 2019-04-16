@@ -12,7 +12,7 @@
       {{ if eq $summaryHTML .Content }}
           {{ .Content }}
       {{ else }}
-          <p class="h6">{{ $summaryHTML | markdownify }}</p>
+          <p class="h6">{{ $summaryHTML | htmlUnescape | markdownify }}</p>
           {{ $contentHTML }}
       {{ end }}
     {{ else }}

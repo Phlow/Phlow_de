@@ -4,6 +4,7 @@ categories : "Produktivität"
 description : 'Zufällige
 Passwörter erzeugst Du mit dem vorinstallierten Befehl `openssl`. Noch
 bessere Passwörter mit Sonderzeichen erlaubt Dir `pwgen`.'
+slug            : passwoerter-erstellen
 ---
 Zufällige Passwörter erzeugst Du mit dem vorinstallierten Befehl
 `openssl`. Noch bessere Passwörter mit Sonderzeichen erlaubt Dir

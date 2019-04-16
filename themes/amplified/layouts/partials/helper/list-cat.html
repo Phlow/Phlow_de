@@ -4,7 +4,7 @@
     {{ $kat := .Params.category }}
     {{ range sort .Content "File.TranslationBaseName" }}
       {{ if eq .Params.Categories $kat }}
-        <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+        <li><a href="{{.Permalink}}">{{ .Title | htmlUnescape}}</a></li>
       {{ end }}
     {{ end }}
   </ul>

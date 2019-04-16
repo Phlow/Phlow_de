@@ -1,7 +1,8 @@
 ---
-title                 : 'Glossar: Webdesign-Begriffe verständlich erklärt'
-subtitle              : Glossar
-categories            : anhang
+title       : 'Glossar: Webdesign-Begriffe verständlich erklärt'
+subtitle    : Glossar
+categories  : anhang
+url         : /magazin/webdesign/glossar/
 ---
 Das Webdesign-Glossar erklärt Dir auf verständliche Weise Begriffe aus Webdesign und Internet-Technologie leicht und verständlich.
 <!--more-->

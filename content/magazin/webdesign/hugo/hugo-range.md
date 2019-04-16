@@ -2,6 +2,7 @@
 subtitle     : "Static Website Generator"
 title        : "Hugo – For-Schleifen mit range"
 categories   : hugo
+slug            : range-schleifen
 ---
 Mit `range` baut man klassische For-Schleifen. `range` bietet zahlreiche Möglichkeiten Beiträge sortiert und gezielt auszugeben. Leider ist die Syntax nicht ganz einfach. Darum hier eine Sammlung an Beispielen.
 <!-- readmore -->

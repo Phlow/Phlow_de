@@ -4,6 +4,7 @@ categories : "Ordner und Dateien"
 description : 'Der Befehl `ls` gibt
 den Inhalt des aktuellen Ordners aus. Anstelle den Inhalt im Terminal
 auszugeben, kann man diesen umleiten.'
+slug            : ls-verzeichnis-textdatei
 ---
 Der Befehl `ls` gibt den Inhalt des aktuellen Ordners aus. Anstelle den
 Inhalt im Terminal auszugeben, kann man diesen umleiten. Mit `>` leitet

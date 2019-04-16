@@ -2,6 +2,7 @@
 subtitle         : "Spaß mit dem Terminal"
 title            :  "Der Sprachbefehl say – Stimmen, Einstellungen, Möglichkeiten"
 categories       : Verschiedenes
+slug            : say
 ---
 Mit dem Sprachbefehl `say` kann man viel Spaß im Mac-Terminal haben.
 Neben verschiedenen Stimmen, lässt sich z.B. Gesprochenes auch als

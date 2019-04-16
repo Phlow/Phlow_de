@@ -4,6 +4,7 @@ categories : "Bash Scripte schreiben"
 description : "Mit for
 loop-Schleifen wiederholst Du im Terminal Befehle und konvertierst z.B.
 mehrere Bild-Dateien in einem Rutsch. Und so geht’s."
+slug            : for-loop
 ---
 Mit for loop-Schleifen wiederholst Du im Terminal Befehle und
 konvertierst z.B. mehrere Bild-Dateien in einem Rutsch. Und so geht’s.

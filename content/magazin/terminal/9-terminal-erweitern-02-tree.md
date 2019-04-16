@@ -6,6 +6,7 @@ Programm `tree` zeigt die Verzeichnishierarchie rekursiv als
 Baumstruktur an. `tree` bereitet die Verzweigung der Verzeichnisse
 optisch auf und unterscheidet sich damit stark von ls, welches einfach
 nur die Inhalte von Verzeichnissen aufgelist.'
+slug            : tree
 ---
 Das Programm `tree` zeigt die Verzeichnishierarchie rekursiv als
 Baumstruktur an. `tree` bereitet die Verzweigung der Verzeichnisse

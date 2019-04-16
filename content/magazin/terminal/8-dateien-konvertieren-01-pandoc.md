@@ -4,6 +4,7 @@ categories : "Dateien konvertieren"
 description : 'Diese Anleitungen
 erklären Dir wie du Pandoc erfolgreich nutzt, um Texte zu konvertieren,
 egal ob EPUB, DOCX, PDF, HTML, Markdown, ODT,…'
+slug            : pandoc
 ---
 [Pandoc](http://johnmacfarlane.net/pandoc/) beschreibt sich Pandoc als
 universelles Werkzeug für die Dokumentenkonvertierung. Pandoc gehört zu

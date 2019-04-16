@@ -2,6 +2,7 @@
 title: "ffmpeg – Audio & Video decodieren, encodieren und konvertieren"
 categories : "Dateien konvertieren"
 description : Anleitung mit zahlreichen Ffmpeg-Formeln für die Konvertierung von Video und Audio-Daten.
+slug            : ffmpeg
 ---
 [Ffmpeg](http://www.ffmpeg.org/) ist ein sehr schneller Video- und
 Audio-Konverter, der auch Informationen aus Live-Audio und

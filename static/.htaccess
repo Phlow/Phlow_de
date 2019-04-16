@@ -6,25 +6,59 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 RewriteCond %{HTTPS} !on
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-
 <IfModule mod_rewrite.c>
 RewriteEngine On
 
-# redirect 301 /impressum https://www.phlow.de/impressum.php
-# redirect 301 /impressum/ https://www.phlow.de/impressum.php
 redirect 301 /impressum/ https://phlow.de/impressum.php
 redirect 301 /impressum https://phlow.de/impressum.php
 redirect 301 /impressum.html https://phlow.de/impressum.php
 
-redirect 301 /kontakt/ http://phlow.de/kontakt.html
-redirect 301 /kontakt/ http://phlow.de/kontakt.html
+#
+# Redirects terminal // 2019-04-16
+#
 
-redirect 301 /twitter http://magazin.phlow.de/twitter/
+redirect 301 /terminal/vorwort/ https://phlow.de/magazin/terminal/vorwort/
+redirect 301 /terminal/einfuehrung/ https://phlow.de/magazin/terminal/start/
+redirect 301 /terminal/schnellstart/ https://phlow.de/magazin/terminal/schnellstart/
+redirect 301 /terminal/datei-ordner-befehle/ https://phlow.de/magazin/terminal/datei-ordner-befehle/
+redirect 301 /terminal/dateien-finden/ https://phlow.de/magazin/terminal/dateien-finden/
+redirect 301 /terminal/dateien-oeffnen/ https://phlow.de/magazin/terminal/dateien-oeffnen/
+redirect 301 /terminal/echo/ https://phlow.de/magazin/terminal/echo/
+redirect 301 /terminal/mv-umbennen/ https://phlow.de/magazin/terminal/mv-dateien-umbennen/
+redirect 301 /terminal/rm-dateien-loeschen/ https://phlow.de/magazin/terminal/rm-dateien-loeschen/
+redirect 301 /terminal/chmod-dateirechte/ https://phlow.de/magazin/terminal/chmod-dateirechte-bearbeiten/
+redirect 301 /terminal/verzeichnis-textdatei/ https://phlow.de/magazin/terminal/ls-verzeichnis-textdatei/
+redirect 301 /terminal/zip-unzip/ https://phlow.de/magazin/terminal/zip-unzip/
+redirect 301 /terminal/diff-dateien-vergleichen/ https://phlow.de/magazin/terminal/diff-dateien-vergleichen/
+redirect 301 /terminal/ordner-groesse-anzeigen/ https://phlow.de/magazin/terminal/ordner-groesse-anzeigen/
+redirect 301 /terminal/bash-scripte-schreiben/ https://phlow.de/magazin/terminal/bash-scripte-schreiben/
+redirect 301 /terminal/for-loop/ https://phlow.de/magazin/terminal/for-loop/
+redirect 301 /terminal/eigene-terminal-kommandos/ https://phlow.de/magazin/terminal/eigene-terminal-kommandos/
+redirect 301 /terminal/bash-scripte-sammlung/ https://phlow.de/magazin/terminal/bash-scripte-sammlung/
+redirect 301 /terminal/rsync/ https://phlow.de/magazin/terminal/rsync/
+redirect 301 /terminal/sftp/ https://phlow.de/magazin/terminal/sftp/
+redirect 301 /terminal/ssh-wordpress/ https://phlow.de/magazin/terminal/ssh-wordpress/
+redirect 301 /terminal/wget/ https://phlow.de/magazin/terminal/wget/
+redirect 301 /terminal/sips/ https://phlow.de/magazin/terminal/bildbearbeitung-sips/
+redirect 301 /terminal/screenshots/ https://phlow.de/magazin/terminal/screencapture-screenshots/
+redirect 301 /terminal/guetzli-jpg-jpeg-kompression/ https://phlow.de/magazin/terminal/guetzli-jpg-jpeg-kompression/
+redirect 301 /terminal/bash-profile/ https://phlow.de/magazin/terminal/bash-profile/
+redirect 301 /terminal/design/ https://phlow.de/magazin/terminal/design-anpassen/
+redirect 301 /terminal/passwoerter-erstellen/ https://phlow.de/magazin/terminal/passwoerter-erstellen/
+redirect 301 /terminal/schneller-arbeiten/ https://phlow.de/magazin/terminal/schneller-arbeiten/
+redirect 301 /terminal/asciidoctor/ https://phlow.de/magazin/terminal/asciidoctor/
+redirect 301 /terminal/ffmpeg/ https://phlow.de/magazin/terminal/ffmpeg/
+redirect 301 /terminal/pandoc/ https://phlow.de/magazin/terminal/pandoc/
+redirect 301 /terminal/homebrew/ https://phlow.de/magazin/terminal/homebrew/
+redirect 301 /terminal/tree/ https://phlow.de/magazin/terminal/tree/
+redirect 301 /terminal/terminal-mac-einstellen/
+redirect 301 /terminal/terminal-say-sprachausgabe/ https://phlow.de/magazin/terminal/say/
 
 
 #
 # Redirects Social Media // 2019-04-11
 #
+redirect 301 /social_media/ https://phlow.de/magazin/social-media/
 redirect 301 /social_media/einfuehrung-social-media/ https://phlow.de/magazin/social-media/einfuehrung-social-media/
 redirect 301 /social_media/zahlen-fakten-internet-social-media/ https://phlow.de/magazin/social-media/zahlen-fakten-internet/
 redirect 301 /social_media/social-media-guidelines/ https://phlow.de/magazin/social-media/social-media-guidelines/
@@ -44,16 +78,11 @@ redirect 301 /social_media/wordpress/ https://phlow.de/magazin/social-media/word
 redirect 301 /social_media/tumblr/ https://phlow.de/magazin/social-media/tumblr/
 redirect 301 /social_media/literatur/ https://phlow.de/magazin/social-media/literatur/
 
-
 #
 # Redirects Distrokid
 #
 redirect 301 /mosonic https://distrokid.com/hyperfollow/mosonic/c158
 
-#
-# Redirects phlow.de/blog //2019-01-18
-#
-redirect 301 /das-wordpressbuch https://magazin.phlow.de/wordpress/buch/
 redirect 301 /netlabel_catalogue/ https://netlabels.org/
 redirect 301 /netlabel/ https://netlabels.org/
 redirect 301 /netlabels/index.php/New_Netlabel_Releases https://netlabels.org/releases/
@@ -61,72 +90,6 @@ redirect 301 /netlabel/mp3/mellow-minimal-house.php https://netlabels.org/review
 redirect 301 /netlabel/mp3/index.php https://netlabels.org/music/
 redirect 301 /netlabels/index.php/Main_Page https://netlabels.org/
 redirect 301 /seitenverhaeltnis https://magazin.phlow.de/bild/seitenverhaeltnis/
-#
-# Redirects phlow.de/blog // 2018-12-10
-#
-redirect 301 /blog https://mo.phlow.de
-
-#
-#   Webdesign Projekt
-#
-redirect 301 /das-studio-steht/ https://www.youtube.com/playlist?list=PL_9q18jtRBgGzsAZ6cSjz35Gvz8VxtDSh
-redirect 301 /html-schnellstart/ http://magazin.phlow.de/webdesign/html/schnellstart/
-redirect 301 /impressum-website-erstellen/ http://magazin.phlow.de/webdesign/impressum-website-erstellen/
-redirect 301 /html-absaetze-ueberschriften-zeilenumbruch/ http://magazin.phlow.de/webdesign/html/absaetze-ueberschriften-zeilenumbruch/
-redirect 301 /html-img-bilder-einfuegen/ http://magazin.phlow.de/webdesign/html/img-bilder-einfuegen/
-redirect 301 /html-fettschrift-kursivschrift/ http://magazin.phlow.de/webdesign/html/fettschrift-kursivschrift/
-redirect 301 /html-link/ http://magazin.phlow.de/webdesign/html/link/
-redirect 301 /atom-texteditor-html-css-schnellstart/ https://magazin.phlow.de/webdesign/atom-texteditor-html-css-schnellstart/
-
-redirect 301 /atom-texteditor-themes/ https://magazin.phlow.de/webdesign/atom-texteditor-themes/
-redirect 301 /atom-texteditor-erweiterungen/ http://magazin.phlow.de/webdesign/atom-texteditor-erweiterungen/
-redirect 301 /html-relative-absolute-links/ http://magazin.phlow.de/webdesign/html/relative-absolute-links/
-
-redirect 301 /css-schrift-schriftgroeße-em-rem-px-prozent/ https://magazin.phlow.de/webdesign/html/css-schrift-schriftgroe%C3%9Fe-em-rem-px-prozent/
-redirect 301 /css-schrift-schriftart-zeilenhoehe/ https://magazin.phlow.de/webdesign/html/css-schrift-schriftart-zeilenhoehe/
-redirect 301 /html-google-fonts-kostenlose-webfonts/ https://magazin.phlow.de/webdesign/html/google-fonts-kostenlose-webfonts/
-redirect 301 /css-schrift-nachladen-import/ https://magazin.phlow.de/webdesign/html/css-schrift-nachladen-import/
-
-# Created by Redirection
-# Mon, 12 Oct 2015 11:18:33 +0000
-# Redirection 2.4.2 - http://urbangiraffe.com/plugins/redirection/
-
-redirect 301 /filezilla http://magazin.phlow.de/video/filezilla/
-redirect 301 /muster http://magazin.phlow.de/muster/
-
-redirect 301 /moritz-mo-sauer/ http://sauer.io
-redirect 301 /das-wordpress-buch http://magazin.phlow.de/wordpress/buch/
-redirect 301 /wordpress-thumbnails-bearbeiten http://magazin.phlow.de/video/wordpress-thumbnails/
-redirect 301 /checkliste-wordpress-theme http://magazin.phlow.de/wordpress/checkliste/
-redirect 301 /newsletter http://magazin.phlow.de/newsletter/
-redirect 301 /newsletter/ http://magazin.phlow.de/newsletter/
-redirect 301 /video-so-funktioniert-rss http://magazin.phlow.de/video/rss/
-redirect 301 /wordpress http://magazin.phlow.de/wordpress/
-redirect 301 /youtube http://magazin.phlow.de/youtube/
-redirect 301 /marketing http://magazin.phlow.de/newsletter/
-redirect 301 /rss-newsreader-programme http://magazin.phlow.de/video/rss/
-redirect 301 /wordpress-themes http://magazin.phlow.de/wordpress/themes/
-redirect 301 /icon-fonts http://magazin.phlow.de/icon-fonts/
-redirect 301 /darstellungsform-kritik http://magazin.phlow.de/text/
-redirect 301 /404-fehlerseiten-gallerie http://magazin.phlow.de/webdesign/404-fehlerseite/
-redirect 301 /link-checker-wordpress-plugin-kaputte-links-per-plugin-checken http://magazin.phlow.de/wordpress/plugins/
-redirect 301 /farben http://magazin.phlow.de/farben/
-redirect 301 /blockquotes-mit-css-und-pseudoklassen-gestalten http://magazin.phlow.de/code/css/blockquote/
-redirect 301 /wordpress-installation http://magazin.phlow.de/video/wordpress-installation/
-redirect 301 /wordpress-rezept-self-pings-vermeiden http://magazin.phlow.de/wordpress/rezepte/
-redirect 301 /markdown-plugins-wordpress http://magazin.phlow.de/markdown/
-redirect 301 /wordpress-rezept-ausgabe-von-relcategory-tag-im-theme-verhindern http://magazin.phlow.de/wordpress/rezepte/
-redirect 301 /ftp http://magazin.phlow.de/video/filezilla/
-redirect 301 /wordpress-wp_nav_menu http://magazin.phlow.de/wordpress/rezepte/
-redirect 301 /katzen-platzhalter-webdesign http://magazin.phlow.de/webdesign/platzhalter-bilder/
-redirect 301 /about http://magazin.phlow.de/info/
-redirect 301 /opml http://magazin.phlow.de/webdesign/opml/
-redirect 301 /suchmaschinenoptimierung http://magazin.phlow.de/suchmaschinenoptimierung/
-redirect 301 /download/buch-downloads http://magazin.phlow.de/buch-blogs-video-online-journalismus/%23downloads
-redirect 301 /tipps-tricks-quellen-podcast-produktion http://magazin.phlow.de/audio/podcasting/
-redirect 301 /webdesign http://magazin.phlow.de/webdesign/
-redirect 301 /webdesign/ http://magazin.phlow.de/webdesign/
-redirect 301 /seminare/selbstvermarktung-im-internet /seminare/selbstvermarktung-internet
 
 </IfModule>
 

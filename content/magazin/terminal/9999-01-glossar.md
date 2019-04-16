@@ -1,7 +1,7 @@
 ---
 title:  Glossar
 categories : "Anhang"
-permalink : /glossar/
+slug : /glossar/
 ---
 ## Paket-Manager
 

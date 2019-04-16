@@ -4,6 +4,7 @@ categories : "Neue Kommandos für das Terminal"
 description : 'Homebrew
 vereinfacht die Installation von freier Software auf Deinem Mac. So
 installierst Du Homebrew.'
+slug            : homebrew
 ---
 Homebrew vereinfacht die Installation von freier Software auf Deinem
 Mac. Homebrew ist *»der fehlende Paketmanager für macOS«* und hilft bei

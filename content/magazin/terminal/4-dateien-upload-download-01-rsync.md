@@ -4,6 +4,7 @@ categories : "Dateien Upload und Download"
 description : 'Rsync ist
 sehr flexibel und netzwerkfähig und kann auch Daten zwischen einem
 lokalen Computer und einem Server abgleichen.'
+slug            : rsync
 ---
 [Rsync](https://rsync.samba.org/) ist ein leistungsstarkes
 Dienstprogramm für die Synchronisierung von Dateien. Rsync ist sehr

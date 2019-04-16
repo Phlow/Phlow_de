@@ -1,9 +1,8 @@
 ---
 title:  "Terminal: Bildbearbeitung mit sips"
 categories : "Bildbearbeitung"
-description : 'Der Terminal-Befehl sips
-eignet sich hervorragend Bilddateien in andere Formate zu konvertieren
-oder in der Größe zu manipulieren.'
+description : 'Der Terminal-Befehl sips eignet sich hervorragend Bilddateien in andere Formate zu konvertieren oder in der Größe zu manipulieren.'
+slug            : bildbearbeitung-sips
 ---
 Der Terminal-Befehl `sips` eignet sich hervorragend Bilddateien in
 andere Formate zu konvertieren, in der Größe zu ändern oder zu

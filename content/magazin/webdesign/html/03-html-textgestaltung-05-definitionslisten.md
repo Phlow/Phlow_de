@@ -3,6 +3,7 @@ subtitle              : HTML Grundlagen
 title                 : Definitionslisten mit &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;
 categories            : html-grundlagen
 published             : false
+slug            : definitionsliste
 ---
 
 <!-- readmore -->

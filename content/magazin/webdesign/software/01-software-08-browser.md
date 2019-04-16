@@ -1,10 +1,11 @@
 ---
-subheadline    : 'Webentwicklung'
-title          : 'Chrome: Perfekter Browser für Webdesigner'
+subheadline     : 'Webentwicklung'
+title           : 'Chrome: Perfekter Browser für Webdesigner'
 image:
-  title        : /images/webdesign/software-chrome-browser.jpg
-categories     : software
+  title         : /images/webdesign/software-chrome-browser.jpg
+categories      : software
 weight: 3
+slug            : browser
 ---
 Als Webdesigner entwickelt man zuerst für die Hauptgruppe der Nutzer. Und die nutzen den Chrome Browser von Google. Glücklicherweise dient Chrome auch als exzellentes Werkzeug für die Webentwicklung.
 <!-- readmore -->

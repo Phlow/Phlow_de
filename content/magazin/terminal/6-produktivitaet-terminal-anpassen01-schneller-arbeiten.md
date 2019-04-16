@@ -1,6 +1,7 @@
 ---
 title : "Schneller mit dem Terminal arbeiten"
 categories : "Produktivität"
+slug            : schneller-arbeiten
 ---
 Dieses Kapitel hilft Dir schneller mit dem Terminal zu arbeiten. Du lernst, wie Du bereits eingebene Befehle schnell wiederfindest, wie Du im Terminal den
 Cursor schneller positionierst und wie Du Befehle automatisch vervollständigst.
@@ -10,7 +11,7 @@ lernst, wie Du bereits eingebene Befehle schnell wiederfindest, wie Du
 im Terminal den Cursor schneller positionierst und wie Du Befehle
 automatisch vervollständigst.
 
-# Alte Befehle mit kbd:\[ctrl + r\] finden
+## Alte Befehle mit kbd:\[ctrl + r\] finden
 
 Hast Du bereits Befehle in das Terminal getippt, kannst Du die alten
 Befehle über die Rauf- und Runter-Cursor-Tasten wiederfinden. Das kann
@@ -42,7 +43,7 @@ Du im Kapitel zum Thema *.bashprofile*.
 
     export HISTCONTROL=ignoreboth:erasedups
 
-# Bewege Deinen Cursor wie ein Ninja in der Befehlszeile
+## Bewege Deinen Cursor wie ein Ninja in der Befehlszeile
 
 Du siehst, man braucht nicht unbedingt die Nach-Oben und
 Nach-Unten-Pfeiltasten. Was ist aber mit links und rechts? Leider sind
@@ -62,25 +63,25 @@ bewegen.
 | kbd:\[alt - d\]  | lösche das Wort vor dem Cursor                      |
 | kbd:\[ctrl - w\] | lösche das Wort hinter dem Cursor                   |
 
-# Cursor mit der Maus positionieren
+## Cursor mit der Maus positionieren
 
 Um schnell an eine Stelle eines Befehls im Terminal zu springen hält man
 die alt-Taste fest und klickt an die Stelle mit der Maus.
 
-# Springen zum Anfang und Ende einer Zeile
+## Springen zum Anfang und Ende einer Zeile
 
 Zum Anfang der Zeile springt man mit ctrl + a und mit CTRL + e zum Ende.
 
-# Um die Zeile sofort zu löschen…
+## Um die Zeile sofort zu löschen…
 
 …klickt man ctrl + u.
 
-# Pfeiltasten rauf und runter
+## Pfeiltasten rauf und runter
 
 Die Rauf- und Runterpfeiltasten wechseln zwischen den zuletzt
 eingetippten Befehlen
 
-# Autovervollständigen mit der Tabulatortaste
+## Autovervollständigen mit der Tabulatortaste
 
 Um schneller in Verzeichnisse zu springen, tippt man cd und dann die
 Anfangsbuchstaben des Verzeichnisses und mittendrin die Tabulatortaste.

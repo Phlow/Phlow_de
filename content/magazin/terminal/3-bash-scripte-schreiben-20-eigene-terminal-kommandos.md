@@ -5,6 +5,7 @@ categories      : "Bash Scripte schreiben"
 description     : 'Dieses Kapitel
 erklärt Dir, wie Du eigene Terminal-Kommandos erstellst und über Dein
 eigenes `.bash_profile` zu jeder Zeit aufrufbar machst.'
+slug            : eigene-terminal-kommandos
 ---
 Dieses Kapitel erklärt Dir, wie Du eigene Terminal-Kommandos erstellst
 und über Dein eigenes `.bash_profile` zu jeder Zeit aufrufbar machst.

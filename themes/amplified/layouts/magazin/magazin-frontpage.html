@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- wrapper --><div>
+<div><!-- wrapper -->
   <div class="clearfix ">
     <div class="max-width-4 mx-auto">
       <article>
@@ -16,9 +16,7 @@
           {{ .Content }}
         </div>
 
-
-
-        <div class="col col-6 px2">
+        <div class="col col-6 lg-col-4 px2">
           <a href="{{ .Site.BaseURL }}magazin/social-media/">
             <amp-img
               src="{{ .Site.BaseURL }}images/socialmedia/cover-social-media-leitfaden-500-656.jpg"
@@ -27,10 +25,33 @@
               layout="responsive">
             </amp-img>
           </a>
+          <p>
+            Dieser Leitfaden komplettiert meine <a href="{{ "/seminare/social-media/" | absURL }}">Social Media Seminare</a>. An dieser Stelle findest Du aktuelle Fakten, Entwicklungen und Beschreibungen der sozialen Netzwerke.
+          </p>
+          <p>
+            <a href="{{ .Site.BaseURL }}magazin/social-media/" class="button">Zum Leitfaden ›</a>
+          </p>
         </div>
 
 
-        <div class="col col-6 px2">
+        <div class="col col-6 lg-col-4 px2">
+          <a href="{{ .Site.BaseURL }}magazin/webdesign/">
+            <amp-img
+              src="{{ .Site.BaseURL }}images/webdesign/cover-webdesign-lernen-500x656.jpg"
+              width="500"
+              height="656"
+              layout="responsive">
+            </amp-img>
+          </a>
+          <p>
+            Ob HTML5 und CSS oder WordPress: Die Phlow-Anleitungen und Video-Tutorials bieten Dir fundiertes Wissen, dass wir im Bereich Webdesign seit 2000 gesammelt haben. Lerne mit Phlow Webdesign.
+          </p>
+          <p>
+            <a href="{{ .Site.BaseURL }}magazin/webdesign/" class="button">Webdesign lernen ›</a>
+          </p>
+        </div>
+
+        <div class="col col-6 lg-col-4 px2">
           <a href="{{ .Site.BaseURL }}magazin/terminal/">
             <amp-img
               src="{{ .Site.BaseURL }}images/terminal/cover-terminal-fuer-webdesigner-500x656.jpg"
@@ -39,13 +60,16 @@
               layout="responsive">
             </amp-img>
           </a>
+          <p>
+            Richtig genutzt, ist das Mac Terminal ein exzellentes und mächtiges Werkzeug für Webdesigner, dass dank Stappelverarbeitung Zeit spart, langweilige Prozesse automatisiert und die eigene Produktivität erhöht.
+          </p>
+          <p>
+            <a href="{{ .Site.BaseURL }}magazin/terminal/" class="button">Zum Special ›</a>
+          </p>
         </div>
 
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->
   </div><!-- /padding -->
-
-
-
 </div><!-- /wrapper -->
 {{ end }}

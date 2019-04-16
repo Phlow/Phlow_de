@@ -1,10 +1,11 @@
 ---
-subheadline    : 'Webdesign Grundlagen'
+subtitle       : 'Webdesign Grundlagen'
 title          : 'Der Link: Texte und Bilder verlinken'
 video          : 'https://www.youtube.com/watch?v=3IwFRPHP6HE'
 image          :
-  header       : /images/html-links.jpg
+  header       : /images/webdesign/html-links.jpg
 categories     : html-grundlagen
+slug            : link
 ---
 Links (Verweise) machen das Internet zum Internet, indem Du Inhalte – also Webseiten – miteinander direkt verknüpfst. Mit dem HTML-Link-Befehl `<a>` webst Du das Netz.
 <!-- readmore -->
@@ -13,15 +14,17 @@ Das kleine *a* in `<a>` steht für *anchor*, englisch für Anker. Denn Du kannst
 
 Um Texte oder Bilder zu verlinken, musst Du Sie mit `<a>` umklammern:
 
-~~~
+{{< highlight html >}}
 <a>Linktext</a>
-~~~
+{{< /highlight >}}
 
-Jetzt weiß der Browser aber immer noch nicht, auf welche Webseite oder welche Datei der Link zeigen soll. Dafür brauchst Du das Attribut `href` und ein Ziel. *href* steht für *Hyperreference* (Verweisziel). Wenn Du also auf ein anderes HTML-Dokument verlinken möchtest, baut sich der Befehl so auf. Achte dabei darauf, dass das Linkziel immer von Anführungszeichen eingeklammert wird.
+Jetzt weiß der Browser aber immer noch nicht, auf welche Webseite oder welche Datei der Link zeigen soll. Dafür brauchst Du das Attribut `href` und ein Ziel.
 
-~~~
+*href* steht für *Hyperreference* (Verweisziel). Wenn Du also auf ein anderes HTML-Dokument verlinken möchtest, baut sich der Befehl so auf. Achte dabei darauf, dass das Linkziel immer von Anführungszeichen eingeklammert wird.
+
+{{< highlight html >}}
 <a href="impressum.html">Linktext</a>
-~~~
+{{< /highlight >}}
 
 ## Absolute Links
 
@@ -31,9 +34,9 @@ Um externe Webseiten zu verlinken, benötigst Du immer einen absoluten Link. Daz
 
 Um die Tagesschau zu verlinken, setzt Du den Befehl so ein:
 
-~~~
+{{< highlight html >}}
 <a href="https://www.tagesschau.de/">Linktext</a>
-~~~
+{{< /highlight >}}
 
 ## Relative Links
 
@@ -45,12 +48,15 @@ Wenn z.B. eine HTML-Webseite auf meinem Schreibtisch liegt – also meinem Compu
 
 Auch diese Webseite kann ich absolut verlinken. Das Problem entsteht aber, wenn Du die Webseite mit dem Link auf Deinem Rechner öffnest. Weil Dein Rechner eine andere Dateistruktur hat, wird er die Datei nicht finden und du erhälst anstelle dessen eine Fehlerseite des Browser.
 
-<figure class="border-solid">
-<img src="{{ '/images/html-browser-fehlerseite.png' | absolute_url }}" alt="">
-<figcaption>Fehlerseite: Die Datei konnte vom Browser nicht gefunden und aufgerufen werden</figcaption>
-</figure>
+{{< amp/fig src="/images/webdesign/html-browser-fehlerseite.png" figcaption="Fehlerseite: Die Datei konnte vom Browser nicht gefunden und aufgerufen werden" width="474" height="274" layout="fixed" >}}
 
 ## Links in einem neuen Fenster öffnen mit target
+
+Wenn Du möchtest, dass der Link bei einem Klick ein neues Fenster öffnet, musst Du ein weiteres Attribut hinzufügen. Dieses lautet: `target`, Ziel. Ein neues Fenster öffnest Du mit `target="_blank"`. Im folgenden Beispiel öffnet der Link ein neues Fenster und öffnet in diesem Fenster, die tagesschau.de-Website.
+
+{{< highlight html >}}
+<a href="https://www.tagesschau.de/" target="_blank">Zu Tagesschau.de ›</a>
+{{< /highlight >}}
 
 {{< info >}}
 Die zwei wichtigsten Attribute für einen Link – die Du Dir unbedingt merken soltest – sind *href* und *target*.

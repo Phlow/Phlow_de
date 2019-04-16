@@ -4,6 +4,7 @@ categories : "Ordner und Dateien"
 description : 'Will man eine große
 Anzahl an Dateien in einem Rutsch nach einem Schema oder mit einem Datum
 umbenennen, ist das Terminal die ideale Wahl.'
+slug            : mv-dateien-umbennen
 ---
 Will man eine große Anzahl an Dateien in einem Rutsch nach einem Schema
 oder mit einer fortlaufenden Zahl oder einem Datum umbenennen, ist das

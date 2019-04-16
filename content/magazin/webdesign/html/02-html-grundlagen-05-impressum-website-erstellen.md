@@ -1,8 +1,8 @@
 ---
-subheadline:    'Webdesign Grundlagen'
+subtitle:    'Webdesign Grundlagen'
 title:          '#002 Impressum erstellen für Deine Website'
 video:          'https://www.youtube.com/watch?v=vIMav9vvQek'
-categories:     html
+categories            : html-grundlagen
 image:          '002-impressum-website-erstellen.jpg'
 published: false
 ---

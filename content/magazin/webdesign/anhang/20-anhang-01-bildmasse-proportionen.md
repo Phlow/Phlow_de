@@ -2,6 +2,7 @@
 title                 : Populäre Bildmaße & Proportionen
 subtitle              : Pixelgrößen
 categories            : anhang
+url: /magazin/webdesign/bildmasse-bildproportionen/
 ---
 Während der Arbeit als Webdesigner, brauchst Du sicherlich immer wieder Pixelmaße für Banner oder typische Bildformate. Diese Hilfsseite bietet Dir eine gute Übersicht herkömmlicher Formate.
 <!-- readmore -->

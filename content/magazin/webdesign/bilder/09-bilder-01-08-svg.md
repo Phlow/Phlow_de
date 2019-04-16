@@ -3,6 +3,7 @@ title                 : Das SVG-Bildformat
 subtitle              : Format der Zukunft
 categories            : bilder
 weight                : 0905
+slug            : svg
 ---
 SVG-Bilder sind Vektorgrafiken. Im Gegensatz zu anderen Bildformaten, werden nicht Pixel, sondern Pfade abgespeichert. SVG-Bilder kannst Du animieren, über HTML/CSS manipulieren und werden die Grafiken vergrößert, bleiben die Ränder  immer scharf.
 <!-- readmore -->

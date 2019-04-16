@@ -1,7 +1,8 @@
 ---
-subtitle              : HTML Grundlagen
-title                 : Bilder einfügen mit img
-categories            : html-grundlagen
+subtitle        : HTML Grundlagen
+title           : Bilder einfügen mit img
+categories      : html-grundlagen
+slug            : bilder
 ---
 Mit dem HTML-Tag `<img>` baust Du eine Bilddatei wie z.B. eine JPG-Datei in ein HTML-Dokument ein.
 <!-- readmore -->

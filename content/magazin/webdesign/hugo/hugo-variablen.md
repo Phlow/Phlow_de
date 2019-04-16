@@ -2,6 +2,7 @@
 subtitle     : "Static Website Generator"
 title        : "Hugo Variablen"
 categories   : hugo
+slug            : variablen
 ---
 ## Variablen
 

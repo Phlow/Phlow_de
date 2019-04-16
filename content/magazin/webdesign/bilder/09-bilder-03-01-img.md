@@ -1,8 +1,9 @@
 ---
-title                 : Bilder einfügen mit img
-subtitle              : Bild
-categories            : bilder
-weight                : 0931
+title           : Bilder einfügen mit img
+subtitle        : Bild
+categories      : bilder
+weight          : 0931
+slug            : img-tag
 ---
 Mit &lt;img&gt; baust Du JPG-, PNG- oder z.B. GIF-Bilder in ein HTML-Dokument ein. &lt;img&gt; ist ein sogenanntes Standalone-Tag ohne Elementinhalt und ohne End-Tag.
 <!-- readmore -->

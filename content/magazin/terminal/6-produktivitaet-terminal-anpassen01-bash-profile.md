@@ -1,6 +1,7 @@
 ---
 title:  "Was ist .bash\_profile? Und wie nutze und editiere ich es?"
 categories : "Produktivität"
+slug            : bash-profile
 ---
 Diese Anleitung erklärt Dir, was *.bash\_profile* ist und wie Du es auf
 dem Mac bearbeiten kannst.

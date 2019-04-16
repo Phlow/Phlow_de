@@ -4,6 +4,7 @@ categories : "Dateien Upload und Download"
 description : 'Dateien lädt
 man über das Terminal auf einen Server mit `sftp` hoch. Will man ganze
 Ordner hochladen, muss man einige Dinge beachten.'
+slug            : sftp
 ---
 Dateien lädt man über das Terminal auf einen Server mit `sftp` hoch.
 Will man ganze Ordner hochladen, muss man einige Dinge beachten, sonst

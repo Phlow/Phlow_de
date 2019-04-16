@@ -1,7 +1,8 @@
 ---
-title                 : 'Schnelle Bilder: Bilder optimal komprimieren'
-subtitle              : Übertragung & Kompression
-categories            : bilder
+title           : 'Schnelle Bilder: Bilder optimal komprimieren'
+subtitle        : Übertragung & Kompression
+categories      : bilder
+slug            : bildkompression
 ---
 Es gibt hervorragende kostenlose Software, die Bilder verlustlos oder verlustbehaftet optimiert. Dadurch verringert sich die Dateigröße und die Webseite wird schneller geladen. Während das Programm _ImageOptim_ per Drag & Drop funktioniert, komprimiert das Terminal-Programm _Guetzli_ JPG-Bilder noch mehr.
 <!-- readmore -->

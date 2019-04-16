@@ -4,6 +4,7 @@ categories : "Ordner und Dateien"
 description : 'Mit rm löschst Du
 superschnell einzelne oder mehrere Dateien. Gezielt kannst Du Dateien
 nach Endungen auch gleichzeitig in mehreren Unterordnern löschen.'
+slug            : rm-dateien-loeschen
 ---
 Mit rm löschst Du superschnell einzelne oder mehrere Dateien. Gezielt
 kannst Du Dateien nach Endungen auch gleichzeitig in mehreren

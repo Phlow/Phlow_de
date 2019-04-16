@@ -32,6 +32,7 @@ slideshow:
     width: 960
     height: 540
 weight                : 0928
+slug            : drittelregel-rule-of-thirds
 ---
 Die Drittel-Regel – auch *Rule of Thirds* genannt – hilft Dir bei der Bildgestaltung. Beachtest Du die einfache Regel wirken Deine Bilder oft deutlich interessanter und spannungsgeladener.
 <!-- readmore -->

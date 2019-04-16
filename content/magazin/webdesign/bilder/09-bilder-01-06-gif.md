@@ -8,6 +8,7 @@ image:
   title_height            : 375
   caption                 : Dank SocialMedia feiern GIF-Animationen ein fulminantes Comeback
 weight: 0904
+slug            : gif
 ---
 Das GIF-Bilddateiformat (Graphics Interchange Format) zeichnet sich vor allem durch zwei Merkmale besonders aus: Es ermöglicht Animationen und die Farbpalette erlaubt maximal 256 Farben.
 <!-- readmore -->

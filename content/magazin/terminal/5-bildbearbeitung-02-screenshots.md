@@ -5,6 +5,7 @@ description : 'Der Befehl
 `screencapture` erlaubt Screenshots per Terminal. Zeitgesteuerte
 Screenshots und Bildschirmfotos ohne oder mit Schatten sind kein
 Problem.'
+slug            : screencapture-screenshots
 ---
 Der Befehl `screencapture` erlaubt Screenshots per Terminal.
 Zeitgesteuerte Screenshots und Bildschirmfotos ohne oder mit Schatten

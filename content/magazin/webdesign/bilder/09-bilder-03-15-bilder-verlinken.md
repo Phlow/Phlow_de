@@ -1,9 +1,10 @@
 ---
 draft: true
 
-title                 : Bilder verlinken
-subtitle              : Links
-categories            : bilder
+title           : Bilder verlinken
+subtitle        : Links
+categories      : bilder
+slug            : bilder-verlinken
 ---
 
 <!-- readmore -->

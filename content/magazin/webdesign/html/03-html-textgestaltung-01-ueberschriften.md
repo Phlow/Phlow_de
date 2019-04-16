@@ -1,11 +1,10 @@
 ---
-subtitle              : HTML Grundlagen
-title                 : Überschriften mit <h1>, <h2>, <h3>,…
-categories            : html-grundlagen
-# published             : false
-seo:
-  title               : Suchmaschinenoptimierung mit den Überschriften h1, h2, h3,…
-  description         : Mit den HTML-Überschriften &lt;h1&gt;, &lt;h2&gt;, &lt;h3&gt;,… gliederst Du Texte und optimierst Deine Beiträge gleichzeitig für Suchmaschinen. Wie erklärt Dir der Artikel.
+subtitle          : HTML Grundlagen
+title             : "Überschriften mit &lt;h1&gt;, &lt;h2&gt;, &lt;h3&gt;,…"
+meta_title        : "Suchmaschinenoptimierung mit den Überschriften h1, h2, h3,…"
+meta_description  : Mit den HTML-Überschriften &lt;h1&gt;, &lt;h2&gt;, &lt;h3&gt;,… gliederst Du Texte und optimierst Deine Beiträge gleichzeitig für Suchmaschinen. Wie erklärt Dir der Artikel.
+categories        : html-grundlagen
+slug              : ueberschriften
 ---
 Mithilfe der Überschriften-Tags gliederst Du Texte nicht nur optisch und regst die Neugierde der Besucher an, sondern Du greifst auch Deiner Website suchmaschinentechnisch unter die Arme.
 <!-- readmore -->
@@ -20,17 +19,17 @@ Die &lt;h1&gt;-Überschrift darf nur einmal pro HTML-Dokument genutzt werden.
 
 Schreibst Du einen längeren Text, kannst Du swie bei ein Buch Kapitel die Unterkapitel besitzen, auch einen Abschnitt nach einer `<h2>`-Überschrift mit `<h3>`-Überschriften gliedern. Es macht aber wenig Sinn wenn Nach einer `<h2>`-Überschrift nur eine `<h3>` und dann wieder eine `<h2>`-Überschrift folgt.
 
-Erfahrungsgemäß reichen `<h1>` und `<h2>` für die Gliederung eines Textes vollständig aus. Nimmst Du aber z.B. einen richtig langen Artikel, wie z.B. einen WikieWikipedia-Artikel über den Film [»Guardians of the Galaxy«](https://de.wikipedia.org/wiki/Guardians_of_the_Galaxy), dann kommen auch `<h3>`-Überschriften zum Einsatz. Bleiben wir bei dem Film als Beispiel, dann gliedert sich der Text mit folgenden Zwischenüberschriften:
+Erfahrungsgemäß reichen `<h1>` und `<h2>` für die Gliederung eines Textes vollständig aus. Nimmst Du aber z.B. einen richtig langen Artikel, wie z.B. einen Wikipedia-Artikel über den Film [»Guardians of the Galaxy«](https://de.wikipedia.org/wiki/Guardians_of_the_Galaxy), dann kommen auch `<h3>`-Überschriften zum Einsatz. Bleiben wir bei dem Film als Beispiel, dann gliedert sich der Text mit folgenden Zwischenüberschriften:
 
 ~~~
 <h1>Guardians of the Galaxy</h1>
    <h2>Handlung</h2>
    <h2>Produktion</h2>
-      <h3>2.1	Stab und Besetzung</h3>
-      <h3>2.2	Synchronisation</h3>
+      <h3>2.1 Stab und Besetzung</h3>
+      <h3>2.2 Synchronisation</h3>
    <h2>Rezeption</h2>
-      <h3>3.1	Einspielergebnis</h3>
-      <h3>3.2	Kritiken</h3>
+      <h3>3.1 Einspielergebnis</h3>
+      <h3>3.2 Kritiken</h3>
    <h2>Fortsetzungen</h2>
    <h2>Auszeichnungen (Auswahl)</h2>
    <h2>Soundtrack</h2>

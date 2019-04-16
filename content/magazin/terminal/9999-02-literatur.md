@@ -1,7 +1,7 @@
 ---
-title:  Literatur
-categories : "Anhang"
-permalink : /literatur/
+title           :  Literatur
+categories      : "Anhang"
+slug            : /literatur/
 ---
 
 »Shell-Programmierung« von Jürgen Wolf

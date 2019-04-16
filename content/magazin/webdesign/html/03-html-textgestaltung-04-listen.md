@@ -3,6 +3,7 @@ subtitle              : HTML Grundlagen
 title                 : '`ul` und `ol`: Inhalte sortieren mit Listen'
 categories            : html-grundlagen
 published             : false
+slug            : liste
 ---
 Es gibt drei Arten Inhalte in Form von Listen in HTML darzustellen: ungeordnete Listen mit `ul`, geordnete Listen mit `ol` und Definitionslisten mit `dl`.
 <!-- readmore -->

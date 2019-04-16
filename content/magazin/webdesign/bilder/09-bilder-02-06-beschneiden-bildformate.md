@@ -1,8 +1,9 @@
 ---
-subtitle              : Bildproportionen bzw. Seitenverhältnisse
-title                 : Bilder zurechtschneiden
-categories            : bilder
-weight                : 0926
+subtitle        : Bildproportionen bzw. Seitenverhältnisse
+title           : Bilder zurechtschneiden
+categories      : bilder
+weight          : 0926
+slug            : bildformate
 ---
 Mit drei einfachen Tatsachen optimierst Du jedes Bild: Erstens mit einem harmonischen Seitenverhältnis, der Beachtung der Drittelregel und der abschließenden Tonwertkorrekur.
 <!-- readmore -->

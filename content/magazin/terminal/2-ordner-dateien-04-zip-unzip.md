@@ -4,6 +4,7 @@ categories : "Ordner und Dateien"
 description : 'Mit den beiden
 Kommandos `zip` und `unzip` komprimierst und entpackst Du Dateien im
 *zip*-Format.'
+slug            : zip-unzip
 ---
 Mit den beiden Kommandos `zip` und `unzip` komprimierst und entpackst Du
 Dateien im *zip*-Format. Der Befehl erlaubt das setzen von Passwörtern

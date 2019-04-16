@@ -1,10 +1,11 @@
 ---
 subtitle              : HTML Grundlagen
-title                 : Absätze mit <p> und Zeilenumbrüche mit <br>
+title                 : "Absätze mit &lt;p&gt; und Zeilenumbrüche mit &lt;br&gt;"
 description           : Absätze mit dem HTML-Tag p gestalten
 categories            : html-grundlagen
+slug                  : absatz
 ---
-Lange Texte unterteilst Du mit Absätzen und Zeilenumbrüchen, damit sie von Deinen Besuchern besser gelesen werden können. Zum Einsatz kommen hierfür die beiden HTML-Befehle `<p>` für  Absätze und `<br>` Zeilenumbrüche.
+Lange Texte unterteilst Du mit Absätzen und Zeilenumbrüchen, damit sie von Deinen Besuchern besser gelesen werden können. Zum Einsatz kommen hierfür die beiden HTML-Befehle `&lt;p&gt;` für  Absätze und `&lt;br&gt;` Zeilenumbrüche.
 <!-- readmore -->
 
 ## Mit `<p>` unterteilst Du lange Texte in Abschnitte
@@ -13,10 +14,9 @@ Absätze unterteilen einen längeren Text in Gedankenabschnitte. Ein bis zwei Ge
 
 Vermeide darum Textwüsten, bei denen Leser schnell die Übersicht verlieren. Außerdem erfassen Deine Leser Texte schneller, wenn Du Sie in »Häppchen« gliederst. Das hat unter anderem auch den psychologischen Effekt, dass Besucher mehr das Gefühl erhält, dass er es schafft. So eine Art Belohnungseffekt pro Absatz.
 
-{% highlight html %}
+{{< highlight html >}}
 <p>Ein ganz einfacher Absatz.</p>
-{% endhighlight %}
-
+{{< /highlight >}}
 
 ## Einfache Zeilenumbrüche mit `<br>`
 
@@ -24,14 +24,14 @@ Möchtest Du z.B. auf der Webseite Deines Impressums eine Adresse darstellen, da
 
 Während bei guter Typografie zwischen Absätzen mehr Platz als ein einfacher Zeilenumbruch ist – siehe diese Webseite als Beispiel –, zwingst Du einfachen Zeilenumbruch mit einem `<br>`-Tag (Break). Das `<br>`-Tag gehört zu den so genannten _standalone tags_ und muss nicht wieder geschlossen werden. Und so formatierst Du z.B. eine Adresse:
 
-{% highlight html %}
+{{< highlight html >}}
 <p>
 Kölner Dom<br>
 Domkloster 4<br>
 50667 Köln<br>
 Deutschland<br>
 </p>
-{% endhighlight %}
+{{< /highlight >}}
 
 Das Ergebnis sieht dann so aus:
 

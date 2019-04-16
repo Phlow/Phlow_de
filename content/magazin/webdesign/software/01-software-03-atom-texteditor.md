@@ -6,6 +6,7 @@ image:
   caption                 : 'Atom: Herausragender Editor für Programmierer'
 categories     : software
 weight: 2
+slug            : atom-texteditor
 ---
 Atom ist ein kostenloser und exzellenter Texteditor für Programmierer. Der Editor unterstützt Dich mit zahlreichen Funktionen und Erweiterungen bei der Programmierung. Er funktioniert auf Windows-, Mac- und Linux-Rechnern.
 <!-- readmore -->

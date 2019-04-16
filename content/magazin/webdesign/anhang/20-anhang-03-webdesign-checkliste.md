@@ -7,6 +7,7 @@ image:
   header                  : /images/webdesign/anhang-checkliste.jpg
   caption                 : Glenn Carstens-Peters
   url                     : https://unsplash.com/@glenncarstenspeters
+url: /magazin/webdesign/webdesign-checkliste/
 ---
 Mit Hilfe dieser Checkliste durchleuchten Sie ihr Projekt. Schnell überprüfen Sie, ob alle Webdesign-Elemente dabei sind und Einstellungen für Suchmaschinen und die Geschwindigkeit optimiert wurden.
 <!-- readmore -->

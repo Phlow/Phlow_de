@@ -3,6 +3,7 @@ subtitle              : HTML-Grundlagen
 title                 : Fettschrift mit &lt;strong&gt; und Kursivschrift mit &lt;em&gt;
 categories            : html-grundlagen
 published             : false
+slug            : fettschrift-kursivschrift
 ---
 Dieses Video-Tutorial stellt Dir die beiden HTML-Befehle &lt;strong&gt; und &lt;em&gt; für Fettschrift und Kursivschrift vor und wie Du sie am Besten nutzt.
 <!-- readmore -->

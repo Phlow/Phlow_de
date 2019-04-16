@@ -2,6 +2,7 @@
 title                 : Bilder – Dateiformate für das Webdesign
 categories            : bilder
 weight: 0901
+slug            : bilder-datei-formate
 ---
 Bilder gehören neben Text zum wichtigsten Bestandteil einer Website. Gute Bilder wirken direkt, emotionalisieren und machen den Besucher neugierig. Bei falschem Einsatz verlangsamst Du aber unnötig Deine Website. Dieses Kapitel erklärt Dir, welche Dateiformate für Bilder es gibt und wann Du welches einsetzen solltest und wie Du Bilder für schnelles Laden auf allen Geräten optimierst.
 <!-- readmore -->

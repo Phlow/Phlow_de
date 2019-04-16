@@ -5,6 +5,7 @@ description : 'Per Terminal
 installierst Du WordPress mit einem kleinen Script in weniger als einer
 Minute. Bedingung: Du musst Dich auf Deinem Server per ssh einloggen
 können.'
+slug            : ssh-wordpress
 ---
 Per Terminal installierst Du WordPress mit einem kleinen Script in
 weniger als einer Minute. Bedingung: Du musst Dich auf Deinem Server per

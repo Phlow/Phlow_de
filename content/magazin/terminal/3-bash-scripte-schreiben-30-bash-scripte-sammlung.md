@@ -4,6 +4,7 @@ categories : "Bash Scripte schreiben"
 description : 'Dieses Script
 benennt Dateien um, indem es das Entstehungsdatum der jeweiligen Datei
 nutzt und es mit einer Wunschzeichenkombination kombiniert.'
+slug            : bash-scripte-sammlung
 ---
 ## Umbenennen: Datei mit Dateientstehungsdatum plus Zeichenfolge umbenennen
 

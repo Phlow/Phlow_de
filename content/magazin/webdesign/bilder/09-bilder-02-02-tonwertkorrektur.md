@@ -1,11 +1,12 @@
 ---
-subtitle              : Bildschärfe
-title                 : 'Tonwertkorrekur: Einfach, aber wirkungsvoll'
-categories            : bilder
+subtitle        : Bildschärfe
+title           : 'Tonwertkorrekur: Einfach, aber wirkungsvoll'
+categories      : bilder
 image:
-  header                  : /images/webdesign/bild-tonwertkorrektur-header.jpg
-  caption                 : Markante Bilder dank Tonwertkorrektur
-weight                : 0922
+  header        : /images/webdesign/bild-tonwertkorrektur-header.jpg
+  caption       : Markante Bilder dank Tonwertkorrektur
+weight          : 0922
+slug            : tonwertkorrektur
 ---
 Schnell korrigiert man mit der Tonwertkorrektur den Tonwertbereich und die Farbbalance eines Bildes. Das ist leicht erledigt, doch das Resultat ist erstaunlich.
 <!-- readmore -->

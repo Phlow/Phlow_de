@@ -1,11 +1,12 @@
 ---
-subtitle              : Serversteuerung
-title                 : Die Magie der .htaccess-Datei
-categories            : special
+subtitle        : Serversteuerung
+title           : Die Magie der .htaccess-Datei
+categories      : special
 image:
-  header                  : /images/webdesign/htaccess-redirect-umleitungen.jpg
-  caption                 : Foto von Denys Nevozhai
-  url                     : https://unsplash.com/@dnevozhai
+  header        : /images/webdesign/htaccess-redirect-umleitungen.jpg
+  caption       : Foto von Denys Nevozhai
+  url           : https://unsplash.com/@dnevozhai
+slug            : htaccess
 ---
 Hypertext Access, häufig abgekürzt als *.htaccess*, ist eine Konfigurationsdatei mit mächtigen Funktionen. Über eine *.htaccess* steuerst Du das Verhalten eines Servers – z.B. was passieren soll, wenn der Server eine aufgerufene Internetseite nicht findet oder Du kannst eine Website mit einer Passwortabfrage schützen.
 <!-- readmore -->

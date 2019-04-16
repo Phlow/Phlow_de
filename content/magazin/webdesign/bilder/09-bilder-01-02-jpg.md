@@ -7,6 +7,7 @@ image:
   caption                 : Foto von Alexandru Zdrobău
   url                     : https://instagram.com/alexandru_zdrobau
 weight: 0902
+slug            : jpg
 ---
 Das JPG-Bildformat (auch JPEG) verwendest Du, wenn Du Fotos oder Bilder mit vielen Details auf einer Website darstellen will. Kein anderes Bildformat speichert detaillierte Bilder besser bzw. kleiner als JPG ohne, dass die Qualität zu sehr darunter leidet.
 <!-- readmore -->

@@ -2,6 +2,7 @@
 title: "Terminal Design – Farben, Schrift, Extras"
 categories : "Produktivität"
 description : 'Das Terminal lässt sich auf vielfältige Weise individualisieren und verbessern, um die Produktivität weiter nach oben zu schrauben.'
+slug            : design-anpassen
 ---
 Das Terminal lässt sich auf vielfältige Weise individualisieren und
 verbessern, um die Produktivität weiter nach oben zu schrauben.
