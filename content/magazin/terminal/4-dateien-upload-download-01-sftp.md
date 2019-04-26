@@ -1,5 +1,6 @@
 ---
 title:  "sftp nutzen: Dateien hochladen und runterladen"
+chapter         : 4
 categories : "Dateien Upload und Download"
 description : 'Dateien lädt
 man über das Terminal auf einen Server mit `sftp` hoch. Will man ganze
@@ -11,11 +12,11 @@ Will man ganze Ordner hochladen, muss man einige Dinge beachten, sonst
 gibt man schnell frustriert auf.
 <!-- readmore -->
 
+{{< toc >}}
+
 Um den Umgang mit `sftp` besser zu illustrieren, zeige ich Dir anhand
 eines Beispieles, wie es funktioniert. Auf meinem Rechner liegt der
 Ordner *sftp\_beispiel* auf dem Desktop, der wie folgt strukturiert ist.
-
-**Struktur des Ordners.**
 
     sftp_beispiel/
     ├── bild-01.jpg
@@ -33,26 +34,18 @@ Ordner *sftp\_beispiel* auf dem Desktop, der wie folgt strukturiert ist.
             ├── bild-09.jpg
             ├── bild-10.jpg
             └── index.html
-    
-    2 directories, 13 files
 
-# Einloggen per sftp
+## Einloggen per sftp
 
-Standardmäßig verwendet SFTP das SSH-Protokoll, um eine sichere
-Verbindung zu authentifizieren und herzustellen. Aus diesem Grund sind
-die gleichen Authentifizierungsmethoden verfügbar, die in SSH vorhanden
-sind. Obwohl Passwörter einfach zu verwenden und standardmäßig
-eingerichtet werden, empfehle ich Dir, SSH-Schlüssel zu erstellen und
-Deinen öffentlichen Schlüssel auf jedes System zu übertragen, auf das Du
-zugreifen musst. Dies ist sicherer und spart Dir auf lange Sicht Zeit.
-Wie Du einen Schlüssel erstellst, erfährst Du bei Deinem Provider.
-Beachte, dass nicht jedes Webhosting-Paket den Zugang per ssh
-ermöglicht.
+Standardmäßig verwendet SFTP das [SSH]({{< ref "4-dateien-upload-download-01-ssh-wordpress.md" >}})-Protokoll, um eine sichere Verbindung zu authentifizieren und herzustellen. Aus diesem Grund sind die gleichen Authentifizierungsmethoden verfügbar, die in SSH vorhanden sind.
 
-Wenn Du eine Verbindung zum Server über SSH herstellen kannst, hast Du
-alle erforderlichen Voraussetzungen erfüllt, um SFTP zum Verwalten von
-Dateien zu verwenden. Den SSH-Zugriff testet Du mit dem folgenden
-Befehl:
+Obwohl Passwörter einfach zu verwenden und standardmäßig eingerichtet werden, empfehle ich Dir, SSH-Schlüssel zu erstellen und Deinen öffentlichen Schlüssel auf jedes System zu übertragen, auf das Du zugreifen musst. Dies ist sicherer und spart Dir auf lange Sicht Zeit. Wie Du einen Schlüssel erstellst, erfährst Du bei Deinem Provider.
+
+{{< warning >}}
+Beachte, dass nicht jedes Webhosting-Paket den Zugang per ssh ermöglicht.
+{{< /warning >}}
+
+Wenn Du eine Verbindung zum Server über SSH herstellen kannst, hast Du alle erforderlichen Voraussetzungen erfüllt, um SFTP zum Verwalten von Dateien zu verwenden. Den SSH-Zugriff testet Du mit dem folgenden Befehl:
 
     $ ssh benutzer_name@ftp.server.de
 
@@ -60,25 +53,15 @@ Wenn der Login funktioniert, tippst Du…
 
     $ exit
 
-…um Dich wieder auszuloggen. Jetzt kannst Du eine SSH-Verbindung
-aufbauen und eine SFTP-Sitzung starten. Um Dateien runter- oder
-hochzuladen, loggst Du Dich im ersten Schritt also mit `sftp` ein. Dazu
-benötigt man, wie bei einem normalen FTP-Programm die Adresse des
-Servers, einen Nutzernamen und ein Passwort. Im ersten Schritt
-kontaktiert man den Server. Anschließend will der Server das Passwort
-haben.
+…um Dich wieder auszuloggen. Jetzt kannst Du eine SSH-Verbindung aufbauen und eine SFTP-Sitzung starten.
+
+Um Dateien runter- oder hochzuladen, loggst Du Dich im ersten Schritt also mit `sftp` ein. Dazu benötigt man, wie bei einem normalen FTP-Programm die Adresse des Servers, einen Nutzernamen und ein Passwort. Im ersten Schritt kontaktiert man den Server. Anschließend will der Server das Passwort haben.
 
     $ sftp -r benutzer_name@ftp.server.de
 
-Die Option `-r` stellt im Vorfeld bereits den rekursiven Upload und
-Download ein. Das bedeutet, dass Du auch gleich in einem Rutsch Dateien
-runter- oder hochladen kannst. `sftp` geht dann alle Verzeichnisse
-durch. Sonst müsstest Du für jede Datei extra einen Befehl eingeben.
+Die Option `-r` stellt im Vorfeld bereits den rekursiven Upload und Download ein. Das bedeutet, dass Du auch gleich in einem Rutsch Dateien runter- oder hochladen kannst. `sftp` geht dann alle Verzeichnisse durch. Sonst müsstest Du für jede Datei extra einen Befehl eingeben.
 
-Wie auf Deinem eigenen Rechner kannst Du mit sftp folgende Befehle
-ausführen, die im Kapitel »Befehle für Dateien und Ordner« näher
-erklärt werden. Hier noch einmal eine
-Kurzübersicht:
+Wie auf Deinem eigenen Rechner kannst Du mit sftp folgende Befehle ausführen, die im Kapitel »Befehle für Dateien und Ordner« näher erklärt werden. Hier noch einmal eine Kurzübersicht:
 
 | Befehl | Beschreibung                                                       |
 | ------ | ------------------------------------------------------------------ |
@@ -89,7 +72,7 @@ Kurzübersicht:
 | mkdir  | erstelle einen Ordner                                              |
 | rm     | lösche eine Datei                                                  |
 
-Mögliche Befehle mit sftp
+## Mögliche Befehle mit sftp
 
 Während die obigen Befehle auf dem Server funktionieren, können einige
 Befehle auch auf dem lokalen Rechner ausgeführt werden. Dazu stellst Du
@@ -101,20 +84,16 @@ Terminal gibt Dir den Pfad aus.
 Hier noch einmal die wichtigsten Befehle, um auf Deinem eigenen Rechner
 während einer `sftp`-Session zu navigieren:
 
-  - lcd
+* `lcd`
+* `lls`
+* `lmkdir`
+* `lpwd`
 
-  - lls
+{{< info >}}
+Mit `help` kannst Du Dir jederzeit die Hilfe von `sftp` aufrufen. Sie listet Dir alle Optionen und Erklärungen auf.
+{{< /info >}}
 
-  - lmkdir
-
-  - lpwd
-
-> **Tip**
-> 
-> Mit `help` kannst Du Dir jederzeit die Hilfe von `sftp` aufrufen. Sie
-> listet Dir alle Optionen und Erklärungen auf.
-
-# Navigieren mit `sftp`
+## Navigieren mit `sftp`
 
 Mit Hilfe einer Anzahl von Befehlen kannst Du durch die Dateihierarchie
 des entfernten Systems navigieren. Zur Orientierung dient `pwd`. Mit
@@ -130,7 +109,7 @@ Um Daten hoch- und runterzuladen nutzt Du `put` und `get`. Mit `put`
 schiebst Du Daten auf den Server und mit `get` bekommst Du Daten bzw.
 lädst sie herunter.
 
-# sftp: Ordner mit Unterordnern hochladen
+## sftp: Ordner mit Unterordnern hochladen
 
 **Vorsicht\!** – Damit Du Dateien und Unterordner eines Ordners von
 Deinem Rechner auf den Server hochladen kannst, musst Du zuerst das
@@ -139,7 +118,7 @@ Verzeichnis auf dem Server anlegen. Sonst beschwert sich sftp mit
 
     $ mkdir sftp_beispiel
 
-## sftp beenden
+### sftp beenden
 
 Um `sftp` zu beenden, tippt man einfach `exit` in das Terminal und loggt
 damit aus:

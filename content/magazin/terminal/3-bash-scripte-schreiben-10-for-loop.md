@@ -1,7 +1,8 @@
 ---
-title:  "Terminal: For-Loop/Schleifen um Befehle zu wiederholen"
-categories : "Bash Scripte schreiben"
-description : "Mit for
+title           : "Terminal: For-Loop/Schleifen um Befehle zu wiederholen"
+chapter         : 3
+categories      : "Bash Scripte schreiben"
+description     : "Mit for
 loop-Schleifen wiederholst Du im Terminal Befehle und konvertierst z.B.
 mehrere Bild-Dateien in einem Rutsch. Und so geht’s."
 slug            : for-loop
@@ -27,9 +28,7 @@ Eine ganz simple `for loop` sieht z.B. so aus:
 Der Befehl liest sich dann so:
 
 1.  Für alle Dateien mit der Endung `.jpg` tue folgendes:
-
 2.  Gib den Dateinamen aus.
-
 3.  Fertig.
 
 `datei` ist hierbei eine Platzhaltervariable, die Du benennen kannst,

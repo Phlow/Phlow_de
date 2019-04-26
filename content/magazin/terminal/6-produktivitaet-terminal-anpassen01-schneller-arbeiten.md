@@ -1,5 +1,6 @@
 ---
 title : "Schneller mit dem Terminal arbeiten"
+chapter         : 6
 categories : "Produktivität"
 slug            : schneller-arbeiten
 ---

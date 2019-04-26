@@ -1,5 +1,19 @@
 <header>
-  {{ if .Page.Params.image.title }}
+  {{ if .Page.Params.youtube }}
+
+  <amp-youtube
+        data-videoid="{{ .Page.Params.youtube }}"
+        width="1280"
+        height="720"
+        layout="responsive">
+      <amp-img
+        src="https://i.ytimg.com/vi/{{ .Page.Params.youtube }}/hqdefault_live.jpg"
+        placeholder
+        layout="fill"
+        />
+  </amp-youtube>
+
+  {{ else if .Page.Params.image.title }}
   <figure class="mt0">
     <amp-img
         src="{{ .Site.BaseURL }}{{ .Page.Params.image.title }}"
@@ -8,12 +22,19 @@
         height="{{ with .Page.Params.image.title_height }}{{ . }}{{ else }}900{{ end }}"
         layout="responsive">
     </amp-img>
-    {{ if .Page.Params.image.caption }}<figcaption>{{ .Page.Params.image.caption }}</figcaption>{{ end }}
+    {{ if .Page.Params.image.caption }}
+      <figcaption>
+        {{ if .Page.Params.image.caption_url }}<a href="{{ .Page.Params.image.caption_url }}">{{ end }}
+          {{ .Page.Params.image.caption }}
+        {{ if .Page.Params.image.caption_url }}</a>{{ end }}
+      </figcaption>
+    {{ end }}
   </figure>
   {{ end }}
 
-    <h1>{{ if .Page.Params.Subtitle }}
-      <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
-      {{ .Title | htmlUnescape}}
-    </h1>
-  </header>
+
+  <h1>{{ if .Page.Params.Subtitle }}
+    <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
+    {{ .Title | htmlUnescape}}
+  </h1>
+</header>

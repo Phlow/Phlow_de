@@ -1,6 +1,7 @@
 ---
 subtitle        :  Terminal Schnellstart
 title           :  Starten und Arbeiten mit dem Terminal am Mac
+chapter         : 1
 categories      : "Einführung"
 description     : 'So startest Du blitzschnell
 mit dem (Mac) Terminal durch. Dazu nutzt Du am Besten Spotlight und

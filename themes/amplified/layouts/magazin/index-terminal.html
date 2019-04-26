@@ -6,21 +6,21 @@
     <div class="max-width-4 mx-auto">
       <article class="clearfix mxn2">
 
-        <header>
-          <p class="sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</p>
-          <h1>{{ .Title }}</h1>
-        </header>
+        {{ partial "helper/article-header.html" . }}
+        {{ partial "helper/summary-content.html" . }}
 
-          {{ .Content }}
-
-
-          <ul class="toc-list">
+        {{ range .Pages.GroupByParam "chapter" }}
+        <ul class="toc-list">
+            {{ $counter := 0 }}
             {{ range sort .Pages "File.TranslationBaseName" }}
+              {{ if eq $counter 0 }}<h2>{{ .Params.Categories }}</h2>{{ end }}
               <li>
-                <a href="{{.Permalink}}"><strong>{{ .Params.Categories }}</strong> | {{ .Title }}</a>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
               </li>
+              {{ $counter = add $counter 1 }}
             {{ end }}
-          </ul>
+        </ul>
+        {{ end }}
 
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->

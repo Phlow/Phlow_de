@@ -1,5 +1,6 @@
 ---
 title           :  Navigieren im Terminal
+chapter         : 2
 categories      : "Ordner und Dateien"
 description     : 'Dieses Kapitel erklärt Dir wichtige Begriffe und Konzepte des Terminals und zeigt Dir, wie Du mit Dateien und Ordnern umgehst.'
 slug            : datei-ordner-befehle

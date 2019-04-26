@@ -132,3 +132,17 @@ If you are inside of a loop you need to add $ to the beginning of .Params to acc
 
     {{ with .Params.some_variable }}{{ with $.Params.some_other_variable }}{{ . }}{{ end }}{{ . }}{{ end }}
 
+## Nach Parameter (hier: Kategorien) gruppieren
+
+    {{ range .Pages.GroupByParam "chapter" }}
+    <ul class="toc-list">
+        {{ $counter := 0 }}
+        {{ range sort .Pages "File.TranslationBaseName" }}
+          {{ if eq $counter 0 }}<h2>{{ .Params.Categories }}</h2>{{ end }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+          {{ $counter = add $counter 1 }}
+        {{ end }}
+    </ul>
+    {{ end }}

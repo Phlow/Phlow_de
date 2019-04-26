@@ -1,5 +1,6 @@
 ---
 title:  Glossar
+chapter         : 20
 categories : "Anhang"
 slug : /glossar/
 ---

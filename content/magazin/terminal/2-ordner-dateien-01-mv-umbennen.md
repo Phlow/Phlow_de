@@ -1,5 +1,6 @@
 ---
 title: Dateien umbenennen und verschieben mit mv
+chapter         : 2
 categories : "Ordner und Dateien"
 description : 'Will man eine große
 Anzahl an Dateien in einem Rutsch nach einem Schema oder mit einem Datum

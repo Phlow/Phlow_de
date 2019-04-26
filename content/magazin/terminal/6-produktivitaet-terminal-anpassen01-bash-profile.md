@@ -1,5 +1,6 @@
 ---
 title:  "Was ist .bash\_profile? Und wie nutze und editiere ich es?"
+chapter         : 6
 categories : "Produktivität"
 slug            : bash-profile
 ---

@@ -1,7 +1,8 @@
 ---
-title:  "screencapture: Screenshots per Terminal"
-categories : "Bildbearbeitung"
-description : 'Der Befehl
+title           :  "screencapture: Screenshots per Terminal"
+chapter         : 5
+categories      : "Bildbearbeitung"
+description     : 'Der Befehl
 `screencapture` erlaubt Screenshots per Terminal. Zeitgesteuerte
 Screenshots und Bildschirmfotos ohne oder mit Schatten sind kein
 Problem.'

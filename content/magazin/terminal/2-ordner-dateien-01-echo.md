@@ -1,5 +1,6 @@
 ---
 title:  Inhalte ausgeben mit dem echo-Befehl
+chapter         : 2
 categories : "Ordner und Dateien"
 description : 'Mit echo gibst Du in
 der Bash Informationen aus. Der `echo`-Befehl ist simpel. Komplizierter

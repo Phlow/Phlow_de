@@ -1,9 +1,8 @@
 ---
-title: "du: Größe von Ordnern anzeigen"
-categories : "Ordner und Dateien"
-description : 'Um die Größe eines
-Ordners anzuzeigen nutzt man den Befehl du (disk usage). Die Ausgabe
-(Byte, kb, MB,…) lässt sich dabei steuern.'
+title           : "du: Größe von Ordnern anzeigen"
+chapter         : 2
+categories      : "Ordner und Dateien"
+description     : 'Um die Größe eines Ordners anzuzeigen nutzt man den Befehl du (disk usage). Die Ausgabe (Byte, kb, MB,…) lässt sich dabei steuern.'
 slug            : ordner-groesse-anzeigen
 ---
 Um die Größe eines Ordners anzuzeigen nutzt man den Befehl `du`. `du`

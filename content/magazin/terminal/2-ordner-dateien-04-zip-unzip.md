@@ -1,5 +1,6 @@
 ---
 title: "zip & unzip: Dateien und Ordner komprimieren und entpacken"
+chapter         : 2
 categories : "Ordner und Dateien"
 description : 'Mit den beiden
 Kommandos `zip` und `unzip` komprimierst und entpackst Du Dateien im

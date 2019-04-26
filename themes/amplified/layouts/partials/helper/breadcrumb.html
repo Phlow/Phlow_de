@@ -6,7 +6,7 @@
   {{ end }}
   <li class="inline-block{{ if eq .p1 .p2 }} active{{ end }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
     <small>
-      <a href="{{ .p1.Permalink }}">{{ if eq .p1.Title "Bildung ist unser Produkt!" }}Start{{ else }}{{ .p1.Title | safeHTML | truncate 40 }}{{ end }}</a> /
+      <a href="{{ .p1.Permalink }}">{{ if eq .p1.Title "Bildung ist unser Produkt!" }}Start{{ else }}{{ .p1.Title | safeHTML | truncate 40 }}{{ end }}</a>&nbsp;/&nbsp;
     </small>
   </li>
 {{ end }}

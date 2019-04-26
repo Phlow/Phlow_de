@@ -1,5 +1,6 @@
 ---
 title : "Zufällige Passwörter über das Terminal erstellen"
+chapter         : 6
 categories : "Produktivität"
 description : 'Zufällige
 Passwörter erzeugst Du mit dem vorinstallierten Befehl `openssl`. Noch

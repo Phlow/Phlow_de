@@ -16,7 +16,7 @@ redirect 301 /impressum.html https://phlow.de/impressum.php
 #
 # Redirects terminal // 2019-04-16
 #
-
+redirect 301 /terminal/ https://phlow.de/magazin/terminal/
 redirect 301 /terminal/vorwort/ https://phlow.de/magazin/terminal/vorwort/
 redirect 301 /terminal/einfuehrung/ https://phlow.de/magazin/terminal/start/
 redirect 301 /terminal/schnellstart/ https://phlow.de/magazin/terminal/schnellstart/
@@ -51,9 +51,7 @@ redirect 301 /terminal/ffmpeg/ https://phlow.de/magazin/terminal/ffmpeg/
 redirect 301 /terminal/pandoc/ https://phlow.de/magazin/terminal/pandoc/
 redirect 301 /terminal/homebrew/ https://phlow.de/magazin/terminal/homebrew/
 redirect 301 /terminal/tree/ https://phlow.de/magazin/terminal/tree/
-redirect 301 /terminal/terminal-mac-einstellen/
 redirect 301 /terminal/terminal-say-sprachausgabe/ https://phlow.de/magazin/terminal/say/
-
 
 #
 # Redirects Social Media // 2019-04-11

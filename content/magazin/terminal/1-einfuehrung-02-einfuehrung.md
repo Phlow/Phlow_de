@@ -1,6 +1,7 @@
 ---
 subtitle        : Terminal
 title           : Shell? Bash? Terminal? Kommandozeile? – Eine Einführung
+chapter         : 1
 categories      : "Einführung"
 description     : 'Ein Grund warum viele erst
 einmal einen Bogen vor dem Terminal machen, ist die Verwirrung um

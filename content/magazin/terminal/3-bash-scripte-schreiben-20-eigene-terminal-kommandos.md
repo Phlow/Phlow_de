@@ -1,6 +1,7 @@
 ---
 subtitle        : Konfiguration Deiner Umgebung
 title           : Eigene Terminal Kommandos
+chapter         : 3
 categories      : "Bash Scripte schreiben"
 description     : 'Dieses Kapitel
 erklärt Dir, wie Du eigene Terminal-Kommandos erstellst und über Dein

@@ -1,14 +1,10 @@
 ---
-title: "guetzli: JPG/JPEG-Bilder schrumpfen auf ein Drittel"
-categories : "Bildbearbeitung"
-description : 'Mit der Open
-Source-Software Guetzli komprimierst Du JPG-Bilddateien. Guetzli
-komprimiert die Bilder zwar verlustbehaftet, aber Du siehst es nicht.'
+title           : "guetzli: JPG/JPEG-Bilder schrumpfen auf ein Drittel"
+chapter         : 5
+categories      : "Bildbearbeitung"
 slug            : guetzli-jpg-jpeg-kompression
 ---
-Mit der Open Source-Software Guetzli komprimierst Du JPG-Bilddateien.
-Guetzli komprimiert die Bilder zwar verlustbehaftet, aber Du siehst es
-nicht.
+Mit der Open Source-Software Guetzli komprimierst Du JPG-Bilddateien. Guetzli komprimiert die Bilder zwar verlustbehaftet, aber Du siehst es nicht.
 <!-- readmore -->
 
 {{< amp/img src="/images/terminal/guetzli.jpg" width="1066" height="800" alt="Guetzli Kompression Vergleichsbild" >}}
@@ -24,7 +20,7 @@ JPG-Bilddateien auffällig kleiner als die Ausgangsdatei. Guetzli eignet
 sich somit hervorragend für die Beschleunigung von Webseiten. Denn
 kleinere Bilddateien, schnellere Webseiten.
 
-# Guetzli auf dem Mac installieren
+## Guetzli auf dem Mac installieren
 
 Am einfachsten installierst Du Guetzli auf einem Mac mit link:{{
 '/homebrew/' | absolute\_url }}\[Homebrew\]. Der Paketmanager
@@ -64,7 +60,7 @@ die Ausgabe von Parametern, die bei der Arbeit des Programmes
 
     $ guetzli --quality 85 --verbose original.jpg guetzli-version-q85.jpg
 
-# Guetzli einen Stapel Bilder komprimieren lassen
+## Guetzli einen Stapel Bilder komprimieren lassen
 
 Richtig Spaß macht Guetzli, wenn man den Alogrithmus einfach einen
 Stapel Bilder loslässt. Eine einfache for-Schleife sieht dann so
@@ -72,13 +68,31 @@ Stapel Bilder loslässt. Eine einfache for-Schleife sieht dann so
 
     $ for i in *.jpg; do guetzli --quality 85 --verbose $i $i-guetzli-optimiert.jpg; done
 
-# Guetzli Optimizer – Bash-Script mit Datenausgabe
+## Guetzli Optimizer – Bash-Script mit Datenausgabe
 
-Das folgende kleine link:{{ '/bash-scripte-schreiben/' | absolute\_url
-}}\[Bash-Script\] nutze ich immer, wenn ich Guetzli auf einen Stapel
-Bilder loslasse. Die Originalbilder überschreibt das Script, also
-Vorsicht. Während der Verarbeitung gibt das Script zuerst die aktuelle
-Größe und den Dateinamen aus und nach der Guetzli-Bearbeitung die finale
-Größe plus die Ersparnis (beides in Byte).
+Das folgende kleine [Bash-Script]({{< ref "3-bash-scripte-schreiben-01-bash-scripte-schreiben.md" >}}) nutze ich immer, wenn ich Guetzli auf einen Stapel Bilder loslasse. Die Originalbilder kopiert das Script unter einem neuen Namen. Während der Verarbeitung gibt das Script zuerst die aktuelle Größe und den Dateinamen aus und nach der Guetzli-Bearbeitung die finale Größe plus die Ersparnis (beides in Byte).
 
-{% gist d1e80574e7162748c2f1113acf2e78d0 %}
+~~~
+#!/bin/bash
+#
+#   Guetzli JPG/JPEG Optimizer
+#   This little script compresses JPG-files and shows you how
+#   many bytes Guetzli saved you in the progress. Change the
+#   variable QUALITY to change the quality of the compression.
+#
+clear
+QUALITY=85
+
+echo -e "\nGuetzli starts compression with quality ${QUALITY}…\n"
+for i in *.jpg;
+do
+  old_size=$(stat -f%z $i)
+  echo -e "\033[32mMake copy for savety \033[1;32m$i \033[0;32moriginal-$i – \033[37mCopying…"
+  cp $i original-$i;
+  echo -e "\033[32mActual size of \033[1;32m$i \033[0;32m$old_size bytes – \033[37mGuetzli is working…"
+  guetzli --quality $QUALITY $i $i
+  new_size=$(stat -f%z $i)
+  echo -e "\033[33mNew size $new_size bytes – Saved bytes $(( ${old_size}-${new_size} ))"
+  echo -e "\033[0m"
+done
+~~~

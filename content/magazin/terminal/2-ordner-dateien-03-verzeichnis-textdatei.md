@@ -1,5 +1,6 @@
 ---
 title:  Inhalte von Verzeichnissen als Textdatei speichern
+chapter         : 2
 categories : "Ordner und Dateien"
 description : 'Der Befehl `ls` gibt
 den Inhalt des aktuellen Ordners aus. Anstelle den Inhalt im Terminal

@@ -1,7 +1,8 @@
 ---
-title:  rsync – Dateien und Verzeichnisse synchronisieren
-categories : "Dateien Upload und Download"
-description : 'Rsync ist
+title           :  rsync – Dateien und Verzeichnisse synchronisieren
+chapter         : 4
+categories      : "Dateien Upload und Download"
+description     : 'Rsync ist
 sehr flexibel und netzwerkfähig und kann auch Daten zwischen einem
 lokalen Computer und einem Server abgleichen.'
 slug            : rsync

@@ -2,33 +2,22 @@
 
 <div><!-- wrapper -->
   <div class="px4 lg-px4">
-
     <div class="max-width-3 mx-auto">
       <article class="clearfix mxn2">
 
-        <header>
-          <h1>{{ if .Page.Params.Subtitle }}
-            <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
-            {{ .Title }}
-          </h1>
-        </header>
+        {{ partial "helper/article-header.html" . }}
+        {{ partial "helper/summary-content.html" . }}
 
-          {{ partial "helper/summary-content.html" . }}
-
-          <ul class="toc-list">
-            {{ range sort .Pages "File.TranslationBaseName" }}
-                <li>
-                  <a href="{{.Permalink}}">{{ if .Params.Categories }}{{ .Params.Categories }} – {{ end }}{{ if .Params.Subtitle }}{{ .Params.Subtitle }} – {{ end }}{{ .Title }}</a>
-                </li>
-            {{ end }}
-          </ul>
-
-
+        <ul class="toc-list">
+          {{ range sort .Pages "File.TranslationBaseName" }}
+              <li>
+                <a href="{{.Permalink}}">{{ if .Params.Subtitle }}{{ .Params.Subtitle }} – {{ end }}{{ .Title }}</a>
+              </li>
+          {{ end }}
+        </ul>
 
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->
-
-
   </div><!-- /padding -->
 </div><!-- /wrapper -->
 {{ end }}

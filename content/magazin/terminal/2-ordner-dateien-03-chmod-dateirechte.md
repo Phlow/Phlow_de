@@ -1,5 +1,6 @@
 ---
 title: "chmod: Dateirechte verstehen und ändern"
+chapter         : 2
 categories : "Ordner und Dateien"
 description : 'Jede Datei und jeder
 Ordner verfügt über Dateirechte. Wie Dateirechte funktioneren und wie Du

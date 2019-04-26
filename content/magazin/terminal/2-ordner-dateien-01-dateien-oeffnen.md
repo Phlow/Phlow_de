@@ -1,7 +1,8 @@
 ---
-subtitle        :  "Terminal"
-title           :  "Dateien und Verzeichnisse öffnen"
-categories      : "Ordner und Dateien"
+subtitle        : "Terminal"
+chapter         : 2
+title           : "Dateien und Verzeichnisse öffnen"
+categories      : "2. Ordner und Dateien"
 slug            : dateien-oeffnen
 ---
 Mit dem Kommando `open` öffnet man Dateien direkt über das Terminal in der dazugehörigen Anwendung. So funktioniert das Kommando:

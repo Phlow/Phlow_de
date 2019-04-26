@@ -1,5 +1,6 @@
 ---
 title           : "Vorwort: Wozu brauche ich das Terminal?"
+chapter         : 1
 categories      : "Einführung"
 description     : 'Terminal-Befehle und
 Bash-Scripte sparen Dir als Webdesigner viel Zeit und Arbeit. Dieser

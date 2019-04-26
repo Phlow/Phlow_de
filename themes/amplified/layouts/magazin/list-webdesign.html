@@ -6,12 +6,8 @@
     <div class="max-width-4 mx-auto">
       <article class="clearfix mxn2">
 
-        <header>
-          <p class="sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</p>
-          <h1>{{ .Title }}</h1>
-        </header>
-
-          {{ partial "helper/summary-content.html" . }}
+        {{ partial "helper/article-header.html" . }}
+        {{ partial "helper/summary-content.html" . }}
 
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->

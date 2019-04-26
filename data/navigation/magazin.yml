@@ -1,4 +1,10 @@
-- menu_title    : 'Phlow Magazin'
+- menu_title    : 'Phlow'
+  title         : 'Zur Phlow-Startseite'
+  url           : '/'
+  topbar        : true
+  sidebar       : true
+
+- menu_title    : 'Magazin Startseite'
   title         : 'Social Media, Webdesign, WordPress und Journalismus'
   url           : 'magazin/'
   topbar        : true
@@ -10,25 +16,27 @@
 #   topbar        : true
 #   sidebar       : true
 
+- menu_title    : 'Social Media'
+  title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'
+  url           : 'magazin/social-media/'
+  topbar        : true
+  sidebar       : true
+  
+- menu_title      : 'Wordpress'
+  title          : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
+  url             : 'magazin/wordpress/'
+  sidebar         : true
+  topbar          : true
+
 - menu_title    : 'Webdesign'
   title         : 'Unsere Webdesign Themen'
   url           : 'magazin/webdesign/'
   topbar        : true
   sidebar       : true
   dropdown:
-    - menu_title      : 'Webdesign von Anfang an'
+    - menu_title      : 'HTML5 & CSS'
       title           : 'Lerne mit unseren Webdesign Tutorials'
-      url             : 'magazin/webdesign/'
-      sidebar         : true
-      topbar          : true
-    - menu_title      : 'Hugo Website Generator'
-      title           : 'hugo'
-      url             : 'magazin/webdesign/hugo/'
-      sidebar         : true
-      topbar          : true
-    - menu_title      : 'Wordpress'
-      title          : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
-      url             : 'magazin/wordpress/'
+      url             : 'magazin/webdesign/html/'
       sidebar         : true
       topbar          : true
     - menu_title    : 'Terminal für Webdesigner'
@@ -36,10 +44,4 @@
       url           : 'magazin/terminal/'
       topbar        : true
       sidebar       : true
-
-- menu_title    : 'Social Media'
-  title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'
-  url           : 'magazin/social-media/'
-  topbar        : true
-  sidebar       : true
 

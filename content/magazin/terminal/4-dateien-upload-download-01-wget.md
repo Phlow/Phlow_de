@@ -1,5 +1,6 @@
 ---
 title: "wget: Dateien runterladen per Terminal"
+chapter         : 4
 categories : "Dateien Upload und Download"
 description : 'wget ermöglicht Dir Dateien über die Kommandozeile herunterzuladen.'
 slug            : wget
