@@ -34,10 +34,9 @@
 
 @import "layout/_amp_navigation";
 
-
-@import "typography/footnotes";
-
-
+@import "typography/font_import",
+        "typography/typography_css_elements",
+        "typography/footnotes";
 @import
         "layout/search",
         // "layout/meta",
@@ -47,10 +46,10 @@
         "layout/toc",
         // "layout/side-nav",
         // "layout/layout_elements",
-            // "layout/full_width_background_image",
+        // "layout/full_width_background_image",
         // "layout/card",
         // "layout/comments",
-            // "layout/cookieconsent",
+        // "layout/cookieconsent",
         "layout/svg_icons",
         "layout/responsive_video";
 

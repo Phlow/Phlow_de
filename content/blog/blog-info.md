@@ -22,11 +22,11 @@ Times
 ## Viele Interessen, ein Blog…
 
 Ich liebe und produziere
-[Musik]({{< ref "/tags/musik" >}}), interessiere mich für
+[Musik](https://mosonic.phlow.de/) unter meinem Synonym _mosonic_, interessiere mich für
 [Software]({{< ref "/tags/software" >}}), Minimalismus, digitale Kultur, [Sach-, Fantasy- und Science Fiction-Bücher]({{< ref "/tags/buchkritik" >}}), [Webdesign]({{< ref "/magazin/webdesign" >}}), Technologie und Gesellschaft.
 
 In diesem Blog veröffentliche ich Notizen, Gedanken und Artikel zu meinen Lieblingsthemen. Beruflich konzentriere ich mich auf Journalismus, SEO, Social Media, WordPress und digitales Publizieren.
 
 Mehr zu [mir](http://moritz.sauer.io/biografie/), meinen [Sachbüchern](http://moritz.sauer.io/buecher/), [Seminaren](http://moritz.sauer.io/seminare/), [Kunden](http://moritz.sauer.io/kunden/) und beruflichen Aktivitäten findest Du unter <http://moritz.sauer.io> Moritz.
 
-Wenn Du Fragen, Anregungen oder Ideen hast, [kontaktier mich]({{< ref "kontakt.md" >}}) :)
+Wenn Du Fragen, Anregungen oder Ideen hast, [kontaktiere mich]({{< ref "kontakt.md" >}}) :)

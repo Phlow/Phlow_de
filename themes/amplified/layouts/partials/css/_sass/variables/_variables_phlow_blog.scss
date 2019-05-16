@@ -49,14 +49,12 @@ $comment: #969896; // Comment
 ------------------------------------------------------------------- */
 
 /* Font Families */
-$base-font-family     : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif    : Georgia, "Times New Roman", serif;
-
-$font-family-sans     : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-mono     : Inconsolata, Menlo, monospace;
-$header-font-family   : "Exo 2", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$header-font-family-h1             : "Open Sans Condensed", "Open Sans", "Neue Helvetica", Arial, serif;
-
+$base-font-family      : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif     : Georgia, "Times New Roman", serif;
+$font-family-sans      : "ibm plex mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-mono      : Inconsolata, Menlo, monospace;
+$header-font-family    : "ibm plex mono", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$header-font-family-h1 : "Open Sans Condensed", "Open Sans", "Neue Helvetica", Arial, serif;
 
 
 /* Font Sizes */

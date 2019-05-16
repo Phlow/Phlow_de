@@ -1,0 +1,95 @@
+#      ___       _ __   __
+#     / _ )__ __(_) /__/ /
+#    / _  / // / / / _  /
+#   /____/\_,_/_/_/\_,_/
+#
+title: Phlow
+baseURL: 'https://phlow.de/'
+languageCode: de-DE
+defaultContentLanguage: de
+theme: amplified
+copyright: Alle Rechte vorbehalten
+disableHugoGeneratorInject: true
+canonifyURLs: true
+metadataformat: yaml
+paginate: 7
+paginatepath: seite
+summarylength: 70
+enableRobotsTXT: true
+
+# Markdown
+# https://gohugo.io/getting-started/configuration/#configure-blackfriday
+footnoteReturnLinkContents: ↑
+footnoteAnchorPrefix: fussnote-
+
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.5
+blackfriday:
+  plainIDAnchors: true
+  hrefTargetBlank: false
+
+# Default resample filter used for resizing. Default is Box,
+# a simple and fast averaging filter appropriate for downscaling.
+# See https://github.com/disintegration/imaging
+imaging:
+  resampleFilter: box
+quality: 80             # Default JPEG quality setting. Default is 75.
+author:
+  name: Moritz mo. Sauer
+  publisher: Phlow
+permalinks:
+  seminare: '/:sections/:filename/'
+taxonomies:
+  tag: tags
+  category: categories
+
+params:
+  slogan: 'Phlow Seminare – WordPress, Social Media, SEO & Journalismus'
+  description: 'Seit mehr als 10 Jahren trainieren wir unsere Kunden in den Bereichen
+    WordPress, Journalismus, Social Media, Internet Marketing und Webdesign.'
+  adsensePublisher: ''
+  googleAnalytics: UA-21853271-1
+  # Wichtig für SCHEMA.ORG
+  publisher:
+    name: Phlow
+    logo:
+      url: /assets/img/amp-logo-schema-small-150-60.png
+      width: 150
+      height: 60
+  # Wichtig für SCHEMA.ORG
+  # https://developers.google.com/search/docs/data-types/article#logo-guidelines
+  # The logo should fit in a 60x600px rectangle, and either be exactly 60px high (preferred), or exactly 600px wide. 
+  logo:
+    url: /assets/img/amp-logo-schema-small-150-60.png
+    width: 150
+    height: 60
+  # Wichtig für SCHEMA.ORG
+  image:
+    # The URL to an image that is representative of the article or AMP story.
+    # Images should be at least 1200 pixels wide.
+    # For best results, provide multiple high-resolution images (minimum of 800,000 pixels when multiplying width and height) with the following aspect ratios: 16x9, 4x3, and 1x1.
+    url: /assets/img/amp-banner-homepage-1600x900.jpg
+    width: 1600
+    height: 900
+  socialmedia:
+    youtube: PhlowMedia
+    twitter: phlow
+    instagram: phlowmedia
+    facebook: phlow.media
+    github: phlow
+    # soundcloud: phlow
+    # rss: # Full URL needed
+  # SEO
+  SiteVerification:
+    Google: Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ
+    Bing: 0FB4C028ABCF07C908C54386ABD2D97F
+
+
+# pygmentscodefences = false
+# pygmentscodefencesguesssyntax = false
+# pygmentsoptions = ""
+# pygmentsstyle = "monokai"
+# pygmentsuseclasses = false
+# pygmentsuseclassic = false

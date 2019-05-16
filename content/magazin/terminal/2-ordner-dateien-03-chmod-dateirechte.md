@@ -20,14 +20,20 @@ Dateirechte sogar alle Berechtigungen für einen bestimmten Benutzer
 löschen, damit die Datei noch nicht einmal geöffnet werden kann (obwohl
 sie noch im Finder sichtbar ist).
 
-Mit dem Befehl CHMOD, englisch f+r *change mode* – setzt man im UNIX
+Mit dem Befehl CHMOD, englisch für *change mode* – setzt man im UNIX
 Umfeld Lese-, Schreib- und Ausführungsrechte von Dateien und
 Verzeichnissen. Spätestens, wenn man eine Website auf einem Server
 betreut, stolpert man früher oder später über das Thema Dateireichte, da
 meistens UNIX bzw. Linux Betriebssysteme für das Website-Hosting
 eingesetzt werden.
 
-# Übersichtstabelle: CHMOD Rechte-System
+## Beispiele
+
+Im folgenden Beispiel steht der Parameter `-R` für _rekursiv_. Dank des Schalters ändern sich die Dateirechte im angegebenen Ordner und seinen Unterordnern. So kannst Du die Dateirechte bequem für ganze Verzeichnisbäume ändern.
+
+    chmod -R 755 /images
+
+## Übersichtstabelle: CHMOD Rechte-System
 
 <table>
 <caption>CHMOD Rechte-System</caption>

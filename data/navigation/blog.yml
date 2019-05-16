@@ -1,10 +1,4 @@
-- menu_title    : 'Phlow Startseite'
-  title         : 'Startseite von Phlow'
-  url           : '/'
-  topbar        : true
-  sidebar       : true
-
-- menu_title    : 'Blog Startseite'
+- menu_title    : 'Blog Start'
   title         : 'Alle Beiträge auf einer Seite'
   url           : 'blog/'
   topbar        : true
