@@ -1,9 +1,10 @@
 ---
-subtitle        : Richtlinien
-title           : Social Media Guidelines
-categories      : Einführung
-date            : 2018-01-08
-slug            : social-media-guidelines
+subtitle            : Richtlinien
+title               : Social Media Guidelines
+categories          : Einführung
+date                : 2018-01-08
+slug                : social-media-guidelines
+weight              : 30
 ---
 Social Media Guidelines helfen Mitarbeitern in Unternehmen, und
 dienen als Richtlinien für das Marketing und die Kommunikation mit

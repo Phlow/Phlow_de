@@ -1,12 +1,13 @@
 ---
-subtitle        : "Studien, Zahlen & Fakten"
-title           : "Aktuelle Nutzung von Internet und Social Media"
-categories      : Einführung
-description     : 'Diese Seite sammelt aktuelle
+subtitle            : "Studien, Zahlen & Fakten"
+title               : "Aktuelle Nutzung von Internet und Social Media"
+categories          : Einführung
+description         : 'Diese Seite sammelt aktuelle
 Statistiken, Reports, Zahlen und Fakten zur Nutzung von Social Media und
 mobilen Geräten.'
-date            : 2018-01-03
-slug            : zahlen-fakten-internet
+date                : 2018-01-03
+slug                : zahlen-fakten-internet
+weight              : 20
 ---
 Es gibt zahlreiche Zahlen zur Internetnutzung. Viele Untersuchungen
 veröffentlichen Telekommunikationskonzerne, Technologiekonzerne oder

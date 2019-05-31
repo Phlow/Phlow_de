@@ -1,9 +1,10 @@
 ---
-subtitle    : Corporate Identity
-title       : "Digitaler Werkzeugkasten"
-categories  : Gezielt Kommunizieren
-date        : 2018-02-01
-slug        : digitaler-werkzeugkasten
+subtitle            : Corporate Identity
+title               : "Digitaler Werkzeugkasten"
+categories          : Gezielt Kommunizieren
+date                : 2018-02-01
+slug                : digitaler-werkzeugkasten
+weight              : 70
 ---
 Damit ein Projekt im Internet erfolgreich agiert und funktioniert, muss
 ein einheitlicher Auftritt gewährleistet sein. Eine [Corporate

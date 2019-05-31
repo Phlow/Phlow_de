@@ -1,9 +1,10 @@
 ---
-subtitle    : Social Media
-title       : "Strategien für das Internet"
-categories  : Gezielt Kommunizieren
-date        : 2018-02-04
-slug        : internet-strategie
+subtitle            : Social Media
+title               : "Strategien für das Internet"
+categories          : Gezielt Kommunizieren
+date                : 2018-02-04
+slug                : internet-strategie
+weight              : 80
 ---
 Die zentrale Frage Ihrer Internetstrategie sollte lauten: _»Welches Ziel verfolgen wir mit unserer Website?«_.
 <!-- readmore -->

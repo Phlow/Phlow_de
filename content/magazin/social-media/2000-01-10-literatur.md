@@ -4,6 +4,7 @@ title           : "Literatur"
 categories      : Anhang
 date            : 2017-01-02
 slug            : literatur
+weight              : 200
 ---
 * »The Attention Merchants: The Epic Scramble to Get Inside Our
     Heads«  

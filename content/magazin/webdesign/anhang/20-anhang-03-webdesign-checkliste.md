@@ -51,6 +51,7 @@ Mit Hilfe dieser Checkliste durchleuchten Sie ihr Projekt. Schnell überprüfen 
   <li>&#x25a2; 404-Fehlerseite</li>
   <li>&#x25a2; Suchergebnisseite</li>
   <li>&#x25a2; Impressum</li>
+  <li>&#x25a2; Datenschutzerklärung</li>
   <li>&#x25a2; Kontaktseite</li>
   <li>&#x25a2; RSS/Atom (verlinkt in `<head>`)</li>
   <li>&#x25a2; Sitemap</li>
@@ -109,6 +110,7 @@ Mit Hilfe dieser Checkliste durchleuchten Sie ihr Projekt. Schnell überprüfen 
 
 <ul class="list-reset">
   <li>&#x25a2; Impressum</li>
+  <li>&#x25a2; Datenschutzerklärung</li>
   <li>&#x25a2; Email-Adressen angelegt</li>
   <li>&#x25a2; Links überprüft</li>
   <li>&#x25a2; Inhalte überprüft auf Rechtschreibung und Grammatik</li>

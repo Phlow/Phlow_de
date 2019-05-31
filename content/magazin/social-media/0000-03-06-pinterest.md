@@ -4,6 +4,7 @@ subtitle    : Pinterest
 title       : "Abheften & Kaufen"
 date        : 2018-03-06
 slug        : pinterest
+weight              : 140
 ---
 
 ![alt](../images/Pinterest-badge-144px.png)

@@ -4,6 +4,7 @@ subtitle        : WordPress
 title           : "Blog-Plattform und Blog-Software"
 date            : 2018-03-09
 slug            : wordpress
+weight              : 180
 ---
 ![WordPress.com Plattform](../images/wordpress-com.jpg)
 

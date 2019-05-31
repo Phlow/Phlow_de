@@ -1,9 +1,10 @@
 ---
-subtitle        : Copyright
-title           : "Vorsicht Minenfeld!"
-categories      : Einführung
-date            : 2018-01-09
-slug            : urheberrecht
+subtitle            : Copyright
+title               : "Urheberrecht: Vorsicht Minenfeld!"
+categories          : Einführung
+date                : 2018-01-09
+slug                : urheberrecht
+weight              : 50
 ---
 Das deutsche Urheberrecht ist kompliziert. Jedoch genügen vier Regeln,
 im Umgang mit Bild- und Fotomaterial, um Abmahnungen und unnötigen

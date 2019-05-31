@@ -5,6 +5,7 @@ categories          : Einführung
 meta_description    : "Dieser Leitfaden erklärt, wie Sie erfolgreich Social Media-Kanäle nutzen. Zahlreiche Beispiele und Fakten stellen die verschiedenen wichtigsten Netzwerke vor."
 slug                : /einfuehrung-social-media/
 date                : 2018-01-01
+weight              : 10
 ---
 Dieser Leitfaden erklärt, wie Sie erfolgreich Social Media-Kanäle
 nutzen. Zahlreiche Beispiele und Fakten stellen die verschiedenen
@@ -38,5 +39,3 @@ Orientierung. So funktionieren grundlegende Prinzipien der
 Suchmaschinenoptimierung auch bei Suche von Facebook, Twitter, Instagram
 oder auch Pinterest. Wer Schlagworte richtig nutzt, erzeugt schnell viel
 mehr Aufrufe seiner Beiträge, verlinkten Webseiten oder Medien.
-
-1. {{< ref "/magazin/journalismus/suchmaschinenoptimierung.md" >}}

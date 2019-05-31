@@ -1,9 +1,10 @@
 ---
-subtitle      : Algorithmen
-title           : "Die Filterblase"
-categories      : Einführung
-date            : 2018-01-11
-slug            : filterblase
+subtitle            : Algorithmen
+title               : "Die Filterblase"
+categories          : Einführung
+date                : 2018-01-11
+slug                : filterblase
+weight              : 60
 ---
 Als Filterblase versteht man die für Nutzer vorsortierten Beiträge eines Computer-Algorithmus. Die Idee hinter der Filterblase ist, den Nutzer mit den Beiträgen zu versorgen, die den Nutzer interessieren bzw. die er viel klickt.
 <!-- readmore -->

@@ -1,9 +1,10 @@
 ---
-subtitle        : Social Media News
-title           : "Aktuelle Entwicklungen, Trends und Studien"
-categories      : Soziale Netzwerke
-date            : 2018-03-20
-slug            : /social-media-news/
+subtitle            : Social Media News
+title               : "Aktuelle Entwicklungen, Trends und Studien"
+categories          : Soziale Netzwerke
+date                : 2018-03-20
+slug                : /social-media-news/
+weight              : 210
 ---
 Soziale Netzwerke verändern sich konstant. Ob neue Funktionen, sich
 ändernde Nutzerzahlen oder wechselndes Nutzerverhalten… Alles ist im
