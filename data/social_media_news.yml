@@ -4,11 +4,54 @@
 #  network     : 
 #  date        : 
 
+- title       : 'How To Reduce Social Media'
+  url         : https://medium.com/comatter/how-to-reduce-social-media-3c56bfea34c7
+  description : '12 kreative Wege zur Reduzierung des Social Media Konsums'
+  network     : studien
+  date        : 2019-06-12
+
+
+- title       : 'Instagram löst Facebook bei jungen Leuten als wichtigste Nachrichtenquelle ab'
+  url         : https://www.heise.de/newsticker/meldung/Instagram-loest-Facebook-bei-jungen-Leuten-als-wichtigste-Nachrichtenquelle-ab-4444531.html
+  description : 'Eine Reuters-Studie sieht Instagram als wichtigste Nachrichtenquelle für junge Leute. News seien aber nur "Beifang" im großen Bildrauschen.'
+  network     : studien
+  date        : 2019-06-12
+
+- title       : 'Fortnite is free, but kids are getting bullied into spending money'
+  url         : https://www.polygon.com/2019/5/7/18534431/fortnite-rare-default-skins-bullying-harassment
+  description : ''
+  network     : news
+  date        : 2019-05-22
+
+- title       : 'Möglicherweise Kontaktdaten von 49 Millionen Instagram-Nutzern öffentlich'
+  url         : https://www.heise.de/newsticker/meldung/Moeglicherweise-Kontaktdaten-von-49-Millionen-Instagram-Nutzern-oeffentlich-4428378.html
+  description : 'Kontaktdaten von 49 Millionen Instagram-Nutzern sollen öffentlich im Netz gestanden haben – darunter auch Infos zum Marktwert mehrerer Millionen Influencer.'
+  network     : instagram
+  date        : 2019-05-22
+
+- title       : 'Netzwerke hinter rechter Desinformation: Facebook sperrt Hunderte Accounts'
+  url         : https://www.heise.de/newsticker/meldung/Netzwerke-hinter-rechter-Desinformation-Facebook-sperrt-Hunderte-Accounts-4428517.html
+  description : 'Facebook hat offenbar erneut Hunderte Accounts gesperrt. Sie sollen gegen Nutzungsbedingungen verstoßen und Desinformation verbreitet haben.'
+  network     : facebook
+  date        : 2019-05-07
+
 - title       : 'Soziale Medien: Einfluss auf Lebenszufriedenheit von Jugendlichen gering'
   url         : https://www.heise.de/newsticker/meldung/Soziale-Medien-Einfluss-auf-Lebenszufriedenheit-von-Jugendlichen-gering-4415674.html
   description : 'Macht die Nutzung von Sozialen Medien Jugendliche lebensunzufrieden? Kaum, sagt eine gemeinsame Langzeitstudie der Universitäten Hohenheim und Oxford.'
   network     : studien
   date        : 2019-05-07
+
+- title       : 'Umfrage: Drei Viertel aller 10-Jährigen haben ein eigenes Smartphone'
+  url         : https://www.heise.de/newsticker/meldung/Umfrage-Drei-Viertel-aller-10-Jaehrigen-haben-ein-eigenes-Smartphone-4433881.html
+  description : 'Schon Kinder im Alter von 6 und 7 Jahren haben mehrheitlich Zugriff auf ein Smartphone, ab 12 Jahren sind fast alle online. Das hat eine Umfrage ergeben.'
+  network     : studien
+  date        : 2019-05-06
+
+- title       : 'The Instagram Aesthetic Is Over'
+  url         : https://www.theatlantic.com/technology/archive/2019/04/influencers-are-abandoning-instagram-look/587803/
+  description : 'The look made famous by the platform just doesn’t resonate anymore.'
+  network     : instagram
+  date        : 2019-04-23
 
 - title       : '"Momo Challenge": Polizei warnt vor Kettenbrief auf Whatsapp'
   url         : https://www.nytimes.com/2019/03/10/style/what-is-tik-tok.html

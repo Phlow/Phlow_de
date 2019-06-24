@@ -4,7 +4,7 @@
 
     {{ .Content }}
 
-    {{ range first 3 .Pages }}
+    {{ range first 1 .Pages }}
       <div class="mb4">
 
         {{ if .Params.image.title }}
@@ -21,18 +21,38 @@
 
 
         {{ if .Params.Subtitle }}
-          <p class="mt1 mb0">{{ .Params.Subtitle }}</p>
+          <p class="mt1 mb0 subtitle">{{ .Params.Subtitle }}</p>
         {{ end }}
 
         <h2 class="mt0 mb0"><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+    {{ if in .RawContent "<!-- readmore -->" }}
 
-        <p>{{.Summary}}</p>
+      {{ $summary_part := split .RawContent "<!-- readmore -->" }}
+      {{ $summary := index $summary_part 0 }}
+      {{ $summaryHTML := safeHTML $summary }}
+      {{ $summaryHTML := replace $summaryHTML "<p>" "" }}
+      {{ $summaryHTML := replace $summaryHTML "</p>" "" }}
+
+      {{ $summary_content := split .Content "<!-- readmore -->" }}
+      {{ $content := index $summary_content 1 }}
+      {{ $contentHTML := safeHTML $content }}
+
+      {{ if eq $summaryHTML .Content }}
+         {{ .Summary }}
+      {{ else }}
+          <p class="h6">{{ $summaryHTML | htmlUnescape | markdownify }} <strong><a href="{{.Permalink}}">Weiterlesen ›</a></strong></p>
+      {{ end }}
+    {{ else }}
+      <p class="h6">{{ .Summary }} <strong><a href="{{.Permalink}}">Weiterlesen ›</a></strong></p>
+    {{ end}}
+
+
       </div>
     {{ end }}
 
 
-    <ul class="toc-list">
-      {{ range after 3 (first 12 .Pages) }}
+    <ul>
+      {{ range after 1 (first 12 .Pages) }}
           <li>
             <a href="{{.Permalink}}">{{ if .Params.Subtitle }}{{ .Params.Subtitle }} | {{ end }}{{ .Title }}</a>
           </li>

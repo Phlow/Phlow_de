@@ -9,6 +9,9 @@
   <script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>{{ end }}
   {{ if .Page.Params.youtube }}<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
   {{ end }}
+  {{ if .Page.Params.iframe }}<script async custom-element="amp-iframe"
+  src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+  {{ end }}
 {{ else }}
 
 
@@ -21,7 +24,9 @@
 <script async custom-element="amp-selector" src="{{ .Site.BaseURL }}assets/js/amp-selector-0.1.js"></script>{{ end }}
 {{ if .Page.Params.youtube }}<script async custom-element="amp-youtube" src="{{ .Site.BaseURL }}assets/js/amp-youtube-0.1.js"></script>
 {{ end }}
-
+{{ if .Page.Params.iframe }}<script async custom-element="amp-iframe"
+src="{{ .Site.BaseURL }}assets/js/amp-iframe-0.1.js"></script>
+{{ end }}
 
 
 {{ end }}

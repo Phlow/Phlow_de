@@ -3,7 +3,7 @@ categories          : Soziale Netzwerke
 subtitle            : "Instagram"
 title               : "Selfie olé!"
 date                : 2018-03-02
-slug                : instragram
+slug                : instagram
 image:
     header: /images/socialmedia/header-instagram-1600x740.jpg
 weight              : 100

@@ -10,10 +10,10 @@ tags:
     - 
 image:
     header                  : /images/
-    header_weight           :
+    header_width            :
     header_height           :
     title                   : /images/
-    title_weight            :
+    title_width             :
     title_height            :
     thumb                   : /images/
 #    schema_url: "/images/"

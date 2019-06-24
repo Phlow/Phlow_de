@@ -2,9 +2,6 @@ body {
   background: $background-color;
   color: $text-color;
   font-family: $base-font-family;
-  font-size: 18px;
-  font-weight: 300;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
 }
 
 #bloglogo {
@@ -12,9 +9,8 @@ body {
   line-height: 1em;
   font-size: 5em;
   color: $ci-1;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
 }
-#bloglogo a { border: 0; }
+#bloglogo a { border: 0; text-decoration: none; color: $text-color;}
 #bloglogo a:hover {
   box-shadow: inset 0 0 0 $text-color; 
   -webkit-box-sizing: content-box; 
@@ -27,10 +23,7 @@ body {
   text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
 }
 #slogan {
-  font-family: $base-font-family;
-  font-style: italic;
-  font-weight: 300;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+  font-family: $font-family-mono;
 }
 
 @media only screen and (max-width: 680px) {
@@ -38,13 +31,13 @@ body {
       font-size: 3.5em;
     }
     body {
-      font-size: 16px;
+      font-size: 18px;
     }
 }
 
 @media only screen and (min-width: 681px) {
     body {
-      font-size: 20px;
+      font-size: 22px;
     }
 }
 

@@ -17,7 +17,7 @@
 
 {{ .Content }}
 
-<ul class="toc-list">
+<ul>
   {{ range (where .Site.Pages "Type" "blog") }}
       <li>
         <a href="{{.Permalink}}">{{ if .Params.Subtitle }}{{ .Params.Subtitle }} | {{ end }}{{ .Title }}</a>

@@ -170,293 +170,475 @@ nav:after {
 			<a href="http://tools.google.com/dlpage/gaoptout?hl=de">unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren</a>.“</p>
 
 
+
+
+
+
+
+
 <h2 id="datenschutz">Datenschutzerklärung</h2>
 
-<p>Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung von Phlow // Moritz Sauer. Eine Nutzung sämtlicher Internetseiten (siehe Liste unten) von Phlow/Moritz Sauer ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.</p>
 
-<p>Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den für die Phlow/Moritz Sauer geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden betroffene Personen mittels dieser Datenschutzerklärung über die ihnen zustehenden Rechte aufgeklärt.</p>
+<h2>Datenschutzerklärung</h2><h3 id="dsg-general-intro"></h3><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO). <br>
 
-<p>Die Phlow // Moritz Sauer hat als für die Verarbeitung Verantwortlicher zahlreiche technische und organisatorische Maßnahmen umgesetzt, um einen möglichst lückenlosen Schutz der über diese Internetseite verarbeiteten personenbezogenen Daten sicherzustellen. Dennoch können Internetbasierte Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht gewährleistet werden kann. Aus diesem Grund steht es jeder betroffenen Person frei, personenbezogene Daten auch auf alternativen Wegen, beispielsweise telefonisch, an uns zu übermitteln.</p>
+<br>
 
-<h3>1. Begriffsbestimmungen</h3>
-<p>Die Datenschutzerklärung der Phlow // Moritz Sauer beruht auf den Begrifflichkeiten, die durch den Europäischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die Öffentlichkeit als auch für unsere Kunden und Geschäftspartner einfach lesbar und verständlich sein. Um dies zu gewährleisten, möchten wir vorab die verwendeten Begrifflichkeiten erläutern.</p>
+</p><h3 id="dsg-general-controller">Verantwortlicher</h3><p><span class="tsmcontroller">Moritz Sauer<br>
 
-<p>Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden Begriffe:</p>
+Weißer Hauptstraße 135<br>
 
-<ul style="list-style: none">
-<li><h3>a) personenbezogene Daten</h3>
-<p>Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen. Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann.</p>
-</li>
-<li><h3>b) betroffene Person</h3>
-<p>Betroffene Person ist jede identifizierte oder identifizierbare natürliche Person, deren personenbezogene Daten von dem für die Verarbeitung Verantwortlichen verarbeitet werden.</p>
-</li>
-<li><h3>c) Verarbeitung</h3>
-<p>Verarbeitung ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.</p>
-</li>
-<li><h3>d) Einschränkung der Verarbeitung</h3>
-<p>Einschränkung der Verarbeitung ist die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken.</p>
-</li>
-<li><h3>e) Profiling</h3>
-<p>Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere, um Aspekte bezüglich Arbeitsleistung, wirtschaftlicher Lage, Gesundheit, persönlicher Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen.</p>
-</li>
-<li><h3>f) Pseudonymisierung</h3>
-<p>Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, auf welche die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.</p>
-</li>
-<li><h3>g) Verantwortlicher oder für die Verarbeitung Verantwortlicher</h3>
-<p>Verantwortlicher oder für die Verarbeitung Verantwortlicher ist die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet. Sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise können die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden.</p>
-</li>
-<li><h3>h) Auftragsverarbeiter</h3>
-<p>Auftragsverarbeiter ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.</p>
-</li>
-<li><h3>i) Empfänger</h3>
-<p>Empfänger ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger.</p>
-</li>
-<li><h3>j) Dritter</h3>
-<p>Dritter ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle außer der betroffenen Person, dem Verantwortlichen, dem Auftragsverarbeiter und den Personen, die unter der unmittelbaren Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind, die personenbezogenen Daten zu verarbeiten.</p>
-</li>
-<li><h3>k) Einwilligung</h3>
-<p>Einwilligung ist jede von der betroffenen Person freiwillig für den bestimmten Fall in informierter Weise und unmissverständlich abgegebene Willensbekundung in Form einer Erklärung oder einer sonstigen eindeutigen bestätigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.</p>
-</li>
-</ul>
-
-<h3>2. Name und Anschrift des für die Verarbeitung Verantwortlichen</h3>
-<p>Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:</p>
-
-<p>
-Phlow/Moritz Sauer<br>
-Weißer Hauptstraße, 135<br>
 50999 Köln<br>
-Germany<br>
-Tel.: 01737323995
-</p>
-<p>Website:
-<ul>
-  <li>phlow.de</li>
-  <li>jcorneille.de</li>
-  <li>phlow.org</li>
-  <li>phlow.net</li>
-  <li>sauer.io</li>
-  <li>moritz.sauer.io</li>
-  <li>digitalkultur.tv</li>
-  <li>weniger-ist-mehr.org/</li>
-  <li>mango-aioli.com</li>
-  <li>mangoaioli.com</li>
-  <li>netlabels.org</li>
-  <li>netlabels.de</li>
-  <li>phlow-magazine.com</li>
-  <li>phlow.tv</li>
-  <li>pedro-segundo.de</li>
-</ul>
-</p>
-
-<h4>3. Cookies</h4>
-<p>Die Internetseiten der Phlow // Moritz Sauer verwenden Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.</p>
-
-<p>Zahlreiche Internetseiten und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID. Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer Zeichenfolge, durch welche Internetseiten und Server dem konkreten Internetbrowser zugeordnet werden können, in dem das Cookie gespeichert wurde. Dies ermöglicht es den besuchten Internetseiten und Servern, den individuellen Browser der betroffenen Person von anderen Internetbrowsern, die andere Cookies enthalten, zu unterscheiden. Ein bestimmter Internetbrowser kann über die eindeutige Cookie-ID wiedererkannt und identifiziert werden.</p>
-
-<p>Durch den Einsatz von Cookies kann die Phlow // Moritz Sauer den Nutzern dieser Internetseite nutzerfreundlichere Services bereitstellen, die ohne die Cookie-Setzung nicht möglich wären.</p>
-
-<p>Mittels eines Cookies können die Informationen und Angebote auf unserer Internetseite im Sinne des Benutzers optimiert werden. Cookies ermöglichen uns, wie bereits erwähnt, die Benutzer unserer Internetseite wiederzuerkennen. Zweck dieser Wiedererkennung ist es, den Nutzern die Verwendung unserer Internetseite zu erleichtern. Der Benutzer einer Internetseite, die Cookies verwendet, muss beispielsweise nicht bei jedem Besuch der Internetseite erneut seine Zugangsdaten eingeben, weil dies von der Internetseite und dem auf dem Computersystem des Benutzers abgelegten Cookie übernommen wird. Ein weiteres Beispiel ist das Cookie eines Warenkorbes im Online-Shop. Der Online-Shop merkt sich die Artikel, die ein Kunde in den virtuellen Warenkorb gelegt hat, über ein Cookie.</p>
-
-<p>Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Ferner können bereits gesetzte Cookies jederzeit über einen Internetbrowser oder andere Softwareprogramme gelöscht werden. Dies ist in allen gängigen Internetbrowsern möglich. Deaktiviert die betroffene Person die Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umständen nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar.</p>
-
-<h4>4. Erfassung von allgemeinen Daten und Informationen</h4>
-<p>Die Internetseite der Phlow // Moritz Sauer erfasst mit jedem Aufruf der Internetseite durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten und Informationen werden in den Logfiles des Servers gespeichert. Erfasst werden können die (1) verwendeten Browsertypen und Versionen, (2) das vom zugreifenden System verwendete Betriebssystem, (3) die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer), (4) die Unterwebseiten, welche über ein zugreifendes System auf unserer Internetseite angesteuert werden, (5) das Datum und die Uhrzeit eines Zugriffs auf die Internetseite, (6) eine Internet-Protokoll-Adresse (IP-Adresse), (7) der Internet-Service-Provider des zugreifenden Systems und (8) sonstige ähnliche Daten und Informationen, die der Gefahrenabwehr im Falle von Angriffen auf unsere informationstechnologischen Systeme dienen.</p>
-
-<p>Bei der Nutzung dieser allgemeinen Daten und Informationen zieht die Phlow // Moritz Sauer keine Rückschlüsse auf die betroffene Person. Diese Informationen werden vielmehr benötigt, um (1) die Inhalte unserer Internetseite korrekt auszuliefern, (2) die Inhalte unserer Internetseite sowie die Werbung für diese zu optimieren, (3) die dauerhafte Funktionsfähigkeit unserer informationstechnologischen Systeme und der Technik unserer Internetseite zu gewährleisten sowie (4) um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen. Diese anonym erhobenen Daten und Informationen werden durch die Phlow // Moritz Sauer daher einerseits statistisch und ferner mit dem Ziel ausgewertet, den Datenschutz und die Datensicherheit in unserem Unternehmen zu erhöhen, um letztlich ein optimales Schutzniveau für die von uns verarbeiteten personenbezogenen Daten sicherzustellen. Die anonymen Daten der Server-Logfiles werden getrennt von allen durch eine betroffene Person angegebenen personenbezogenen Daten gespeichert.</p>
-
-<h4>5. Abonnement unseres Newsletters</h4>
-<p>Auf der Internetseite der Phlow // Moritz Sauer wird den Benutzern die Möglichkeit eingeräumt, den Newsletter unseres Unternehmens zu abonnieren. Welche personenbezogenen Daten bei der Bestellung des Newsletters an den für die Verarbeitung Verantwortlichen übermittelt werden, ergibt sich aus der hierzu verwendeten Eingabemaske.</p>
-
-<p>Die Phlow // Moritz Sauer informiert ihre Kunden und Geschäftspartner in regelmäßigen Abständen im Wege eines Newsletters über Angebote des Unternehmens. Der Newsletter unseres Unternehmens kann von der betroffenen Person grundsätzlich nur dann empfangen werden, wenn (1) die betroffene Person über eine gültige E-Mail-Adresse verfügt und (2) die betroffene Person sich für den Newsletterversand registriert. An die von einer betroffenen Person erstmalig für den Newsletterversand eingetragene E-Mail-Adresse wird aus rechtlichen Gründen eine Bestätigungsmail im Double-Opt-In-Verfahren versendet. Diese Bestätigungsmail dient der Überprüfung, ob der Inhaber der E-Mail-Adresse als betroffene Person den Empfang des Newsletters autorisiert hat.</p>
 
-<p>Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den(möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb der rechtlichen Absicherung des für die Verarbeitung Verantwortlichen.</p>
+0173 73 23 995</span></p><h3 id="dsg-general-datatype">Arten der verarbeiteten Daten</h3><p>- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
 
-<p>Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschließlich zum Versand unseres Newsletters verwendet. Ferner könnten Abonnenten des Newsletters per E-Mail informiert werden, sofern dies für den Betrieb des Newsletter-Dienstes oder eine diesbezügliche Registrierung erforderlich ist, wie dies im Falle von Änderungen am Newsletterangebot oder bei der Veränderung der technischen Gegebenheiten der Fall sein könnte. Es erfolgt keine Weitergabe der im Rahmen des Newsletter-Dienstes erhobenen personenbezogenen Daten an Dritte. Das Abonnement unseres Newsletters kann durch die betroffene Person jederzeit gekündigt werden. Die Einwilligung in die Speicherung personenbezogener Daten, die die betroffene Person uns für den Newsletterversand erteilt hat, kann jederzeit widerrufen werden. Zum Zwecke des Widerrufs der Einwilligung findet sich in jedem Newsletter ein entsprechender Link. Ferner besteht die Möglichkeit, sich jederzeit auch direkt auf der Internetseite des für die Verarbeitung Verantwortlichen vom Newsletterversand abzumelden oder dies dem für die Verarbeitung Verantwortlichen auf andere Weise mitzuteilen.</p>
+- Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>
 
-<h4>6. Newsletter-Tracking</h4>
-<p>Die Newsletter der Phlow // Moritz Sauer enthalten sogenannte Zählpixel. Ein Zählpixel ist eine Miniaturgrafik, die in solche E-Mails eingebettet wird, welche im HTML-Format versendet werden, um eine Logdatei-Aufzeichnung und eine Logdatei-Analyse zu ermöglichen. Dadurch kann eine statistische Auswertung des Erfolges oder Misserfolges von Online-Marketing-Kampagnen durchgeführt werden. Anhand des eingebetteten Zählpixels kann die Phlow // Moritz Sauer erkennen, ob und wann eine E-Mail von einer betroffenen Person geöffnet wurde und welche in der E-Mail befindlichen Links von der betroffenen Person aufgerufen wurden.</p>
+- Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).<br>
 
-<p>Solche über die in den Newslettern enthaltenen Zählpixel erhobenen personenbezogenen Daten, werden von dem für die Verarbeitung Verantwortlichen gespeichert und ausgewertet, um den Newsletterversand zu optimieren und den Inhalt zukünftiger Newsletter noch besser den Interessen der betroffenen Person anzupassen. Diese personenbezogenen Daten werden nicht an Dritte weitergegeben. Betroffene Personen sind jederzeit berechtigt, die diesbezügliche gesonderte, über das Double-Opt-In-Verfahren abgegebene Einwilligungserklärung zu widerrufen. Nach einem Widerruf werden diese personenbezogenen Daten von dem für die Verarbeitung Verantwortlichen gelöscht. Eine Abmeldung vom Erhalt des Newsletters deutet die Phlow // Moritz Sauer automatisch als Widerruf.</p>
+- Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).<br>
 
-<h4>7. Kontaktmöglichkeit über die Internetseite</h4>
-<p>Die Internetseite der Phlow // Moritz Sauer enthält aufgrund von gesetzlichen Vorschriften Angaben, die eine schnelle elektronische Kontaktaufnahme zu unserem Unternehmen sowie eine unmittelbare Kommunikation mit uns ermöglichen, was ebenfalls eine allgemeine Adresse der sogenannten elektronischen Post (E-Mail-Adresse) umfasst. Sofern eine betroffene Person per E-Mail oder über ein Kontaktformular den Kontakt mit dem für die Verarbeitung Verantwortlichen aufnimmt, werden die von der betroffenen Person übermittelten personenbezogenen Daten automatisch gespeichert. Solche auf freiwilliger Basis von einer betroffenen Person an den für die Verarbeitung Verantwortlichen übermittelten personenbezogenen Daten werden für Zwecke der Bearbeitung oder der Kontaktaufnahme zur betroffenen Person gespeichert. Es erfolgt keine Weitergabe dieser personenbezogenen Daten an Dritte.</p>
+- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).</p><h3 id="dsg-general-datasubjects">Kategorien betroffener Personen</h3><p>Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).<br>
 
-<h4>8. Kommentarfunktion im Blog auf der Internetseite</h4>
-<p>Die Phlow // Moritz Sauer bietet den Nutzern auf einem Blog, der sich auf der Internetseite des für die Verarbeitung Verantwortlichen befindet, die Möglichkeit, individuelle Kommentare zu einzelnen Blog-Beiträgen zu hinterlassen. Ein Blog ist ein auf einer Internetseite geführtes, in der Regel öffentlich einsehbares Portal, in welchem eine oder mehrere Personen, die Blogger oder Web-Blogger genannt werden, Artikel posten oder Gedanken in sogenannten Blogposts niederschreiben können. Die Blogposts können in der Regel von Dritten kommentiert werden.</p>
+</p><h3 id="dsg-general-purpose">Zweck der Verarbeitung</h3><p>-  Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte.<br>
 
-<p>Hinterlässt eine betroffene Person einen Kommentar in dem auf dieser Internetseite veröffentlichten Blog, werden neben den von der betroffenen Person hinterlassenen Kommentaren auch Angaben zum Zeitpunkt der Kommentareingabe sowie zu dem von der betroffenen Person gewählten Nutzernamen (Pseudonym) gespeichert und veröffentlicht. Ferner wird die vom Internet-Service-Provider (ISP) der betroffenen Person vergebene IP-Adresse mitprotokolliert. Diese Speicherung der IP-Adresse erfolgt aus Sicherheitsgründen und für den Fall, dass die betroffene Person durch einen abgegebenen Kommentar die Rechte Dritter verletzt oder rechtswidrige Inhalte postet. Die Speicherung dieser personenbezogenen Daten erfolgt daher im eigenen Interesse des für die Verarbeitung Verantwortlichen, damit sich dieser im Falle einer Rechtsverletzung gegebenenfalls exkulpieren könnte. Es erfolgt keine Weitergabe dieser erhobenen personenbezogenen Daten an Dritte, sofern eine solche Weitergabe nicht gesetzlich vorgeschrieben ist oder der Rechtsverteidigung des für die Verarbeitung Verantwortlichen dient.</p>
+- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.<br>
 
-<h4>9. Abonnement von Kommentaren im Blog auf der Internetseite</h4>
-<p>Die im Blog der Phlow // Moritz Sauer abgegebenen Kommentare können grundsätzlich von Dritten abonniert werden. Insbesondere besteht die Möglichkeit, dass ein Kommentator die seinem Kommentar nachfolgenden Kommentare zu einem bestimmten Blog-Beitrag abonniert.</p>
+- Sicherheitsmaßnahmen.<br>
 
-<p>Sofern sich eine betroffene Person für die Option entscheidet, Kommentare zu abonnieren, versendet der für die Verarbeitung Verantwortliche eine automatische Bestätigungsmail, um im Double-Opt-In-Verfahren zu überprüfen, ob sich wirklich der Inhaber der angegebenen E-Mail-Adresse für diese Option entschieden hat. Die Option zum Abonnement von Kommentaren kann jederzeit beendet werden.</p>
+- Reichweitenmessung/Marketing<br>
 
-<h4>10. Routinemäßige Löschung und Sperrung von personenbezogenen Daten</h4>
-<p>Der für die Verarbeitung Verantwortliche verarbeitet und speichert personenbezogene Daten der betroffenen Person nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den Europäischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Vorschriften, welchen der für die Verarbeitung Verantwortliche unterliegt, vorgesehen wurde.</p>
+<span class="tsmcom"></span></p><h3 id="dsg-general-terms">Verwendete Begrifflichkeiten </h3><p>„Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.<br>
 
-<p>Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- und Verordnungsgeber oder einem anderen zuständigen Gesetzgeber vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.</p>
+<br>
 
-<h4>11. Rechte der betroffenen Person</h4>
-<ul style="list-style: none;">
-<li><h4>a)    Recht auf Bestätigung</h4>
-<p>Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber eingeräumte Recht, von dem für die Verarbeitung Verantwortlichen eine Bestätigung darüber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden. Möchte eine betroffene Person dieses Bestätigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p>
-</li>
-<li><h4>b)    Recht auf Auskunft</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, jederzeit von dem für die Verarbeitung Verantwortlichen unentgeltliche Auskunft über die zu seiner Person gespeicherten personenbezogenen Daten und eine Kopie dieser Auskunft zu erhalten. Ferner hat der Europäische Richtlinien- und Verordnungsgeber der betroffenen Person Auskunft über folgende Informationen zugestanden:</p>
+„Verarbeitung“ ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten.<br>
 
-<ul style="list-style: none;">
-<li>die Verarbeitungszwecke</li>
-<li>die Kategorien personenbezogener Daten, die verarbeitet werden</li>
-<li>die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen</li>
-<li>falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer</li>
-<li>das Bestehen eines Rechts auf Berichtigung oder Löschung der sie betreffenden personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung</li>
-<li>das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde</li>
-<li>wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden: Alle verfügbaren Informationen über die Herkunft der Daten</li>
-<li>das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Artikel 22 Abs.1 und 4 DS-GVO und — zumindest in diesen Fällen — aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person</li>
+<br>
 
-</ul>
-<p>Ferner steht der betroffenen Person ein Auskunftsrecht darüber zu, ob personenbezogene Daten an ein Drittland oder an eine internationale Organisation übermittelt wurden. Sofern dies der Fall ist, so steht der betroffenen Person im Übrigen das Recht zu, Auskunft über die geeigneten Garantien im Zusammenhang mit der Übermittlung zu erhalten.</p>
+„Pseudonymisierung“ die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.<br>
 
-<p>Möchte eine betroffene Person dieses Auskunftsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p>
-</li>
-<li><h4>c)    Recht auf Berichtigung</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, die unverzügliche Berichtigung sie betreffender unrichtiger personenbezogener Daten zu verlangen. Ferner steht der betroffenen Person das Recht zu, unter Berücksichtigung der Zwecke der Verarbeitung, die Vervollständigung unvollständiger personenbezogener Daten — auch mittels einer ergänzenden Erklärung — zu verlangen.</p>
+<br>
 
-<p>Möchte eine betroffene Person dieses Berichtigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p></li>
-<li>
-<h4>d)    Recht auf Löschung (Recht auf Vergessen werden)</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, von dem Verantwortlichen zu verlangen, dass die sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, sofern einer der folgenden Gründe zutrifft und soweit die Verarbeitung nicht erforderlich ist:</p>
+„Profiling“ jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen.<br>
 
-<ul style="list-style: none;">
-<li>Die personenbezogenen Daten wurden für solche Zwecke erhoben oder auf sonstige Weise verarbeitet, für welche sie nicht mehr notwendig sind.</li>
-<li>Die betroffene Person widerruft ihre Einwilligung, auf die sich die Verarbeitung gemäß Art. 6 Abs. 1 Buchstabe a DS-GVO oder Art. 9 Abs. 2 Buchstabe a DS-GVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung.</li>
-<li>Die betroffene Person legt gemäß Art. 21 Abs. 1 DS-GVO Widerspruch gegen die Verarbeitung ein, und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder die betroffene Person legt gemäß Art. 21 Abs. 2 DS-GVO Widerspruch gegen die Verarbeitung ein.</li>
-<li>Die personenbezogenen Daten wurden unrechtmäßig verarbeitet.</li>
-<li>Die Löschung der personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.</li>
-<li>Die personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DS-GVO erhoben.</li>
+<br>
 
-</ul>
-<p>Sofern einer der oben genannten Gründe zutrifft und eine betroffene Person die Löschung von personenbezogenen Daten, die bei der Phlow // Moritz Sauer gespeichert sind, veranlassen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der Phlow // Moritz Sauer wird veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.</p>
+Als „Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.<br>
 
-<p>Wurden die personenbezogenen Daten von der Phlow // Moritz Sauer öffentlich gemacht und ist unser Unternehmen als Verantwortlicher gemäß Art. 17 Abs. 1 DS-GVO zur Löschung der personenbezogenen Daten verpflichtet, so trifft die Phlow // Moritz Sauer unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um andere für die Datenverarbeitung Verantwortliche, welche die veröffentlichten personenbezogenen Daten verarbeiten, darüber in Kenntnis zu setzen, dass die betroffene Person von diesen anderen für die Datenverarbeitung Verantwortlichen die Löschung sämtlicher Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt hat, soweit die Verarbeitung nicht erforderlich ist. Der Mitarbeiter der Phlow // Moritz Sauer wird im Einzelfall das Notwendige veranlassen.</p>
-</li>
-<li><h4>e)    Recht auf Einschränkung der Verarbeitung</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, von dem Verantwortlichen die Einschränkung der Verarbeitung zu verlangen, wenn eine der folgenden Voraussetzungen gegeben ist:</p>
+<br>
 
-<ul style="list-style: none;">
-<li>Die Richtigkeit der personenbezogenen Daten wird von der betroffenen Person bestritten, und zwar für eine Dauer, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen.</li>
-<li>Die Verarbeitung ist unrechtmäßig, die betroffene Person lehnt die Löschung der personenbezogenen Daten ab und verlangt stattdessen die Einschränkung der Nutzung der personenbezogenen Daten.</li>
-<li>Der Verantwortliche benötigt die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger, die betroffene Person benötigt sie jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.</li>
-<li>Die betroffene Person hat Widerspruch gegen die Verarbeitung gem. Art. 21 Abs. 1 DS-GVO eingelegt und es steht noch nicht fest, ob die berechtigten Gründe des Verantwortlichen gegenüber denen der betroffenen Person überwiegen.</li>
+„Auftragsverarbeiter“ eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.<br>
 
-</ul>
-<p>Sofern eine der oben genannten Voraussetzungen gegeben ist und eine betroffene Person die Einschränkung von personenbezogenen Daten, die bei der Phlow // Moritz Sauer gespeichert sind, verlangen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der Phlow // Moritz Sauer wird die Einschränkung der Verarbeitung veranlassen.</p>
-</li>
-<li><h4>f)     Recht auf Datenübertragbarkeit</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, die sie betreffenden personenbezogenen Daten, welche durch die betroffene Person einem Verantwortlichen bereitgestellt wurden, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Sie hat außerdem das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern die Verarbeitung auf der Einwilligung gemäß Art. 6 Abs. 1 Buchstabe a DS-GVO oder Art. 9 Abs. 2 Buchstabe a DS-GVO oder auf einem Vertrag gemäß Art. 6 Abs. 1 Buchstabe b DS-GVO beruht und die Verarbeitung mithilfe automatisierter Verfahren erfolgt, sofern die Verarbeitung nicht für die Wahrnehmung einer Aufgabe erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, welche dem Verantwortlichen übertragen wurde.</p>
+</p><h3 id="dsg-general-legalbasis">Maßgebliche Rechtsgrundlagen</h3><p>Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit.  Für Nutzer aus dem Geltungsbereich der Datenschutzgrundverordnung (DSGVO), d.h. der EU und des EWG gilt, sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, Folgendes: <br>
 
-<p>Ferner hat die betroffene Person bei der Ausübung ihres Rechts auf Datenübertragbarkeit gemäß Art. 20 Abs. 1 DS-GVO das Recht, zu erwirken, dass die personenbezogenen Daten direkt von einem Verantwortlichen an einen anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist und sofern hiervon nicht die Rechte und Freiheiten anderer Personen beeinträchtigt werden.</p>
+Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a und Art. 7 DSGVO;<br>
 
-<p>Zur Geltendmachung des Rechts auf Datenübertragbarkeit kann sich die betroffene Person jederzeit an einen Mitarbeiter der Phlow // Moritz Sauer wenden.</p>
+Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Maßnahmen sowie Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO;<br>
 
-</li>
-<li>
-<h4>g)    Recht auf Widerspruch</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung sie betreffender personenbezogener Daten, die aufgrund von Art. 6 Abs. 1 Buchstaben e oder f DS-GVO erfolgt, Widerspruch einzulegen. Dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling.</p>
+Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO;<br>
 
-<p>Die Phlow // Moritz Sauer verarbeitet die personenbezogenen Daten im Falle des Widerspruchs nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die den Interessen, Rechten und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.</p>
+Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.<br>
 
-<p>Verarbeitet die Phlow // Moritz Sauer personenbezogene Daten, um Direktwerbung zu betreiben, so hat die betroffene Person das Recht, jederzeit Widerspruch gegen die Verarbeitung der personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen. Dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Widerspricht die betroffene Person gegenüber der Phlow // Moritz Sauer der Verarbeitung für Zwecke der Direktwerbung, so wird die Phlow // Moritz Sauer die personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten.</p>
+Die Rechtsgrundlage für die erforderliche Verarbeitung zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde ist Art. 6 Abs. 1 lit. e DSGVO. <br>
 
-<p>Zudem hat die betroffene Person das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, gegen die sie betreffende Verarbeitung personenbezogener Daten, die bei der Phlow // Moritz Sauer zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken gemäß Art. 89 Abs. 1 DS-GVO erfolgen, Widerspruch einzulegen, es sei denn, eine solche Verarbeitung ist zur Erfüllung einer im öffentlichen Interesse liegenden Aufgabe erforderlich.</p>
+Die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten Interessen ist Art. 6 Abs. 1 lit. f DSGVO. <br>
 
-<p>Zur Ausübung des Rechts auf Widerspruch kann sich die betroffene Person direkt jeden Mitarbeiter der Phlow // Moritz Sauer oder einen anderen Mitarbeiter wenden. Der betroffenen Person steht es ferner frei, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft, ungeachtet der Richtlinie 2002/58/EG, ihr Widerspruchsrecht mittels automatisierter Verfahren auszuüben, bei denen technische Spezifikationen verwendet werden.</p>
-</li>
-<li><h4>h)    Automatisierte Entscheidungen im Einzelfall einschließlich Profiling</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung — einschließlich Profiling — beruhenden Entscheidung unterworfen zu werden, die ihr gegenüber rechtliche Wirkung entfaltet oder sie in ähnlicher Weise erheblich beeinträchtigt, sofern die Entscheidung (1) nicht für den Abschluss oder die Erfüllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich ist, oder (2) aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten, denen der Verantwortliche unterliegt, zulässig ist und diese Rechtsvorschriften angemessene Maßnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person enthalten oder (3) mit ausdrücklicher Einwilligung der betroffenen Person erfolgt.</p>
+Die Verarbeitung von Daten zu anderen Zwecken als denen, zu denen sie erhoben wurden, bestimmt sich nach den Vorgaben des Art 6 Abs. 4 DSGVO. <br>
 
-<p>Ist die Entscheidung (1) für den Abschluss oder die Erfüllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich oder (2) erfolgt sie mit ausdrücklicher Einwilligung der betroffenen Person, trifft die Phlow // Moritz Sauer angemessene Maßnahmen, um die Rechte und Freiheiten sowie die berechtigten Interessen der betroffenen Person zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehört.</p>
+Die Verarbeitung von besonderen Kategorien von Daten (entsprechend Art. 9 Abs. 1 DSGVO) bestimmt sich nach den Vorgaben des Art. 9 Abs. 2 DSGVO. <br>
 
-<p>Möchte die betroffene Person Rechte mit Bezug auf automatisierte Entscheidungen geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p>
+</p><h3 id="dsg-general-securitymeasures">Sicherheitsmaßnahmen</h3><p>Wir treffen nach Maßgabe der gesetzlichen Vorgabenunter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen, geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.<br>
 
-</li>
-<li><h4>i)      Recht auf Widerruf einer datenschutzrechtlichen Einwilligung</h4>
-<p>Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, eine Einwilligung zur Verarbeitung personenbezogener Daten jederzeit zu widerrufen.</p>
+<br>
 
-<p>Möchte die betroffene Person ihr Recht auf Widerruf einer Einwilligung geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p>
+Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen Zugangs zu den Daten, als auch des sie betreffenden Zugriffs, der Eingabe, Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, Löschung von Daten und Reaktion auf Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung, bzw. Auswahl von Hardware, Software sowie Verfahren, entsprechend dem Prinzip des Datenschutzes durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.<br>
 
-</li>
-</ul>
-<h4>12. Datenschutz bei Bewerbungen und im Bewerbungsverfahren</h4>
-<p>Der für die Verarbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbern zum Zwecke der Abwicklung des Bewerbungsverfahrens. Die Verarbeitung kann auch auf elektronischem Wege erfolgen. Dies ist insbesondere dann der Fall, wenn ein Bewerber entsprechende Bewerbungsunterlagen auf dem elektronischen Wege, beispielsweise per E-Mail oder über ein auf der Internetseite befindliches Webformular, an den für die Verarbeitung Verantwortlichen übermittelt. Schließt der für die Verarbeitung Verantwortliche einen Anstellungsvertrag mit einem Bewerber, werden die übermittelten Daten zum Zwecke der Abwicklung des Beschäftigungsverhältnisses unter Beachtung der gesetzlichen Vorschriften gespeichert. Wird von dem für die Verarbeitung Verantwortlichen kein Anstellungsvertrag mit dem Bewerber geschlossen, so werden die Bewerbungsunterlagen zwei Monate nach Bekanntgabe der Absageentscheidung automatisch gelöscht, sofern einer Löschung keine sonstigen berechtigten Interessen des für die Verarbeitung Verantwortlichen entgegenstehen. Sonstiges berechtigtes Interesse in diesem Sinne ist beispielsweise eine Beweispflicht in einem Verfahren nach dem Allgemeinen Gleichbehandlungsgesetz (AGG).</p>
+</p><h3 id="dsg-general-coprocessing">Zusammenarbeit mit Auftragsverarbeitern, gemeinsam Verantwortlichen und Dritten</h3><p>Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeitern, gemeinsam Verantwortlichen oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister, zur Vertragserfüllung erforderlich ist), Nutzer eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhostern, etc.). <br>
 
-<h4>13. Datenschutzbestimmungen zu Einsatz und Verwendung von Google AdSense</h4>
-<p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Google AdSense integriert. Google AdSense ist ein Online-Dienst, über welchen eine Vermittlung von Werbung auf Drittseiten ermöglicht wird. Google AdSense beruht auf einem Algorithmus, welcher die auf Drittseiten angezeigten Werbeanzeigen passend zu den Inhalten der jeweiligen Drittseite auswählt. Google AdSense gestattet ein interessenbezogenes Targeting des Internetnutzers, welches mittels Generierung von individuellen Benutzerprofilen umgesetzt wird.</p>
+<br>
 
-<p>Betreibergesellschaft der Google-AdSense-Komponente ist die Alphabet Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA.</p>
+Sofern wir Daten anderen Unternehmen unserer Unternehmensgruppe offenbaren, übermitteln oder ihnen sonst den Zugriff gewähren, erfolgt dies insbesondere zu administrativen Zwecken als berechtigtes Interesse und darüberhinausgehend auf einer den gesetzlichen Vorgaben entsprechenden Grundlage. <br>
 
-<p>Der Zweck der Google-AdSense-Komponente ist die Einbindung von Werbeanzeigen auf unserer Internetseite. Google-AdSense setzt ein Cookie auf dem informationstechnologischen System der betroffenen Person. Was Cookies sind, wurde oben bereits erläutert. Mit der Setzung des Cookies wird der Alphabet Inc. eine Analyse der Benutzung unserer Internetseite ermöglicht. Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die durch den für die Verarbeitung Verantwortlichen betrieben wird und auf welcher eine Google-AdSense-Komponente integriert wurde, wird der Internetbrowser auf dem informationstechnologischen System der betroffenen Person automatisch durch die jeweilige Google-AdSense-Komponente veranlasst, Daten zum Zwecke der Online-Werbung und der Abrechnung von Provisionen an die Alphabet Inc. zu übermitteln. Im Rahmen dieses technischen Verfahrens erhält die Alphabet Inc. Kenntnis über personenbezogene Daten, wie der IP-Adresse der betroffenen Person, die der Alphabet Inc. unter anderem dazu dienen, die Herkunft der Besucher und Klicks nachzuvollziehen und in der Folge Provisionsabrechnungen zu ermöglichen.</p>
+</p><h3 id="dsg-general-thirdparty">Übermittlungen in Drittländer</h3><p>Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR) oder der Schweizer Eidgenossenschaft) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an andere Personen oder Unternehmen geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich ausdrücklicher Einwilligung oder vertraglich erforderlicher Übermittlung, verarbeiten oder lassen wir die Daten nur in Drittländern mit einem anerkannten Datenschutzniveau, zu denen die unter dem "Privacy-Shield" zertifizierten US-Verarbeiter gehören oder auf Grundlage besonderer Garantien, wie z.B. vertraglicher Verpflichtung durch sogenannte Standardschutzklauseln der EU-Kommission, dem Vorliegen von Zertifizierungen oder verbindlichen internen Datenschutzvorschriften verarbeiten (Art. 44 bis 49 DSGVO, <a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu_de" target="blank">Informationsseite der EU-Kommission</a>).</p><h3 id="dsg-general-rightssubject">Rechte der betroffenen Personen</h3><p>Auskunftsrecht:  Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.<br>
 
-<p>Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite, wie oben bereits dargestellt, jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Eine solche Einstellung des genutzten Internetbrowsers würde auch verhindern, dass die Alphabet Inc. ein Cookie auf dem informationstechnologischen System der betroffenen Person setzt. Zudem kann ein von der Alphabet Inc. bereits gesetzter Cookie jederzeit über den Internetbrowser oder andere Softwareprogramme gelöscht werden.</p>
+<br>
 
-<p>Google AdSense verwendet zudem sogenannte Zählpixel. Ein Zählpixel ist eine Miniaturgrafik, die in Internetseiten eingebettet wird, um eine Logdatei-Aufzeichnung und eine Logdatei-Analyse zu ermöglichen, wodurch eine statistische Auswertung durchgeführt werden kann. Anhand des eingebetteten Zählpixels kann die Alphabet Inc. erkennen, ob und wann eine Internetseite von einer betroffenen Person geöffnet wurde und welche Links von der betroffenen Person angeklickt wurden. Zählpixel dienen unter anderem dazu, den Besucherfluss einer Internetseite auszuwerten.</p>
+Recht auf Berichtigung: Sie haben entsprechend. den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.<br>
 
-<p>Über Google AdSense werden personenbezogene Daten und Informationen, was auch die IP-Adresse umfasst und zur Erfassung und Abrechnung der angezeigten Werbeanzeigen notwendig ist, an die Alphabet Inc. in die Vereinigten Staaten von Amerika übertragen. Diese personenbezogenen Daten werden in den Vereinigten Staaten von Amerika gespeichert und verarbeitet. Die Alphabet Inc. gibt diese über das technische Verfahren erhobenen personenbezogenen Daten unter Umständen an Dritte weiter.</p>
+<br>
 
-<p>Google-AdSense wird unter diesem Link https://www.google.de/intl/de/adsense/start/ genauer erläutert.</p>
+Recht auf Löschung und Einschränkung der Verarbeitung:  Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht zu verlangen, dass betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.<br>
 
-<h4>14. Datenschutzbestimmungen zu Einsatz und Verwendung von Jetpack für WordPress</h4>
-<p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Jetpack integriert. Jetpack ist ein WordPress-Plug-In, welches dem Betreiber einer Internetseite, die auf WordPress aufbaut, zusätzliche Funktionen bietet. Jetpack gestattet dem Internetseitenbetreiber unter anderem eine Übersicht über die Besucher der Seite. Durch die Anzeige von verwandten Beiträgen und Publikationen oder die Möglichkeit, Inhalte auf der Seite zu teilen, ist ferner die Steigerung der Besucherzahlen möglich. Außerdem sind Sicherheitsfunktionen in Jetpack integriert, sodass eine Jetpack nutzende Internetseite besser gegen Brute-Force-Attacken geschützt ist. Jetpack optimiert und beschleunigt ferner das Laden der auf der Internetseite integrierten Bilder.</p>
+<br>
 
-<p>Betreibergesellschaft des Jetpack-Plug-Ins für WordPress ist die Automattic Inc., 132 Hawthorne Street, San Francisco, CA 94107, USA. Die Betreibergesellschaft setzt die Trackingtechnologie der Quantcast Inc., 201 Third Street, San Francisco, CA 94103, USA, ein.</p>
+Recht auf Datenübertragbarkeit:  Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen zu fordern.<br>
 
-<p>Jetpack setzt ein Cookie auf dem informationstechnologischen System der betroffenen Person. Was Cookies sind, wurde oben bereits erläutert. Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die durch den für die Verarbeitung Verantwortlichen betrieben wird und auf welcher eine Jetpack-Komponente integriert wurde, wird der Internetbrowser auf dem informationstechnologischen System der betroffenen Person automatisch durch die jeweilige Jetpack-Komponente veranlasst, Daten zur Analysezwecken an Automattic zu übermitteln. Im Rahmen dieses technischen Verfahrens erhält Automattic Kenntnis über Daten, die in der Folge zur Erstellung einer Übersicht der Internetseiten-Besuche verwendet werden. Die so gewonnenen Daten dienen der Analyse des Verhaltens der betroffenen Person, welche auf die Internetseite des für die Verarbeitung Verantwortlichen zugegriffen hat und werden mit dem Ziel, die Internetseite zu optimieren, ausgewertet. Die über die Jetpack-Komponente erhobenen Daten werden nicht ohne eine vorherige Einholung einer gesonderten ausdrücklichen Einwilligung der betroffenen Person dazu genutzt, die betroffene Person zu identifizieren. Die Daten gelangen ferner Quantcast zur Kenntnis. Quantcast nutzt die Daten zu den gleichen Zwecken wie Automattic.</p>
+<br>
 
-<p>Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite, wie oben bereits dargestellt, jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Eine solche Einstellung des genutzten Internetbrowsers würde auch verhindern, dass Automattic/Quantcast ein Cookie auf dem informationstechnologischen System der betroffenen Person setzt. Zudem können von Automattic bereits gesetzte Cookies jederzeit über den Internetbrowser oder andere Softwareprogramme gelöscht werden.</p>
+Beschwerde bei Aufsichtsbehörde:  Sie haben ferner nach Maßgabe der gesetzlichen Vorgaben das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.<br>
 
-<p>Ferner besteht für die betroffene Person die Möglichkeit, einer Erfassung der durch das Jetpack-Cookie erzeugten, auf eine Nutzung dieser Internetseite bezogenen Daten sowie der Verarbeitung dieser Daten durch Automattic/Quantcast zu widersprechen und eine solche zu verhindern. Hierzu muss die betroffene Person den Opt-Out-Button unter dem Link https://www.quantcast.com/opt-out/ drücken, der einen Opt-Out-Cookie setzt. Der mit dem Widerspruch gesetzte Opt-Out-Cookie wird auf dem von der betroffenen Person genutzten informationstechnologischen System abgelegt. Werden die Cookies auf dem System der betroffenen Person nach einem Widerspruch gelöscht, muss die betroffene Person den Link erneut aufrufen und einen neuen Opt-Out-Cookie setzen.</p>
+</p><h3 id="dsg-general-revokeconsent">Widerrufsrecht</h3><p>Sie haben das Recht, erteilte Einwilligungen mit Wirkung für die Zukunft zu widerrufen.</p><h3 id="dsg-general-object">Widerspruchsrecht</h3><p><strong>Widerspruchsrecht: Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.</strong></p><h3 id="dsg-general-cookies">Cookies und Widerspruchsrecht bei Direktwerbung</h3><p>Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies, bzw. „Session-Cookies“ oder „transiente Cookies“, werden Cookies bezeichnet, die gelöscht werden, nachdem ein Nutzer ein Onlineangebot verlässt und seinen Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Status gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbietern als dem Verantwortlichen, der das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).<br>
 
-<p>Mit der Setzung des Opt-Out-Cookies besteht jedoch die Möglichkeit, dass die Internetseiten des für die Verarbeitung Verantwortlichen für die betroffene Person nicht mehr vollumfänglich nutzbar sind.</p>
+<br>
 
-<p>Die geltenden Datenschutzbestimmungen von Automattic sind unter https://automattic.com/privacy/ abrufbar. Die geltenden Datenschutzbestimmungen von Quantcast sind unter https://www.quantcast.com/privacy/ abrufbar.</p>
+Wir können temporäre und permanente Cookies einsetzen und klären hierüber im Rahmen unserer Datenschutzerklärung auf.<br>
 
-<h4>15. Rechtsgrundlage der Verarbeitung</h4>
-<p>Art. 6 I lit. a DS-GVO dient unserem Unternehmen als Rechtsgrundlage für Verarbeitungsvorgänge, bei denen wir eine Einwilligung für einen bestimmten Verarbeitungszweck einholen. Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen der Fall ist, die für eine Lieferung von Waren oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf Art. 6 I lit. b DS-GVO. Gleiches gilt für solche Verarbeitungsvorgänge die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zur unseren Produkten oder Leistungen. Unterliegt unser Unternehmen einer rechtlichen Verpflichtung durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 I lit. c DS-GVO. In seltenen Fällen könnte die Verarbeitung von personenbezogenen Daten erforderlich werden, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen. Dies wäre beispielsweise der Fall, wenn ein Besucher in unserem Betrieb verletzt werden würde und daraufhin sein Name, sein Alter, seine Krankenkassendaten oder sonstige lebenswichtige Informationen an einen Arzt, ein Krankenhaus oder sonstige Dritte weitergegeben werden müssten. Dann würde die Verarbeitung auf Art. 6 I lit. d DS-GVO beruhen.
-Letztlich könnten Verarbeitungsvorgänge auf Art. 6 I lit. f DS-GVO beruhen. Auf dieser Rechtsgrundlage basieren Verarbeitungsvorgänge, die von keiner der vorgenannten Rechtsgrundlagen erfasst werden, wenn die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich ist, sofern die Interessen, Grundrechte und Grundfreiheiten des Betroffenen nicht überwiegen. Solche Verarbeitungsvorgänge sind uns insbesondere deshalb gestattet, weil sie durch den Europäischen Gesetzgeber besonders erwähnt wurden. Er vertrat insoweit die Auffassung, dass ein berechtigtes Interesse anzunehmen sein könnte, wenn die betroffene Person ein Kunde des Verantwortlichen ist (Erwägungsgrund 47 Satz 2 DS-GVO).
-</p>
+<br>
 
-<h4>16. Berechtigte Interessen an der Verarbeitung, die von dem Verantwortlichen oder einem Dritten verfolgt werden</h4>
-<p>Basiert die Verarbeitung personenbezogener Daten auf Artikel 6 I lit. f DS-GVO ist unser berechtigtes Interesse die Durchführung unserer Geschäftstätigkeit zugunsten des Wohlergehens all unserer Mitarbeiter und unserer Anteilseigner.</p>
+Sofern wir die Nutzer um eine Einwilligung in den Einsatz von Cookies bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Cookies der Nutzer entsprechend den nachfolgenden Erläuterungen im Rahmen dieser Datenschutzerklärung auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) oder sofern der Einsatz von Cookies zur Erbringung unserer vertragsbezogenen Leistungen erforderlich ist, gem. Art. 6 Abs. 1 lit. b. DSGVO, bzw. sofern der Einsatz von Cookies für die Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt erforderlich ist oder in Ausübung öffentlicher Gewalt erfolgt, gem. Art. 6 Abs. 1 lit. e. DSGVO, verarbeitet.<br>
 
-<h4>17. Dauer, für die die personenbezogenen Daten gespeichert werden</h4>
-<p>Das Kriterium für die Dauer der Speicherung von personenbezogenen Daten ist die jeweilige gesetzliche Aufbewahrungsfrist. Nach Ablauf der Frist werden die entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind.</p>
+<br>
 
-<h4>18. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der personenbezogenen Daten; Erforderlichkeit für den Vertragsabschluss; Verpflichtung der betroffenen Person, die personenbezogenen Daten bereitzustellen; mögliche Folgen der Nichtbereitstellung</h4>
-<p>Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zum Teil gesetzlich vorgeschrieben ist (z.B. Steuervorschriften) oder sich auch aus vertraglichen Regelungen (z.B. Angaben zum Vertragspartner) ergeben kann.
-Mitunter kann es zu einem Vertragsschluss erforderlich sein, dass eine betroffene Person uns personenbezogene Daten zur Verfügung stellt, die in der Folge durch uns verarbeitet werden müssen. Die betroffene Person ist beispielsweise verpflichtet uns personenbezogene Daten bereitzustellen, wenn unser Unternehmen mit ihr einen Vertrag abschließt. Eine Nichtbereitstellung der personenbezogenen Daten hätte zur Folge, dass der Vertrag mit dem Betroffenen nicht geschlossen werden könnte.
-Vor einer Bereitstellung personenbezogener Daten durch den Betroffenen muss sich der Betroffene an einen unserer Mitarbeiter wenden. Unser Mitarbeiter klärt den Betroffenen einzelfallbezogen darüber auf, ob die Bereitstellung der personenbezogenen Daten gesetzlich oder vertraglich vorgeschrieben oder für den Vertragsabschluss erforderlich ist, ob eine Verpflichtung besteht, die personenbezogenen Daten bereitzustellen, und welche Folgen die Nichtbereitstellung der personenbezogenen Daten hätte.
-</p>
+Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.<br>
 
-<h4>19. Bestehen einer automatisierten Entscheidungsfindung</h4>
-<p>Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.</p>
+<br>
 
-<h4>20. Google Webfonts/Fonts</h4>
+Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a> oder die EU-Seite <a href="http://www.youronlinechoices.com/">http://www.youronlinechoices.com/</a> erklärt werden. Des Weiteren kann die Speicherung von Cookies mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.</p><h3 id="dsg-general-erasure">Löschung von Daten</h3><p>Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht oder in ihrer Verarbeitung eingeschränkt. Sofern nicht im Rahmen dieser Datenschutzerklärung ausdrücklich angegeben, werden die bei uns gespeicherten Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen. <br>
 
-<p>
-Diese Website verwendet zur Darstellung der Schrift so genannte Webfonts. Die Webfonts werden von Google über http://www.google.com/webfonts/ bereitgestellt. Werden unsere Webseiten aufgerufen lädt ihr Browser die benötigten Webfonts in ihren Browsercache über Google Fonts nach. Dies ist notwendig damit auch ihr Browser eine optisch verbesserte Darstellung unserer Texte anzeigen kann. Unterstützt Ihrer Browser diese Funktion nicht, nutzt Ihr Browser eine Standardschrift ihres Computers zur Anzeige.
-	</p>
-<ul>
-	<li>Weitergehende Informationen zu Google Webfonts finden sie unter https://developers.google.com/fonts/faq?hl=de-DE&csw</li>
-	<li>Allgemeine Informationen zum Thema Datenschutz bei Google finden sie unter http://www.google.com/intl/de-DE/policies/privacy/</li>
-</ul>
+<br>
 
+Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h. die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen.</p><h3 id="dsg-general-changes">Änderungen und Aktualisierungen der Datenschutzerklärung</h3><p>Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.</p><p></p><h3 id="dsg-commercialpurpose">Geschäftsbezogene Verarbeitung</h3><p></p><p><span class="ts-muster-content">Zusätzlich verarbeiten wir<br>
 
+- Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit, Kundenkategorie).<br>
 
+- Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie)<br>
 
+von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung vertraglicher Leistungen, Service und Kundenpflege, Marketing, Werbung und Marktforschung.</span></p><p></p><h3 id="dsg-services-agency">Agenturdienstleistungen</h3><p></p><p><span class="ts-muster-content">Wir verarbeiten die Daten unserer Kunden im Rahmen unserer vertraglichen Leistungen zu denen konzeptionelle und strategische Beratung, Kampagnenplanung, Software- und Designentwicklung/-beratung oder Pflege, Umsetzung von Kampagnen und Prozessen/ Handling, Serveradministration, Datenanalyse/ Beratungsleistungen und Schulungsleistungen gehören.<br>
 
-<p>Diese Datenschutzerklärung wurde teilweise durch den Datenschutzerklärungs-Generator von den <a rel="nofollow" href="https://dg-datenschutz.de/">Aachen externer Datenschutzbeauftragter</a> in Kooperation mit der RC GmbH, die <a rel="nofollow" href="http://remarketing.company/">gebrauchte Notebooks</a> wiederverwertet und den <a rel="nofollow" href="https://www.wbs-law.de/abmahnung-filesharing/">Filesharing Rechtsanwälten</a> von WBS-LAW erstellt.
-</p>
+<br>
+
+Hierbei verarbeiten wir Bestandsdaten (z.B., Kundenstammdaten, wie Namen oder Adressen), Kontaktdaten (z.B., E-Mail, Telefonnummern), Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos), Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit), Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie), Nutzungs- und Metadaten (z.B. im Rahmen der Auswertung und Erfolgsmessung von Marketingmaßnahmen). Besondere Kategorien personenbezogener Daten verarbeiten wir grundsätzlich nicht, außer wenn diese Bestandteile einer beauftragten Verarbeitung sind. Zu den Betroffenen gehören unsere Kunden, Interessenten sowie deren Kunden, Nutzer, Websitebesucher oder Mitarbeiter sowie Dritte. Der Zweck der Verarbeitung besteht in der Erbringung von Vertragsleistungen, Abrechnung und unserem Kundenservice. Die Rechtsgrundlagen der Verarbeitung ergeben sich aus Art. 6 Abs. 1 lit. b DSGVO (vertragliche Leistungen), Art. 6 Abs. 1 lit. f DSGVO (Analyse, Statistik, Optimierung, Sicherheitsmaßnahmen). Wir verarbeiten Daten, die zur Begründung und Erfüllung der vertraglichen Leistungen erforderlich sind und weisen auf die Erforderlichkeit ihrer Angabe hin. Eine Offenlegung an Externe erfolgt nur, wenn sie im Rahmen eines Auftrags erforderlich ist. Bei der Verarbeitung der uns im Rahmen eines Auftrags überlassenen Daten handeln wir entsprechend den Weisungen der Auftraggeber sowie der gesetzlichen Vorgaben einer Auftragsverarbeitung gem. Art. 28 DSGVO und verarbeiten die Daten zu keinen anderen, als den auftragsgemäßen Zwecken.<br>
+
+<br>
+
+ Wir löschen die Daten nach Ablauf gesetzlicher Gewährleistungs- und vergleichbarer Pflichten. die Erforderlichkeit der Aufbewahrung der Daten wird alle drei Jahre überprüft; im Fall der gesetzlichen Archivierungspflichten erfolgt die Löschung nach deren Ablauf (6 J, gem. § 257 Abs. 1 HGB, 10 J, gem. § 147 Abs. 1 AO). Im Fall von Daten, die uns gegenüber im Rahmen eines Auftrags durch den Auftraggeber offengelegt wurden, löschen wir die Daten entsprechend den Vorgaben des Auftrags, grundsätzlich nach Ende des Auftrags.</span></p><p></p><h3 id="dsg-affiliate-general">Teilnahme an Affiliate-Partnerprogrammen</h3><p></p><p><span class="ts-muster-content">Innerhalb unseres Onlineangebotes setzen wir auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes) gem. Art. 6 Abs. 1 lit. f DSGVO branchenübliche Trackingmaßnahmen ein, soweit diese für den Betrieb des Affiliatesystems erforderlich sind. Nachfolgend klären wir die Nutzer über die technischen Hintergründe auf.<br>
+
+<br>
+
+Die von unseren Vertragspartnern angebotene Leistungen können auch auf anderen Webseiten beworben und verlinkt werden (sog. Affiliate-Links oder After-Buy-Systeme, wenn z.B. Links oder Leistungen Dritter nach einem Vertragsschluss angeboten werden). Die Betreiber der jeweiligen Webseiten erhalten eine Provision, wenn Nutzer den Affiliate-Links folgen und anschließend die Angebote wahrnehmen.<br>
+
+<br>
+
+Zusammenfassend, ist es für unser Onlineangebot erforderlich, dass wir nachverfolgen können, ob Nutzer, die sich für Affiliate-Links und/oder die bei uns verfügbaren Angebote interessieren, die Angebote anschließend auf die Veranlassung der Affiliate-Links oder unserer Onlineplattform, wahrnehmen. Hierzu werden die Affiliate-Links und unsere Angebote um bestimmte Werte ergänzt, die ein Bestandteil des Links oder anderweitig, z.B. in einem Cookie, gesetzt werden können. Zu den Werten gehören insbesondere die Ausgangswebseite (Referrer), Zeitpunkt, eine Online-Kennung der Betreiber der Webseite, auf der sich der Affiliate-Link befand, eine Online-Kennung des jeweiligen Angebotes, eine Online-Kennung des Nutzers, als auch Tracking-spezifische Werte wie z.B. Werbemittel-ID, Partner-ID und Kategorisierungen.<br>
+
+<br>
+
+Bei der von uns verwendeten Online-Kennungen der Nutzer, handelt es sich um pseudonyme Werte. D.h. die Online-Kennungen enthalten selbst keine personenbezogenen Daten wie Namen oder E-Mailadressen. Sie helfen uns nur zu bestimmen ob derselbe Nutzer, der auf einen Affiliate-Link geklickt oder sich über unser Onlineangebot für ein Angebot interessiert hat, das Angebot wahrgenommen, d.h. z.B. einen Vertrag mit dem Anbieter abgeschlossen hat. Die Online-Kennung ist jedoch insoweit personenbezogen, als dem Partnerunternehmen und auch uns, die Online-Kennung zusammen mit anderen Nutzerdaten vorliegen. Nur so kann das Partnerunternehmen uns mitteilen, ob derjenige Nutzer das Angebot wahrgenommen hat und wir z.B. den Bonus auszahlen können.<br>
+
+</span></p><p></p><h3 id="dsg-affiliate-amazon">Amazon-Partnerprogramm</h3><p></p><p><span class="ts-muster-content">Wir sind auf Grundlage unserer berechtigten Interessen (d.h. Interesse am wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Teilnehmer des Partnerprogramms von Amazon EU, das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu Amazon.de Werbekostenerstattung verdient werden kann (sog. Affiliate-System). D.h. als Amazon-Partner verdienen wir an qualifizierten Käufen.<br>
+
+<br>
+
+Amazon setzt Cookies ein, um die Herkunft der Bestellungen nachvollziehen zu können. Unter anderem kann Amazon erkennen, dass Sie den Partnerlink auf dieser Website geklickt und anschließend ein Produkt bei Amazon erworben haben.<br>
+
+<br>
+
+Weitere Informationen zur Datennutzung durch Amazon und Widerspruchsmöglichkeiten erhalten Sie in der Datenschutzerklärung des Unternehmens: <a target="_blank" href="https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010">https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010</a>.<br>
+
+<br>
+
+Hinweis: Amazon und das Amazon-Logo sind Warenzeichen von Amazon.com, Inc. oder eines seiner verbundenen Unternehmen.</span></p><p></p><h3 id="dsg-registration">Registrierfunktion</h3><p></p><p><span class="ts-muster-content">Nutzer können ein Nutzerkonto anlegen. Im Rahmen der Registrierung werden die erforderlichen Pflichtangaben den Nutzern mitgeteilt und auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO zu Zwecken der Bereitstellung des Nutzerkontos verarbeitet. Zu den verarbeiteten Daten gehören insbesondere die Login-Informationen (Name, Passwort sowie eine E-Mailadresse). Die im Rahmen der Registrierung eingegebenen Daten werden für die Zwecke der Nutzung des Nutzerkontos und dessen Zwecks verwendet. <br>
+
+<br>
+
+Die Nutzer können über Informationen, die für deren Nutzerkonto relevant sind, wie z.B. technische Änderungen, per E-Mail informiert werden. Wenn Nutzer ihr Nutzerkonto gekündigt haben, werden deren Daten im Hinblick auf das Nutzerkonto, vorbehaltlich einer gesetzlichen Aufbewahrungspflicht, gelöscht. Es obliegt den Nutzern, ihre Daten bei erfolgter Kündigung vor dem Vertragsende zu sichern. Wir sind berechtigt, sämtliche während der Vertragsdauer gespeicherten Daten des Nutzers unwiederbringlich zu löschen.<br>
+
+<br>
+
+Im Rahmen der Inanspruchnahme unserer Registrierungs- und Anmeldefunktionen sowie der Nutzung des Nutzerkontos, speichern wir die IP-Adresse und den Zeitpunkt der jeweiligen Nutzerhandlung. Die Speicherung erfolgt auf Grundlage unserer berechtigten Interessen, als auch der Nutzer an Schutz vor Missbrauch und sonstiger unbefugter Nutzung. Eine Weitergabe dieser Daten an Dritte erfolgt grundsätzlich nicht, außer sie ist zur Verfolgung unserer Ansprüche erforderlich oder es besteht hierzu besteht eine gesetzliche Verpflichtung gem. Art. 6 Abs. 1 lit. c. DSGVO. Die IP-Adressen werden spätestens nach 7 Tagen anonymisiert oder gelöscht.<br>
+
+</span></p><p></p><h3 id="dsg-comments">Kommentare und Beiträge</h3><p></p><p><span class="ts-muster-content">Wenn Nutzer Kommentare oder sonstige Beiträge hinterlassen, können ihre IP-Adressen auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO für 7 Tage gespeichert werden. Das erfolgt zu unserer Sicherheit, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte hinterlässt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall können wir selbst für den Kommentar oder Beitrag belangt werden und sind daher an der Identität des Verfassers interessiert.<br>
+
+<br>
+
+Des Weiteren behalten wir uns vor, auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f. DSGVO, die Angaben der Nutzer zwecks Spamerkennung zu verarbeiten.<br>
+
+<br>
+
+Auf derselben Rechtsgrundlage behalten wir uns vor, im Fall von Umfragen die IP-Adressen der Nutzer für deren Dauer zu speichern und Cookies zu verwenden, um Mehrfachabstimmungen zu vermeiden.<br>
+
+<br>
+
+Die im Rahmen der Kommentare und Beiträge mitgeteilte Informationen zur Person, etwaige Kontakt- sowie Websiteinformationen als auch die inhaltlichen Angaben, werden von uns bis zum Widerspruch der Nutzer dauerhaft gespeichert.</span></p><p></p><h3 id="dsg-subscribetocomments">Kommentarabonnements</h3><p></p><p><span class="ts-muster-content">Die Nachfolgekommentare können durch Nutzer mit deren Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO abonniert werden. Die Nutzer erhalten eine Bestätigungsemail, um zu überprüfen, ob sie der Inhaber der eingegebenen Emailadresse sind. Nutzer können laufende Kommentarabonnements jederzeit abbestellen. Die Bestätigungsemail wird Hinweise zu den Widerrufsmöglichkeiten enthalten. Für die Zwecke des Nachweises der Einwilligung der Nutzer, speichern wir den Anmeldezeitpunkt nebst der IP-Adresse der Nutzer und löschen diese Informationen, wenn Nutzer sich von dem Abonnement abmelden.<br>
+
+<br>
+
+Sie können den Empfang unseres Abonnements jederzeit kündigen, d.h. Ihre Einwilligungen widerrufen.  Wir können die ausgetragenen E-Mailadressen bis zu drei Jahren auf Grundlage unserer berechtigten Interessen speichern bevor wir sie löschen, um eine ehemals gegebene Einwilligung nachweisen zu können. Die Verarbeitung dieser Daten wird auf den Zweck einer möglichen Abwehr von Ansprüchen beschränkt. Ein individueller Löschungsantrag ist jederzeit möglich, sofern zugleich das ehemalige Bestehen einer Einwilligung bestätigt wird.</span></p><p></p><h3 id="dsg-akismet">Akismet Anti-Spam-Prüfung</h3><p></p><p><span class="ts-muster-content">Unser Onlineangebot nutzt den Dienst „Akismet“, der von der Automattic Inc., 60 29th Street #343, San Francisco, CA 94110, USA, angeboten wird. Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f) DSGVO. Mit Hilfe dieses Dienstes werden Kommentare echter Menschen von Spam-Kommentaren unterschieden. Dazu werden alle Kommentarangaben an einen Server in den USA verschickt, wo sie analysiert und für Vergleichszwecke vier Tage lang gespeichert werden. Ist ein Kommentar als Spam eingestuft worden, werden die Daten über diese Zeit hinaus gespeichert. Zu diesen Angaben gehören der eingegebene Name, die Emailadresse, die IP-Adresse, der Kommentarinhalt, der Referrer, Angaben zum verwendeten Browser sowie dem Computersystem und die Zeit des Eintrags.<br>
+
+<br>
+
+Nähere Informationen zur Erhebung und Nutzung der Daten durch Akismet finden sich in den Datenschutzhinweisen von Automattic: <a target="_blank" href="https://automattic.com/privacy/">https://automattic.com/privacy/</a>.<br>
+
+<br>
+
+Nutzer können gerne Pseudonyme nutzen, oder auf die Eingabe des Namens oder der Emailadresse verzichten. Sie können die Übertragung der Daten komplett verhindern, indem Sie unser Kommentarsystem nicht nutzen. Das wäre schade, aber leider sehen wir sonst keine Alternativen, die ebenso effektiv arbeiten.<br>
+
+<br>
+
+</span></p><p></p><h3 id="dsg-gravatar">Abruf von Profilbildern bei Gravatar</h3><p></p><p><span class="ts-muster-content">Wir setzen innerhalb unseres Onlineangebotes und insbesondere im Blog den Dienst Gravatar der Automattic Inc., 60 29th Street #343, San Francisco, CA 94110, USA, ein.<br>
+
+<br>
+
+Gravatar ist ein Dienst, bei dem sich Nutzer anmelden und Profilbilder und ihre E-Mailadressen hinterlegen können. Wenn Nutzer mit der jeweiligen E-Mailadresse auf anderen Onlinepräsenzen (vor allem in Blogs) Beiträge oder Kommentare hinterlassen, können so deren Profilbilder neben den Beiträgen oder Kommentaren dargestellt werden. Hierzu wird die von den Nutzern mitgeteilte E-Mailadresse an Gravatar zwecks Prüfung, ob zu ihr ein Profil gespeichert ist, verschlüsselt übermittelt. Dies ist der einzige Zweck der Übermittlung der E-Mailadresse und sie wird nicht für andere Zwecke verwendet, sondern danach gelöscht.<br>
+
+<br>
+
+Die Nutzung von Gravatar erfolgt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f) DSGVO, da wir mit Hilfe von Gravatar den Beitrags- und Kommentarverfassern die Möglichkeit bieten ihre Beiträge mit einem Profilbild zu personalisieren.<br>
+
+<br>
+
+Durch die Anzeige der Bilder bringt Gravatar die IP-Adresse der Nutzer in Erfahrung, da dies für eine Kommunikation zwischen einem Browser und einem Onlineservice notwendig ist. Nähere Informationen zur Erhebung und Nutzung der Daten durch Gravatar finden sich in den Datenschutzhinweisen von Automattic: <a target="_blank" href="https://automattic.com/privacy/">https://automattic.com/privacy/</a>.<br>
+
+<br>
+
+Wenn Nutzer nicht möchten, dass ein mit Ihrer E-Mail-Adresse bei Gravatar verknüpftes Benutzerbild in den Kommentaren erscheint, sollten Sie zum Kommentieren eine E-Mail-Adresse nutzen, welche nicht bei Gravatar hinterlegt ist. Wir weisen ferner darauf hin, dass es auch möglich ist eine anonyme oder gar keine E-Mailadresse zu verwenden, falls die Nutzer nicht wünschen, dass die eigene E-Mailadresse an Gravatar übersendet wird. Nutzer können die Übertragung der Daten komplett verhindern, indem Sie unser Kommentarsystem nicht nutzen.</span></p><p></p><h3 id="dsg-musicpodcast-soundcloud">Soundcloud</h3><p></p><p><span class="ts-muster-content">Unsere Podcasts werden auf der Plattform „Soundcloud“, angeboten von SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Deutschland gespeichert und werden von dieser aus Platform wiedergegeben.<br>
+
+<br>
+
+Zu diesem Zweck binden wir sog. Soundcloud-Widgets in unsere Website ein. Dabei handelt es sich um Abspielsoftware, mit der Nutzer die Podcasts abspielen können. Hierbei kann Soundcloud messen, welche Podcasts in welchem Umfang gehört werden und diese Information pseudonym für statistische und betriebswirtschaftliche Zwecke verarbeiten. Hierzu können Cookies in den Browsern der Nuzer gespeichert und zwecks Bildung von Nutzerprofilen, z.B. für Zwecke der Ausgabee von Anzeigen, die den potentiellen Interessen der Nutzer entsprechen, verarbeitet werden. Im Fall von Nutzern, die bei Soundcloud registriert sind, kann Soundcloud die Hörinformationen deren Profilen zuordnen.<br>
+
+<br>
+
+Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Optimierung unseres Audioangebotes gem. Art. 6 Abs. 1 lit. f. DSGVO. <br>
+
+<br>
+
+Weitere Informationen und Widerspruchsmöglichkeiten finden sich in der Datenschutzerklärung von Soundcloud: <a target="_blank" href="https://soundcloud.com/pages/privacy">https://soundcloud.com/pages/privacy</a>.</span></p><p></p><h3 id="dsg-contact">Kontaktaufnahme</h3><p></p><p><span class="ts-muster-content">Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder via sozialer Medien) werden die Angaben des Nutzers zur Bearbeitung der Kontaktanfrage und deren Abwicklung gem. Art. 6 Abs. 1 lit. b. (im Rahmen vertraglicher-/vorvertraglicher Beziehungen),  Art. 6 Abs. 1 lit. f. (andere Anfragen) DSGVO verarbeitet.. Die Angaben der Nutzer können in einem Customer-Relationship-Management System ("CRM System") oder vergleichbarer Anfragenorganisation gespeichert werden.<br>
+
+<br>
+
+Wir löschen die Anfragen, sofern diese nicht mehr erforderlich sind. Wir überprüfen die Erforderlichkeit alle zwei Jahre; Ferner gelten die gesetzlichen Archivierungspflichten.</span></p><p></p><h3 id="dsg-newsletter-de">Newsletter</h3><p></p><p><span class="ts-muster-content">Mit den nachfolgenden Hinweisen informieren wir Sie über die Inhalte unseres Newsletters sowie das Anmelde-, Versand- und das statistische Auswertungsverfahren sowie Ihre Widerspruchsrechte auf. Indem Sie unseren Newsletter abonnieren, erklären Sie sich mit dem Empfang und den beschriebenen Verfahren einverstanden.<br>
+
+<br>
+
+Inhalt des Newsletters: Wir versenden Newsletter, E-Mails und weitere elektronische Benachrichtigungen mit werblichen Informationen (nachfolgend „Newsletter“) nur mit der Einwilligung der Empfänger oder einer gesetzlichen Erlaubnis. Sofern im Rahmen einer Anmeldung zum Newsletter dessen Inhalte konkret umschrieben werden, sind sie für die Einwilligung der Nutzer maßgeblich. Im Übrigen enthalten unsere Newsletter Informationen zu unseren Leistungen und uns.<br>
+
+<br>
+
+Double-Opt-In und Protokollierung: Die Anmeldung zu unserem Newsletter erfolgt in einem sog. Double-Opt-In-Verfahren. D.h. Sie erhalten nach der Anmeldung eine E-Mail, in der Sie um die Bestätigung Ihrer Anmeldung gebeten werden. Diese Bestätigung ist notwendig, damit sich niemand mit fremden E-Mailadressen anmelden kann. Die Anmeldungen zum Newsletter werden protokolliert, um den Anmeldeprozess entsprechend den rechtlichen Anforderungen nachweisen zu können. Hierzu gehört die Speicherung des Anmelde- und des Bestätigungszeitpunkts, als auch der IP-Adresse. Ebenso werden die Änderungen Ihrer bei dem Versanddienstleister gespeicherten Daten protokolliert.<br>
+
+<br>
+
+Anmeldedaten: Um sich für den Newsletter anzumelden, reicht es aus, wenn Sie Ihre E-Mailadresse angeben. Optional bitten wir Sie einen Namen, zwecks persönlicher Ansprache im Newsletters anzugeben.<br>
+
+<br>
+
+Der Versand des Newsletters und die mit ihm verbundene Erfolgsmessung erfolgen auf Grundlage einer Einwilligung der Empfänger gem. Art. 6 Abs. 1 lit. a, Art. 7 DSGVO i.V.m § 7 Abs. 2 Nr. 3 UWG oder falls eine Einwilligung nicht erforderlich ist, auf Grundlage unserer berechtigten Interessen am Direktmarketing gem. Art. 6 Abs. 1 lt. f. DSGVO i.V.m. § 7 Abs. 3 UWG. <br>
+
+<br>
+
+Die Protokollierung des Anmeldeverfahrens erfolgt auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f DSGVO. Unser Interesse richtet sich auf den Einsatz eines nutzerfreundlichen sowie sicheren Newslettersystems, das sowohl unseren geschäftlichen Interessen dient, als auch den Erwartungen der Nutzer entspricht und uns ferner den Nachweis von Einwilligungen erlaubt.<br>
+
+<br>
+
+Kündigung/Widerruf - Sie können den Empfang unseres Newsletters jederzeit kündigen, d.h. Ihre Einwilligungen widerrufen. Einen Link zur Kündigung des Newsletters finden Sie am Ende eines jeden Newsletters. Wir können die ausgetragenen E-Mailadressen bis zu drei Jahren auf Grundlage unserer berechtigten Interessen speichern bevor wir sie löschen, um eine ehemals gegebene Einwilligung nachweisen zu können. Die Verarbeitung dieser Daten wird auf den Zweck einer möglichen Abwehr von Ansprüchen beschränkt. Ein individueller Löschungsantrag ist jederzeit möglich, sofern zugleich das ehemalige Bestehen einer Einwilligung bestätigt wird.</span></p><p></p><h3 id="dsg-newsletter-provider-mailchimp">Newsletter - Mailchimp</h3><p></p><p><span class="ts-muster-content">Der Versand der Newsletter erfolgt mittels des Versanddienstleisters „MailChimp“, einer Newsletterversandplattform des US-Anbieters Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA. Die Datenschutzbestimmungen des Versanddienstleisters können Sie hier einsehen: <a target="_blank" href="https://mailchimp.com/legal/privacy/">https://mailchimp.com/legal/privacy/</a>. The Rocket Science Group LLC d/b/a MailChimp ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäisches Datenschutzniveau einzuhalten (<a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;status=Active</a>). Der Versanddienstleister wird auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f. DSGVO und eines Auftragsverarbeitungsvertrages gem. Art. 28 Abs. 3 S. 1 DSGVO eingesetzt.<br>
+
+<br>
+
+Der Versanddienstleister kann die Daten der Empfänger in pseudonymer Form, d.h. ohne Zuordnung zu einem Nutzer, zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder für statistische Zwecke verwenden. Der Versanddienstleister nutzt die Daten unserer Newsletterempfänger jedoch nicht, um diese selbst anzuschreiben oder um die Daten an Dritte weiterzugeben.</span></p><p></p><h3 id="dsg-hostingprovider">Hosting und E-Mail-Versand</h3><p></p><p><span class="ts-muster-content">Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, E-Mail-Versand, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen. <br>
+
+<br>
+
+Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).</span></p><p></p><h3 id="dsg-logfiles">Erhebung von Zugriffsdaten und Logfiles</h3><p></p><p><span class="ts-muster-content">Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.<br>
+
+<br>
+
+Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.</span></p><p></p><h3 id="dsg-cdn-stackpath">Content-Delivery-Network von StackPath</h3><p></p><p><span class="ts-muster-content"></span></p><p>Wir setzen ein so genanntes "Content Delivery Network" (CDN), angeboten von StackPath, LLC, 2021 McKinney Avenue, Suite 1100 Dallas, Texas 75201, USA, ein. StackPath ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt0000000CbahAAC&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000CbahAAC&amp;status=Active</a>).</p><br>
+
+<p>Ein CDN ist ein Dienst, mit dessen Hilfe Inhalte unseres Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Skripte mit Hilfe regional verteilter und über das Internet verbundener Server, schneller ausgeliefert werden. Die Verarbeitung der Daten der Nutzer erfolgt alleine zu den vorgenannten Zwecken und der Aufrechterhaltung der Sicherheit und Funktionsfähigkeit des CDN.</p><br>
+
+<p>Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Optimierung unseres Onlineangebotes.</p><br>
+
+<p>Weitere Informationen erhalten Sie in der Datenschutzerklärung von StackPath: <a target="_blank" href="https://www.stackpath.com/legal/privacy-statement">https://www.stackpath.com/legal/privacy-statement</a>.</p><p></p><p></p><h3 id="dsg-tracking-tagmanager">Google Tag Manager</h3><p></p><p><span class="ts-muster-content">Google Tag Manager ist eine Lösung, mit der wir sog. Website-Tags über eine Oberfläche verwalten können (und so z.B. Google Analytics sowie andere Google-Marketing-Dienste in unser Onlineangebot einbinden). Der Tag Manager selbst (welches die Tags implementiert) verarbeitet keine personenbezogenen Daten der Nutzer. Im Hinblick auf die Verarbeitung der personenbezogenen Daten der Nutzer wird auf die folgenden Angaben zu den Google-Diensten verwiesen. Nutzungsrichtlinien: <a target="_blank" href="https://www.google.com/intl/de/tagmanager/use-policy.html">https://www.google.com/intl/de/tagmanager/use-policy.html</a>.<br>
+
+</span></p><p></p><h3 id="dsg-ga-googleanalytics">Google Analytics</h3><p></p><p><span class="ts-muster-content">Wir setzen Google Analytics, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“) ein. Google verwendet Cookies. Die durch das Cookie erzeugten Informationen über Benutzung des Onlineangebotes durch die Nutzer werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.<br>
+
+<br>
+
+Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung unseres Onlineangebotes durch die Nutzer auszuwerten, um Reports über die Aktivitäten innerhalb dieses Onlineangebotes zusammenzustellen und um weitere, mit der Nutzung dieses Onlineangebotes und der Internetnutzung verbundene Dienstleistungen, uns gegenüber zu erbringen. Dabei können aus den verarbeiteten Daten pseudonyme Nutzungsprofile der Nutzer erstellt werden.<br>
+
+<br>
+
+Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.<br>
+
+<br>
+
+Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem Link verfügbare Browser-Plugin herunterladen und installieren:&nbsp;<a target="_blank" href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>.<br>
+
+<br>
+
+Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.<br>
+
+<br>
+
+Soweit Daten in den USA verarbeitet werden, weisen wir daraufhin, dass Google unter dem Privacy-Shield-Abkommen zertifiziert ist und hierdurch zusichert, das europäische Datenschutzrecht einzuhalten (<a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>).<br>
+
+<br>
+
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a target="_blank" href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a target="_blank" href="https://adssettings.google.com/authenticated">(https://adssettings.google.com/authenticated</a>).<br>
+
+<br>
+
+Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder anonymisiert.</span></p><p></p><h3 id="dsg-ga-universal">Google Universal Analytics</h3><p></p><p><span class="ts-muster-content">Wir setzen Google Analytics in der Ausgestaltung als „<a target="_blank" href="https://support.google.com/analytics/answer/2790010?hl=de&amp;ref_topic=6010376">Universal-Analytics</a>“ ein. „Universal Analytics“ bezeichnet ein Verfahren von Google Analytics, bei dem die Nutzeranalyse auf Grundlage einer pseudonymen Nutzer-ID erfolgt und damit ein pseudonymes Profil des Nutzers mit Informationen aus der Nutzung verschiedener Geräten erstellt wird (sog. „Cross-Device-Tracking“).</span></p><p></p><h3 id="dsg-ga-audiences">Zielgruppenbildung mit Google Analytics</h3><p></p><p><span class="ts-muster-content">Wir setzen Google Analytics ein, um die durch innerhalb von Werbediensten Googles und seiner Partner geschalteten Anzeigen, nur solchen Nutzern anzuzeigen, die auch ein Interesse an unserem Onlineangebot gezeigt haben oder die bestimmte Merkmale (z.B. Interessen an bestimmten Themen oder Produkten, die anhand der besuchten Webseiten bestimmt werden) aufweisen, die wir an Google übermitteln (sog. „Remarketing-“, bzw. „Google-Analytics-Audiences“). Mit Hilfe der Remarketing Audiences möchten wir auch sicherstellen, dass unsere Anzeigen dem potentiellen Interesse der Nutzer entsprechen.<br>
+
+</span></p><p></p><h3 id="dsg-tracking-adsense-personalized">Google Adsense mit personalisierten Anzeigen</h3><p></p><p><span class="ts-muster-content">Wir nutzen die Dienste der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“).<br>
+
+<br>
+
+Wir Nutzen den Dienst AdSense, mit dessen Hilfe Anzeigen in unsere Webseite eingeblendet und wir für deren Einblendung oder sonstige Nutzung eine Entlohnung erhalten. Zu diesen Zwecken werden Nutzungsdaten, wie z.B. der Klick auf eine Anzeige und die IP-Adresse der Nutzer verarbeitet, wobei die IP-Adresse um die letzten beiden Stellen gekürzt wird. Daher erfolgt die Verarbeitung der Daten der Nutzer pseudonymisiert. <br>
+
+<br>
+
+Wir setzen Adsense mit personalisierten Anzeigen ein. Dabei zieht Google auf Grundlage der von Nutzern besuchten Websites oder verwendeten Apps und den so erstellten Nutzerprofilen Rückschlüsse auf deren Interessen. Werbetreibende nutzen diese Informationen, um ihre Kampagnen an diesen Interessen auszurichten, was für Nutzer und Werbetreibende gleichermaßen von Vorteil ist. Für Google sind Anzeigen dann personalisiert, wenn erfasste oder bekannte Daten die Anzeigenauswahl bestimmen oder beeinflussen. Dazu zählen unter anderem frühere Suchanfragen, Aktivitäten, Websitebesuche, die Verwendung von Apps, demografische und Standortinformationen. Im Einzelnen umfasst dies: demografisches Targeting, Targeting auf Interessenkategorien, Remarketing sowie Targeting auf Listen zum Kundenabgleich und Zielgruppenlisten, die in DoubleClick Bid Manager oder Campaign Manager hochgeladen wurden.<br>
+
+<br>
+
+Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.<br>
+
+<br>
+
+Soweit Daten in den USA verarbeitet werden, weisen wir daraufhin, dass Google unter dem Privacy-Shield-Abkommen zertifiziert ist und hierdurch zusichert, das europäische Datenschutzrecht einzuhalten (<a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>).<br>
+
+<br>
+
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a target="_blank" href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a target="_blank" href="https://adssettings.google.com/authenticated">(https://adssettings.google.com/authenticated</a>).<br>
+
+</span></p><p></p><h3 id="dsg-tracking-adsense-nonpersonalized">Google Adsense mit nicht-personalisierten Anzeigen</h3><p></p><p><span class="ts-muster-content">Wir nutzen die Dienste der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“).<br>
+
+<br>
+
+Wir Nutzen den Dienst AdSense, mit dessen Hilfe Anzeigen in unsere Webseite eingeblendet und wir für deren Einblendung oder sonstige Nutzung eine Entlohnung erhalten. Zu diesen Zwecken werden Nutzungsdaten, wie z.B. der Klick auf eine Anzeige und die IP-Adresse der Nutzer verarbeitet, wobei die IP-Adresse um die letzten beiden Stellen gekürzt wird. Daher erfolgt die Verarbeitung der Daten der Nutzer pseudonymisiert. <br>
+
+<br>
+
+Wir setzen Adsense mit nicht-personalisierten Anzeigen ein. Dabei werden die Anzeigen nicht auf Grundlage von Nutzerprofilen angezeigt. Nicht personalisierte Anzeigen basieren nicht auf früherem Nutzerverhalten. Beim Targeting werden Kontextinformationen herangezogen, unter anderem ein grobes (z. B. auf Ortsebene) geografisches Targeting basierend auf dem aktuellen Standort, dem Inhalt auf der aktuellen Website oder der App sowie aktuelle Suchbegriffe. Google unterbindet jedwedes personalisierte Targeting, also auch demografisches Targeting und Targeting auf Basis von Nutzerlisten.<br>
+
+<br>
+
+Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.<br>
+
+<br>
+
+Soweit Daten in den USA verarbeitet werden, weisen wir daraufhin, dass Google unter dem Privacy-Shield-Abkommen zertifiziert ist und hierdurch zusichert, das europäische Datenschutzrecht einzuhalten (<a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>).<br>
+
+<br>
+
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a target="_blank" href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a target="_blank" href="https://adssettings.google.com/authenticated">(https://adssettings.google.com/authenticated</a>).</span></p><p></p><h3 id="dsg-tracking-adwords">Google AdWords und Conversion-Messung</h3><p></p><p><span class="ts-muster-content">Wir nutzen das Onlinemarketingverfahren Google "AdWords", um Anzeigen im Google-Werbe-Netzwerk zu platzieren (z.B., in Suchergebnissen, in Videos, auf Webseiten, etc.), damit sie Nutzern angezeigt werden, die ein mutmaßliches Interesse an den Anzeigen haben. Dies erlaubt uns Anzeigen für und innerhalb unseres Onlineangebotes gezielter anzuzeigen, um Nutzern nur Anzeigen zu präsentieren, die potentiell deren Interessen entsprechen. Falls einem Nutzer z.B. Anzeigen für Produkte angezeigt werden, für die er sich auf anderen Onlineangeboten interessiert hat, spricht man hierbei vom „Remarketing“. Zu diesen Zwecken wird bei Aufruf unserer und anderer Webseiten, auf denen das Google-Werbe-Netzwerk aktiv ist, unmittelbar durch Google ein Code von Google ausgeführt und es werden sog. (Re)marketing-Tags (unsichtbare Grafiken oder Code, auch als "Web Beacons" bezeichnet) in die Webseite eingebunden. Mit deren Hilfe wird auf dem Gerät der Nutzer ein individuelles Cookie, d.h. eine kleine Datei abgespeichert (statt Cookies können auch vergleichbare Technologien verwendet werden). In dieser Datei wird vermerkt, welche Webseiten der Nutzer aufgesucht, für welche Inhalte er sich interessiert und welche Angebote der Nutzer geklickt hat, ferner technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung des Onlineangebotes.<br>
+
+<br>
+
+Ferner erhalten  wir ein individuelles „Conversion-Cookie“. Die mit Hilfe des Cookies eingeholten Informationen dienen Google dazu, Conversion-Statistiken für uns zu erstellen. Wir erfahren jedoch nur die anonyme Gesamtanzahl der Nutzer, die auf unsere Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Wir erhalten jedoch keine Informationen, mit denen sich Nutzer persönlich identifizieren lassen.<br>
+
+<br>
+
+Die Daten der Nutzer werden im Rahmen des Google-Werbe-Netzwerks pseudonym verarbeitet. D.h. Google speichert und verarbeitet z.B. nicht den Namen oder E-Mailadresse der Nutzer, sondern verarbeitet die relevanten Daten cookie-bezogen innerhalb pseudonymer Nutzerprofile. D.h. aus der Sicht von Google werden die Anzeigen nicht für eine konkret identifizierte Person verwaltet und angezeigt, sondern für den Cookie-Inhaber, unabhängig davon wer dieser Cookie-Inhaber ist. Dies gilt nicht, wenn ein Nutzer Google ausdrücklich erlaubt hat, die Daten ohne diese Pseudonymisierung zu verarbeiten. Die über die Nutzer gesammelten Informationen werden an Google übermittelt und auf Googles Servern in den USA gespeichert.<br>
+
+<br>
+
+Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.<br>
+
+<br>
+
+Soweit Daten in den USA verarbeitet werden, weisen wir daraufhin, dass Google unter dem Privacy-Shield-Abkommen zertifiziert ist und hierdurch zusichert, das europäische Datenschutzrecht einzuhalten (<a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>).<br>
+
+<br>
+
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a target="_blank" href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a target="_blank" href="https://adssettings.google.com/authenticated">(https://adssettings.google.com/authenticated</a>).</span></p><p></p><h3 id="dsg-jetpackstats">Jetpack (WordPress Stats)</h3><p></p><p><span class="ts-muster-content">Wir nutzen das Plugin Jetpack (hier die Unterfunktion „Wordpress Stats“), welches ein Tool zur statistischen Auswertung der Besucherzugriffe einbindet und von Automattic Inc., 60 29th Street #343, San Francisco, CA 94110, USA. Jetpack verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen.<br>
+
+<br>
+
+Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieses Onlineangebotes werden auf einem Server in den USA gespeichert. Dabei können aus den verarbeiteten Daten Nutzungsprofile der Nutzer erstellt werden, wobei diese nur zu Analyse- und nicht zu Werbezwecken eingesetzt werden. Weitere Informationen erhalten Sie in den Datenschutzerklärungen von Automattic: <a target="_blank" href="https://automattic.com/privacy/">https://automattic.com/privacy/</a> und Hinweisen zu Jetpack-Cookies:&nbsp;<a target="_blank" href="https://jetpack.com/support/cookies/">https://jetpack.com/support/cookies/</a>.<br>
+
+<br>
+
+Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.</span></p><p></p><h3 id="dsg-vgwort">VG Wort / Skalierbares Zentrales Messverfahren</h3><p></p><p><span class="ts-muster-content">Wir nutzen das „Skalierbare Zentrale Messverfahren“ (SZM) der INFOnline GmbH (INFOnline GmbH, Brühler Str. 9, D-53119 Bonn. ) für die Ermittlung statistischer Kennwerte zur Ermittlung der Kopierwahrscheinlichkeit von Texten. Dabei werden anonyme Messwerte erhoben. Die Zugriffszahlenmessung verwendet zur Wiedererkennung von Computersystemen alternativ ein Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Das Verfahren wurde unter der Beachtung des Datenschutzes entwickelt. Einziges Ziel des Verfahrens ist es, die Kopierwahrscheinlichkeit einzelner Texte zu ermitteln. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.<br>
+
+<br>
+
+Viele unserer Seiten sind mit JavaScript-Aufrufen versehen, über die wir die Zugriffe an die Verwertungsgesellschaft Wort (VG Wort) melden. Wir ermöglichen damit, dass unsere Autoren an den Ausschüttungen der VG Wort partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gem. § 53 UrhG sicherstellen.<br>
+
+<br>
+
+Es werden hierbei Nutzungsdaten und Metadaten der Nutzer verarbeitet, wobei die IP-Adressen gekürzt werden und die Messverfahren pseudonym sind. Die gekürzte IP-Adresse wird maximal 60 Tage gespeichert. Die Nutzungsdaten in Verbindung mit einem pseudonymen Zuordnungswert („Identifier“) werden maximal 6 Monate gespeichert.<br>
+
+<br>
+
+Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.<br>
+
+<br>
+
+Den Nutzern steht ferner ein Opt-Out zur Vefügung, um der Erfassung zu vorgenannten Zwecken zu widersprechen: <a target="_blank" href="https://optout.ioam.de/">https://optout.ioam.de</a>. Weitere Informationen können Sie der Datenschutzerklärung von INFOnline entnehmen <a target="_blank" href="https://www.infonline.de/datenschutz/benutzer">https://www.infonline.de/datenschutz/benutzer</a>.</span></p><p></p><h3 id="dsg-socialmedia">Onlinepräsenzen in sozialen Medien</h3><p></p><p><span class="ts-muster-content">Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie dort über unsere Leistungen informieren zu können.<br>
+
+<br>
+
+Wir weisen darauf hin, dass dabei Daten der Nutzer außerhalb des Raumes der Europäischen Union verarbeitet werden können. Hierdurch können sich für die Nutzer Risiken ergeben, weil so z.B. die Durchsetzung der Rechte der Nutzer erschwert werden könnte. Im Hinblick auf US-Anbieter die unter dem Privacy-Shield zertifiziert sind, weisen wir darauf hin, dass sie sich damit verpflichten, die Datenschutzstandards der EU einzuhalten.<br>
+
+<br>
+
+Ferner werden die Daten der Nutzer im Regelfall für Marktforschungs- und Werbezwecke verarbeitet. So können z.B. aus dem Nutzungsverhalten und sich daraus ergebenden Interessen der Nutzer Nutzungsprofile erstellt werden. Die Nutzungsprofile können wiederum verwendet werden, um z.B. Werbeanzeigen innerhalb und außerhalb der Plattformen zu schalten, die mutmaßlich den Interessen der Nutzer entsprechen. Zu diesen Zwecken werden im Regelfall Cookies auf den Rechnern der Nutzer gespeichert, in denen das Nutzungsverhalten und die Interessen der Nutzer gespeichert werden. Ferner können in den Nutzungsprofilen auch Daten unabhängig der von den Nutzern verwendeten Geräte gespeichert werden (insbesondere wenn die Nutzer Mitglieder der jeweiligen Plattformen sind und bei diesen eingeloggt sind).<br>
+
+<br>
+
+Die Verarbeitung der personenbezogenen Daten der Nutzer erfolgt auf Grundlage unserer berechtigten Interessen an einer effektiven Information der Nutzer und Kommunikation mit den Nutzern gem. Art. 6 Abs. 1 lit. f. DSGVO. Falls die Nutzer von den jeweiligen Anbietern der Plattformen um eine Einwilligung in die vorbeschriebene Datenverarbeitung gebeten werden, ist die Rechtsgrundlage der Verarbeitung Art. 6 Abs. 1 lit. a., Art. 7 DSGVO.<br>
+
+<br>
+
+Für eine detaillierte Darstellung der jeweiligen Verarbeitungen und der Widerspruchsmöglichkeiten (Opt-Out), verweisen wir auf die nachfolgend verlinkten Angaben der Anbieter.<br>
+
+<br>
+
+Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend gemacht werden können. Nur die Anbieter haben jeweils Zugriff auf die Daten der Nutzer und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben. Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.<br>
+
+<br>
+
+- Facebook, -Seiten, -Gruppen, (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) auf Grundlage einer <a target="_blank" href="https://www.facebook.com/legal/terms/page_controller_addendum">Vereinbarung über gemeinsame Verarbeitung personenbezogener Daten</a> - Datenschutzerklärung: <a target="_blank" href="https://www.facebook.com/about/privacy/">https://www.facebook.com/about/privacy/</a>, speziell für Seiten: <a target="_blank" href="https://www.facebook.com/legal/terms/information_about_page_insights_data">https://www.facebook.com/legal/terms/information_about_page_insights_data</a> , Opt-Out: <a target="_blank" href="https://www.facebook.com/settings?tab=ads">https://www.facebook.com/settings?tab=ads</a> und <a target="_blank" href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a>, Privacy Shield: <a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active</a>.<br>
+
+<br>
+
+- Google/ YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) – Datenschutzerklärung: &nbsp;<a target="_blank" href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>, Opt-Out: <a target="_blank" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>, Privacy Shield: <a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>.<br>
+
+<br>
+
+- Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) – Datenschutzerklärung/ Opt-Out: <a target="_blank" href="http://instagram.com/about/legal/privacy/">http://instagram.com/about/legal/privacy/</a>.<br>
+
+<br>
+
+- Twitter (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA) - Datenschutzerklärung: <a target="_blank" href="https://twitter.com/de/privacy">https://twitter.com/de/privacy</a>, Opt-Out: <a target="_blank" href="https://twitter.com/personalization">https://twitter.com/personalization</a>, Privacy Shield: <a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active</a>.<br>
+
+<br>
+
+- Pinterest (Pinterest Inc., 635 High Street, Palo Alto, CA, 94301, USA) – Datenschutzerklärung/ Opt-Out: <a target="_blank" href="https://about.pinterest.com/de/privacy-policy">https://about.pinterest.com/de/privacy-policy</a>.<br>
+
+<br>
+
+- LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) - Datenschutzerklärung <a target="_blank" href="https://www.linkedin.com/legal/privacy-policy">https://www.linkedin.com/legal/privacy-policy</a> , Opt-Out: <a target="_blank" href="https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out">https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out</a>, Privacy Shield:&nbsp;<a target="_blank" href="https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active</a>.<br>
+
+<br>
+
+- Xing (XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland) - Datenschutzerklärung/ Opt-Out: <a target="_blank" href="https://privacy.xing.com/de/datenschutzerklaerung">https://privacy.xing.com/de/datenschutzerklaerung</a>.<br>
+
+<br>
+
+- Wakalet (Wakelet Limited, 76 Quay Street, Manchester, M3 4PR, United Kingdom) - Datenschutzerklärung/ Opt-Out: <a target="_blank" href="https://wakelet.com/privacy.html">https://wakelet.com/privacy.html</a>.<br>
+
+<br>
+
+- Soundcloud (SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin, Deutschland) - Datenschutzerklärung/ Opt-Out: <a target="_blank" href="https://soundcloud.com/pages/privacy">https://soundcloud.com/pages/privacy</a>.</span></p><p></p><h3 id="dsg-thirdparty-einleitung">Einbindung von Diensten und Inhalten Dritter</h3><p></p><p><span class="ts-muster-content">Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”). <br>
+
+<br>
+
+Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.</span></p><p></p><h3 id="dsg-thirdparty-vimeo">Vimeo</h3><p></p><p><span class="ts-muster-content">Wir können die Videos der Plattform “Vimeo” des Anbieters Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA, einbinden. Datenschutzerklärung: <a target="_blank" href="https://vimeo.com/privacy">https://vimeo.com/privacy</a>.  Wir weisen darauf hin, dass Vimeo Google Analytics einsetzen kann und verweisen hierzu auf die Datenschutzerklärung (<a target="_blank" href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>) sowie Opt-Out-Möglichkeiten für Google-Analytics (<a target="_blank" href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>) oder die Einstellungen von Google für die Datennutzung zu Marketingzwecken (<a target="_blank" href="https://adssettings.google.com/">https://adssettings.google.com/</a>).</span></p><p></p><h3 id="dsg-thirdparty-youtube">Youtube</h3><p></p><p><span class="ts-muster-content">Wir binden die Videos der Plattform “YouTube” des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Datenschutzerklärung: <a target="_blank" href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>, Opt-Out: <a target="_blank" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>.</span></p><p></p><h3 id="dsg-thirdparty-googlerecaptcha">Google ReCaptcha</h3><p></p><p><span class="ts-muster-content">Wir binden die Funktion zur Erkennung von Bots, z.B. bei Eingaben in Onlineformularen ("ReCaptcha") des Anbieters GGoogle Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Datenschutzerklärung: <a target="_blank" href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>, Opt-Out: <a target="_blank" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>.</span></p><p></p><h3 id="dsg-thirdparty-googlemaps">Google Maps</h3><p></p><p><span class="ts-muster-content">Wir binden die Landkarten des Dienstes “Google Maps” des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein. Zu den verarbeiteten Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden. Die Daten können in den USA verarbeitet werden. Datenschutzerklärung: <a target="_blank" href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>, Opt-Out: <a target="_blank" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>.</span></p><p></p><h3 id="dsg-thirdparty-openstreetmap">OpenStreetMap</h3><p></p><p><span class="ts-muster-content">Wir binden die Landkarten des Dienstes "OpenStreetMap" ein (<a target="_blank" href="https://www.openstreetmap.de">https://www.openstreetmap.de</a>), die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. Datenschutzerklärung: <a target="_blank" href="https://wiki.openstreetmap.org/wiki/Privacy_Policy">https://wiki.openstreetmap.org/wiki/Privacy_Policy</a>. <br>
+
+<br>
+
+Nach unserer Kenntnis werden die Daten der Nutzer durch OpenStreetMap ausschließlich zu Zwecken der Darstellung der Kartenfunktionen und Zwischenspeicherung der gewählten Einstellungen verwendet. Zu diesen Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden. <br>
+
+<br>
+
+Die Daten können in den USA verarbeitet werden. Weitere Informationen können Sie der Datenschutzerklärung von OpenStreetMap entnehmen: <a target="_blank" href="https://wiki.openstreetmap.org/wiki/Privacy_Policy">https://wiki.openstreetmap.org/wiki/Privacy_Policy</a>.</span></p><a href="https://datenschutz-generator.de" class="dsg1-6" rel="nofollow" target="_blank">Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</a>
+
+
+
 
 </article>
 
