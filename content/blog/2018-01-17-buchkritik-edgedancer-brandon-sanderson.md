@@ -10,8 +10,10 @@ tags            :
   - buchkritik
   - fantasy
 image:
-  title: /images/edgedancer-sturmlicht-chroniken.jpg
-  caption: Edgedancer (Sturmlicht-Chroniken)
+  title         : /images/blog/edgedancer-sturmlicht-chroniken.jpg
+  title_width   : 760
+  title_height  : 1186
+  caption       : Edgedancer (Sturmlicht-Chroniken)
 meta_info: TRUE
 ---
 Die Fantasy-Welt Roschar der Sturmlicht Chroniken von Brandon Sanderson gestaltet sich so komplex, dass die Nebenschauplätze genauso spannend sind, wie der Zyklus selbst. Darum widmet Brandon Sanderson mit »Edgedancer« – in einem für seine Verhältnisse kleinen Buch – seine Aufmerksamkeit der quirligen, faszinierenden und witzigen Lift.

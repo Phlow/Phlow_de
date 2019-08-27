@@ -14,6 +14,17 @@ redirect 301 /impressum https://phlow.de/impressum.php
 redirect 301 /impressum.html https://phlow.de/impressum.php
 
 #
+# Redirects WordPress Buch // 2019-07-02
+#
+
+redirect 301 /wordpress-installation https://phlow.de/tv/installation-wordpress/
+redirect 301 /ftp https://phlow.de/tv/filezilla/
+redirect 301 /das-wordpressbuch https://phlow.de/magazin/wordpress/wordpress-buch/
+redirect 301 /wordpress https://phlow.de/magazin/wordpress/
+
+
+
+#
 # Redirects terminal // 2019-04-16
 #
 redirect 301 /terminal/ https://phlow.de/magazin/terminal/

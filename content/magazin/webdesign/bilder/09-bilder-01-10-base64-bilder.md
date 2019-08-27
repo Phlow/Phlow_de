@@ -3,6 +3,10 @@ title           : 'Base64-Bilder: Konvertieren und Einbauen'
 subtitle        :  Bilder in HTML & CSS speichern
 categories      : bilder
 weight          : 0910
+image:
+  header                  : /images/webdesign/jpg-bildformat_21_9.jpg
+  caption                 : Foto von Alexandru Zdrobău
+  url                     : https://instagram.com/alexandru_zdrobau
 slug            : base64-bilder
 ---
 Bilder im Base64-Format bestehen aus einer Zeichenfolge im [ASCII](https://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange)-Format. Dadurch kannst Du Base64-enkodierte Bilder direkt in HTML-Dokumente und CSS-Dateien einbauen – z.B. um sie als Kachel für Hintergründe zu nutzen. Der Vorteil bei dieser Bilddatei-Variante: eine externe Bilddatei muss der Browser nicht laden. Sie ist sofort »da«.

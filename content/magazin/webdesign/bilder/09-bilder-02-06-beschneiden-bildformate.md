@@ -3,6 +3,10 @@ subtitle        : Bildproportionen bzw. Seitenverhältnisse
 title           : Bilder zurechtschneiden
 categories      : bilder
 weight          : 0926
+image:
+  header                  : /images/webdesign/jpg-bildformat_21_9.jpg
+  caption                 : Foto von Alexandru Zdrobău
+  url                     : https://instagram.com/alexandru_zdrobau
 slug            : bildformate
 ---
 Mit drei einfachen Tatsachen optimierst Du jedes Bild: Erstens mit einem harmonischen Seitenverhältnis, der Beachtung der Drittelregel und der abschließenden Tonwertkorrekur.

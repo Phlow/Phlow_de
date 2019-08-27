@@ -23,4 +23,7 @@ Die folgenden drei Möglichkeiten stammen aus dem großartigen Beitrag [»Facebo
 * Facebook erhält Einblick in die Transaktionsgewohnheiten und -bilanzen der einzelnen Personen. Das trägt dazu bei, robustere Werbeprofile zu erstellen, die eigene Werbung effektiver zu gestalten, was wiederum zu mehr Umsatz im Werbegeschäft für Facebook sorgt.
 * Facebook Libra könnte völlig neue »Branchen« auf Facebook schaffen. Wenn Menschen Peer-to-Peer-Zahlungen senden können, könnten sie damit beginnen, Influencer mit einem »Trinkgeld« zu belohnen.
 
-Auch lesenswert dazu, der Wired.com Artikel [»The Ambitious Plan Behind Facebook’s Cryptocurrency, Libra«](https://www.wired.com/story/ambitious-plan-behind-facebooks-cryptocurrency-libra/).
+Auch lesenswert dazu,…
+
+* [Libra: Bundesbank-Vorstand fordert "globale Antwort" auf Facebook-Währung](https://www.heise.de/newsticker/meldung/Libra-Bundesbank-Vorstand-fordert-globale-Antwort-auf-Facebook-Waehrung-4454133.html)
+* Wired.com Artikel [»The Ambitious Plan Behind Facebook’s Cryptocurrency, Libra«](https://www.wired.com/story/ambitious-plan-behind-facebooks-cryptocurrency-libra/).

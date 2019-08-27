@@ -3,6 +3,10 @@ title                 : Das PNG-Bildformat
 subtitle              : König der Halbtransparenzen
 categories            : bilder
 weight: 0903
+image:
+  header                  : /images/webdesign/jpg-bildformat_21_9.jpg
+  caption                 : Foto von Alexandru Zdrobău
+  url                     : https://instagram.com/alexandru_zdrobau
 slug            : png
 ---
 Das PNG-Bildformat erlaubt scharfe Bilder bei hoher Dateigröße, denn es entstehen keine Bildartefakte. Herausragendes Merkmal ist jedoch die Möglichkeit transparente oder halbtransparente Farben zu nutzen.
