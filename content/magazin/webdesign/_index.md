@@ -17,4 +17,6 @@ Wie baut man Webseiten? Welche Software brauche ich? Was ist wichtig beim Webdes
 {{< list-cat category="special" heading="Webdesign Specials" >}}
 {{< list-cat category="hugo" heading="Hugo – Static Website Generator" >}}
 {{< list-cat category="anhang" heading="Anhang/Sonstiges Webdesign" >}}
+{{< list-cat category="buchkritik" heading="Webdesign Bücher" >}}
+{{< list-cat category="code" heading="Code: Webdesign Bausteine" >}}
 </ul>

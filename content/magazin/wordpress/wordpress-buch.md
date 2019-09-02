@@ -4,7 +4,7 @@ title               : Das WordPress 5 Buch
 meta_description    : "»Das WordPress-Buch« erklärt verständlich, Schritt für Schritt den Umgang mit WordPress. Diese Seite sammelt neue Videos, Reaktionen und Material zum Buch."
 categories          : wordpress
 image:
-    header          : /images/webdesign/wordpress-buch.jpg
+    header          : /images/webdesign/hd-das-wordpress-5-buch-2398x1795-org.jpg
     pattern         : /images/webdesign/pattern/pattern_brushedmetal.jpg
 slug                : /wordpress-buch/
 ---
@@ -13,7 +13,7 @@ Links, Videos und Reaktionen zum *»Das WordPress 5-Buch«* von Moritz »mo.« S
 
 Lust, eine eigene Website zu entwickeln, aber am liebsten, ohne tief in die dahinterliegende Technik einzusteigen? Dann kann's jetzt losgehen!
 
-{{< amp/img src="/images//webdesign/cover-das-wordpress-buch-3-auflage-500x374.jpg" alt="" width="500" height="374" >}}
+{{< amp/img src="/images/cover-das-wordpress-5-buch-600x449.jpg" alt="" width="600" height="449" >}}
 
 WordPress ist das meist genutzte Redaktionssystem, das hinter Millionen von Websites und Blogs steht. Sowohl bei Einsteigern als auch Profis beliebt, unterstützt Sie WordPress ihren individuellen Webauftritt umsetzen.
 
@@ -26,7 +26,7 @@ Das WordPress-Buch richtet sich nicht an Admins, sondern Nutzer, die es kennenle
     ISBN-10: 3960090366  
     ISBN-13: 978-3960090366  
 
-<a href="http://amzn.to/2in5gON" class="button success">Bei Amazon kaufen »</a>
+<a href="https://amzn.to/2U8OsvS" class="button success">Bei Amazon kaufen »</a>
 
 ## Videos zum Das WordPress 5-Buch
 

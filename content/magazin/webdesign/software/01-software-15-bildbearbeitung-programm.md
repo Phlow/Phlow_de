@@ -1,9 +1,9 @@
 ---
-title                 : 'Programme für die Bildbearbeitung'
-subtitle              : Software
-categories            : software
+title               : 'Programme für die Bildbearbeitung'
+subtitle            : Software
+categories          : software
 weight: 4
-slug            : bildbearbeitung-programm
+slug                : bildbearbeitung-programm
 ---
 Bildbearbeitung gehört zur täglichen Arbeit eines Webdesigners. Sei es die Optimierung der Bilder für eine schnellere Datenübertragung oder das fixe zurechtschneiden eines Fotos, Du brauchst die richtige Software. Aber auch hier musst Du nicht tief in die Tasche greifen.
 <!-- readmore -->

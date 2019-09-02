@@ -1,5 +1,5 @@
 ---
-section: pages
+section             : pages
 layout              : pages/splash
 title               : 'Phlow'
 meta_title          : 'Phlow – Social Media, digital Marketing & SEO Seminare (Köln/Umgebung)'

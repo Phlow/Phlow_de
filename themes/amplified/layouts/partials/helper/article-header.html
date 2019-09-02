@@ -33,8 +33,8 @@
   {{ end }}
 
 
-  <h1>{{ if .Page.Params.Subtitle }}
-    <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
+  <h1 class="mt2">{{ if .Page.Params.Subtitle }}
+    <span class="subtitle sans caps mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
     {{ .Title | htmlUnescape}}
   </h1>
 </header>

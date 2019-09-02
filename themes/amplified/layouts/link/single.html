@@ -8,12 +8,17 @@
 
       {{ partial "helper/article-header.html" . }}
       {{ partial "helper/summary-content.html" . }}
-      {{ partial "helper/nextprev.html" . }}
+
+      <a class="button warning" href="{{ .Page.Params.download_link }}" target="_blank">{{ if .Page.Params.download_link_text }}{{ .Page.Params.download_link_text }}{{ else }}Download ›{{ end }}</a>
 
       </article><!-- /clearfix -->
+
     </div><!-- /max-width-2 -->
   </div><!-- /padding -->
-  
-      {{ partial "advertisment/wordpress-buch.html" . }}
+
+
+  {{ partial "advertisment/wordpress-buch.html" . }}
+
+
 </div><!-- /wrapper -->
 {{ end }}
