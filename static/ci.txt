@@ -1,0 +1,10 @@
+## Images
+
+image:
+  header            : images/
+  header_width      : 996
+  header_height     : 378
+  caption           : Gulp Beispiel Prozess
+
+## Alerts
+

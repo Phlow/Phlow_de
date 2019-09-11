@@ -120,4 +120,3 @@ Die folgenden Themes nutzt Automattic, die Firma hinter WordPress, für die eige
 * [Book Lite](http://theme.wordpress.com/themes/book-lite/)
 * [Pinboard](http://www.onedesigns.com/wordpress-themes/pinboard)
 * [Origin](http://wordpress.org/themes/origin)
-

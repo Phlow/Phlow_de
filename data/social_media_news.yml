@@ -4,12 +4,29 @@
 #  network     : 
 #  date        : 
 
+- title       : 'Zyklus-Apps senden sensible Daten an Facebook'
+  url         : https://www.heise.de/newsticker/meldung/Zyklus-Apps-sendet-sensible-Daten-an-Facebook-4518705.html
+  description : 'Apps, mit denen viele Frauen ihren Zyklus kontrollieren, haben Daten an Facebook gesendet – etwa, wann die Nutzerinnen zuletzt Sex hatten.'
+  network     : facebook
+  date        : 2019-09-04
+
+- title       : 'Facebook now Boomerbook as British oldies outnumber teens'
+  url         : https://www.theregister.co.uk/2019/09/04/facebook_now_boomerbook_as_oldies_outnumber_uk_teens/
+  description : 'Analysen von Mulley Communications haben gezeigt, dass britische Jugendliche in diesem Jahr aus dem unsozialen Netzwerk fliehen. Im Januar blätterten 2,7 Millionen 13- bis 19-Jährige ohne Verstand in ihren Newsfeeds. Bis September sank diese Zahl auf 2,1 Millionen.'
+  network     : studien
+  date        : 2019-09-04
+
+- title       : 'Studie: Soziale Medien könnten die Gesundheit schädigen'
+  url         : https://www.heise.de/newsticker/meldung/Studie-Soziale-Medien-koennten-die-Gesundheit-schaedigen-4496220.html
+  description : 'Lange Social-Media-Aktivitäten führen bei Jugendlichen laut einer Analyse potenziell vor allem zu weniger Schlaf und Bewegung sowie mehr Mobbingerfahrungen.'
+  network     : studien
+  date        : 2019-08-14
+
 - title       : 'How To Reduce Social Media'
   url         : https://medium.com/comatter/how-to-reduce-social-media-3c56bfea34c7
   description : '12 kreative Wege zur Reduzierung des Social Media Konsums'
   network     : studien
   date        : 2019-06-12
-
 
 - title       : 'Instagram löst Facebook bei jungen Leuten als wichtigste Nachrichtenquelle ab'
   url         : https://www.heise.de/newsticker/meldung/Instagram-loest-Facebook-bei-jungen-Leuten-als-wichtigste-Nachrichtenquelle-ab-4444531.html

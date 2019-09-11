@@ -8,7 +8,6 @@ meta_title          : 'Phlow – Social Media, digital Marketing & SEO Seminare 
 
 <div class="center"><a class="button success" href="{{< ref "kontakt.md" >}}">Kontaktieren Sie uns ›</a></div>
 
-
 [1]: {{< ref "info.md" >}}
 [2]: {{< ref "seminare/_index.md" >}}
 [3]: http://moritz.sauer.io/buecher/
