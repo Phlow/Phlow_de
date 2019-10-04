@@ -10,5 +10,5 @@ image:
 breadcrumb          : false
 url                 : /link/cc-aachen/
 ---
-Die Folien sind nur für den privaten Gebrauch und dürfen nicht in soziale Netzwerke oder Plattformen oder per Email hochgeladen und verteilt werden.
+Die Folien sind nur für den privaten Gebrauch und dürfen nicht in soziale Netzwerke oder Plattformen oder per Email hochgeladen und verteilt werden. Mit dem Download stimmen Sie den Bedingungen zu.
 <!-- readmore -->
