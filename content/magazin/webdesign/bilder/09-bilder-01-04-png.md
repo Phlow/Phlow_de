@@ -10,7 +10,7 @@ image:
 slug            : png
 ---
 Das PNG-Bildformat erlaubt scharfe Bilder bei hoher Dateigröße, denn es entstehen keine Bildartefakte. Herausragendes Merkmal ist jedoch die Möglichkeit transparente oder halbtransparente Farben zu nutzen.
-<!-- readmore -->
+<!--more-->
 
 Die (halb)transparenten Farben lassen dann Bildinformationen hinter dem Bild durchscheinen. So erzeugst Du sanfte Übergänge, wenn Du z.B. ein Logo auf ein Hintergrundbild legst. Der Besucher sieht dann nicht, dass es sich eigentlich um zwei Bilder handelt.
 

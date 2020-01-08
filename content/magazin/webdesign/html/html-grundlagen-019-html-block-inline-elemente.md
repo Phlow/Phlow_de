@@ -7,7 +7,7 @@ categories          : css-grundlagen
 slug                : block-inline-elemente
 ---
 HTML-Block-Elemente und HTML-Inline-Elemente bilden die Grundlage einer Webseite. Den Unterschied und die Funktionsweise erklären wir im Folgenden.
-<!-- readmore -->
+<!--more-->
 
 ## Blockelemente
 

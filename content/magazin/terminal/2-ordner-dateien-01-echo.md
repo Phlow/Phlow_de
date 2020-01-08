@@ -11,7 +11,7 @@ Mit `echo` gibt man in der Bash Informationen aus. Der `echo`-Befehl ist
 eigentlich simpel. Komplizierter wird es mit Umbrüchen, Farben und
 Steuerzeichen. An dieser Stelle erkläre ich Dir ausführlich, wie `echo`
 richtig funktioniert.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

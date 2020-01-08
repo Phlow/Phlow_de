@@ -9,7 +9,7 @@ comments            : true
 category            : linux
 ---
 Die Installation von Schriften bei [Linux]({{ '/linux' | absolute_url }}) ist wunderbar unkompliziert. Ein paar Befehle in das Terminal kopiert und schon stehen die Standardschriften von Microsoft und sämtliche Google Fonts zur Verfügung. Eine Kurzanleitung für die schnelle Installation von ca. 900 professionellen Schriften.
-<!-- readmore -->
+<!--more-->
 
 Bei der Installation von Schriften spielt das Terminal seine Mächtigkeit aus: Es lädt Schriften herunter, entpackt die Archive und verschiebt die Schriften an die richtige Stelle. Das nenne ich Komfort.
 

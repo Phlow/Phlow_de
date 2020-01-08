@@ -10,7 +10,7 @@ image:
 slug            : bildformate
 ---
 Mit drei einfachen Tatsachen optimierst Du jedes Bild: Erstens mit einem harmonischen Seitenverhältnis, der Beachtung der Drittelregel und der abschließenden Tonwertkorrekur.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

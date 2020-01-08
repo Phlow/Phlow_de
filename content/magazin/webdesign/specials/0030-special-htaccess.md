@@ -9,7 +9,7 @@ image:
 slug            : htaccess
 ---
 Hypertext Access, häufig abgekürzt als *.htaccess*, ist eine Konfigurationsdatei mit mächtigen Funktionen. Über eine *.htaccess* steuerst Du das Verhalten eines Servers – z.B. was passieren soll, wenn der Server eine aufgerufene Internetseite nicht findet oder Du kannst eine Website mit einer Passwortabfrage schützen.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

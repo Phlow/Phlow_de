@@ -13,7 +13,7 @@ Es gibt zahlreiche Zahlen zur Internetnutzung. Viele Untersuchungen
 veröffentlichen Telekommunikationskonzerne, Technologiekonzerne oder
 Interessensgemeinschaften, wie z.B. die Bitkom (deutsche
 Internetwirtschaft). Unabhängigere Studien sind die folgenden drei.
-<!-- readmore -->
+<!--more-->
 
 > *Glaube keine Statistik, die Du nicht selbst gefälscht hast.*
 

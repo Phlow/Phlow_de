@@ -10,7 +10,7 @@ image:
 slug            : img-tag
 ---
 Mit &lt;img&gt; baust Du JPG-, PNG- oder z.B. GIF-Bilder in ein HTML-Dokument ein. &lt;img&gt; ist ein sogenanntes Standalone-Tag ohne Elementinhalt und ohne End-Tag.
-<!-- readmore -->
+<!--more-->
 
 Damit der Browser ein Bild in eine Webseite einbaut, musst Du dem Browser mitteilen, unter welcher Adresse er das Bild findet. Das geschieht mit dem Attribut `src`, für *Source* also Quelle.
 

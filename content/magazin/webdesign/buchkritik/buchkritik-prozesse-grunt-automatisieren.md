@@ -10,7 +10,7 @@ image:
     title_height    : 1200
 ---
 Der Einstieg in den Javascript-Taskrunner Grunt gestaltet sich ein wenig holprig, da die Dokumentation des Werkzeuges nicht ganz so strukturiert daherkommt. Das erledigt das 70-seitige Expressbuch <em>»Automate with Grunt: The Build Tool for JavaScript«</em> eleganter. Anhand von nachvollziehbaren Beispielen gelingt der Einstieg viel einfacher und strukturierter.
-<!-- readmore -->
+<!--more-->
 
 Über Grunt habe ich bereits berichtet. Mit Grunt automatisiert man sich wiederholende Aufgaben bei der [Webentwicklung]({{< ref "/magazin/webdesign/_index.md" >}}). Grunt ist ein JavaScript-basierter Taskrunner und hilft unter anderem bei der Code-Minifizierung, Code-Kontrolle, Kompilierung, Unit Testing und so weiter.
 

@@ -7,7 +7,7 @@ slug                : internet-strategie
 weight              : 80
 ---
 Die zentrale Frage Ihrer Internetstrategie sollte lauten: _»Welches Ziel verfolgen wir mit unserer Website?«_.
-<!-- readmore -->
+<!--more-->
 
 ## Die Zielgruppe erreichen
 

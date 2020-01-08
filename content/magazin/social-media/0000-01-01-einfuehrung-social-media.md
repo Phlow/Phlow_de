@@ -11,7 +11,7 @@ Dieser Leitfaden erklärt, wie Sie erfolgreich Social Media-Kanäle
 nutzen. Zahlreiche Beispiele und Fakten stellen die verschiedenen
 wichtigsten Netzwerke wie z.B. Facebook, YouTube, Instagram, Snapchat
 oder Twitter und seine Nutzer vor.
-<!-- readmore -->
+<!--more-->
 
 Zu jedem Netzwerk beantwortet dieser Leitfaden die folgenden Fragen:
 

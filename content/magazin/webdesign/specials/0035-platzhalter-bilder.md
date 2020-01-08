@@ -6,7 +6,7 @@ categories      : special
 slug            : platzhalter-bilder
 ---
 Was wäre das Netz ohne Katzenbilder? Ein trister Ort. Mit Placekitten.com nimmt Mark James einerseits das Phänomen humorvoll auf die Schüppe, bietet andererseits aber einen eleganten Service für Webdesigner für Platzhalterbilder.
-<!-- readmore -->
+<!--more-->
 
 {{< amp/img src="http://placekitten.com/800/800?image=18" alt="Katzenalarm" width="100" height="100" >}}
 

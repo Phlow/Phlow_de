@@ -1,5 +1,5 @@
 ---
-layout            : page-workshop
+layout            : single_seminare
 subtitle          : 'Soziale Medien effektiv für das Marketing nutzen'
 title             : 'Leitfaden Social Media'
 #
@@ -17,7 +17,7 @@ image:
   header          : images/social-media-seminar-workshop.jpg
 date: "2019-03-06"
 ---
-Wussten Sie, dass mehr Deutsche Instagram oder Snapchat als Twitter nutzen? Kennen Sie Pinterest, WordPress oder Tumblr? Was ist Snapchat eigentlich? In diesem Seminar lernen Sie die aktuellen relevanten sozialen Netzwerke kennen und erfahren, welche sich für Ihre Öffentlichkeitsarbeit lohnen. Sie lernen wie Sie Facebook aktiv nutzen können und wie Sie das allgegenwärtige YouTube als effektiven Kommunikationskanal einsetzen können.<!-- readmore -->
+Wussten Sie, dass mehr Deutsche Instagram oder Snapchat als Twitter nutzen? Kennen Sie Pinterest, WordPress oder Tumblr? Was ist Snapchat eigentlich? In diesem Seminar lernen Sie die aktuellen relevanten sozialen Netzwerke kennen und erfahren, welche sich für Ihre Öffentlichkeitsarbeit lohnen. Sie lernen wie Sie Facebook aktiv nutzen können und wie Sie das allgegenwärtige YouTube als effektiven Kommunikationskanal einsetzen können.<!--more-->
 
 Die eigene Website ist für Unternehmen, Städte und Gemeinden eine gute und wichtige Visitenkarte sowie Anlaufplattform für den Abruf von Informationen. Trotzdem findet die öffentliche Kommunikation und der Austausch von Medieninhalten immer häufiger in den verschiedenen sozialen Netzwerken statt. Mehr als 60% dieser Kommunikation läuft inzwischen über mobile Geräte.
 

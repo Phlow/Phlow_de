@@ -11,7 +11,7 @@ breadcrumb          : false
 url                 : /link/vsb-instagram/
 ---
 Die Folien sind nur für den privaten Gebrauch und dürfen nicht in soziale Netzwerke oder Plattformen oder per Email hochgeladen und verteilt werden. Mit dem Download stimmen Sie den Bedingungen zu.
-<!-- readmore -->
+<!--more-->
 
 {{< info >}}
 Aktuelle Nachrichten liest Du im Phlow Magazin im Social Media-Bereich. Dort findest Du auch Studien, Beispiele und weiterführende Informationen.

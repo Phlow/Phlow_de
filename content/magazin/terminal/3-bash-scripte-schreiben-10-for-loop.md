@@ -9,7 +9,7 @@ slug            : for-loop
 ---
 Mit for loop-Schleifen wiederholst Du im Terminal Befehle und
 konvertierst z.B. mehrere Bild-Dateien in einem Rutsch. Und so geht’s.
-<!-- readmore -->
+<!--more-->
 
 Mit einer `for loop` wiederholst Du Befehle oder Befehlsketten. So
 konvertierst Du z.B. einen ganzen Bilderordner mit einer for

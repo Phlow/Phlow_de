@@ -9,7 +9,7 @@ weight              : 50
 Das deutsche Urheberrecht ist kompliziert. Jedoch genügen vier Regeln,
 im Umgang mit Bild- und Fotomaterial, um Abmahnungen und unnötigen
 Kosten vorzubeugen.
-<!-- readmore -->
+<!--more-->
 
 1.  Lade kein Bild in ein soziales Netzwerk wie Facebook, Instagram,
     Twitter, Dein Weblog und ähnliche hoch, wenn Du es nicht selbst

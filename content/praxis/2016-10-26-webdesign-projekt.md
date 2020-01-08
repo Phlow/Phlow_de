@@ -29,7 +29,7 @@ slideshow:
   - image_url : /images/praxis/ari-glamslam-20-2400x1350.jpg
 ---
 Unser Webdesign-Paket eignet sich hervorragend für die Phlow-Webdesign-Übungen. Sämtliche Inhalte des Downloads, kannst Du frei und ohne Sorgen verwenden.
-<!-- readmore -->
+<!--more-->
 
 <a class="button" href="https://phlow.github.io/static/phlow_praxis_webdesign_paket.zip">ZIP-Download</a>
 

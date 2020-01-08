@@ -9,7 +9,7 @@ image:
 slug              : listen
 ---
 Es gibt drei Arten Inhalte in Form von Listen in HTML darzustellen: ungeordnete Listen mit `ul`, geordnete Listen mit `ol` und Definitionslisten mit `dl`.
-<!-- readmore -->
+<!--more-->
 
 Persönlich finde ich den Titel ungeordnete Liste etwas irreführend, denn auch wenn es sich um eine Liste mit Punkten handelt anstelle von Zahlen, sortiert man in der Regel vorher die jeweiligen Punkte.
 

@@ -6,7 +6,7 @@ categories          : html-grundlagen
 slug                : html-css-kommentare
 ---
 HTML- und CSS-Kommentare helfen bei der Dokumentation des eigenen Quell-Codes. Außerdem dienen sie Dir zur Orientierung und Strukturierung Deines Codes.
-<!-- readmore -->
+<!--more-->
 
 Zu den großen Tugenden eines Webdesigners gehört, dass Du Deinen Quell-Code kommentierst und dokumentierst. Das hilft beim Lesen des Quell-Code und die Dokumentation hilft Dir bei Projekten auf die Sprünge, die Du eine Weile nicht angepackt hast.
 

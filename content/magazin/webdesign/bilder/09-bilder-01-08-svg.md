@@ -6,7 +6,7 @@ weight                : 0905
 slug            : svg
 ---
 SVG-Bilder sind Vektorgrafiken. Im Gegensatz zu anderen Bildformaten, werden nicht Pixel, sondern Pfade abgespeichert. SVG-Bilder kannst Du animieren, über HTML/CSS manipulieren und werden die Grafiken vergrößert, bleiben die Ränder  immer scharf.
-<!-- readmore -->
+<!--more-->
 
 Die Dateiendung ist .svg steht für *Scalable Vector Graphics*, was man mit *skalierbare Vektorgrafik* übersetzen könnte. Das bedeutet, dass SVG-Grafikdateien ohne Probleme in ihrer Größe vergrößert oder verkleinert – als skaliert – werden können, ohne dass die Grafiken an den Rändern unscharf werden. Die Dateigröße bleibt bei richtigem Einsatz moderat und SVG-Bilder sehen auf Retina-Bildschirmen hervorragend aus. Außerdem eignen sich SVG-Grafiken für Interaktivität und können mit Filtern manipuliert werden.
 

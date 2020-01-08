@@ -15,7 +15,7 @@ Bash-Datei kann über Abfragen mit dem Nutzer interagieren, um z.B.
 Variablen entgegenzunehmen oder Entscheidungen über eine
 Ja-Oder-Nein-Abfrage abzurufen. Dank der Interaktion können Skripte
 somit mehreren Zwecken dienen.
-<!-- readmore -->
+<!--more-->
 
 # Shell? Shell-Skript? Bash-Skript?
 

@@ -7,7 +7,7 @@ categories          : seo-anleitung
 url                 : /magazin/suchmaschinenoptimierung/
 ---
 Dieser Leitfaden für die Suchmaschinenoptimierung – auch SEO genannt – erklärt verständlich wie Sie Ihre Website für Suchmaschinen optimieren.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

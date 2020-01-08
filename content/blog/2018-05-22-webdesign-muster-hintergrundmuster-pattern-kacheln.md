@@ -11,7 +11,7 @@ tags:
   - texturen
 ---
 Ob für Websites oder eigene Präsentationen, Hintergrundmuster kann man immer gebrauchen. Am edesten wirken unaufdringliche Muster und Texturen. Eine Auswahl an kostenlosen Quellen für Muster und Kacheln.
-<!-- readmore -->
+<!--more-->
 
 Die Website [Subtle Patterns](http://subtlepatterns.com/) bietet hochprofessionelle und verschiedenartige Texturen und Muster. Sämtliche Muster und Texturen funktionieren als Kacheln und lassen sich einfach einfärben, um Sie einer Website anzupassen. Sämtliche Muster darf man auch für kommerzielle Projekte nutzen. Die einzige Bedingung ist eine Namensnennung. Mehr [Informationen zur Verwendung](http://subtlepatterns.com/about/) der Subtle Patter-Muster lesen Sie auf der Website.
 

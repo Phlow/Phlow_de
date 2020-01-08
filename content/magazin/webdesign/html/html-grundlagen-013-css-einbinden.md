@@ -9,7 +9,7 @@ categories  : css-grundlagen
 slug              : css-einbinden
 ---
 Mit CSS (Cascading Stylesheets) gestaltest Du HTML-Webseiten. Wie Du CSS in HTML-Webseiten nutzt, um Text, Layout und Elemente zu gestalten, zeigt das Video.
-<!-- readmore -->
+<!--more-->
 
 CSS steht für *Cascading Style Sheets* und ist eine Formatierungssprache für HTML- und XML-Dokumente. Mit CSS erstellst Du Gestaltungsanweisungen für HTML-Seiten, wie z.B. Farben, Schriftart oder Höhe und Breite von HTML-Elementen. Mit den CSS-Angaben überschreibst Du die vom Browser vorgegebenen Formatierungen.
 

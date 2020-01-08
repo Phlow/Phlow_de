@@ -11,7 +11,7 @@ tags:
   - typografie
   - zeichen
 ---
-Mit ihrem Buch über Schrift bieten die Typografie-Experten Stephanie und Ralf de Jong eine ausführliche Einführung in das große Thema der Textschriften. Sein Potential entfaltet &#8220;Schriftwechsel&#8221; als Hilfestellung und Orientierungspunkt, um im unendlichen Dschungel der Textschriften eine professionelle und passende Schrift zu finden. Ob man einen passenden Font für die nächste Broschüre sucht, eine Schrift für die eigene Corporate Identity oder für sein nächstes Buch, &#8220;Schriftwechsel&#8221; ist ein hervorragender Startpunkt. Kein Wunder also, dass das Buch nicht mehr im Regal bei Buchhandlung König steht.<!-- readmore -->
+Mit ihrem Buch über Schrift bieten die Typografie-Experten Stephanie und Ralf de Jong eine ausführliche Einführung in das große Thema der Textschriften. Sein Potential entfaltet &#8220;Schriftwechsel&#8221; als Hilfestellung und Orientierungspunkt, um im unendlichen Dschungel der Textschriften eine professionelle und passende Schrift zu finden. Ob man einen passenden Font für die nächste Broschüre sucht, eine Schrift für die eigene Corporate Identity oder für sein nächstes Buch, &#8220;Schriftwechsel&#8221; ist ein hervorragender Startpunkt. Kein Wunder also, dass das Buch nicht mehr im Regal bei Buchhandlung König steht.<!--more-->
 
 <img src="{{ '/images/schriftwechsel-cover.jpg' | absolute_url }}">
 

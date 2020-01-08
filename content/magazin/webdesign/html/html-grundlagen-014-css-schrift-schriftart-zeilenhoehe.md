@@ -9,7 +9,7 @@ categories        : css-grundlagen
 slug              : schrift-schriftart-zeilenhoehe
 ---
 Mit `font-family` bestimmst Du die Schriftart für HTML-Elemente. Wie der CSS-Befehl funktioniert und worauf Du achten solltest, erklärt das Video.
-<!-- readmore -->
+<!--more-->
 
 > Der Eigenschaft `font-family` solltest Du mehrere Font-Namen als "Fallback"-Lösung übergeben, damit Du die maximale Kompatibilität zwischen den Browsern/Betriebssystemen gewährleisten kannst. Wenn der Browser die erste Schriftart nicht unterstützt, versucht er es einfach mit der nächsten Schriftart.
 

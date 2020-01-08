@@ -9,7 +9,7 @@ image:
 url                       : /seminare/programm/
 ---
 Unsere Seminar-Angebote und Trainings richten sich an Anfänger, Fortgeschrittene und Profis. Neben Gruppenseminaren bieten wir auch [individuelle Schulungen]({{ '/individuelle-seminare/' | absolute_url }}) in unseren Räumlichkeiten oder wir kommen zu Ihnen für eine [Inhouse Schulungen]({{ '/individuelle-seminare/' | absolute_url }}). Ob individuelle Schulung oder Inhouse, vorher stimmen wir die Themen mit Ihnen gezielt an und gehen auf Ihre Wünsche direkt ein.
-<!-- readmore -->
+<!--more-->
 
 <div class="clearfix">
 <div class="mt3 sm-col sm-col-6 px2">

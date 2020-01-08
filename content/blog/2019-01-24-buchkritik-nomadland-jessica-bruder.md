@@ -20,7 +20,7 @@ image:
     title_height: 509
 ---
 In »Nomadland« steigen wir mit Jessica Bruder in einen Van und folgen den Spuren der »neuen« Nomaden Amerikas. Es ist eine herzerschütternde Reise.
-<!-- readmore -->
+<!--more-->
 
 {{< dropcap >}}
 Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag [»Meet the CamperForce, Amazon's Nomadic Retiree Army«](https://www.wired.com/story/meet-camperforce-amazons-nomadic-retiree-army/) auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht's?

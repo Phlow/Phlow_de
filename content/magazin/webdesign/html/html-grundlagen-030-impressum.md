@@ -9,7 +9,7 @@ image:
 slug              : impressum
 ---
 Jede Website muss ein Impressum vorweisen. In diesem Video-Tutorial zeige ich Dir, wie Du eine rechtskonforme Impressum-Webseite anlegst.
-<!-- readmore -->
+<!--more-->
 
 ## Ein Impressum ist Pflicht
 

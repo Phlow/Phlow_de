@@ -10,7 +10,7 @@ image:
     title_height    : 640
 ---
 Das Buch »Responsive Typography« richtet sich an Webdesigner, die Schrift so perfekt wie möglich nutzen wollen und bietet dafür Methoden und Techniken.
-<!-- readmore -->
+<!--more-->
 
 Liest man ein Buch über Typografie, ist das Auge höchstwahrscheinlich bereits geschult. Unbewusst inspiziert man den Fluss der Buchstaben, nimmt vorhandene oder abwesende Proportionen wahr und so weiter. Gräbt man sich dann in das Thema Ästhetik des Buches ein – fällt einem leider sofort die schlechte Druckqualität des O’Reilly Buches auf.
 

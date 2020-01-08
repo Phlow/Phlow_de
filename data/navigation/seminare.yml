@@ -1,45 +1,45 @@
 - menu_title    : 'Seminare'
   title         : 'Übersicht über unsere Themen'
-  url           : 'seminare/programm/'
+  url_link      : 'seminare/programm/'
   topbar        : true
   sidebar       : true
   dropdown:
     - menu_title      : 'Wordpress'
       title           : 'wordpress'
-      url             : 'seminare/wordpress-website/'
+      url_link        : 'seminare/wordpress-website/'
       sidebar         : true
       topbar          : true
     - menu_title      : 'Social Media'
       title           : 'social-media'
-      url             : 'seminare/social-media/'
+      url_link        : 'seminare/social-media/'
       sidebar         : true
       topbar          : true
     - menu_title      : 'Suchmaschinenoptimierung'
       title           : 'Gute lesbare Texte bilden die wichtigste Basis einer Website. Dieser Workshop zeigt, wie man Texte für Leser und Suchmaschinen optimal aufbereitet.'
-      url             : 'seminare/seminar-koeln-texte-schreiben-internet/'
+      url_link        : 'seminare/seminar-koeln-texte-schreiben-internet/'
       sidebar         : true
       topbar          : true
     - menu_title      : 'InHouse & Individuelle Seminare'
       title           : 'Maßgeschneiderte Seminare und Workshops für Sie'
-      url             : 'seminare/individuelle-seminare/'
+      url_link        : 'seminare/individuelle-seminare/'
       sidebar         : true
       topbar          : true
 
 - menu_title    : 'Termine'
   title         : 'Unsere aktuellen Seminartermine'
-  url           : 'seminare/termine/'
+  url_link      : 'seminare/termine/'
   topbar        : true
   sidebar       : true
 
 - menu_title    : 'Kontakt'
   title         : 'Sie haben Fragen zu unseren Seminaren? Rufen Sie uns an!'
-  url           : 'seminare/kontakt/'
+  url_link      : 'seminare/kontakt/'
   topbar        : true
   sidebar       : true
 
 - menu_title    : 'Kunden & Info'
   title         : 'Unsere Kunden lieben uns'
-  url           : 'seminare/info/'
+  url_link      : 'seminare/info/'
   topbar        : true
   sidebar       : true
 

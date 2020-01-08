@@ -50,7 +50,7 @@
 .ampstart-dropdown>section>header {
   background-color: $background-color;
   border: 0;
-  color: $text-color
+  color: $text-color;
 }
 
 .ampstart-dropdown>section>header:after {
@@ -85,7 +85,7 @@
 }
 
 .ampstart-image-fullpage-hero {
-  color: $text-color
+  color: $text-color;
 }
 
 .ampstart-fullpage-hero-heading-text,.ampstart-image-fullpage-hero .ampstart-image-credit {
@@ -367,7 +367,7 @@ amp-carousel .ampstart-image-with-caption {
 .ampstart-headerbar {
   background-color: $background-color;
   z-index: 999;
-  box-shadow: 0 0 5px 2px rgba(0,0,0,.1)
+  box-shadow: 0 0 5px 2px rgba(0,0,0,.1);
   color: $text-color;
   padding-right: 1rem
 }

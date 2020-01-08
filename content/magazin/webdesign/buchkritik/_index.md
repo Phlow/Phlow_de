@@ -7,7 +7,7 @@ image:
   header            : images/webdesign/webdesign-lernen-1920x823.jpg
 ---
 Webdesign-Buchkritiken zu verschiedenen Aspekten des Webdesigns
-<!-- readmore -->
+<!--more-->
 
 <ul class="list-reset">
 {{< list-cat category="buchkritik" heading="Buchkritiken" >}}

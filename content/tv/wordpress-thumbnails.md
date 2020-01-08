@@ -16,7 +16,7 @@ date                : 2016-02-18
 permalink: /video/wordpress-thumbnails/
 ---
 Diese Videoanleitung erklärt, wie man mit WordPress selbst den Ausschnitt bestimmt und ein neues Miniaturbild bzw. einen Thumbnail erstellt.
-<!-- readmore -->
+<!--more-->
 
 {{< youtube 8n6j7oqYF7c >}}
 

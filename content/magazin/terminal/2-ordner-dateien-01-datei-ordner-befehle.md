@@ -8,7 +8,7 @@ slug            : datei-ordner-befehle
 Befehle für Dateien und Ordner :description: Dieses Kapitel erklärt Dir
 wichtige Begriffe und Konzepte des Terminals und zeigt Dir, wie Du mit
 Dateien und Ordnern umgehst.
-<!-- readmore -->
+<!--more-->
 
 Um effektiv mit dem Terminal umzugehen, musst Du erst einmal ein paar
 Konzepte verinnerlichen. Damit Du später einfach Programme aufrufen

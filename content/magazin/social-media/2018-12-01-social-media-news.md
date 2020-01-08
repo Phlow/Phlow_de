@@ -12,7 +12,7 @@ Soziale Netzwerke verändern sich konstant. Ob neue Funktionen, sich
 ändernde Nutzerzahlen oder wechselndes Nutzerverhalten… Alles ist im
 konstanten Fluss. An dieser Stelle finden Sie aktuelle Entwicklungen,
 neue Studien und Nachrichten rund um die populären Netzwerke.
-<!-- readmore -->
+<!--more-->
 
 {{< social-media-news >}}
 

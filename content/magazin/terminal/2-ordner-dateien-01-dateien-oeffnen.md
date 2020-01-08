@@ -6,7 +6,7 @@ categories      : "2. Ordner und Dateien"
 slug            : dateien-oeffnen
 ---
 Mit dem Kommando `open` öffnet man Dateien direkt über das Terminal in der dazugehörigen Anwendung. So funktioniert das Kommando:
-<!-- readmore -->
+<!--more-->
 
 Wenn Du eine Datei mit der Standardanwendung öffnen möchtest, die diesem
 Dateityp auf Deinem Mac zugeordnet ist, benutzt Du einfach `open` plus

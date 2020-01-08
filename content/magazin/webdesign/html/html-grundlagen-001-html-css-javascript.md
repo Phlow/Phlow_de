@@ -6,7 +6,7 @@ categories      : html-grundlagen
 slug            : html-css-javascript-erklaert
 ---
 Wenn es um die Darstellung von Inhalten im Internet geht, besteht das Dream-Team aus HTML (Hypertext Markup Language) und CSS (Cascading Style Sheets).
-<!-- readmore -->
+<!--more-->
 
 Jeder Browser kann HTML-Webseiten darstellen, und sämtliche modernen Browser unterstützen die CSS-Layoutdateien. Die Programmiersprache Javascript belebt Websites und erlaubt Änderungen am Webdesign, wie z.B. ein Element, dass man auf dem Bildschirm verschieben oder verändern kann. Dank Javascript wird eine Webseite interaktiv.
 

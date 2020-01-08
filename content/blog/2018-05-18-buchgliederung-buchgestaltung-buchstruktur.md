@@ -9,7 +9,7 @@ tags:
   - struktur
 ---
 Zu einem regulären Buch gehört nicht nur der eigentliche Inhalt (im Englischen body matter), sondern auch Seiten für Impressum , Rechte, Inhalsverzeichnis, Widmung, Index und so weiter… Dieser Artikel untersucht den Aufbau eines Buches.
-<!-- readmore -->
+<!--more-->
 
 Wenn Du ein Buch publizierst, dann empfiehlt sich, dass Buch in allen wichtigen Formaten zu veröffentlichen. Dazu gehören:
 

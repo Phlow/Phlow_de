@@ -9,7 +9,7 @@ weight: 2
 slug            : atom-texteditor
 ---
 Atom ist ein kostenloser und exzellenter Texteditor für Programmierer. Der Editor unterstützt Dich mit zahlreichen Funktionen und Erweiterungen bei der Programmierung. Er funktioniert auf Windows-, Mac- und Linux-Rechnern.
-<!-- readmore -->
+<!--more-->
 
 Hinter dem kostenlosen Open Source-Texteditor [Atom](https://atom.io/) steht die große Firma [GitHub](https://github.com/), die Programmierern eine Plattform für den Austausch und die gemeinsame Arbeit an Software ermöglicht.
 

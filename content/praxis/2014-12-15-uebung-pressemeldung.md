@@ -7,7 +7,7 @@ tags:
   - text
 ---
 Verfasse eine Nachricht für eine Zeitung mit ca. 1.000 Zeichen. Die Nachricht muss folgende Elemente haben…
-<!-- readmore -->
+<!--more-->
 
 ## Aufgabe
 

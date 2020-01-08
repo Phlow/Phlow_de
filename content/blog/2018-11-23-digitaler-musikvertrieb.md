@@ -11,7 +11,7 @@ tags:
   - workshop
 ---
 Alle sollen meine Musik hören! In diesem Beitrag zum *Create Music Workshop*, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes, Amazon & Co verbreitest.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

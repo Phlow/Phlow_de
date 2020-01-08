@@ -16,5 +16,5 @@ image:
     header: /images/terminal/startbild-roboter_shutterstock_119131771.jpg
 ---
 Richtig genutzt, ist das Mac Terminal ein exzellentes und mächtiges Werkzeug für Webdesigner, dass dank Stappelverarbeitung Zeit spart, langweilige Prozesse automatisiert und die eigene Produktivität erhöht.
-<!-- readmore -->
+<!--more-->
 

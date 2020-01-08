@@ -4,7 +4,7 @@ title: 'Bildkompression: Die kostenlose APP JPEGmini komprimiert Bilder ohne sic
 categories:
   - Webdesign
 ---
-<a href="http://www.jpegmini.com/">JPEGmini</a> komprimiert Bilder ohne sichtbare Verluste und spart Anwendern Webspace und beschleunigt Websites durch kürzere Download-Zeiten. Die <a href="http://www.youtube.com/watch?v=ShLLqbASxwk">Videoanleitung stellt JPEGMini</a> und die dazugehörige kostenlose JPEGMini Lite-App vor.<!-- readmore -->
+<a href="http://www.jpegmini.com/">JPEGmini</a> komprimiert Bilder ohne sichtbare Verluste und spart Anwendern Webspace und beschleunigt Websites durch kürzere Download-Zeiten. Die <a href="http://www.youtube.com/watch?v=ShLLqbASxwk">Videoanleitung stellt JPEGMini</a> und die dazugehörige kostenlose JPEGMini Lite-App vor.<!--more-->
 
 {{< youtube ShLLqbASxwk >}}
 

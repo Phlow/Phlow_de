@@ -11,7 +11,7 @@ video: https://www.youtube.com/watch?v=vHlEq_5sFpM
 ---
 Single Page Webdesign sammelt und zeigt alle Informationen auf einer einzigen Webseite, meist ordentlich mit Javascript gepfeffert. Oft toben sich Designer auf solchen Single Page-Webseiten richtig aus. Single Page-Webseiten werden im Netz für Portfolios, Events, kleine Themen, Splash Pages, Promotion- und Produkt-Websites eingesetzt. Eine kleine Einführung.
 
-<!-- readmore -->
+<!--more-->
 
 ## Pro und Contra Single Page Webdesign
 

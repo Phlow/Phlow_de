@@ -11,7 +11,7 @@ beschneiden. In Kombination mit der kostenlosen Software ImageOptim
 erhält man das perfekte Werkzeug, um einen Stapel Bilder
 zurechtzuschneiden und anschließend dann noch ohne Verluste zu
 komprimieren.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

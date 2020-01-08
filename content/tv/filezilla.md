@@ -16,7 +16,7 @@ video               : https://www.youtube.com/watch?v=ystpUgSaPrA
 date                : 2016-02-20
 ---
 Diese Videoanleitung erklärt, wie man mit dem kostenlosen FTP-Programm FileZilla  Dateien auf einen Server hochlädt.
-<!-- readmore -->
+<!--more-->
 
 {{< youtube ystpUgSaPrA >}}
 

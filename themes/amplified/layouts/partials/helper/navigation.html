@@ -12,7 +12,7 @@
 {{ $nav := .Section }}
 {{ range (index .Site.Data.navigation $nav) }}
     {{ if .sidebar }}
-      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm monospace {{ if .class }}{{ .class }}{{ end }}"><a class="caps ampstart-nav-link" href="{{ if in .url "http" }}{{ .url }}{{ else }}{{ $.Site.BaseURL }}{{ .url }}{{ end }}">{{ .menu_title }}</a></li>
+      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm monospace {{ if .class }}{{ .class }}{{ end }}"><a class="caps ampstart-nav-link" href="{{ if in .url_link "http" }}{{ .url_link }}{{ else }}{{ $.Site.BaseURL }}{{ .url_link }}{{ end }}">{{ .menu_title }}</a></li>
 
         {{ if .dropdown }}
           <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ if .class }}{{ .class }}{{ end }}">
@@ -24,7 +24,7 @@
             <ul class="ampstart-dropdown-items list-reset m0 p0">
 
         {{ range .dropdown }}
-          <li class="ampstart-dropdown-item"><a href="{{ if in .url "http" }}{{ .url }}{{ else }}{{ $.Site.BaseURL }}{{ .url }}{{ end }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
+          <li class="ampstart-dropdown-item"><a href="{{ if in .url_link "http" }}{{ .url_link }}{{ else }}{{ $.Site.BaseURL }}{{ .url_link }}{{ end }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
         {{ end }}
 
             </ul>
@@ -62,7 +62,7 @@
 {{ $nav := .Section }}
 {{ range (index .Site.Data.navigation $nav) }}
     {{ if .sidebar }}
-      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold {{ if .class }}{{ .class }}{{ end }}"><a class="ampstart-nav-link" href="{{ if in .url "http" }}{{ .url }}{{ else }}{{ $.Site.BaseURL }}{{ .url }}{{ end }}">{{ .menu_title }}</a></li>
+      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold {{ if .class }}{{ .class }}{{ end }}"><a class="ampstart-nav-link" href="{{ if in .url_link "http" }}{{ .url_link }}{{ else }}{{ $.Site.BaseURL }}{{ .url_link }}{{ end }}">{{ .menu_title }}</a></li>
 
         {{ if .dropdown }}
           <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ if .class }}{{ .class }}{{ end }}">
@@ -74,7 +74,7 @@
             <ul class="ampstart-dropdown-items list-reset m0 p0">
 
         {{ range .dropdown }}
-          <li class="ampstart-dropdown-item"><a href="{{ if in .url "http" }}{{ .url }}{{ else }}{{ $.Site.BaseURL }}{{ .url }}{{ end }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
+          <li class="ampstart-dropdown-item"><a href="{{ if in .url_link "http" }}{{ .url_link }}{{ else }}{{ $.Site.BaseURL }}{{ .url_link }}{{ end }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
         {{ end }}
 
             </ul>

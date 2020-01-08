@@ -10,7 +10,7 @@ slug            : sftp
 Dateien lädt man über das Terminal auf einen Server mit `sftp` hoch.
 Will man ganze Ordner hochladen, muss man einige Dinge beachten, sonst
 gibt man schnell frustriert auf.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

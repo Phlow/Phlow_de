@@ -10,7 +10,7 @@ slug            : eigene-terminal-kommandos
 ---
 Dieses Kapitel erklärt Dir, wie Du eigene Terminal-Kommandos erstellst
 und über Dein eigenes `.bash_profile` zu jeder Zeit aufrufbar machst.
-<!-- readmore -->
+<!--more-->
 
 Stellen wir zuerst sicher, dass Du in Deinem Benutzer-Hauptverzeichnis
 bist:

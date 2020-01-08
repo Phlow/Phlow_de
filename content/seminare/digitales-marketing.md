@@ -1,5 +1,5 @@
 ---
-layout            : page-workshop
+layout            : single_seminare
 title             : "Digitales Marketing"
 subtitle          : "Selbstvermarktung im Internet"
 tags:
@@ -11,7 +11,7 @@ image:
 date: "2019-03-06"
 ---
 Der Workshop zeigt, wie man Suchmaschinen, soziale Medien (Social Media), Blogs, Automatisierung, RSS, Syndizierung und Aggregation sowie Communities für die eigene Selbstvermarktung nutzt.
-<!-- readmore -->
+<!--more-->
 
 Das Internet bietet jedem ein einfaches und preiswertes Promotion-Schaufenster für die Selbstvermarktung. Mit Hilfe von Blogs, Communities und einer eigenen Website präsentiert man sich weltweit.
 

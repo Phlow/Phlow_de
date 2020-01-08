@@ -13,7 +13,7 @@ tags:
   - gesellschaft
 ---
 Instagram ist das Massenmedium der Stunde. Und Influencer sind seine Stars. Es gibt sie in allen Geschmacksrichtungen: Nano-, Micro-, Small-, Medium-, Large-, Mega- oder Celebrity-Influencer. Und die Industrie füttert sie mit Geld. Schließlich öffnen Influencer die Türen zum Publikum. 
-<!-- readmore -->
+<!--more-->
 
 {{< dropcap >}}
 Das schaut gerne zu. Vor allem die jungen beeinflussbaren Menschen, denen per Feed – _haha!_ Futter – beigebracht wird: _Du bist, was Du konsumierst._ Und Influencer, Deine »Freunde«, helfen Dir bei der Auswahl. Dass Influencer Freunde sind, glauben vor allem ihre jugendlichen Jünger.

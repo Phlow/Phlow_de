@@ -15,7 +15,7 @@ und betreuen können. Dazu müssen Sie keine Programmiersprache lernen
 oder sich mit HTML auskennen. Sie können sich ganz auf Ihre Inhalte wie
 Texte, Bilder und Medien konzentrieren – den Rest übernimmt das
 Redaktions-system für Sie.
-<!-- readmore -->
+<!--more-->
 
 ![WordPress Logo](../images/wordpress-logo-128x.png)Ursprünglich für den
 Betrieb eines Blogs entworfen, hat sich WordPress in den letzten Jahren

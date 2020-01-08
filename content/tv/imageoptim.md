@@ -16,7 +16,7 @@ video               : https://www.youtube.com/watch?v=rTZEDv1VDPU
 date                : 2013-09-24
 ---
 Bilddateien wie JPG, PNG und GIF komprimiert man mit der kostenlosen Open Source-Software ImageOptim verlustfrei. Die Videoanleitung erklärt das Programm und wie man es für Bilder anwendet.
-<!-- readmore -->
+<!--more-->
 
 {{< youtube rTZEDv1VDPU >}}
 

@@ -9,7 +9,7 @@ tags                :
     - facebook
 ---
 Facebook strickt an einer eigenen Währung und holt gerade Banken und größere Firmen an Bord. Warum macht Facebook das?!?
-<!-- readmore -->
+<!--more-->
 
 {{< dropcap >}}
 Bisher gibt es 28 Partner, darunter Visa und Mastercard, [Fintech](https://de.wikipedia.org/wiki/Finanztechnologie)-Firmen wie PayPal, Coinbase und Stripe, Venture Capitalists wie Thrive und Andreessen Horowitz, NGOs wie Kiva und Women's World Banking, Telekommunikationsunternehmen wie Vodafone und Softwaredienste wie eBay, Lyft, Uber und Spotify.

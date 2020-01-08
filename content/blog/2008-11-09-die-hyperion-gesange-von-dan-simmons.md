@@ -3,7 +3,7 @@ date                : 2008-11-09
 subtitle            : Science Fiction Buchkritik
 title               : '»Die Hyperion-Gesänge« von Dan Simmons'
 ---
-Die Hyperion-Gesänge&#8221; breiten vor dem Leser eine 1400-seitige Spaceopera aus, die uns in eine Welt mehrere hundert Jahre in der Zukunft der Menschheit entführt. Wie es sich für eine Spaceopera gehört, gibt es einen riesigen Konflikt. Und um den Leser in die schillernde, komplexe und fast ausufernde Welt rund um den Planeten Hyperion zu entführen, bedient sich Dan Simmons eines Kniffes. Anstelle die Welt linear aufzubauen, erzählen in Kurzgeschichten die Hauptprotagonisten ihre eigene Lebensgeschichte.<!-- readmore -->
+Die Hyperion-Gesänge&#8221; breiten vor dem Leser eine 1400-seitige Spaceopera aus, die uns in eine Welt mehrere hundert Jahre in der Zukunft der Menschheit entführt. Wie es sich für eine Spaceopera gehört, gibt es einen riesigen Konflikt. Und um den Leser in die schillernde, komplexe und fast ausufernde Welt rund um den Planeten Hyperion zu entführen, bedient sich Dan Simmons eines Kniffes. Anstelle die Welt linear aufzubauen, erzählen in Kurzgeschichten die Hauptprotagonisten ihre eigene Lebensgeschichte.<!--more-->
 
 Diese Lebensläufe hängen irgendwie mit den derzeitigen Schwierigkeiten und Konflikten zusammen. Während man anfangs fast von der epischen Breite der Geschichte erschlagen wird, fügen sich mit Verlauf des ersten Buches die Puzzleteile langsam zusammen. Eingeführt in das Universum rund um den Planeten Hyperion, widmet sich der zweite Teil dann ausführlich dem Konflikt.
 

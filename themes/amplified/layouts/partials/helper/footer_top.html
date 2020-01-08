@@ -29,7 +29,7 @@
           <p class="h5 mb1 sans">{{ range .Site.Data.services }}{{ with .menu_name }}{{ . }}{{ end }}{{ end }}</p>
           <ul class="list-reset mt0">
           {{ range .Site.Data.services }}
-              {{ if .url }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}
+              {{ if .url_link }}<li><a href="{{ .Permalink }}">{{ .name }}</a></li>{{ end }}
           {{ end }}
           </ul>
         </div>

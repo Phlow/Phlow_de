@@ -10,7 +10,7 @@ slug            : schnellstart
 ---
 So startest Du blitzschnell mit dem (Mac) Terminal durch. Dazu nutzt Du
 am Besten Spotlight und tippst…
-<!-- readmore -->
+<!--more-->
 
 Das Terminal-Programm findet man auf dem Mac unter
 *Programme > Dienstprogramme > Terminal*.

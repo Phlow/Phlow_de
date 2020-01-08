@@ -5,7 +5,7 @@ categories        : seo-anleitung
 slug              : seo-programme-services
 ---
 Mit den Webmaster Tools *Google Search Console* und *Bing Webmaster Tools* stellst Du sicher, dass beide Suchmaschinen Deine Website kennen und indexieren.
-<!-- readmore -->
+<!--more-->
 
 Über die Webmaster-Tools von Google und Bing meldest Du Deine Website an. Einerseits verifizierst Du Dich als Besitzer über eine hochgeladene Datei oder einen Meta-Tag in den HTML-Seiten. Außerdem reichst Du am Besten eine _sitemap.xml_-Datei ein, die den Suchmaschinen eine Liste an URLs übergibt, wo Deine Webseiten zu finden sind.
 

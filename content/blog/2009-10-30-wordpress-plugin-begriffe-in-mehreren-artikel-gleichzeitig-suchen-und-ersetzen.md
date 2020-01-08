@@ -2,7 +2,7 @@
 title: 'WordPress Plugin: Begriffe in mehreren Artikel gleichzeitig suchen und ersetzen'
 category: wordpress
 ---
-**Suchen & Ersetzen WordPress Plugin ** &middot; Mit Hilfe des *Search Regex Plugins* durchsucht man WordPress-Artikel, und  ersetzt Begriffe, Textbausteine und ähnliches in einem Rutsch. Selbst <a href="http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck" target="_blank">reguläre Ausrücke</a> dürfen verwendet werden. Schnell tauscht man Platzhalter veralteter Plugins aus oder löscht sie gleich ganz aus dem Artikel und der Datenbank. Oder man sucht nach Wörtern und ersetzt sie durch einen Link, um die internen Linkstrukturen zu stärken.<!-- readmore -->
+**Suchen & Ersetzen WordPress Plugin ** &middot; Mit Hilfe des *Search Regex Plugins* durchsucht man WordPress-Artikel, und  ersetzt Begriffe, Textbausteine und ähnliches in einem Rutsch. Selbst <a href="http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck" target="_blank">reguläre Ausrücke</a> dürfen verwendet werden. Schnell tauscht man Platzhalter veralteter Plugins aus oder löscht sie gleich ganz aus dem Artikel und der Datenbank. Oder man sucht nach Wörtern und ersetzt sie durch einen Link, um die internen Linkstrukturen zu stärken.<!--more-->
 
 
 In den letzten zwei Jahren kam das PodPress-Plugin auf [Phlow-Magazine.com][1] zum Einsatz. Damit der MP3-Player in einem Artikel aufgerufen wurde, platzierte man die Zeichenfolge **`[<strong>display_podcast</strong>]`**.

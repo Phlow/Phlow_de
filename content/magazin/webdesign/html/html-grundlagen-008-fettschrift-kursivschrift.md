@@ -9,7 +9,7 @@ image:
     title         : /images/webdesign/006-html-fettschrift-kursivschrift-1280x720.jpg
 ---
 Dieses Video-Tutorial stellt Dir die beiden HTML-Befehle für Fettschrift und Kursivschrift vor und wie Du sie am Besten nutzt.
-<!-- readmore -->
+<!--more-->
 
 Fette und kursive Schrift nutzt Du, um bestimmte Zeichen und Wörter innerhalb eines Textes hervorzuheben. Beide Elemente solltest Du spärlich einsetzen. Schließlich funktioniert eine Hervorhebung nur dann, wenn nur wenig hervorgehoben wird und nicht ein ganzer Absatz.
 

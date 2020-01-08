@@ -13,7 +13,7 @@ image:
     credit: Das Leben organisieren und bewältigen mit Remember The Milk
 ---
 Die wichtigste Erkenntnis die mir [Dave Allen][4] mit seinem Buch [Getting Things Done][3] vermittelt hat, ist die Tatsache, dass das menschliche Gehirn nicht dafür ausgelegt ist, Dinge zu behalten. Damit das Gehirn Dinge nicht vergisst, schickt es zu erledigende Dinge in eine Dauerschleife, die immer und immer wieder abgerufen wird. Das vernichtet einerseits unnötig Energie und andererseits erzeugt es mehr Rauschen im Kopf. Und je mehr der Kopf rauscht und dröhnt, desto weniger kreativ und frei kann man denken und arbeiten.
-<!-- readmore -->
+<!--more-->
 
 ## Nutze ToDo-Listen und leere Deinen Kopf
 

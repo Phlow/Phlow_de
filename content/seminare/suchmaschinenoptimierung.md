@@ -1,5 +1,5 @@
 ---
-layout            : page-workshop
+layout            : single_seminare
 subtitle          : "SEO – Inhalte in die Google Top-10 bringen"
 title             : "Suchmaschinenoptimierung"
 tags:
@@ -13,7 +13,7 @@ image:
   header                  : images/workshop-suchmaschinenoptimierung-seo-training-koeln.jpg
 date: "2019-03-06"
 ---
-Suchmaschinen sind häufig das erste Ziel für die Suche nach Wissen und Produkten. Vor allem Google vermittelt Wissen und weist den Weg zu Produkten. Top-Positionen sind bares Geld. Wer nicht oben mitschwimmt, verdient weniger.<!-- readmore -->
+Suchmaschinen sind häufig das erste Ziel für die Suche nach Wissen und Produkten. Vor allem Google vermittelt Wissen und weist den Weg zu Produkten. Top-Positionen sind bares Geld. Wer nicht oben mitschwimmt, verdient weniger.<!--more-->
 
 Der Workshop vermittelt aktuelles Know-How, um sich auf den
 vorderen Positionen in den Suchmaschinen zu behaupten. Neben technischem

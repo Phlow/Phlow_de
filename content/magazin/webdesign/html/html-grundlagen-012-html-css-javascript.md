@@ -7,7 +7,7 @@ categories        : html-grundlagen
 slug              : html-css-javascript
 ---
 Die drei Grundpfeiler moderner Webseiten sind die drei Techniken HTML, CSS und Javascript. Wie sie zusammen funktionieren erklärt das Video.
-<!-- readmore -->
+<!--more-->
 
 Moderne Webseiten setzen sich in der Regel aus drei Komponenten zusammen:
 

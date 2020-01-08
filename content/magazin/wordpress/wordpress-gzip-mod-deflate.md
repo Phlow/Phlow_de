@@ -17,7 +17,7 @@ style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background
 permalink: /wordpress/beschleunigen/
 ---
 Die beiden Module gzip (mod\_gzip) und mod\_deflate beschleunigen WordPress-Websites mittels Kompression enorm. Die Installation ist denkbar einfach.
-<!-- readmore -->
+<!--more-->
 
 ## Was ist gzip?
 

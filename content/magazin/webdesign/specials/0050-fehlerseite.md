@@ -28,7 +28,7 @@ tags:
     - error
 ---
 Findet der Server eine Webseite nicht, entsteht eine Fehlermeldung. Mit dieser Anleitung erstellen Sie 404-Fehlerseiten, um Besucher nicht zu verlieren.
-<!-- readmore -->
+<!--more-->
 
 Die bekannteste Fehlermeldung im Internet ist der 404-Fehler. Denn ein 404 Fehler tritt irgendwann immer einmal auf. Selbst wenn alle Dokumente innerhalb einer Website korrekt verlinkt sind, provoziert nur ein Tippfehler oder ein falsch gesetzter externer Link eine 404-Fehlerseite. Zum Glück lässt sich die Fehlerseite gestalten, um den Besucher auf den richtigen Pfad zu locken. Diese Anleitung zeigt wie.
 

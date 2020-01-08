@@ -7,7 +7,7 @@ image:
 slug            : podcast
 ---
 Die Produktion eines Podcasts ist einfach. Mit diesen Tipps, Tricks und Quellen gelingt Dir die eigene Podcast-Produktion.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

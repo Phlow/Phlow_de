@@ -5,7 +5,7 @@ author: Moritz »mo.« Sauer
 categories:
   - Webdesign
 ---
-Auf <a href="http://html5up.net/">HTML5 UP</a> findet man HTML5-Templates, die man für private und kommerzielle Zwecke nutzen kann. Veröffentlicht und angeboten werden die teilweise richtig edlen Designs unter einer <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons-Lizenz</a>, die alles erlaubt.<!-- readmore -->
+Auf <a href="http://html5up.net/">HTML5 UP</a> findet man HTML5-Templates, die man für private und kommerzielle Zwecke nutzen kann. Veröffentlicht und angeboten werden die teilweise richtig edlen Designs unter einer <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons-Lizenz</a>, die alles erlaubt.<!--more-->
 
 Ob man jetzt die Templates remixed oder kommerziell nutzt, ist dem Designer <a href="http://n33.co/">n33</a>egal. Als Dankeschön erwartet er lediglich die Credits bzw. einen Link zurück auf sein Projekt. Besonders gut gefallen mir die folgenden Vorlagen:
 

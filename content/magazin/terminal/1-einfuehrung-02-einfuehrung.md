@@ -13,7 +13,7 @@ ist die Verwirrung um Begriffe und das komische Kauderwelsch der
 »Experten«. Dabei ist es eigentlich einfach, wenn man ein wenig graue
 Theorie und Begriffe vorher abgklärt. Also leuchten wir doch einmal ins
 Dunkel…
-<!-- readmore -->
+<!--more-->
 
 Also: In der Informatik bezeichnet man als Shell die Software, die den
 Benutzer mit dem Computer verbindet. Die Shell ermöglicht z.B. sich über

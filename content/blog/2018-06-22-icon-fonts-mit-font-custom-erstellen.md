@@ -5,7 +5,7 @@ author: Moritz »mo.« Sauer
 categories:
   - Webdesign
 ---
-Mit der Open Source-Software Font Custom erstellt man sich maßgeschneiderte Icon Fonts, die man für eigene Webdesign-Projekte nutzen kann.<!-- readmore -->
+Mit der Open Source-Software Font Custom erstellt man sich maßgeschneiderte Icon Fonts, die man für eigene Webdesign-Projekte nutzen kann.<!--more-->
 
 Icon Fonts bieten eine großartige Möglichkeit Websites mit vektorbasierten Icons zu verschönern. Da es sich um einen Schriftdatei handelt, kann diese auch mit den üblichen CSS-Eigenschaften wie z.B. _hover_, _text-shadow_, _color_ und ähnlichem gestaltet werden.
 

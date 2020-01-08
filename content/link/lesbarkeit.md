@@ -11,4 +11,4 @@ breadcrumb          : false
 url                 : /link/lesen/
 ---
 Wenn Word die Rechtschreib-und Grammatikprüfung und Fehlerkorrekturen abgeschlossen hat, können Sie festlegen, dass Informationen zur Leseebene des Dokuments angezeigt werden sollen, einschließlich der Werte für die Lesbarkeit entsprechend dem Flesch-Kincaid-Stufentest und Flesch Lese beschleunigungstest.
-<!-- readmore -->
+<!--more-->

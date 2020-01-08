@@ -12,7 +12,7 @@ image:
 slug: /plugins/
 ---
 Mit Plugins erweitert man WordPress um zahlreiche Funktionen. Phlow präsentiert die besten und professionellsten WordPress Plugins mit denen man WordPress ausbaut, pimpt und die Möglichkeiten seines Weblogs auf ein neues Level hebt.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

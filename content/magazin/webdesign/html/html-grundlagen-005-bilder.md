@@ -9,7 +9,7 @@ image:
 slug            : bilder
 ---
 Mit dem HTML-Tag `<img>` baust Du eine Bilddatei wie z.B. eine JPG-Datei in ein HTML-Dokument ein.
-<!-- readmore -->
+<!--more-->
 
 `<img>` ist ein sogenanntes Standalone-Tag ohne Elementinhalt und ohne End-Tag. Du musst es also nicht schließen. Das `<img>`-Tag benötigt zwei Pflichtangaben: die beiden Attribute `src` und `alt`.
 

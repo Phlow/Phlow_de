@@ -6,7 +6,7 @@ categories      : 'Dateien Upload und Download'
 slug            : du
 ---
 Wenn Du wissen willst, wieviel Platz auf einem Webspace ist oder wie groß ein Verzeichnis samt Unterordnern ist, dann hilft Dir `du`.
-<!-- readmore -->
+<!--more-->
 
 `du` steht für _disk usage_, also Speicherplatz.
 

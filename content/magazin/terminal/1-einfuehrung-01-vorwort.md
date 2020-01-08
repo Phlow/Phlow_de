@@ -10,7 +10,7 @@ slug: vorwort
 Terminal-Befehle und Bash-Scripte sparen Dir als Webdesigner viel Zeit
 und Arbeit. Dieser Leitfaden zeigt wie das Terminal Deine Arbeit
 erleichtert.
-<!-- readmore -->
+<!--more-->
 
 »Warum soll ich mich mit dem Terminal überhaupt auseinandersetzen«,
 fragst Du Dich vielleicht. »Das ist doch was für nerdige Admins bzw. nur

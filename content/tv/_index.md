@@ -10,7 +10,7 @@ image:
 iframe              : true
 ---
 Phlow TV produziert unterhaltsame und hilfreiche Video-Tutorials und erklärt verständlich Themen wie [Webdesign][1], [HTML][2], [CSS][3], [WordPress][4], Jekyll und Social Media. Unsere Videos veröffentlichen wir auf YouTube.
-<!-- readmore -->
+<!--more-->
 
 <a href="https://www.youtube.com/c/Phlow" class="button success">Abonniere unseren YouTube-Kanal ›</a>
 

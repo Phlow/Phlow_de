@@ -10,7 +10,7 @@ ersparen kann. So erlaubt die Suche, nicht nur die Suche nach
 Dateienamen, sondern Du kannst auch Inhalte von Dokumenten durchsuchen.
 Das ist z.B. hilfreich, wenn Du in HTML-, Javascript- oder PHP-Dateien
 etwas suchst.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

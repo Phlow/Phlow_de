@@ -7,7 +7,7 @@ tags:
     - buchkritik
 ---
 In seinem Buch »The Attention Merchants« untersucht Tim Woo, wie das Buhlen um unsere Aufmerksamkeit begann und welchen Siedepunkt es heute erreicht hat. Anhand einer präzisen Aufarbeitung der Geschichte der Werbung, des Marketings und seiner verschiedenen Taktiken nimmt Tim Woo uns Leser auf eine außergewöhnliche Reise mit, die kritisch die Durchdringung unseres Lebens durch Werbung und Beeinflussung der Gedanken durchleuchtet.
-<!-- readmore -->
+<!--more-->
 
 Es gibt immer wieder [Fachbücher]({{ '/buchkritik/' | absolute_url }}), die mir die Augen öffnen und einen Aspekt des Lebens genauer beleuchten. Mit seinem Buch [»The Attention Merchants« (Amazon Link)](http://amzn.to/2mIvhuk) seziert [Tim Wu](http://www.timwu.org/about.html) die Geschichte der Werbung und des Marketings. Dabei agiert er wie ein Geschichtenerzähler, der nicht trocken erzählt, sondern die Menschen, ihre Motive und Herkunft in die Entwicklung miteinbezieht.
 

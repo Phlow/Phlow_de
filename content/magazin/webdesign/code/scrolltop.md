@@ -12,7 +12,7 @@ image:
     title_height    : 128
 ---
 Klein aber fein: `scrollTop` überwacht die vertikale Position der Scrollleiste und wenn diese größer als *X* ist (im Beispiel 700 Pixel), blendet das Script den *.scrollup*-Button ein.
-<!-- readmore -->
+<!--more-->
 
 ## HTML-Code
 

@@ -8,7 +8,7 @@ image:
     thumb: wordpress.png
 ---
 Um das perfekte WordPress Theme auszuwählen, lohnt sich ein kritischer Blick. Diese WordPress Theme-Checkliste hilft beim Theme Check."
-<!-- readmore -->
+<!--more-->
 
 ## Wofür setze ich das WordPress-Theme ein?
 

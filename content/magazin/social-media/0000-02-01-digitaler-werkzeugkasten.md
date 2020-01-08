@@ -11,7 +11,7 @@ ein einheitlicher Auftritt gewährleistet sein. Eine [Corporate
 Identity](https://de.wikipedia.org/wiki/Corporate_Identity) hilft dem
 Projekt, dass Besucher und Nutzer es auf sämtlichen Plattformen von
 sozialen Netzwerken bis hin zur Website wiedererkennen.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

@@ -7,7 +7,7 @@ categories          : html-grundlagen
 slug                : html-semantik
 ---
 Semantik ist die Lehre, die die Bedeutung von Inhalten erfasst. Damit Suchmaschinen Deine Inhalte besser erfassen und »verstehen« können, helfen die folgenden HTML-Befehle Deine Webseiten zu strukturieren.
-<!-- readmore -->
+<!--more-->
 
 So kennzeichnest Du z.B. mit `<nav>` einen Bereich für Navigationselemente. Mit `<article>` umklammerst Du den Bereich der Webseite, der Deinen eigentlichen Inhalt beinhaltet, z.B. ein Blog-Beitrag. Im Folgenden lernst Du die wichtigsten semantischen HTML-Befehle kennen.
 

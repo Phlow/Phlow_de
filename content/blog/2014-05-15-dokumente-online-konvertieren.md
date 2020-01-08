@@ -10,7 +10,7 @@ image:
    title: /images/dokumente-konvertieren.png
 ---
 Manchmal möchte man gerne ein PDF in ein Textdokument konvertieren, um den Text des PDFs anderweitig zu nutzen – z.B. bei einem Flyer. Oder man braucht einfach ein anderes Format. Oder man möchte ein Dokument rüber zu Google Drive/Google Docs schieben.
-<!-- readmore -->
+<!--more-->
 
 Die Website [cometdocs][2] löst diese Aufgabe ganz gut. Schön ist, dass man den Service auch ohne Nutzerkonto ausprobieren und nutzen kann. Eine cometdocs-App gibt es auch.
 

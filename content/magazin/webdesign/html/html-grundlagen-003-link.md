@@ -9,7 +9,7 @@ categories     : html-grundlagen
 slug            : link
 ---
 Links (Verweise) machen das Internet zum Internet, indem Du Inhalte – also Webseiten – miteinander direkt verknüpfst. Mit dem HTML-Link-Befehl `<a>` webst Du das Netz.
-<!-- readmore -->
+<!--more-->
 
 Das kleine *a* in `<a>` steht für *anchor*, englisch für Anker. Denn Du kannst nicht nur Links mit `<a>` setzen, sondern innerhalb einer Seite auch Sprungmarken mit dem Linkbefehl verankern. Aber dazu später mehr.
 

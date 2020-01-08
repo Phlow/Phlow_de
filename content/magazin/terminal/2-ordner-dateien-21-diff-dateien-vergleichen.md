@@ -7,7 +7,7 @@ slug            : diff-dateien-vergleichen
 Will man Dateien in einem Ordner samt Unterordner mit einem anderen
 Ordner vergleichen, hilft der Befehl diff. Auch fehlende Bilddateien
 spürt man so auf.
-<!-- readmore -->
+<!--more-->
 
 Wenn die Dateien die gleichen sind, dann gibt es keine Ausgabe.
 

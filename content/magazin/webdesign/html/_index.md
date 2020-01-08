@@ -7,7 +7,7 @@ image:
   header            : images/webdesign/webdesign-lernen-1920x823.jpg
 ---
 Lerne Schritt für Schritt HTML5 und CSS, um eigene Websites zu gestalten. Unsere Anleitungen und Videos helfen Dir dabei.
-<!-- readmore -->
+<!--more-->
 
 <ul class="list-reset">
 {{< list-cat category="html-grundlagen" heading="HTML-Grundlagen" >}}

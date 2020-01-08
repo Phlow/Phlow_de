@@ -4,7 +4,7 @@ chapter         : 5
 categories      : "Bildbearbeitung"
 slug            : webp
 ---
-WebP ist ein modernes Bildformat, das eine hervorragende verlustfreie und verlustbehaftete Kompression für Bilder im Web bietet. Mit WebP kannst Du kleinere Bilddateien herstellen ohne Qualität zu verlieren. Das beschleunigt Deine Websites ungemein.<!-- readmore -->
+WebP ist ein modernes Bildformat, das eine hervorragende verlustfreie und verlustbehaftete Kompression für Bilder im Web bietet. Mit WebP kannst Du kleinere Bilddateien herstellen ohne Qualität zu verlieren. Das beschleunigt Deine Websites ungemein.<!--more-->
 
 Entwickelt wurde [WebP von Google](https://developers.google.com/speed/webp/). Das Kommandozeilenprogramm cwebp kodiert Bilder im Format [JPEG]({{< ref "09-bilder-01-02-jpg.md" >}}), [PNG]({{< ref "09-bilder-01-04-png.md" >}}) oder TIFF nach WebP. Dahingegen dekodiert _dwebp_ sie zurück in das PNG-Format.
 

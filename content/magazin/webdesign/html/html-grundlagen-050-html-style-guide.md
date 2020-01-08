@@ -7,7 +7,7 @@ youtube         :
 slug            : html-coding-style-guide
 ---
 Strukturiere Deinen HTML/CSS-Code und Du kannst ihn besser lesen und sparst Zeit. Dieser Artikel stellt Dir HTML/CSS-Guidlines und die wichtigsten Regeln vor.
-<!-- readmore -->
+<!--more-->
 
 > Code, der sauber aussieht, fühlt sich gut an.
 

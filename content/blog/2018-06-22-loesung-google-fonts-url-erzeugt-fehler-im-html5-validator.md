@@ -8,7 +8,7 @@ tags:
     - css
     - google fonts
 ---
-Baut man einen Webfont via <a href="http://www.google.com/fonts/">Google Fonts</a> in seine Website ein, dann provoziert man mit dem vorgegebenen Code bzw. der mitgelieferten URL einen Fehler im <a href="http://validator.w3.org/">HTML-Validator des W3C-Consortiums</a>. Zum Glück gibt es eine einfache Lösung.<!-- readmore -->
+Baut man einen Webfont via <a href="http://www.google.com/fonts/">Google Fonts</a> in seine Website ein, dann provoziert man mit dem vorgegebenen Code bzw. der mitgelieferten URL einen Fehler im <a href="http://validator.w3.org/">HTML-Validator des W3C-Consortiums</a>. Zum Glück gibt es eine einfache Lösung.<!--more-->
 
 <img class="alignnone size-full wp-image-77" src="https://phlow.de/blog/wp-content/uploads/validator.png" alt="" width="722" height="161" />
 <h2 id="lösung-utf-8-enkodierung">Lösung: UTF-8-Enkodierung</h2>

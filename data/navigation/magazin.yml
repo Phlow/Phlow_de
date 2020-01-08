@@ -1,41 +1,41 @@
 - menu_title    : 'Magazin Startseite'
   title         : 'Social Media, Webdesign, WordPress und Journalismus'
-  url           : 'magazin/'
+  url_link      : 'magazin/'
   topbar        : true
   sidebar       : true
 
 # - menu_title    : 'Texten fürs Web'
 #   title         : 'Digitaler Journalismus'
-#   url           : 'magazin/journalismus/'
+#   url_link      : 'magazin/journalismus/'
 #   topbar        : true
 #   sidebar       : true
 
 - menu_title    : 'Social Media'
   title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'
-  url           : 'magazin/social-media/'
+  url_link      : 'magazin/social-media/'
   topbar        : true
   sidebar       : true
   
 - menu_title      : 'Wordpress'
   title          : 'Anleitungen, Videos und Tipps und Tricks für WordPress'
-  url             : 'magazin/wordpress/'
+  url_link        : 'magazin/wordpress/'
   sidebar         : true
   topbar          : true
 
 - menu_title    : 'Webdesign'
   title         : 'Unsere Webdesign Themen'
-  url           : 'magazin/webdesign/'
+  url_link      : 'magazin/webdesign/'
   topbar        : true
   sidebar       : true
   dropdown:
     - menu_title      : 'HTML5 & CSS'
       title           : 'Lerne mit unseren Webdesign Tutorials'
-      url             : 'magazin/webdesign/html/'
+      url_link        : 'magazin/webdesign/html/'
       sidebar         : true
       topbar          : true
     - menu_title    : 'Terminal für Webdesigner'
       title         : 'Optimiere und beschleunige lästige Arbeitsabläufe mit dem Terminal'
-      url           : 'magazin/terminal/'
+      url_link      : 'magazin/terminal/'
       topbar        : true
       sidebar       : true
 

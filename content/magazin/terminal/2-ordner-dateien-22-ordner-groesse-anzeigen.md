@@ -9,7 +9,7 @@ Um die Größe eines Ordners anzuzeigen nutzt man den Befehl `du`. `du`
 gibt Informationen über die Festplattennutzung von Dateien und
 Verzeichnissen aus. Weil `du` über viele Parameteroptionen verfügt,
 kannst Du die Ergebnisse in vielen Formaten ausgeben lassen.
-<!-- readmore -->
+<!--more-->
 
 Gibst Du lediglich ein…
 

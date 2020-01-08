@@ -5,7 +5,7 @@ categories      : "Bildbearbeitung"
 slug            : guetzli-jpg-jpeg-kompression
 ---
 Mit der Open Source-Software Guetzli komprimierst Du JPG-Bilddateien. Guetzli komprimiert die Bilder zwar verlustbehaftet, aber Du siehst es nicht.
-<!-- readmore -->
+<!--more-->
 
 {{< amp/img src="/images/terminal/guetzli.jpg" width="1066" height="800" alt="Guetzli Kompression Vergleichsbild" >}}
 

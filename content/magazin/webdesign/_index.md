@@ -7,7 +7,7 @@ image:
   header            : images/webdesign/webdesign-lernen-1920x823.jpg
 ---
 Wie baut man Webseiten? Welche Software brauche ich? Was ist wichtig beim Webdesign? Wie nutzt man HTML und CSS? Und wie funktioniert Responsive Webdesign? Anleitungen rund um das wunderbare Thema *Webdesign*.
-<!-- readmore -->
+<!--more-->
 
 <ul class="list-reset">
 {{< list-cat category="software" heading="Software für Webdesigner" >}}

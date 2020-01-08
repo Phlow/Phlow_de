@@ -12,7 +12,7 @@ kannst Du Dateien nach Endungen auch gleichzeitig in mehreren
 Unterordnern löschen. Dazu kombinierst Du `rm` mit dem Befehl `find`.
 Bevor Du Dateien endgültig löschst, kannst Du Dir vorher zur Sicherheit
 mit `echo` die Dateien anzeigen, die gelöscht werden.
-<!-- readmore -->
+<!--more-->
 
 **`rm`** ist der Standardbefehl, um Dateien und auch Ordner samt Inhalt
 zu löschen.

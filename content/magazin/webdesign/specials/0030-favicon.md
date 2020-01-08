@@ -9,7 +9,7 @@ image:
 slug            : favicon
 ---
 Das Favicon ist ein kleines Icon, Symbol oder Logo, das von Webbrowsern verwendet wird und oft in der Browserzeile angezeigt wird. Es gibt auch Icons für Tablets und mobile Geräte. Und so baust Du die Favicons in Deine Webseite ein.
-<!-- readmore -->
+<!--more-->
 
 Favicons sind eine kleine Plage, wenn man Sie für alle Geräte richtig anbieten will. Früher waren Favicons 16x16 oder 32x32 Pixel groß. Mittlerweile gibt es für viele Geräte eigene Maßangaben.
 

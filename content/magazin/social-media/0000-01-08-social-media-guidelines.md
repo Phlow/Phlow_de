@@ -11,7 +11,7 @@ dienen als Richtlinien für das Marketing und die Kommunikation mit
 Kunden, Fans und Interessierten nutzen. Social Media Guidelines sind in
 der Regel mit den eigenen Marketingziele abgestimmt und spiegeln sich in
 einer Social Media-Haltung des Unternehmens wider.
-<!-- readmore -->
+<!--more-->
 
 In den Social Media Guidelines legen Unternehmen in der Regel auch die
 Verantwortlichkeiten und Vorgehensweisen mit (negativen) Reaktionen (z.

@@ -9,7 +9,7 @@ tags:
 category: wordpress
 ---
 Per Email erhalte ich immer wieder Anfragen zu WordPress. Ich kann nicht alle beantworten, aber die obige ist schon öfters aufgetaucht, darum hier die Antwort:
-<!-- readmore -->
+<!--more-->
 
 **1. Zieh zuerst mit Deiner Domain `meinedomain.com` zu einem Webhoster um (Beispiel hier: HostEurope) um.**
 

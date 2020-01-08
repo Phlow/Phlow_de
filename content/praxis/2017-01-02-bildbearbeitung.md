@@ -28,7 +28,7 @@ slideshow:
   - image_url : /images/praxis/ari-glamslam-20-2400x1350.jpg
 ---
 Das Bildbearbeitungs-Paket eignet sich für Experimente und Übungen der Phlow Bücher und Phlow Seminare. Sämtliche Inhalte des Downloads, kannst Du frei und ohne Sorgen verwenden.
-<!-- readmore -->
+<!--more-->
 
 <a class="button" href="https://phlow.github.io/static/phlow_praxis_bildbearbeitung.zip">ZIP-Download</a>
 

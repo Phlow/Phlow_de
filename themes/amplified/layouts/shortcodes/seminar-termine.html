@@ -26,7 +26,7 @@
         {{ $datum := split .date "." }}
         {{ $year := index ($datum) 0 }}
         {{ $month := index ($datum) 1 }}
-        {{ $day := index ($datum) 1 }}
+        {{ $day := index ($datum) 2 }}
 
         <p class="subtitle">{{ $day }}.{{ $month }}.{{ $year }}</p>
         <h1 class="h3">{{ .title }}</h1>
@@ -47,7 +47,7 @@
 {{ $datum := split .date "." }}
 {{ $year := index ($datum) 0 }}
 {{ $month := index ($datum) 1 }}
-{{ $day := index ($datum) 1 }}
+{{ $day := index ($datum) 2 }}
     <code class="pr1">{{ $day }}.{{ $month }}.{{ $year }}</code> <a href="#item-{{ .date | anchorize }}">{{ .title }}</a><br>
   </li>
   {{ end }}
@@ -56,7 +56,13 @@
 
   {{ range .Site.Data.termine }}
   <article class="mt3 mb3" id="item-{{ .date | anchorize }}">
-        <p class="subtitle">{{ .date }}</p>
+<!-- Datum Umdrehen -->
+{{ $datum := split .date "." }}
+{{ $year := index ($datum) 0 }}
+{{ $month := index ($datum) 1 }}
+{{ $day := index ($datum) 2 }}
+
+        <p class="subtitle">{{ $day }}.{{ $month }}.{{ $year }}</p>
         <h1 class="h3">{{ .title }}</h1>
         <p>{{ .description | markdownify }}</p>
         <p>Veranstalter: <a target="_blank" title="Website besuchen" href="{{.url_1}}">{{.url_title_1}}</a></p>

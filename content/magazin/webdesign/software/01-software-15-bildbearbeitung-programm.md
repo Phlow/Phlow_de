@@ -6,7 +6,7 @@ weight: 4
 slug                : bildbearbeitung-programm
 ---
 Bildbearbeitung gehört zur täglichen Arbeit eines Webdesigners. Sei es die Optimierung der Bilder für eine schnellere Datenübertragung oder das fixe zurechtschneiden eines Fotos, Du brauchst die richtige Software. Aber auch hier musst Du nicht tief in die Tasche greifen.
-<!-- readmore -->
+<!--more-->
 
 Keine Angst, es muss nicht immer Photoshop sein. Die Bildbearbeitung bei Webdesignern begrenzt sich oft auf die folgenden Schritte. Worauf es dabei ankommt und was Du für die einzelnen Schritte machen musst, erkläre ich Dir später, wenn wir uns um das Thema Bilder intensiver kümmern.
 

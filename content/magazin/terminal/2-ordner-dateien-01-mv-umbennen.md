@@ -11,7 +11,7 @@ Will man eine große Anzahl an Dateien in einem Rutsch nach einem Schema
 oder mit einer fortlaufenden Zahl oder einem Datum umbenennen, ist das
 Terminal die ideale Wahl. Dieses Kapitel stellt verschiedene Methoden
 vor, Dateien umzubenennen.
-<!-- readmore -->
+<!--more-->
 
 **`mv` ist der Standardbefehl, um Dateien umzubenennen und/oder Dateien
 zu verschieben.** `mv` steht für *move*. Passt man einen Moment nicht

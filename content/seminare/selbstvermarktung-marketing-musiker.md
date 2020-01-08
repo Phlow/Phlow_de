@@ -1,5 +1,5 @@
 ---
-layout            : page-workshop
+layout            : single_seminare
 subtitle       : "Selbstvermarktung im Internet"
 title             : "Marketing für Musiker"
 tags:
@@ -15,7 +15,7 @@ date: "2019-03-06"
 slug               : /marketing-musiker/
 ---
 Lernen Sie digitales Marketing und wie Sie sich als Musiker, Label oder Produzent erfolgreich im Internet vermarkten.
-<!-- readmore -->
+<!--more-->
 
 In seinem zweiteiligen Workshop zur digitalen Selbstvermarktung von Künstlern, Musikern, Labels und Produzenten erklärt Moritz »mo.« Sauer, wie Marketing erfolgreich funktioniert. Dazu beantwortet der Experte drei Fragen: Warum ist heute ein klares Markenbild wichtiger als je zuvor? Wie baue ich mein Marketing-Netzwerk mit digitalen Werkzeugen und Techniken auf? Und welche Strategien und Möglichkeiten kann man nutzen, um noch mehr
 Aufmerksamkeit zu erreichen?

@@ -9,7 +9,7 @@ image:
 slug            : website-planen
 ---
 Für eine Website benötigst Du viele Inhalte: Texte, Fotos, Icons, vielleicht Videos und vieles mehr. Damit Dein Website-Projekt gelingt, planst Du es am Besten zuvor. Was alles dazugehört, erkläre ich Dir im Folgenden.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

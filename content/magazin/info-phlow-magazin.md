@@ -9,7 +9,7 @@ image:
     header_height   : 739
 ---
 Das Phlow Magazin bietet Ihnen Wissen rund um das große Thema <em>Inhalte veröffentlichen im Internet</em>. Dafür bieten wir Ihnen einen wachsenden Schatz von Beiträgen, die Ihnen in nachvollziehbaren Anleitungen schrittweise zeigen, wie Sie professionell Webseiten gestalten und Inhalte veröffentlichen.
-<!-- readmore -->
+<!--more-->
 
 Wenn Sie Inhalte ansprechend im Internet publizieren und präsentieren wollen, stolpern Sie schnell über zahlreiche Probleme. Das beginnt mit der grundsätzlichen Frage: *Wie schreibe ich gute Texte?* Liegen Ihnen die Texte vor, möchten Sie diese sicherlich auch bebildern. Aber wie beschneidet man Bilder? Welche Bildformate eignen sich für das Internet? Und wie optimiert man diese Bilder für das Internet?
 

@@ -5,7 +5,7 @@ categories:
   - Webdesign
 ---
 Ein Styleguide bildet eine Richtlinie für das Design einer Firma, eines Produktes oder z.B. eines Internetauftrittes. Viele Firmen veröffentlichen Ihre Webdesign-Styleguides im Netz. Eine Auswahl:
-<!-- readmore -->
+<!--more-->
 
 - HTML & CSS: [Primer – GitHub Styleguide](http://primercss.io/)
 - HTML & CSS: [Mailchimp Styleguide](http://ux.mailchimp.com/)

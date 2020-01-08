@@ -10,7 +10,7 @@ image:
     title: /images/tschichold-na-und.jpg
 ---
 Der Typograf Jan Tschichold gehört zu den wichtigsten Typografie-Experten des 20. Jahrhunderts. In »Tschichold – na und?« widmet sich Gerd Fleischmann den Ideen, Gesetzen und Vorgaben, die Jan Tschichold Zeit seines Lebens formuliert hat und unterzieht sie einem Generalcheck.
-<!-- readmore -->
+<!--more-->
 
 »Tschichold – Na und?« gehört zu der feinen Buchreihe *Ästhetik des Buches* aus dem [Wallstein Verlag][2]. Während sich Karl Günter dem [Buch]({{ '/buchkritik/' | absolute_url }}) in [»Das Ende einer Last«][1] grundlegend widmet, beschäftigt sich Gerd Fleischmann mit dem großen Buchgestalter Jan Tschichold, der vielen als Guru gilt. Gerd Fleischmann fasst die Lebensgeschichte von Jan Tschichold so zusammen:
 

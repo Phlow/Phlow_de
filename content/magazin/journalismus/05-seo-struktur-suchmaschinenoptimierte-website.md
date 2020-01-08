@@ -5,7 +5,7 @@ categories        : seo-anleitung
 slug              : aufbau-webseite
 ---
 Im Folgenden erläutere ich Ihnen weitere wichtige HTML-Tags für den Aufbau eines Dokumentes. Diese Liste von Tags stammt aus einer Umfrage unter SEO-Experten, die Sie bei Search Engine Ranking Factors finden.
-<!-- readmore -->
+<!--more-->
 
 Im Folgenden erläutere ich Ihnen weitere wichtige HTML-Tags für den Aufbau eines Dokumentes. Diese Liste von Tags stammt aus einer Umfrage unter SEO-Experten, die Sie bei link:https://moz.com/search-ranking-factors[Search Engine Ranking Factors] finden.
 

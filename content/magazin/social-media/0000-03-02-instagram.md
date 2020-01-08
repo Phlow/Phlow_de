@@ -10,7 +10,7 @@ weight              : 100
 ---
 **Instagram** ist die weltweit führende, kostenlose Foto-und
 Video-Sharing-App für Android-, iOS- und Windows-Phone-Mobilgeräte.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

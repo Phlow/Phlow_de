@@ -7,7 +7,7 @@ categories:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jtFc6B5lmIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Diese kurzen und schön animierten Videos erklären mit einfachen Beispielen und einer verständlichen Sprache die jeweiligen Themen.
-<!-- readmore -->
+<!--more-->
 
 - [Passwörter Einfach Erklärt](https://www.youtube.com/watch?v=jtFc6B5lmIM)
 - [Sicher Surfen einfach erklärt!](https://www.youtube.com/watch?v=tW1-CmggG9s)

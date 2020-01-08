@@ -10,7 +10,7 @@ weight: 0902
 slug            : jpg
 ---
 Das JPG-Bildformat (auch JPEG) verwendest Du, wenn Du Fotos oder Bilder mit vielen Details auf einer Website darstellen will. Kein anderes Bildformat speichert detaillierte Bilder besser bzw. kleiner als JPG ohne, dass die Qualität zu sehr darunter leidet.
-<!-- readmore -->
+<!--more-->
 
 Das JPEG-Bildformat wurde im September 1992 von der Joint Photographic Experts Group (JPEG) entwickelt und nach ihr benannt. Das Gremium entwickelte JPEG als standardisiertes Verfahren zur sowohl *verlustbehafteten* wie *verlustlosen* Kompression von digitalen Bildern.
 

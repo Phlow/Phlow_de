@@ -1,20 +1,11 @@
-    {{ if in .RawContent "<!-- readmore -->" }}
-      {{ $summary_part := split .RawContent "<!-- readmore -->" }}
-      {{ $summary := index $summary_part 0 }}
-      {{ $summaryHTML := safeHTML $summary }}
-      {{ $summaryHTML := replace $summaryHTML "<p>" "" }}
-      {{ $summaryHTML := replace $summaryHTML "</p>" "" }}
+{{ if in .RawContent "<!--more-->" }}
+  {{ $article := split .RawContent "<!--more-->" }}
+  {{ $teaser := index $article 0 }}
 
-      {{ $summary_content := split .Content "<!-- readmore -->" }}
-      {{ $content := index $summary_content 1 }}
-      {{ $contentHTML := safeHTML $content }}
+  <p class="h6">{{ $teaser | safeHTML | markdownify }}</p>
+  {{ $body := replace .Content .Summary "" }}
+  {{ $body | safeHTML }}
 
-      {{ if eq $summaryHTML .Content }}
-          {{ .Content }}
-      {{ else }}
-          <p class="h6">{{ $summaryHTML | htmlUnescape | markdownify }}</p>
-          {{ $contentHTML }}
-      {{ end }}
-    {{ else }}
-      {{ .Content }}
-    {{ end}}
+{{ else }}
+  {{ .Content }}
+{{ end}}

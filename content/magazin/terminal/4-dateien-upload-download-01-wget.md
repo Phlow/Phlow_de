@@ -9,7 +9,7 @@ slug            : wget
 die Kommandozeile herunterzuladen. Mit Hilfe eines Skriptes kannst Du
 so, z.B. automatisiert Deine eigene WordPress-Distribution mit
 gewünschten Plugins direkt in einem Zug herunterladen.
-<!-- readmore -->
+<!--more-->
 
 Wget unterstützt die Protokolle ftp, http und https. Wget steht als
 freies Kommandozeilenprogramm für die Betriebssysteme Unix, GNU/Linux,

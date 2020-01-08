@@ -8,7 +8,7 @@ tags:
   - rechercheportale
   - suche
 ---
-Hat man wenig Zeit für einen Artikel bzw. die Recherche, können externe Dienstleister helfen. Diese Rechercheportale stellen Fachartikel zusammen und vermitteln Experten und Firmen zum angegebenen Thema. Ein paar Link-Tipps.<!-- readmore -->
+Hat man wenig Zeit für einen Artikel bzw. die Recherche, können externe Dienstleister helfen. Diese Rechercheportale stellen Fachartikel zusammen und vermitteln Experten und Firmen zum angegebenen Thema. Ein paar Link-Tipps.<!--more-->
 
 Heute habe ich im [Magazin Journalist][1] 11/2013 einen umfangreichen Artikel über Rechercheportale gelesen. Die Autorin [Lisa Srikiow][2] stellt in ihrem Artikel fünf Dienstleister für die unterstützende Recherche vor.
 

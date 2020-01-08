@@ -11,7 +11,7 @@ Der Befehl `ls` gibt den Inhalt des aktuellen Ordners aus. Anstelle den
 Inhalt im Terminal auszugeben, kann man diesen umleiten. Mit `>` leitet
 man die Ausgabe in eine `.txt`-Datei um. Diese kann man dann in jedem
 Texteditor öffnen.
-<!-- readmore -->
+<!--more-->
 
     $ ls > verzeichnisinhalt.txt
 

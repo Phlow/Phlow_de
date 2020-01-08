@@ -7,7 +7,7 @@ categories          : css-grundlagen
 slug              : strichstaerke-schriftstil-schriftvarianten
 ---
 Wie bestimmst Du normale, fette oder kursive Schrift? Wie transformierst Du automatisch kleine Buchstaben zu großen.
-<!-- readmore -->
+<!--more-->
 
 ## Strichstärke mit font-weight
 

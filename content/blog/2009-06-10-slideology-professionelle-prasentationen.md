@@ -5,7 +5,7 @@ category: buchkritik
 image:
   title: /images/cover-slideology.jpg
 ---
-Irgendwann kommt jeder an den Punkt, an welchem er eine Präsentation per Computer produziert. Ob im Studium, bei der Hochzeit der eigenen Freunde oder für Kunden oder Workshops. Wer brillieren möchte und eine geschmeidige Vorstellung abliefern will, der schaut am besten in das Buch &#8220;slide:ology&#8221; von Nancy Duarte rein. Das ist wunderbar illustriert, hervorragend strukturiert und äußerst lehrreich.<!-- readmore -->
+Irgendwann kommt jeder an den Punkt, an welchem er eine Präsentation per Computer produziert. Ob im Studium, bei der Hochzeit der eigenen Freunde oder für Kunden oder Workshops. Wer brillieren möchte und eine geschmeidige Vorstellung abliefern will, der schaut am besten in das Buch &#8220;slide:ology&#8221; von Nancy Duarte rein. Das ist wunderbar illustriert, hervorragend strukturiert und äußerst lehrreich.<!--more-->
 
 Wir kennen doch alle diese Kraut-und-Rüben-Präsentationen, die Augenkrebs, Langeweile und ähnliche Symptome verursachen. Erträglich und amüsant lachen wir nur bei [Powerpoint-Karaoke][2] über unlesbare, verwirrende, langatmige oder grell-bunt-animierte Vorstellungen. Anstelle Kunden, Freunden und Zuhörern eine Exhibition schlechten Geschmackes darzubieten, schaut man lieber einmal den Profis über die Schulter. Profis wie zum Beispiel Nancy Duarte.
 

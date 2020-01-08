@@ -17,7 +17,7 @@ tags:
 slug: /sublime-text/
 ---
 Der Texteditor Sublime Text ist <em>das</em> Arbeitstier für Texte und Programmierung. Sublime Text sticht die Konkurrenz durch seine Flexibilität und Erweiterbarkeit aus. Ein weiteres dickes Plus des Editors ist die wunderbar reduzierte Arbeitsoberfläche. Mit Hilfe der integrierten Plugin-API erweitern Sie die ohnehin schon außergewöhnlichen Editierfähigkeiten von Sublime Text ein weiteres Mal.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

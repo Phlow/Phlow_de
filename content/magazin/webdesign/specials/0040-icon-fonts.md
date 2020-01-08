@@ -10,7 +10,7 @@ categories      : special
 slug            : icon-fonts
 ---
 Icon Fonts setzt man wie eine Schrift im Webdesign ein. Diese Auswahl professioneller Icon Fonts sind kostenlos und auch für kommerzielle Projekte einsetzbar.
-<!-- readmore -->
+<!--more-->
 
 {{< info >}}
 Anleitungen zur Nutzung von Icon Fonts, findet man <a href="#icon-fonts-einbauen--nutzen">weiter unten</a>.

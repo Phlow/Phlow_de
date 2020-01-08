@@ -7,7 +7,7 @@ slug                : filterblase
 weight              : 60
 ---
 Als Filterblase versteht man die für Nutzer vorsortierten Beiträge eines Computer-Algorithmus. Die Idee hinter der Filterblase ist, den Nutzer mit den Beiträgen zu versorgen, die den Nutzer interessieren bzw. die er viel klickt.
-<!-- readmore -->
+<!--more-->
 
 Dadurch entstehen Blasen, in welchen der Nutzer mehr von dem sieht, liest und hört, was er bereits kennt. Die Gefahren solcher Filterblasen sind Echokammern, in welchen Nutzer immer ähnliches vorgesetzt wird. Fremde Eindrücke werden weggefiltert.
 

@@ -1,5 +1,5 @@
 ---
-layout            : page-workshop
+layout            : single_seminare
 subtitle          : Digitale Musikdistribution
 title             : Alle sollen meine Musik hören!
 meta_title        : 'Workshop Digitale Musikdistribution: Alle sollen meine Musik hören!'
@@ -15,7 +15,7 @@ image:
   header                  : images/workshop-digitale-musikdistribution.jpg
 ---
 Deine Musikaufnahmen liegen fertig auf der Festplatte und was jetzt? Dieser Workshop erklärt Dir, wie Du mit nur 30€ Deine Musik weltweit in die Streaming-Services wie Spotify und iTunes katapultierst und Deine Musik auf Amazon, Bandcamp, Google Play und anderen Plattformen verkaufst.
-<!-- readmore -->
+<!--more-->
 
 Was Du alles für eine digitale Distributionskampagne in Eigenregie beachten musst, zeigt Dir dieser Workshop. Denn für mehr Erfolg, lohnt es sich vorher die Hausaufgaben zu machen. Dazu gehört leider nicht nur Musik, sondern neben einer Marketing-Strategie benötigst Du auch Material für soziale Netzwerke und gute Ideen.
 

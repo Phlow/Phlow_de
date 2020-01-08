@@ -5,7 +5,7 @@ categories            : anhang
 url: /magazin/webdesign/webdesign-services/
 ---
 Die folgenden Services unterstützen Dich bei der Entwicklung von Websites, um z.B. HTML-Code zu validieren, die Geschwindigkeit Deiner Websites zu testen und, und, und…
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

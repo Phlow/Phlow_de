@@ -4,8 +4,11 @@
 .subtitle {
   font-weight: 100;
   color: $grey-color;
-  font-size: .5em;
   letter-spacing: -1px;
+}
+
+h1 .subtitle {
+  font-size: .5em;
 }
 
 .lead {

@@ -13,7 +13,7 @@ weight              : 140
 Anregungen als Bilderkollektionen mit Beschreibungen an virtuelle
 Pinnwände heften können. Andere Nutzer können dieses Bild ebenfalls
 teilen (repinnen), ihren Gefallen daran ausdrücken oder es kommentieren.
-<!-- readmore -->
+<!--more-->
 
 > »Obwohl wir oft als Social Network eingeordnet werden: Wir sind
 > keines.«

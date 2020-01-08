@@ -15,7 +15,7 @@ video: https://www.youtube.com/watch?v=ShLLqbASxwk
 date                : 2013-09-30
 ---
 JPEGmini komprimiert Bilder ohne sichtbare Verluste und spart Anwendern Webspace und beschleunigt Websites durch kürzere Download-Zeiten. Die Videoanleitung stellt JPEGMini und die dazugehörige kostenlose JPEGMini Lite-App vor.
-<!-- readmore -->
+<!--more-->
 
 {{< youtube ShLLqbASxwk >}}
 

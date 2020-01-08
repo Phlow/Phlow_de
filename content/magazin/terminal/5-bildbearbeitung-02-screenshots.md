@@ -11,7 +11,7 @@ slug            : screencapture-screenshots
 Der Befehl `screencapture` erlaubt Screenshots per Terminal.
 Zeitgesteuerte Screenshots und Bildschirmfotos ohne oder mit Schatten
 sind kein Problem.
-<!-- readmore -->
+<!--more-->
 
 Um einen Screenshot über das Terminal zu machen, tippst Du einfach den
 Befehl `screencapture` plus einen Dateinamen samt Dateiendung in das

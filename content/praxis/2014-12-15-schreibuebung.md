@@ -7,7 +7,7 @@ tags:
   - text
 ---
 Diese Textübungen helfen Dir prägnantere Sätze zu schreiben und den Fokus vor allem auf Verben zu richten.
-<!-- readmore -->
+<!--more-->
 
 ## Inhalt
 

@@ -10,7 +10,7 @@ weight: 1
 slug            : webdesign-softare
 ---
 Als Webdesigner kommst Du mit zahlreichen Programmen und Werkzeugen in Kontakt. Zu Beginn benötigst Du aber nur drei Programme.
-<!-- readmore -->
+<!--more-->
 
 Wenn Du mit erfahrenen Webdesignern plauderst und sie nach den Werkzeugen und Programmen fragst, mit welchen sie arbeiten, wird Dir beim ersten Mal sicherlich schwindelig. Das liegt daran, dass jeder Webdesigner über kurz oder lang seinen eigenen Arbeitsweg, den *Workflow*, findet. Und dieser ist unterschiedlich. Denn es gibt Programme, Frameworks, Hilfsprogramme und Programmiersprachen wie Sand am Meer.
 

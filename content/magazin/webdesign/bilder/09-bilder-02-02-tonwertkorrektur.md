@@ -9,7 +9,7 @@ weight          : 0922
 slug            : tonwertkorrektur
 ---
 Schnell korrigiert man mit der Tonwertkorrektur den Tonwertbereich und die Farbbalance eines Bildes. Das ist leicht erledigt, doch das Resultat ist erstaunlich.
-<!-- readmore -->
+<!--more-->
 
 Mit der Tonwertkorrektur kannst Du schnell den Tonwertbereich und die Farbbalance eines Bildes ändern, indem Du die Helligkeitsstufen für Tiefen, Mitteltöne und Lichter des Bildes korrigierst. Das Histogramm – siehe Abbildung – dient Dir dabei als visuelle Hilfe bei der Einstellung der Farbwerte des Bildes.
 

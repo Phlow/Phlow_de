@@ -35,7 +35,7 @@ weight                : 0928
 slug            : drittelregel-rule-of-thirds
 ---
 Die Drittel-Regel – auch *Rule of Thirds* genannt – hilft Dir bei der Bildgestaltung. Beachtest Du die einfache Regel wirken Deine Bilder oft deutlich interessanter und spannungsgeladener.
-<!-- readmore -->
+<!--more-->
 
 Sicherlich ist Dir schon einmal das Raster in Deiner Foto-App oder Kamera aufgefallen, dass über die Bilder beim Fotografieren gelegt wird. Dieses Raster hilft Dir bei der Bildgestaltung und es handelt sich dabei um die Drittel-Regel. In zahlreichen Bildbearbeitungsprogrammen hilft Dir auch das Beschneidungswerkzeug mit dem Drittel-Raster. Aber…
 

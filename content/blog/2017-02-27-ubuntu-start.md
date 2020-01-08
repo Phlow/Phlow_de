@@ -6,7 +6,7 @@ image:
 category            : linux
 ---
 Megakonzerne wie Apple sind mir unsympathisch und werden immer unsympathischer. Ich nutze seit Jahren mein erstes und solide arbeitendes Macbook Pro. Ich bin mit diesem Computer sehr zufrieden, bis auf die lächerlichen zwei USB-Schnittstellen. Aber während Apple sich weigert in Europa Steuern und hinterzogenes Geld zu bezahlen, Apple neuere Computer immer weniger für Professionelle produziert, die erst mit zig Kabeladaptern funktionieren, habe ich immer mehr das Gefühl, dass man den Konzern boykottieren sollte. Ist da [Linux]({{ '/linux' | absolute_url }}) bzw. Ubuntu eine Alternative? Ein Erfahrungsbericht meiner ersten Schritte.
-<!-- readmore -->
+<!--more-->
 
 Nachdem sich Ubuntu ohne Probleme über einen USB-Stick auf meinem alten Lenovo T60 selbst installiert hat, habe ich zum ersten einmal Amazon aus der Seitenleiste gelöscht. Ich bin immer noch überrascht, wie nahtlos die Installation vor sich ging. Auch die Verschlüsselung des Computers per Ubuntu ist super einfach und die Installationsroutine war einwandfrei. Eine wichtige Erfahrung, wie ich finde…
 

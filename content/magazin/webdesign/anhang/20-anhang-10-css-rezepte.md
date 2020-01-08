@@ -5,7 +5,7 @@ categories                : anhang
 slug                      : /css-rezepte/
 ---
 CSS – insbesondere CSS3 – bietet zahlreiche Möglichkeiten HTML-Inhalte zu gestalten. In unserer CSS-Sammlung finden Sie CSS-Beispiele für die tägliche Anwendungen. Viele benutzen wir auch für unser Phlow Magazin.
-<!-- readmore -->
+<!--more-->
 
 ## CSS-Schatten für Texte
 

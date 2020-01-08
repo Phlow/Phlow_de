@@ -14,7 +14,7 @@ Computer und einem Server abgleichen. Anstelle jedes Mal von neuem
 sämtlichen Daten hin- und herzukopieren, verwendet Rsync einen
 Algorithmus, der nur die Dateien kopiert, verschiebt und löscht, die
 sich tatsächlich geändert haben.
-<!-- readmore -->
+<!--more-->
 
 # Rsync aktualisieren (installieren)
 

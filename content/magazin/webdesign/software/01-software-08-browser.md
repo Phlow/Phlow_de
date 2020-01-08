@@ -8,7 +8,7 @@ weight: 3
 slug            : browser
 ---
 Als Webdesigner entwickelt man zuerst für die Hauptgruppe der Nutzer. Und die nutzen den Chrome Browser von Google. Glücklicherweise dient Chrome auch als exzellentes Werkzeug für die Webentwicklung.
-<!-- readmore -->
+<!--more-->
 
 Webdesigner pflegen zu Browsern eine Hassliebe. Denn jeder Browser hat so seine Eigenheiten und Du willst sicherlich, dass Deine Websites auf allen Browsern in allen Geräten gut aussehen.
 

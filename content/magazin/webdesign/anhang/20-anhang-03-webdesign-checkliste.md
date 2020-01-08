@@ -10,7 +10,7 @@ image:
 url: /magazin/webdesign/webdesign-checkliste/
 ---
 Mit Hilfe dieser Checkliste durchleuchten Sie ihr Projekt. Schnell überprüfen Sie, ob alle Webdesign-Elemente dabei sind und Einstellungen für Suchmaschinen und die Geschwindigkeit optimiert wurden.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

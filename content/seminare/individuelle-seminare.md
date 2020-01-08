@@ -1,5 +1,5 @@
 ---
-layout                    : page-workshop
+layout                    : single_seminare
 title                     : Individuelle Seminare
 subtitle                  : Workshops & Spezial-Trainings
 meta_title                : Bestimmen Sie die Schwerpunkte/Inhalte unser individuellen Trainings
@@ -13,7 +13,7 @@ image:
 date: "2019-03-06"
 ---
 Wir bieten Ihnen gerne auch individuelle Einzeltrainings und Seminare an. Die Inhalte sprechen wir mit Ihnen gezielt ab, damit Sie das Maximum aus dem gemeinsamen Workshop ziehen. Unsere Einzeltrainings bieten wir als halbtags-, ganztags oder auf mehrere Tage verteilte Workshops an.
-<!-- readmore -->
+<!--more-->
 
 Auf Wunsch stellen wir Ihnen ein individuelles Angebot zusammen. Wählen Sie gezielt die Themen für Ihren Workshop aus. Unsere Kernkompetenzen liegen in den folgenden Themenbereichen:
 

@@ -10,7 +10,7 @@ slug            : zip-unzip
 Mit den beiden Kommandos `zip` und `unzip` komprimierst und entpackst Du
 Dateien im *zip*-Format. Der Befehl erlaubt das setzen von Passwörtern
 und vielem mehr. Wie `zip` und `unzip` erkläre ich Dir im Folgenden.
-<!-- readmore -->
+<!--more-->
 
 # Dateien/Verzeichnisse komprimieren mit zip
 

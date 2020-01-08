@@ -10,7 +10,7 @@ slug            : chmod-dateirechte-bearbeiten
 Jede Datei und jeder Ordner verfügt über Dateirechte. Mit dem Befehl
 `chmod` lassen sich die Rechte leicht ändern, wenn man das System
 verstanden hat. Und so geht’s…
-<!-- readmore -->
+<!--more-->
 
 Dateirechte geben Benutzern verschiedene Arten von Berechtigungen zum
 Lesen, Schreiben und ausführen von Dateien. Zum Beispiel ist es möglich,

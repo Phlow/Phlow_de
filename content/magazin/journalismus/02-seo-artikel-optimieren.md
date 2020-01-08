@@ -5,7 +5,7 @@ categories        : seo-anleitung
 slug              : artikel-optimieren
 ---
 »Suchmaschinenoptimierung Teil 2« zeigt Ihnen, wie Sie Artikel strukturieren und schreiben, damit diese weit nach oben in Google & Co.klettern.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

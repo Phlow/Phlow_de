@@ -10,7 +10,7 @@ Audio-Konverter, der auch Informationen aus Live-Audio und
 Live-Video-Quellen abgreifen kann. Ffmpeg ist ein sehr flexibles
 Werkzeug und konvertiert mit den richtigen Optionen schnell und flüssig
 Deine Dateien von z.B. *m4a* zu *wav* oder *mp4* zu *mpg*.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

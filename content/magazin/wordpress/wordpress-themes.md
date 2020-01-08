@@ -59,7 +59,7 @@ slideshow:
 
 ---
 Webdesigner versorgen die WordPress-Community kontinuierlich mit neuen Layouts und Design. Von diesen Themes gibt es mittlerweile eine unüberschaubare Anzahl. Phlow Magazin stellt die herausragende Themes vor.
-<!-- readmore -->
+<!--more-->
 
 WordPress ermöglicht, dass Sie eigene individuelle Webdesigns designen und programmieren können. Diese Möglichkeit nutzen zahlreiche Blogger und Webdesigner, um ihre individuellen Vorstellungen umzusetzen.
 

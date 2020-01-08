@@ -9,7 +9,7 @@ categories        : html-grundlagen
 slug              : relative-absolute-links
 ---
 Es gibt mehrere Arten Dateien, Dokumente und Bilder in HTML-Dokumenten zu verlinken. Was absolute und relative Links sind, erklärt das Video.
-<!-- readmore -->
+<!--more-->
 
 ## Relative Links auf Dateien
 

@@ -7,4 +7,4 @@ categories      : bilder
 slug            : responsive-bilder
 ---
 
-<!-- readmore -->
+<!--more-->

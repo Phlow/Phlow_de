@@ -7,7 +7,7 @@ tags:
     - datenschutz
     - datenschutzerklärung
 ---
-Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: _Und, was ist mit den [Google Fonts](https://fonts.google.com/)?_ Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.<!-- readmore -->
+Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: _Und, was ist mit den [Google Fonts](https://fonts.google.com/)?_ Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.<!--more-->
 
 Wenn Du Webdesigner bist, kannst Du aber auch die Schriften von Google
 herunterladen und auf Deinem eigenen Server hochladen und anschließend

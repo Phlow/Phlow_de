@@ -21,7 +21,7 @@
                     {{ if eq $show $counter }}
                     {{ else }}
                       <li>
-                        <a href="{{ .url }}" target="_blank"><span class="monospace">{{ .date }}</span> {{ .title }}</a>
+                        <a href="{{ .source_url }}" target="_blank"><span class="monospace">{{ .date }}</span> {{ .title }}</a>
                       </li>
                       {{ $counter = add $counter 1 }}
                     {{ end }}
@@ -30,7 +30,7 @@
 
                     {{/* --- Wenn show NICHT gesetzt ist für eine Schleife aus --- */}}
                     <li>
-                      <p class="sans"><span class="monospace">{{ .date }}</span> <a href="{{ .url }}" target="_blank">{{ .title }}</a><br>
+                      <p class="sans"><span class="monospace">{{ .date }}</span> <a href="{{ .source_url }}" target="_blank">{{ .title }}</a><br>
                       <p>{{ .description }}</p>
                     </li>
                   {{ end }}
@@ -42,7 +42,7 @@
 {{/* --- Es gibt keine Parameter dann liste alles auf --- */}}
 {{ else }}
   {{ range .Data }}
-    <h2 class="h4"><a href="{{ .url }}" target="_blank">{{ .title }}</a></h2>
+    <h2 class="h4"><a href="{{ .source_url }}" target="_blank">{{ .title }}</a></h2>
     <p><code>{{ .date }}</code> {{ .description }}</p>
   {{ end }}{{/* --- range ende --- */}}
 {{ end }}

@@ -11,7 +11,7 @@ weight: 0904
 slug            : gif
 ---
 Das GIF-Bilddateiformat (Graphics Interchange Format) zeichnet sich vor allem durch zwei Merkmale besonders aus: Es ermöglicht Animationen und die Farbpalette erlaubt maximal 256 Farben.
-<!-- readmore -->
+<!--more-->
 
 Für detaillierte Bilder eignet sich das GIF-Format nicht. Denn GIF-Bilder können aus maximal 256 Farben bestehen und sehen somit schnell körnig aus.
 

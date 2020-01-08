@@ -9,7 +9,7 @@ image:
     title       : /images/webdesign/002-impressum-website-erstellen-1280x720.jpg
 ---
 Lange Texte unterteilst Du mit Absätzen und Zeilenumbrüchen, damit sie von Deinen Besuchern besser gelesen werden können. Zum Einsatz kommen hierfür die beiden HTML-Befehle `&lt;p&gt;` für  Absätze und `&lt;br&gt;` Zeilenumbrüche.
-<!-- readmore -->
+<!--more-->
 
 ## Mit `<p>` unterteilst Du lange Texte in Abschnitte
 

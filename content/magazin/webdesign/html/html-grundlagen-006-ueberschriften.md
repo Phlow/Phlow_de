@@ -9,7 +9,7 @@ slug              : ueberschriften
 youtube           : 54Nd3otI1ds
 ---
 Mithilfe der Überschriften-Tags gliederst Du Texte nicht nur optisch und regst die Neugierde der Besucher an, sondern Du greifst auch Deiner Website suchmaschinentechnisch unter die Arme.
-<!-- readmore -->
+<!--more-->
 
 Überschriften gliedern Texte. Ich versuche es anhand eines Buches zu erklären. Jedes Buch hat einen Titel. Das ist bei HTML die Überschrift – *headline* – erster Ordnung: `<h1>`. Wie ein Buch nur einen Titel hat, darf auch eine Webseite nur eine `<h1>`-Überschrift haben.
 

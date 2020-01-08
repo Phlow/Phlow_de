@@ -7,4 +7,4 @@ categories            : bilder
 slug            : 
 ---
 
-<!-- readmore -->
+<!--more-->

@@ -8,7 +8,7 @@ slug             : say
 Mit dem Sprachbefehl `say` kann man viel Spaß im Mac-Terminal haben.
 Neben verschiedenen Stimmen, lässt sich z.B. Gesprochenes auch als
 Audiodatei abspeichern.
-<!-- readmore -->
+<!--more-->
 
 `say` bietet zahlreiche Einstellungsfunktionen, wie z.B. verschiedene
 Stimmen für unterschiedliche Sprachen, die Geschwindigkeit der

@@ -7,7 +7,7 @@ youtube         : _P9hcbMrnpk
 slug            : html-dokument-aufbau
 ---
 Eine Webseite ist eine Textdatei mit der Endung *.html* oder *.htm*. HTML-Dateien bilden die Grundlage des Internets.
-<!-- readmore -->
+<!--more-->
 
 In dieser Textdatei stehen nur Zeichen, wie Buchstaben, Zahlen und Sonderzeichen. Da die Datei aus reinen Textzeichen besteht, kannst Du HTML-Webseiten auf jedem Computer mit der simpelsten Textverarbeitung erstellen, öffnen und bearbeiten. Du benötigst also noch nicht einmal einen Texteditor wie [Atom]({{< ref "01-software-03-atom-texteditor.md" >}}).
 

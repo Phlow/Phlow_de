@@ -5,7 +5,7 @@ categories        : seo-anleitung
 slug              : seo-links
 ---
 Findet der Webcrawler einen Link auf einer Webseite, ist der Suchmaschine in der Regel erst einmal nicht klar, worum es sich bei der verlinkten Webseite handelt. Außerdem weiß die Suchmaschine nicht, ob es sich um eine Linkempfehlung handelt. Darum analysiert die Suchmaschine den Text des Links und die Linkattribute. Anschließend vergleicht die Maschine die verlinkte Webseite mit dem Linktext.
-<!-- readmore -->
+<!--more-->
 
 {{< toc >}}
 

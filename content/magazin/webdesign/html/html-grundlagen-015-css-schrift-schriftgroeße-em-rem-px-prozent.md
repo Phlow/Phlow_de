@@ -9,7 +9,7 @@ categories:     css-grundlagen
 slug              : schriftgroesse-em-rem-px-prozent
 ---
 Das Video erklärt Dir, wie Du die Schriftgröße mit CSS für HTML-Dokumente bestimmst und welche Maßeinheiten es gibt und was der Unterschied zwischen px, em, rem und % ist, zeigt das Video.
-<!-- readmore -->
+<!--more-->
 
 Um die Schriftgröße zu bestimmen, nutzt Du `font-size`.
 

@@ -17,7 +17,7 @@ image:
 meta_info: TRUE
 ---
 Die Fantasy-Welt Roschar der Sturmlicht Chroniken von Brandon Sanderson gestaltet sich so komplex, dass die Nebenschauplätze genauso spannend sind, wie der Zyklus selbst. Darum widmet Brandon Sanderson mit »Edgedancer« – in einem für seine Verhältnisse kleinen Buch – seine Aufmerksamkeit der quirligen, faszinierenden und witzigen Lift.
-<!-- readmore -->
+<!--more-->
 Die Sturmlicht-Chroniken konfrontieren den Leser mit einer eigenwilligen Einteilung der Bücher. Die deutschen Bücher mit ca. 800-1000 Seiten untergliedert [Brandon Sanderson](https://brandonsanderson.com) jeweils noch einmal in drei Teilen. Zwischen diesen drei Teilen springen wir mit dem Autor über den Kontinent [Roschar](http://stormlightarchive.wikia.com/wiki/Roshar) und lernen weitere Charaktere kennen.
 {:.drop-cap}
 

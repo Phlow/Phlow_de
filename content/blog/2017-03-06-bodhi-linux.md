@@ -12,7 +12,7 @@ comments_data       :
 category            : linux
 ---
 Die Erleuchtung kam mit Bodhi Linux. Und mein Rechner reiste von Lubuntu nach Bodhi. Denn Bodhi sieht schicker aus, läuft noch schneller und bietet einige hilfreiche Werkzeuge, die die Arbeit mit dieser Version eines [Linux]({{ '/linux' | absolute_url }}) Betriebssystem erleichtern. Ein Bericht.
-<!-- readmore -->
+<!--more-->
 
 In meinem Büroschrank lag noch ein alter Toshiba-Laptop mit kaputtem Bildschirm. Nachdem ich meinen alten T60 fit gemacht hatte, war ich neugierig, ob ich auch noch eine Linux-Distribution auf Mister Toshiba installieren könnte. Ich mache es kurz: Es hat nicht funktioniert, auch wenn z.B. Bodhi Linux von CD startete. Eine Installation wollte einfach nicht gelingen.
 

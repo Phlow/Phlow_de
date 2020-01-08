@@ -9,7 +9,7 @@ tags                :
     - typo3
 ---
 Ist Open Source der Quell aller Weisheit? Sind Projekte wie Linux, Apache oder auch das Redaktionssystem Typo3 ein Schritt in Richtung Wissens-oder Web-Demokratie? Bekommen die Programmierer hinter den Projekten eigentlich eine angemessene Verg&uuml;tung? Ein Interview mit Typo3-Programmierer Kasper Sk&aring;rh&oslash;.
-<!-- readmore -->
+<!--more-->
 
 Typo3 ist eines der zur Zeit attraktivsten und intelligentesten Content Management Systeme (kurz: CMS). Es ist Open Source und mittlerweile benutzen es nicht nur kleine Leute, sondern auch professionelle Agenturen, die f&uuml;r kommerzielle Gro&szlig;unternehmen ein Web-Seiten-Design erarbeiten, dass sie dann mit dem CMS von Kasper Sk&aring;rh&oslash; verbinden.
 

@@ -11,7 +11,7 @@
 
 {{ range (index .Site.Data.navigation.pages) }}
     {{ if .sidebar }}
-      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm monospace {{ if .class }}{{ .class }}{{ end }}"><a class="caps ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url }}">{{ .menu_title }}</a></li>
+      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm monospace {{ if .class }}{{ .class }}{{ end }}"><a class="caps ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url_link }}">{{ .menu_title }}</a></li>
 
         {{ if .dropdown }}
           <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ if .class }}{{ .class }}{{ end }}">
@@ -23,7 +23,7 @@
             <ul class="ampstart-dropdown-items list-reset m0 p0">
 
         {{ range .dropdown }}
-          <li class="ampstart-dropdown-item"><a href="{{ $.Site.BaseURL }}{{ .url }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
+          <li class="ampstart-dropdown-item"><a href="{{ $.Site.BaseURL }}{{ .url_link }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
         {{ end }}
 
             </ul>
@@ -60,7 +60,7 @@
     <ul class="list-reset m0 p0 pb2 ampstart-label">
 {{ range (index .Site.Data.navigation.pages) }}
     {{ if .sidebar }}
-      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold {{ if .class }}{{ .class }}{{ end }}"><a class="ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url }}">{{ .menu_title }}</a></li>
+      <li class="ampstart-nav-item land-see-sidebar-nav-item ampstart-title-sm bold {{ if .class }}{{ .class }}{{ end }}"><a class="ampstart-nav-link" href="{{ $.Site.BaseURL }}{{ .url_link }}">{{ .menu_title }}</a></li>
 
         {{ if .dropdown }}
           <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ if .class }}{{ .class }}{{ end }}">
@@ -72,7 +72,7 @@
             <ul class="ampstart-dropdown-items list-reset m0 p0">
 
         {{ range .dropdown }}
-          <li class="ampstart-dropdown-item"><a href="{{ $.Site.BaseURL }}{{ .url }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
+          <li class="ampstart-dropdown-item"><a href="{{ $.Site.BaseURL }}{{ .url_link }}" class="text-decoration-none {{ if .class }}{{ .class }}{{ end }}">{{ .menu_title }}</a></li>
         {{ end }}
 
             </ul>

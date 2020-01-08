@@ -1,8 +1,8 @@
 <li class="pb3">
-  <section><header class="h4 sans">{{.Params.heading}}</header></section>
+  <section><header class="h4 sans">{{ .Params.heading }}</header></section>
   <ul>
     {{ $kat := .Params.category }}
-    {{ range sort .Content "File.TranslationBaseName" }}
+    {{ range .Content }}
       {{ if eq .Params.Categories $kat }}
         <li><a href="{{.Permalink}}">{{ .Title | htmlUnescape }}</a></li>
       {{ end }}

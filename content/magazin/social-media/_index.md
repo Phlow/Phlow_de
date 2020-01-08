@@ -6,4 +6,4 @@ image:
   header    : images/socialmedia/startbild-social-media-leitfaden.jpg
 ---
 Dieser Leitfaden komplettiert meine Social Media Seminare. An dieser Stelle findest Du aktuelle Fakten, Entwicklungen und Beschreibungen der sozialen Netzwerke.
-<!-- readmore -->
+<!--more-->
