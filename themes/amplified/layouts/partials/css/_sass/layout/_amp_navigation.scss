@@ -368,7 +368,10 @@ amp-carousel .ampstart-image-with-caption {
   background-color: $background-color;
   z-index: 999;
   box-shadow: 0 0 5px 2px rgba(0,0,0,.1)
+  color: $text-color;
+  padding-right: 1rem
 }
+
 
 .ampstart-headerbar+:not(amp-sidebar),.ampstart-headerbar+amp-sidebar+* {
   margin-top: 3.5rem
@@ -480,12 +483,6 @@ amp-carousel .ampstart-image-with-caption {
   pointer-events: none
 }
 
-
-.ampstart-headerbar {
-  background: $background-color;
-  color: $text-color;
-  padding-right: 1rem
-}
 
 .ampstart-headerbar-nav {
   -ms-flex: none;

@@ -4,6 +4,54 @@
 #  network     : 
 #  date        : 
 
+- title       : 'YouTube ändert Umgang mit Videos für Kinder'
+  url         : https://www.heise.de/newsticker/meldung/YouTube-aendert-Umgang-mit-Videos-fuer-Kinder-4629497.html
+  description : 'Kindervideos unterliegen bei YouTube neuen Richtlinien. Nutzerdaten werden weniger erhoben, personalisierte Werbung wird nicht mehr angezeigt.'
+  network     : youtube
+  date        : 2020-01-07
+
+- title       : 'Instagram & Co: Wenn der Sog sozialer Medien süchtig macht'
+  url         : https://www.heise.de/newsticker/meldung/Instagram-Co-Wenn-der-Sog-sozialer-Medien-suechtig-macht-4609428.html
+  description : 'Facebook, Whatsapp und Co. sind bei manchen in Dauernutzung. Doch wie viel Zeit auf Social Media ist normal - und wann wird es problematisch?'
+  network     : instagram
+  date        : 2019-12-10
+
+- title       : 'USA: Satelliten-TV verliert Millionen Zuschauer'
+  url         : https://www.heise.de/newsticker/meldung/USA-Satelliten-TV-verliert-Millionen-Zuschauer-4585647.html
+  description : 'Satelliten- und Kabelbetreiber verlieren in den USA laufend Kunden, und das schneller denn je. TV-Streaming-Abos fangen das inzwischen nicht mehr auf.'
+  network     : facebook
+  date        : 2019-11-14
+
+- title       : 'Facebook löscht 1,7 Milliarden Fake-Accounts und erkennt Hassposts automatisch'
+  url         : https://www.heise.de/newsticker/meldung/Facebook-loescht-1-7-Milliarden-Fake-Accounts-und-erkennt-Hassposts-automatisch-4585753.html
+  description : 'Facebook setzt auf die automatische Erkennung von Fake-Accounts und problematischer Inhalte – mit zunehmendem Erfolg.'
+  network     : facebook
+  date        : 2019-11-14
+
+- title       : 'Instagram lässt Nutzer Drittanbieter-Einsicht managen'
+  url         : https://www.heise.de/newsticker/meldung/Instagram-laesst-Nutzer-Drittanbieter-Einsicht-managen-4557750.html
+  description : 'Mit zwei neuen Funktionen können Instagram-Nutzer besser kontrollieren, welche Daten Drittanbieter-Apps und Webseiten abfragen und einsehen können.'
+  network     : instagram
+  date        : 2019-10-16
+
+- title       : 'Twitters präzisiert Regeln für Politiker-Tweets: Bei Verstößen weniger Verbreitung'
+  url         : https://www.heise.de/newsticker/meldung/Twitters-Regeln-fuer-Politiker-Tweets-Bei-Regelverstoss-weniger-Verbreitung-4557712.html
+  description : 'Tweets von Politikern, die gegen Twitters Nutzungsbedingungen verstoßen, sollen zwar weiterhin nicht gesperrt werden. Sie sollen aber weniger viral gehen.'
+  network     : twitter
+  date        : 2019-10-16
+
+- title       : 'ARD/ZDF-Onlinestudie 2019'
+  url         : http://www.ard-zdf-onlinestudie.de/ardzdf-onlinestudie-2019/
+  description : 'Über viele Jahre hinweg hat die Internetnutzung in Deutschland stetig zugenommen. Mittlerweile ist in vielen Bereichen eine Kontinuität festzustellen. Weiter gestiegen ist dagegen die mediale Internetnutzung. Zu diesen zentralen Ergebnissen kommt die ARD/ZDF-Onlinestudie, die im Auftrag der ARD/ZDF-Forschungskommission durchgeführt wird und seit 1997 jährlich Basisdaten zur Internetnutzung in Deutschland bereitstellt.'
+  network     : studien
+  date        : 2019-10-10
+
+- title       : 'Fast 100 Prozent der Jüngeren sind jeden Tag online'
+  url         : https://www.heise.de/newsticker/meldung/Fast-100-Prozent-der-Juengeren-sind-jeden-Tag-online-4551088.html
+  description : 'Unter den 14- bis 29-Jährigen beträgt die Tagesreichweite des Internets 98 Prozent, ergab die jüngste ARD/ZDF-Onlinestudie.'
+  network     : studien
+  date        : 2019-10-10
+
 - title       : 'Zyklus-Apps senden sensible Daten an Facebook'
   url         : https://www.heise.de/newsticker/meldung/Zyklus-Apps-sendet-sensible-Daten-an-Facebook-4518705.html
   description : 'Apps, mit denen viele Frauen ihren Zyklus kontrollieren, haben Daten an Facebook gesendet – etwa, wann die Nutzerinnen zuletzt Sex hatten.'

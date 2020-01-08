@@ -9,7 +9,13 @@
       {{ partial "helper/article-header.html" . }}
       {{ partial "helper/summary-content.html" . }}
 
-      <a class="button warning" href="{{ .Page.Params.download_link }}" target="_blank">{{ if .Page.Params.download_link_text }}{{ .Page.Params.download_link_text }}{{ else }}Download ›{{ end }}</a>
+      {{ if .Page.Params.download_link }}
+        <a class="button warning" href="{{ .Page.Params.download_link }}" target="_blank">{{ if .Page.Params.download_link_text }}{{ .Page.Params.download_link_text }}{{ else }}Download ›{{ end }}</a>
+      {{ end }}
+      {{ if .Page.Params.download_link_2 }}
+        <a class="button warning" href="{{ .Page.Params.download_link_2 }}" target="_blank">{{ if .Page.Params.download_link_text_2 }}{{ .Page.Params.download_link_text_2 }}{{ else }}Download ›{{ end }}</a>
+      {{ end }}
+
 
       </article><!-- /clearfix -->
 

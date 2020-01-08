@@ -7,10 +7,26 @@
 
 
 {{ partial "helper/footer_jump_to_top.html" . }}
+
+
+{{/* *******************************
+*
+*   Um den Hauptbereich oder den Footer zu überschreiben einfach im
+*   Template den neuen Bereich definieren z.B. so:
+*
+*   {{ define "footer" }}
+*
+*   {{ end }}
+*
+*
+******************************* */}}
+
+{{ block "footer" . }}
 <footer id="footer-content">
   {{ block "topfooter" . }}{{ partial "helper/footer_top.html" . }}{{ end }}
   {{ block "subfooter" . }}{{ partial "helper/footer_sub.html" . }}{{ end }}
 </footer>
+{{ end }}
 
 </body>
 </html>

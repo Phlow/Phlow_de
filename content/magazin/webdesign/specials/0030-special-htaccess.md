@@ -53,6 +53,32 @@ http://www.htaccessbasics.com/404-custom-error-page/
 
 ## Website Optimierung & Schnellere Websites: GZIP Kompression aktivieren per .htaccess
 
+Mit dem folgenden Code-Schnipsel stellt man die GZIP-Kompression an.
+
+<pre>&lt;ifModule mod_gzip.c&gt;
+mod_gzip_on Yes
+mod_gzip_dechunk Yes
+mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
+mod_gzip_item_include handler ^cgi-script$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include mime ^application/x-javascript.*
+mod_gzip_item_exclude mime ^image/.*
+mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+&lt;/ifModule&gt;
+
+&lt;IfModule mod_deflate.c&gt;
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+&lt;/IfModule&gt;
+</pre>
+
 Ob Deine Website mit _gzip_ komprimiert ausgeliefert wird, checkst Du einfach mit einem Online-Werkzeug wie z.B. [checkgzipcompression.com](https://checkgzipcompression.com/).
 
 ## .htaccess – Weiterführende Literatur und Websites

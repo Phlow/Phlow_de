@@ -1,9 +1,3 @@
-- menu_title    : 'Phlow'
-  title         : 'Zur Phlow-Startseite'
-  url           : '/'
-  topbar        : true
-  sidebar       : true
-
 - menu_title    : 'Magazin Startseite'
   title         : 'Social Media, Webdesign, WordPress und Journalismus'
   url           : 'magazin/'
