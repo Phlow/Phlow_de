@@ -18,9 +18,9 @@ Außerdem hat sich die Webentwicklung in den letzten Jahren rasant entwickelt un
 
 Denn mit drei Programmen arbeiten alle und Du brauchst sie auch:
 
-* [einen Texteditor]({{< ref "01-software-03-atom-texteditor.md" >}})
-* [ein Bildbearbeitungsprogramm]({{< ref "01-software-15-bildbearbeitung-programm.md" >}})
-* [einen Browser]({{< ref "01-software-08-browser.md" >}})
+* [einen Texteditor]({{< ref "/magazin/webdesign/software/01-software-03-atom-texteditor.md" >}})
+* [ein Bildbearbeitungsprogramm]({{< ref "/magazin/webdesign/software/01-software-15-bildbearbeitung-programm.md" >}})
+* [einen Browser]({{< ref "/magazin/webdesign/software/01-software-08-browser.md" >}})
 
 Während Du mit dem Texteditor Webseiten erstellst und Anwendungen programmierst, schneidest und optimierst Du Dein Bildmaterial mit einem Bildbearbeitungsprogramm. Mit dem Browser überprüfst Du schließlich Deine Ergebnisse.
 

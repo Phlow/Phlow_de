@@ -1,4 +1,18 @@
+{{/*
+*  Parameter titel ermöglich eine individuellen Titel
+*
+*  Aufrufen mit {{< toc >}}
+*
+*  Oder {{< toc titel="Inhalt" >}}
+*
+*/}}
+
 <aside class="toc-list">
-<p><strong>Inhaltsverzeichnis</strong></p>
-{{.Page.TableOfContents}}
+  {{ $titel := .Get "titel" }}
+  {{ if $titel }}
+    <p><strong>{{ $titel }}</strong></p>
+  {{ else }}
+    <p><strong>Inhaltsverzeichnis</strong></p>
+  {{ end }}
+  {{ .Page.TableOfContents }}
 </aside>

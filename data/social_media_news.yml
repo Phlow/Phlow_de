@@ -4,6 +4,54 @@
 #  network     : 
 #  date        : 
 
+- title       : 'ARD Social-Media-Bilanz: 6,6 Milliarden Video-Streams auf YouTube und Facebook'
+  source_url  : https://www.heise.de/newsticker/meldung/ARD-Social-Media-Bilanz-6-6-Milliarden-Video-Streams-auf-YouTube-und-Facebook-4676795.html
+  description : 'Die ARD ist auch in Sozialen Medien erfolgreich. Das soll eine Auswertung der Aktivitäten des Senderverbunds auf Facebook und Co. belegen.'
+  network     : news
+  date        : 2020-03-05
+
+- title       : 'Facebooks Löschungen bald extern überprüfbar'
+  source_url  : https://www.heise.de/newsticker/meldung/Facebooks-Loeschentscheidungen-bald-extern-ueberpruefbar-4661871.html
+  description : 'Facebook will es ermöglichen, seine Zensurentscheidungen extern zu überprüfen. Der Konzern tritt bei der Regulierung die Flucht nach vorne an.'
+  network     : facebook
+  date        : 2020-02-17
+
+- title       : 'Süchtig nach Herzchen, oder: Wie Instagram Abhängigkeit schafft'
+  source_url  : https://www.heise.de/newsticker/meldung/Suechtig-nach-Herzchen-Neues-Buch-prangert-Instagram-Abhaengigkeit-an-4654209.html
+  description : 'Instagram weist, wie andere Social-Media-Angebote, ein Suchtpotenzial auf. Wirtschaftsjournalistin Nena Schink beschreibt den eigenen Leidensweg in einem Buch.'
+  network     : instagram
+  date        : 2020-02-06
+
+- title       : 'Sind soziale Medien für Kommunen bald verboten?'
+  source_url  : https://kommunal.de/soziale-medien-kommentar-habbel
+  description : 'Social-Media Aktivitäten von Behörden werden zunehmend als juristisch bedenklich angesehen. So hat zuletzt der baden-württembergische Landesdatenschutzbeauftragte Stefan Brink angekündigt, seinen Twitter-Account Ende Januar 2020 zu löschen. Experten gehen davon aus, dass aufgrund des Urteils des EuGHs aus 2017 kein Twitter-Account DSGVO-konform betrieben werden kann. Was bedeutet das für Kommunen, für die Bürgerkommunikation ein zentrales Element ihrer Arbeit ist?'
+  network     : news
+  date        : 2020-01-06
+
+- title       : 'Facebook und Twitter droht Strafe und Sperre in Russland'
+  source_url  : https://www.heise.de/newsticker/meldung/Facebook-und-Twitter-droht-Strafe-und-Sperre-in-Russland-4652095.html
+  description : 'Weil Facebook und Twitter Nutzerdaten nicht auf einem lokalen Server speichern, drohen den Diensten in Russland eine Strafe und die Sperre.'
+  network     : facebook
+  date        : 2020-02-04
+
+- title       : 'Erstmals YouTubes Werbeeinnahmen verraten'
+  source_url  : https://www.heise.de/newsticker/meldung/Erstmals-YouTubes-Werbeeinnahmen-verraten-4652415.html
+  description : 'Über 15 Milliarden Dollar hat YouTube 2019 durch Reklame eingenommen. Dieses Segment wuchs doppelt so schnell wie der Alphabet-Konzern insgesamt.'
+  network     : youtube
+  date        : 2020-02-04
+
+- title       : 'So drastisch verfälschen junge Menschen ihr Aussehen, um mehr Likes zu bekommen'
+  source_url  : https://ze.tt/so-drastisch-verfaelschen-jungen-menschen-ihr-aussehen-um-mehr-likes-zu-bekommen/
+  description : 'Mit seinem Projekt Selfie Harm möchte Fotograf Rankin auf die Gefahren von Apps aufmerksam machen, mit denen man das Aussehen manipulieren kann.'
+  network     : news
+  date        : 2020-02-03
+
+- title       : 'Falschinformationen im Netz: So reagieren Facebook, Google und TikTok auf das Coronavirus'
+  source_url  : https://www.spiegel.de/netzwelt/web/coronavirus-wie-facebook-google-und-tiktok-auf-falschinformationen-reagieren-a-6bc449fc-2450-4964-a675-7d6573316ad9
+  description : 'Horrorgeschichten über Chemiewaffenlabore, Bleichmittel als Heil-Empfehlung: Die großen Web-Dienste werden mit Falschinformationen zum Coronavirus geflutet - und gehen ganz unterschiedlich damit um.'
+  network     : youtube
+  date        : 2020-01-31
+
 - title       : 'YouTube ändert Umgang mit Videos für Kinder'
   source_url  : https://www.heise.de/newsticker/meldung/YouTube-aendert-Umgang-mit-Videos-fuer-Kinder-4629497.html
   description : 'Kindervideos unterliegen bei YouTube neuen Richtlinien. Nutzerdaten werden weniger erhoben, personalisierte Werbung wird nicht mehr angezeigt.'

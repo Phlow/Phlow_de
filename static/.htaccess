@@ -1,3 +1,5 @@
+Redirect 301 /ca https://mosonic.bandcamp.com/album/corrupted-archive
+
 ErrorDocument 404 /404.html
 
 RewriteEngine on
@@ -5,103 +7,6 @@ RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 RewriteCond %{HTTPS} !on
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-
-<IfModule mod_rewrite.c>
-RewriteEngine On
-
-redirect 301 /impressum/ https://phlow.de/impressum.php
-redirect 301 /impressum https://phlow.de/impressum.php
-redirect 301 /impressum.html https://phlow.de/impressum.php
-
-#
-# Redirects WordPress Buch // 2019-07-02
-#
-
-redirect 301 /wordpress-installation https://phlow.de/tv/installation-wordpress/
-redirect 301 /ftp https://phlow.de/tv/filezilla/
-redirect 301 /das-wordpressbuch https://phlow.de/magazin/wordpress/wordpress-buch/
-redirect 301 /wordpress https://phlow.de/magazin/wordpress/
-
-
-
-#
-# Redirects terminal // 2019-04-16
-#
-redirect 301 /terminal/ https://phlow.de/magazin/terminal/
-redirect 301 /terminal/vorwort/ https://phlow.de/magazin/terminal/vorwort/
-redirect 301 /terminal/einfuehrung/ https://phlow.de/magazin/terminal/start/
-redirect 301 /terminal/schnellstart/ https://phlow.de/magazin/terminal/schnellstart/
-redirect 301 /terminal/datei-ordner-befehle/ https://phlow.de/magazin/terminal/datei-ordner-befehle/
-redirect 301 /terminal/dateien-finden/ https://phlow.de/magazin/terminal/dateien-finden/
-redirect 301 /terminal/dateien-oeffnen/ https://phlow.de/magazin/terminal/dateien-oeffnen/
-redirect 301 /terminal/echo/ https://phlow.de/magazin/terminal/echo/
-redirect 301 /terminal/mv-umbennen/ https://phlow.de/magazin/terminal/mv-dateien-umbennen/
-redirect 301 /terminal/rm-dateien-loeschen/ https://phlow.de/magazin/terminal/rm-dateien-loeschen/
-redirect 301 /terminal/chmod-dateirechte/ https://phlow.de/magazin/terminal/chmod-dateirechte-bearbeiten/
-redirect 301 /terminal/verzeichnis-textdatei/ https://phlow.de/magazin/terminal/ls-verzeichnis-textdatei/
-redirect 301 /terminal/zip-unzip/ https://phlow.de/magazin/terminal/zip-unzip/
-redirect 301 /terminal/diff-dateien-vergleichen/ https://phlow.de/magazin/terminal/diff-dateien-vergleichen/
-redirect 301 /terminal/ordner-groesse-anzeigen/ https://phlow.de/magazin/terminal/ordner-groesse-anzeigen/
-redirect 301 /terminal/bash-scripte-schreiben/ https://phlow.de/magazin/terminal/bash-scripte-schreiben/
-redirect 301 /terminal/for-loop/ https://phlow.de/magazin/terminal/for-loop/
-redirect 301 /terminal/eigene-terminal-kommandos/ https://phlow.de/magazin/terminal/eigene-terminal-kommandos/
-redirect 301 /terminal/bash-scripte-sammlung/ https://phlow.de/magazin/terminal/bash-scripte-sammlung/
-redirect 301 /terminal/rsync/ https://phlow.de/magazin/terminal/rsync/
-redirect 301 /terminal/sftp/ https://phlow.de/magazin/terminal/sftp/
-redirect 301 /terminal/ssh-wordpress/ https://phlow.de/magazin/terminal/ssh-wordpress/
-redirect 301 /terminal/wget/ https://phlow.de/magazin/terminal/wget/
-redirect 301 /terminal/sips/ https://phlow.de/magazin/terminal/bildbearbeitung-sips/
-redirect 301 /terminal/screenshots/ https://phlow.de/magazin/terminal/screencapture-screenshots/
-redirect 301 /terminal/guetzli-jpg-jpeg-kompression/ https://phlow.de/magazin/terminal/guetzli-jpg-jpeg-kompression/
-redirect 301 /terminal/bash-profile/ https://phlow.de/magazin/terminal/bash-profile/
-redirect 301 /terminal/design/ https://phlow.de/magazin/terminal/design-anpassen/
-redirect 301 /terminal/passwoerter-erstellen/ https://phlow.de/magazin/terminal/passwoerter-erstellen/
-redirect 301 /terminal/schneller-arbeiten/ https://phlow.de/magazin/terminal/schneller-arbeiten/
-redirect 301 /terminal/asciidoctor/ https://phlow.de/magazin/terminal/asciidoctor/
-redirect 301 /terminal/ffmpeg/ https://phlow.de/magazin/terminal/ffmpeg/
-redirect 301 /terminal/pandoc/ https://phlow.de/magazin/terminal/pandoc/
-redirect 301 /terminal/homebrew/ https://phlow.de/magazin/terminal/homebrew/
-redirect 301 /terminal/tree/ https://phlow.de/magazin/terminal/tree/
-redirect 301 /terminal/terminal-say-sprachausgabe/ https://phlow.de/magazin/terminal/say/
-
-#
-# Redirects Social Media // 2019-04-11
-#
-redirect 301 /social_media/ https://phlow.de/magazin/social-media/
-redirect 301 /social_media/einfuehrung-social-media/ https://phlow.de/magazin/social-media/einfuehrung-social-media/
-redirect 301 /social_media/zahlen-fakten-internet-social-media/ https://phlow.de/magazin/social-media/zahlen-fakten-internet/
-redirect 301 /social_media/social-media-guidelines/ https://phlow.de/magazin/social-media/social-media-guidelines/
-redirect 301 /social_media/urheberrecht/ https://phlow.de/magazin/social-media/urheberrecht/
-redirect 301 /social_media/filter-blase/ https://phlow.de/magazin/social-media/filterblase/
-redirect 301 /social_media/digitaler-werkzeugkasten/ https://phlow.de/magazin/social-media/digitaler-werkzeugkasten/
-redirect 301 /social_media/internet-strategie/ https://phlow.de/magazin/social-media/internet-strategie/
-redirect 301 /social_media/facebook/ https://phlow.de/magazin/social-media/facebook/
-redirect 301 /social_media/instagram/ https://phlow.de/magazin/social-media/instragram/
-redirect 301 /social_media/youtube/ https://phlow.de/magazin/social-media/youtube/
-redirect 301 /social_media/snapchat/ https://phlow.de/magazin/social-media/snpachat/
-redirect 301 /social_media/twitter/ https://phlow.de/magazin/social-media/twitter/
-redirect 301 /social_media/pinterest/ https://phlow.de/magazin/social-media/pinterest/
-redirect 301 /social_media/tiktok/ https://phlow.de/magazin/social-media/tiktok/
-redirect 301 /social_media/blogs/ https://phlow.de/magazin/social-media/blogs/
-redirect 301 /social_media/wordpress/ https://phlow.de/magazin/social-media/wordpress/
-redirect 301 /social_media/tumblr/ https://phlow.de/magazin/social-media/tumblr/
-redirect 301 /social_media/literatur/ https://phlow.de/magazin/social-media/literatur/
-
-#
-# Redirects Distrokid
-#
-redirect 301 /mosonic https://distrokid.com/hyperfollow/mosonic/c158
-
-redirect 301 /netlabel_catalogue/ https://netlabels.org/
-redirect 301 /netlabel/ https://netlabels.org/
-redirect 301 /netlabels/index.php/New_Netlabel_Releases https://netlabels.org/releases/
-redirect 301 /netlabel/mp3/mellow-minimal-house.php https://netlabels.org/reviews/
-redirect 301 /netlabel/mp3/index.php https://netlabels.org/music/
-redirect 301 /netlabels/index.php/Main_Page https://netlabels.org/
-redirect 301 /seitenverhaeltnis https://magazin.phlow.de/bild/seitenverhaeltnis/
-
-</IfModule>
-
 
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/plain

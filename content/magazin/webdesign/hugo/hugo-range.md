@@ -117,14 +117,6 @@ Verschachtele Parameter
     {{ end }}
 ~~~~
 
-## ?
-
-~~~~
-    {{ range $name, $items := .Site.Taxonomies.categories }}
-      <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} &nbsp;<span>({{ len $items }})</span></a></li>
-    {{ end }}
-~~~~
-
 ## Zeige eine Liste an Tags
 
 ~~~~
@@ -132,6 +124,16 @@ Verschachtele Parameter
       <a href="/tags/{{ $name | urlize }}">{{ $name }}</a>
     {{ end }}
 ~~~~
+
+## Führe eine Schleife X-Mal aus
+
+Du kannst `seq` mit `range`und `after` kombinieren, um eine bestimmte Anzahl von X Elementen zu erhalten.
+
+~~~~
+{{ range after 1 (seq 20)}}
+{{ end }}
+~~~~
+
 
 ## `first` – Zeige die letzten drei Beiträge
 

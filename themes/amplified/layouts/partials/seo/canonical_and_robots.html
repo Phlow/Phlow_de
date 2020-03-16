@@ -10,7 +10,7 @@
 *
 */}}
 
-{{ if or (eq .Kind "taxonomy") (eq .Type "categories")}}
+{{ if or (eq .Kind "taxonomy") (eq .Type "categories") (eq .Section "link") }}
 <meta name="robots" content="noindex, follow"/>
 {{ else }}
 <meta name="robots" content="index, follow"/>

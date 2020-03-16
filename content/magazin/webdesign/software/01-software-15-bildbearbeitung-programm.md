@@ -10,9 +10,9 @@ Bildbearbeitung gehört zur täglichen Arbeit eines Webdesigners. Sei es die Opt
 
 Keine Angst, es muss nicht immer Photoshop sein. Die Bildbearbeitung bei Webdesignern begrenzt sich oft auf die folgenden Schritte. Worauf es dabei ankommt und was Du für die einzelnen Schritte machen musst, erkläre ich Dir später, wenn wir uns um das Thema Bilder intensiver kümmern.
 
-* [Tonwertkorrektur]({{< ref "09-bilder-02-02-tonwertkorrektur.md" >}}): Optimierung der Farben in einem Bilder
-* [Zurechtschneiden]({{< ref "09-bilder-02-06-beschneiden-bildformate.md" >}}): Bilder harmonisch beschneiden
-* [Optimierung]({{< ref "09-bilder-03-11-bildkompression.md" >}}): Bilddateien komprimieren für schnelle Webseiten
+* [Tonwertkorrektur]({{< ref "/magazin/webdesign/bilder/09-bilder-02-02-tonwertkorrektur.md" >}}): Optimierung der Farben in einem Bilder
+* [Zurechtschneiden]({{< ref "/magazin/webdesign/bilder/09-bilder-02-06-beschneiden-bildformate.md" >}}): Bilder harmonisch beschneiden
+* [Optimierung]({{< ref "/magazin/webdesign/bilder/09-bilder-03-11-bildkompression.md" >}}): Bilddateien komprimieren für schnelle Webseiten
 
 Im folgenden stelle ich Dir für Windows und Mac verschiedene Bildbearbeitungsprogramme vor. Oft genügen erst einmal die Programme, die das Betriebssystem von Haus aus mitbringt. Doch es geht sogar direkt im Browser…
 

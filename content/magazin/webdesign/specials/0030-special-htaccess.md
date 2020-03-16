@@ -17,7 +17,7 @@ Hypertext Access, häufig abgekürzt als *.htaccess*, ist eine Konfigurationsdat
 
 Die *.htaccess* liegt als Konfigurationsdatei in einem Verzeichnis und wirkt sich auf dieses und alle dazugehörigen Unterverzeichnisse aus. Die *.htaccess* bietet also nützliche Funktionn, die es Webmastern ermöglicht den Server zu kontrollieren.
 
-Die *.htaccess*-Datei selbst ist eine einfache Textdatei, in welche Du spezifische Befehle tippst. Am Besten erstellst und bearbeitest Du sie mit einem Texteditor wie z.B. [Atom]({{< ref "01-software-03-atom-texteditor.md" >}}).
+Die *.htaccess*-Datei selbst ist eine einfache Textdatei, in welche Du spezifische Befehle tippst. Am Besten erstellst und bearbeitest Du sie mit einem Texteditor wie z.B. [Atom]({{< ref "/magazin/webdesign/software/01-software-03-atom-texteditor.md" >}}).
 
 ## Wo befindet sich die .htaccess-Datei?
 

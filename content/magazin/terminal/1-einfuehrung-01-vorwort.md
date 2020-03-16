@@ -39,7 +39,7 @@ Kleine For-Schleifen, die ein paar Befehlen abarbeiten, benennen Dir innerhalb v
 Versuch das mal mit dem Finder. Oder suche _nach_ und _in_ Dateien mit `find` und `grep` nach einer Variablen oder einem Schnipsel Code, den Du noch einmal
 verwenden willst. Oder bau Dir Deinen eigenen kleinen Downloader mit
 Hilfe eines simplen Bash-Scriptes, dass Dir a) die aktuelle
-[WordPress]({{< ref "wordpress.md" >}})-Version mitsamt Deiner Lieblings-Erweiterungen herunterlädt, b)
+[WordPress]({{< ref "/magazin/wordpress/_index.md" >}})-Version mitsamt Deiner Lieblings-Erweiterungen herunterlädt, b)
 entpackt und c) alles in die vorhergesehenen Verzeichnisse verschiebt.
 
 Also: Schau mal in in die folgenden Seiten hinein. Und solltest Du hilfreiche Informationen finden, hast Du vielleicht auch Lust, mich als Autor zu unterstützen.

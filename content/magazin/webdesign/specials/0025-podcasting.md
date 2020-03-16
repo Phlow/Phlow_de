@@ -54,7 +54,7 @@ Um einen Podcast zu empfangen, benötigt der Benutzer eine Podcatcher-Software, 
 
 Die Podcatcher-Software wertet den abonnierten RSS-Feed aus und lädt auf Wunsch automatisch die darin verlinkte Mediendatei aus dem Internet herunter. Die meisten Podcatcher greifen Besitzern von iPods unter die Arme und importieren die Audiodateien gleich nach iTunes, von wo aus sie auf den iPod kopiert werden können.
 
-Wie die meisten Weblog-Systeme generiert auch [WordPress]({{< ref "wordpress.md" >}}) automa­tisch RSS-Feeds. WordPress eignet sich darum hervorragend dazu, eigene Podcasts zu veröffentlichen, da das Redaktionssystem den Benutzer unterstützt.
+Wie die meisten Weblog-Systeme generiert auch [WordPress]({{< ref "/magazin/wordpress/_index.md" >}}) automa­tisch RSS-Feeds. WordPress eignet sich darum hervorragend dazu, eigene Podcasts zu veröffentlichen, da das Redaktionssystem den Benutzer unterstützt.
 
 ## Musik für Deinen Podcast
 
