@@ -59,6 +59,14 @@ behalten bei der Verkleinerung dann ihren Namen. Das sieht dann so aus:
   - `sips` verkleinert die Bilder und speichert sie im Ordner
     *thumbnail* ab.
 
+### For-Schleife für die Bildbearbeitung
+
+Die folgende Schleife verkleinert die Bilder auf eine Bildhöhe mit 900 Pixeln und speichert die Bilder unter einem neuen Namen ab, der mit `-600x900` endet.
+
+~~~~
+for image in *.jpg; do sips -Z 900 $image --out $image-600x900; done
+~~~~
+
 ## Bilder zuschneiden mit sips
 
 Bild anpassen und zurechtschneiden und Seitenverhältnis ignorieren

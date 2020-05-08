@@ -4,6 +4,12 @@
 #  network     : 
 #  date        : 
 
+- title       : 'Browser Opera integriert Instagram'
+  source_url  : https://www.heise.de/newsticker/meldung/Browser-Opera-integriert-Instagram-4706661.html
+  description : 'Opera integriert nun auch Instagram. Messenger im Browser haben in der Nutzung stark zugenommen.'
+  network     : instagram
+  date        : 2020-04-22
+
 - title       : 'ARD Social-Media-Bilanz: 6,6 Milliarden Video-Streams auf YouTube und Facebook'
   source_url  : https://www.heise.de/newsticker/meldung/ARD-Social-Media-Bilanz-6-6-Milliarden-Video-Streams-auf-YouTube-und-Facebook-4676795.html
   description : 'Die ARD ist auch in Sozialen Medien erfolgreich. Das soll eine Auswertung der Aktivitäten des Senderverbunds auf Facebook und Co. belegen.'
