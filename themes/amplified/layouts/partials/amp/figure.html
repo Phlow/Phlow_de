@@ -1,7 +1,7 @@
 <figure{{ with .class }} class="{{ . }}"{{ end }}>
 <amp-img
     {{ with .src }}src="{{ . }}"{{ end }}
-    {{ if .figcaption }}{{ .figcaption }}{{ else if .alt }}{{ .alt }}{{ end }}
+    {{ if .figcaption }}alt="{{ .figcaption }}"{{ else if .alt }}alt="{{ .alt }}"{{ end }}
     {{ with .attribution }}attribution="{{ range (split . " ") }}{{ . }} {{ end }}"{{ end }}
     {{ with .srcset }}srcset="{{ range (split . " ") }}{{ . }} {{ end }}"{{ end }}
     {{ with .tabindex }}tabindex="{{ . }}"{{ end }}

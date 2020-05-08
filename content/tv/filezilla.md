@@ -18,7 +18,7 @@ date                : 2016-02-20
 Diese Videoanleitung erklärt, wie man mit dem kostenlosen FTP-Programm FileZilla  Dateien auf einen Server hochlädt.
 <!--more-->
 
-{{< youtube ystpUgSaPrA >}}
+{{< amp/youtube id="ystpUgSaPrA" >}}
 
 Um Dateien auf einen Server im Internet hochzuladen, benötigt man ein FTP-Programm. Dieses überträgt mittels des File Transfer Protocol die Dateien, z.B. für eine WordPress-Installation. Im Folgenden stellen wir das kostenlose Open Source-Programm FileZilla vor und wie es funktioniert.
 

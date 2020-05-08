@@ -1,11 +1,11 @@
 {{/*
 *
-*  {{< amp/youtube id="rTZEDv1VDPU" width="" height="" >}}
+*  {{< amp/vimeo id="2099599" width="" height="" >}}
 *
 */}}
-<amp-youtube
+<amp-vimeo
   {{ with .id }}data-videoid="{{ . }}"{{ end }}
   layout="responsive"
   width="{{ with .width }}{{ .width }}{{ else }}1280{{ end }}"
   height="{{ with .height }}{{ .height }}{{ else }}{{ end }}720"
-></amp-youtube>
+></amp-vimeo>

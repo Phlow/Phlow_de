@@ -18,7 +18,7 @@ permalink: /video/wordpress-thumbnails/
 Diese Videoanleitung erklärt, wie man mit WordPress selbst den Ausschnitt bestimmt und ein neues Miniaturbild bzw. einen Thumbnail erstellt.
 <!--more-->
 
-{{< youtube 8n6j7oqYF7c >}}
+{{< amp/youtube id="8n6j7oqYF7c" >}}
 
 Das Problem: WordPress generiert automatisch die quadratischen Miniaturbilder/Thumbnails und geht dabei von der Mitte des hochgeladenen Bildes aus. Dadurch sehen Miniaturbilder/Thumbnails nicht immer gut aus, insbesondere bei horizontalen Bildern.
 

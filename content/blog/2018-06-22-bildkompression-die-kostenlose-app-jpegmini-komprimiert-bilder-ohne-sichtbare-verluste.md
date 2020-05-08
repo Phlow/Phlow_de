@@ -6,7 +6,7 @@ categories:
 ---
 <a href="http://www.jpegmini.com/">JPEGmini</a> komprimiert Bilder ohne sichtbare Verluste und spart Anwendern Webspace und beschleunigt Websites durch kürzere Download-Zeiten. Die <a href="http://www.youtube.com/watch?v=ShLLqbASxwk">Videoanleitung stellt JPEGMini</a> und die dazugehörige kostenlose JPEGMini Lite-App vor.<!--more-->
 
-{{< youtube ShLLqbASxwk >}}
+{{< amp/youtube id="ShLLqbASxwk" >}}
 
 Erstaunlich bei der JPEGMini Kompression ist, dass keinerlei sichtbare Artefakte in den Bildern erzeugt werden, wie Ihr im Video sehen könnt. Sicherlich gehen bei der Kompression Informationen verloren, aber wenn diese nicht sichtbar sind, kann man sich nur noch über gesparten Webspace und schnellere Übertragungsraten seiner Websites freuen.
 

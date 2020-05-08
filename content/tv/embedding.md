@@ -18,7 +18,7 @@ video: https://www.youtube.com/watch?v=DubeBHIbwI0
 Moderne Online-Dienste wie YouTube, Slideshare, Soundcloud &amp; Co. helfen bei der Verbreitung von Informationen. Mit Hilfe der »Embedding«-Funktionalität informiert man sich nicht nur über die Inhalte auf der jeweiligen Plattform, sondern bringt die Inhalte zu den Nutzern.
 <!--more-->
 
-{{< youtube DubeBHIbwI0 >}}
+{{< amp/youtube id="DubeBHIbwI0" >}}
 
 Dazu erlauben die Online-Dienste das einbauen der Videos, Sounds, Präsentationen und Texte per Embed-Funktion. Dieses Video erklärt, wie man die Inhalte auf Reisen schickt und in Blogs und auf Facebook einbaut.
 

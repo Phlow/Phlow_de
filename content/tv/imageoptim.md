@@ -18,7 +18,7 @@ date                : 2013-09-24
 Bilddateien wie JPG, PNG und GIF komprimiert man mit der kostenlosen Open Source-Software ImageOptim verlustfrei. Die Videoanleitung erklärt das Programm und wie man es für Bilder anwendet.
 <!--more-->
 
-{{< youtube rTZEDv1VDPU >}}
+{{< amp/youtube id="rTZEDv1VDPU" >}}
 
 In meinen Tests wurden bereits mit Photoshop abgespeicherte und komprimierte Bilder noch ein weiteres Mal geschrumpft: meist zwischen 6% und 10%. Besonders für Webdesigner und Website-Besitzer ist ImageOptim interessant. Denn es kleinere Bilddateien beschleunigen den Download einer Website, was besonders bei mobilen Geräten, wie Smartphones, viel Sinn macht.
 

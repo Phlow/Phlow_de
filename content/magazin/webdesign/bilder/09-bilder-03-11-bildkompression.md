@@ -26,7 +26,7 @@ Download
 FileOptimizer für Windows
 :   http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer
 
-{{< youtube rTZEDv1VDPU >}}
+{{< amp/youtube id="rTZEDv1VDPU" >}}
 
 ## Guetzli: Bildoptimierung auf der Kommandozeile
 
