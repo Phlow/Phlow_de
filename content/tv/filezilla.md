@@ -13,12 +13,11 @@ tags:
     - filezilla
     - ftp programm
 video               : https://www.youtube.com/watch?v=ystpUgSaPrA
+youtube             : ystpUgSaPrA
 date                : 2016-02-20
 ---
 Diese Videoanleitung erklärt, wie man mit dem kostenlosen FTP-Programm FileZilla  Dateien auf einen Server hochlädt.
 <!--more-->
-
-{{< amp/youtube id="ystpUgSaPrA" >}}
 
 Um Dateien auf einen Server im Internet hochzuladen, benötigt man ein FTP-Programm. Dieses überträgt mittels des File Transfer Protocol die Dateien, z.B. für eine WordPress-Installation. Im Folgenden stellen wir das kostenlose Open Source-Programm FileZilla vor und wie es funktioniert.
 
@@ -26,13 +25,13 @@ Um Dateien auf einen Server im Internet hochzuladen, benötigt man ein FTP-Progr
 
 Den [FTP-Client FileZilla][1] bzw. das FTP-Programm können Sie kostenlos aus dem Internet herunterladen. Bei der Installation unterstützt Sie ein Wizard, folgen Sie einfach seinen Anweisungen.
 
-[![FileZilla Arbeitsoberfläche]({{ site.url }}{{ site.baseurl }}/images/video-filezilla-arbeitsoberflaeche.png)][2]
+[![FileZilla Arbeitsoberfläche](/images/tv/video-filezilla-arbeitsoberflaeche.png)][2]
 
 Nach der Installation ist FileZilla sofort einsatzbereit. Über die Buttons der Navigationsleiste blenden Sie die verschiedenen Fenster schnell ein und aus. Um Platz zu sparen und eine bessere Übersicht zu erhalten, schalten Sie am besten das Nachrichten-Log mit den FTP-Kommandos und die Quickconnect-Leiste aus. Für noch mehr Übersicht verkleinern Sie die Transfer-Statusanzeige.
 
 Diese Ansichten sind nicht wirklich notwendig. Neben den Buttons gibt es auch die Möglichkeit, über das Menü *Ansicht* die Fenster an- oder auszuschalten. Damit FileZilla auf Ihren Webspace zugreifen kann, benötigt das Programm folgende Informationen, die Sie über das Menü *Datei › Servermanager › Neuer Server* eingeben müssen.
 
-![]({{ site.url }}{{ site.baseurl }}/images/video-filezilla-ftp-einstellungen.png)
+![](/images/tv/video-filezilla-ftp-einstellungen.png)
 
 * Host: Adresse Ihres Webspace
 * Benutzer: Benutzername Ihres Webspace
@@ -53,4 +52,4 @@ Solche Rechte regeln Sie über die Berechtigungsstruktur der Dateiattribute. Um 
 
 
  [1]: http://www.filezilla-project.org
- [2]: {{ site.url }}{{ site.baseurl }}/images/video-filezilla-arbeitsoberflaeche.png
+ [2]: /images/tv/video-filezilla-arbeitsoberflaeche.png

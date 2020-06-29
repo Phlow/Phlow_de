@@ -4,6 +4,48 @@
 #  network     : 
 #  date        : 
 
+ - title       : 'Facebook: TikTok-Konkurrent Reels kommt nach Deutschland'
+   source_url  : https://www.heise.de/news/Facebook-TikTok-Konkurrent-Reels-kommt-nach-Deutschland-4792024.html
+   description : 'Facebook ergänzt Instagram um das Kurzvideo-Format Reels und will damit dem erfolgreichen chinesischen Videodienst TikTok Paroli bieten.'
+   network     : facebook
+   date        : 2020-06-23
+ 
+ - title       : 'BR, NDR, WDR: "Facebook versagt im Kampf gegen rechte Hetze"'
+   source_url  : https://www.heise.de/news/BR-NDR-WDR-Facebook-versagt-im-Kampf-gegen-rechte-Hetze-4792322.html
+   description : 'Nur wenige Klicks reichten aus, um in eine Welt menschenverachtenden Denkens abtauchen zu können, meinen Reporter der Sender.'
+   network     : facebook
+   date        : 2020-06-23
+
+- title       : 'Snapchat: Trumps Beiträge werden aus dem "Discover"-Bereich entfernt'
+  source_url  : https://www.heise.de/news/Snapchat-Trumps-Beitraege-werden-aus-dem-Discover-Bereich-entfernt-4773701.html
+  description : 'Twitter unterzieht Donald Trumps Tweets bereits Faktenchecks, Snapchat entfernt Trumps Beiträge nun aus der Kategorie "Entdecken".'
+  network     : snapchat
+  date        : 2020-06-04
+
+- title       : 'Facebook: Mitarbeiter "streiken" wegen Zuckerbergs Haltung zum Trump-Post'
+  source_url  : https://www.heise.de/news/Facebook-Mitarbeiter-streiken-wegen-Zuckerbergs-Haltung-zum-Trump-Post-4771074.html
+  description : 'Facebook-Mitarbeiter werfen ihrem Chef Mark Zuckerberg unter anderem mangelndes Rückgrat im Umgang mit dem gewaltverherrlichenden Trump-Post vor.'
+  network     : facebook
+  date        : 2020-06-02
+
+- title       : 'Studie: Viel digitales Neuland seit Corona auch für junge Erwachsene'
+  source_url  : https://www.heise.de/newsticker/meldung/Studie-Viel-digitales-Neuland-seit-Corona-auch-fuer-junge-Erwachsene-4722899.html
+  description : 'Die Corona-Krise bewegt viele Gesellschaftsbereiche zu einer stärkeren Digitalisierung. Auch sogenannte Digital Natives haben "digitale erste Male" erlebt.'
+  network     : studien
+  date        : 2020-05-18
+
+- title       : 'Handyfrei auf dem Spielplatz: Rituale können Eltern helfen'
+  source_url  : https://www.heise.de/newsticker/meldung/Handyfrei-auf-dem-Spielplatz-Rituale-koennen-Eltern-helfen-4721668.html
+  description : 'Ständig macht es "Pling": Auch beim Spielen oder Kinderwagenschieben ist das Handy omnipräsent. So einfach ändern lässt sich das nicht.'
+  network     : studien
+  date        : 2020-05-14
+
+- title       : 'Facebook kauft GIF-Plattform Giphy'
+  source_url  : https://www.heise.de/newsticker/meldung/Facebook-kauft-GIF-Plattform-Giphy-4722667.html
+  description : 'Der Social-Media-Konzern übernimmt die GIF-Plattform Giphy für 400 Millionen Dollar. Aus der US-Politik kommen Vorbehalte dagegen.'
+  network     : 2020-05-16
+  date        : 
+
 - title       : 'Browser Opera integriert Instagram'
   source_url  : https://www.heise.de/newsticker/meldung/Browser-Opera-integriert-Instagram-4706661.html
   description : 'Opera integriert nun auch Instagram. Messenger im Browser haben in der Nutzung stark zugenommen.'

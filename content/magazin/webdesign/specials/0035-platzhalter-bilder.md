@@ -1,4 +1,5 @@
 ---
+weight          : 35
 subtitle        : Platzhalter für Webdesign-Entwürfe
 title           : Placekitten bietet Katzenbilder als Platzhalter für Webdesigns
 meta_description: "Mit Placekitten.com bietet Mark James einen kostenlosen Service, um schnell Katzenbilder als Platzhalterbilder in eigene Webdesigns einzubauen."

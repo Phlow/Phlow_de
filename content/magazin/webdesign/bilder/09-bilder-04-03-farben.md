@@ -2,7 +2,7 @@
 subtitle              : Farbpaletten
 title                 : Farben finden, erstellen, nutzen
 categories            : bilder
-weight: 0991
+weight: 0961
 image:
   header                  : /images/webdesign/bild-tiger-shutterstock_231902518.jpg
   caption                 : Low poly design. Tiger illustration von Shutterstock

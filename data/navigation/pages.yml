@@ -10,9 +10,9 @@
   sidebar       : true
   topbar        : true
 
-- menu_title    : 'Blog'
-  title         : 'In unserem Phlow Blog toben wir uns zu unseren Lieblingsthemen aus'
-  url_link      : 'blog/'
+- menu_title    : 'Neues'
+  title         : 'Was gibts Neues aus dem Phlow-Netzwerk?'
+  url_link      : 'neues/'
   sidebar       : true
   topbar        : true
 

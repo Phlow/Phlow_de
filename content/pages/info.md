@@ -9,6 +9,6 @@ Im Jahr 2000 gründete [Moritz »mo.« Sauer][1] Phlow. Seitdem entwickelt er �
 [1]: https://moritz.sauer.io/
 [2]: {{< ref "phlow-webdesign.md" >}}
 [3]: https://moritz.sauer.io/buecher/
-[4]: {{< ref "wordpress-buch.md" >}}
+[4]: {{< ref "01-wordpress-buch.md" >}}
 [5]: {{< ref "social-media.md" >}}
 [6]: {{< ref "/seminare/_index.md" >}}

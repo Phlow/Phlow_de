@@ -1,11 +1,9 @@
 {{ define "main" }}
 
 <div><!-- wrapper -->
-  <div class="px3 lg-px4">
-
+  <div class="mt3 px4 lg-px4">
     <div class="max-width-2 mx-auto">
       <article class="clearfix mxn2">
-
       {{ partial "helper/article-header.html" . }}
       {{ partial "helper/summary-content.html" . }}
       {{ partial "helper/nextprev.html" . }}
@@ -13,7 +11,6 @@
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->
   </div><!-- /padding -->
-  
-      {{ partial "advertisment/wordpress-buch.html" . }}
+  {{ if eq .Page.Params.advertisement false }}{{ else }}{{ partial "advertisment/wordpress-buch.html" . }}{{ end }}
 </div><!-- /wrapper -->
 {{ end }}

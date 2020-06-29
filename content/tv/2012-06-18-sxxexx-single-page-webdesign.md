@@ -29,7 +29,7 @@ Ein Strasse entlangfahren mit 360 Grad-Bildern
 :   <s>360langstrasse.sf.tv</s>
 
 Anleitung »Making the Perfect Listing«
-:   <s>https://gidsy.com/handbooks/making-the-perfect-listing/</s>
+:   <s>gidsy.com/handbooks/making-the-perfect-listing/</s>
 
 Verzeichnis mit One Page Showcases
 :   [www.onepagelove.com](http://www.onepagelove.com)

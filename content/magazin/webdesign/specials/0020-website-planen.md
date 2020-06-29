@@ -1,4 +1,5 @@
 ---
+weight          : 20
 subtitle        : Projektplanung
 title           : So planst Du Dein Website-Projekt
 categories      : special

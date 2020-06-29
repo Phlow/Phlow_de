@@ -3,7 +3,7 @@ subtitle              : Creative Commons Fotos
 title                 : "Fotos: Kostenloses Bildmaterial"
 meta_description      : "Du suchst Bilder und Fotos frei von Copyrights für die Verwendung in eigenen Projekten, wie Websites, Präsentationen,...? Diese Links helfen weiter."
 categories            : bilder
-weight: 0991
+weight: 0971
 image:
   header                  : /images/webdesign/bild-unsplash-foto-kostenlos-quelle-970x463.jpg
   caption                 : Kostenlose Quellen für hochwertige Fotos

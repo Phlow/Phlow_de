@@ -1,4 +1,5 @@
 ---
+weight          : 30
 subtitle        : Serversteuerung
 title           : So fügst Du  Favicon, Apple Icon und andere Icons Deiner Webseite hinzu
 categories      : special

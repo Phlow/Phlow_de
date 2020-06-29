@@ -1,4 +1,5 @@
 ---
+weight          : 50
 subtitle        : Webdesign
 title           : 'Perfekte 404-Fehlerseiten erstellen'
 meta_description: "Mit Placekitten.com bietet Mark James einen kostenlosen Service, um schnell Katzenbilder als Platzhalterbilder in eigene Webdesigns einzubauen."

@@ -5,11 +5,6 @@ meta_description    : "Klein aber fein: scrollTop überwacht die vertikale Posit
 categories          : code
 tags:
     - javascript
-slug                : buchkritik-prozesse-grunt-automatisieren
-image:
-    title           : images/webdesign/icon-javascript-128x.png
-    title_width     : 128
-    title_height    : 128
 ---
 Klein aber fein: `scrollTop` überwacht die vertikale Position der Scrollleiste und wenn diese größer als *X* ist (im Beispiel 700 Pixel), blendet das Script den *.scrollup*-Button ein.
 <!--more-->

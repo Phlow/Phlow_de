@@ -13,11 +13,10 @@ tags:
     - installation
     - wordpress installation
 video               : https://www.youtube.com/watch?v=lW820hNkXrI
+youtube             : lW820hNkXrI
 ---
 Die Video-Anleitung »Die Installation von WordPress« erklärt, welche ersten Schritte für die Installation und Konfiguration der Weblog-Software notwendig sind.
 <!--more-->
-
-{{< amp/youtube id="lW820hNkXrI" >}}
 
 ## Vorbereitung
 

@@ -25,9 +25,7 @@
   {{ if .Page.Params.Styles }}{{ .Page.Params.styles | safeCSS }}{{ end }}
 </style>
 
-
 <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ else }}{{ .Site.BaseURL }}{{ .Section }}/index.xml{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" />
-
 
 {{ partial "helper/favicon.html" . }}
 

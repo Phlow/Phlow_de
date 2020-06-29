@@ -1,4 +1,5 @@
 ---
+weight          : 25
 subtitle        : 'Podcasting: Software & Websites'
 title           : So produzierst Du Deinen eigenen Podcast
 categories      : special

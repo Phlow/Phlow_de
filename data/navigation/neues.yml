@@ -1,0 +1,22 @@
+- menu_title    : 'Seminare'
+  title         : 'Wir trainieren Sie in den bereichen Social Media, WordPress, Webdesign und digitaler Journalismus'
+  url_link      : 'seminare/'
+  topbar        : true
+  sidebar       : true
+
+- menu_title    : 'Magazin'
+  title         : 'Im Phlow Magazin lesen Sie unsere Fachbeiträge zu den Themen Webdesign, Social Media, WordPress und digitaler Journalismus'
+  url_link      : 'magazin/'
+  sidebar       : true
+  topbar        : true
+
+- menu_title    : 'Kontakt'
+  title         : 'Sie haben Fragen? Dürfen wir Ihnen helfen?'
+  url_link      : 'kontakt/'
+  sidebar       : true
+  topbar        : true
+
+- menu_title    : 'Info'
+  title         : 'Phlow stellt sich vor'
+  url_link      : 'info/'
+  sidebar       : true

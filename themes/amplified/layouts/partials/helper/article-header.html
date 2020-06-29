@@ -1,19 +1,28 @@
 <header>
-  {{ if .Page.Params.youtube }}
+  {{ if eq .Page.Params.youtube true }}
+  {{/*
+  *
+  *  Bitte nicht einbauen, wenn nur true
+  *  wenn aber ID, dann einbauen
+  *
+  */}}
+  {{ else if .Page.Params.youtube }}
 
-  <amp-youtube
-        data-videoid="{{ .Page.Params.youtube }}"
-        width="1280"
-        height="720"
-        layout="responsive">
-      <amp-img
-        src="https://i.ytimg.com/vi/{{ .Page.Params.youtube }}/hqdefault_live.jpg"
-        placeholder
-        layout="fill"
-        />
-  </amp-youtube>
-
-  {{ else if .Page.Params.image.title }}
+  <div class="mt2">
+    <amp-youtube
+          data-videoid="{{ .Page.Params.youtube }}"
+          width="1280"
+          height="720"
+          layout="responsive">
+        <amp-img
+          src="https://i.ytimg.com/vi/{{ .Page.Params.youtube }}/hqdefault_live.jpg"
+          placeholder
+          layout="fill"
+          />
+    </amp-youtube>
+  </div>
+  {{ end }}
+  {{ if .Page.Params.image.title }}
   <figure class="mt0">
     <amp-img
         src="{{ .Site.BaseURL }}{{ .Page.Params.image.title }}"

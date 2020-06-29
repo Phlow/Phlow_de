@@ -104,7 +104,7 @@ params:
     youtube: PhlowMedia
     twitter: phlow
     instagram: phlowmedia
-    facebook: phlow.media
+    # facebook: phlow.media
     github: phlow
     # soundcloud: phlow
     # rss: # Full URL needed
