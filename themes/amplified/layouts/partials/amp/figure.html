@@ -1,4 +1,8 @@
-<figure{{ with .class }} class="{{ . }}"{{ end }}>
+{{/*
+*
+*  {{< amp/fig src="/images/bild.png" figcaption="" alt=" width="" height="" >}}
+*
+*/}}<figure{{ with .class }} class="{{ . }}"{{ end }}>
 <amp-img
     {{ with .src }}src="{{ . }}"{{ end }}
     {{ if .figcaption }}alt="{{ .figcaption }}"{{ else if .alt }}alt="{{ .alt }}"{{ end }}

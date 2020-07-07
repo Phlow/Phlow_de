@@ -9,6 +9,4 @@ image:
 Webdesign-Buchkritiken zu verschiedenen Aspekten des Webdesigns
 <!--more-->
 
-<ul class="list-reset">
-{{< list-cat category="buchkritik" heading="Buchkritiken" >}}
-</ul>
+{{< list-cat class="list-reset" category="buchkritik" heading="Buchkritiken" >}}

@@ -4,17 +4,30 @@
 #  network     : 
 #  date        : 
 
- - title       : 'Facebook: TikTok-Konkurrent Reels kommt nach Deutschland'
-   source_url  : https://www.heise.de/news/Facebook-TikTok-Konkurrent-Reels-kommt-nach-Deutschland-4792024.html
-   description : 'Facebook ergänzt Instagram um das Kurzvideo-Format Reels und will damit dem erfolgreichen chinesischen Videodienst TikTok Paroli bieten.'
-   network     : facebook
-   date        : 2020-06-23
- 
- - title       : 'BR, NDR, WDR: "Facebook versagt im Kampf gegen rechte Hetze"'
-   source_url  : https://www.heise.de/news/BR-NDR-WDR-Facebook-versagt-im-Kampf-gegen-rechte-Hetze-4792322.html
-   description : 'Nur wenige Klicks reichten aus, um in eine Welt menschenverachtenden Denkens abtauchen zu können, meinen Reporter der Sender.'
-   network     : facebook
-   date        : 2020-06-23
+#- title       : ''
+#  source_url  : 
+#  description : ''
+#  network     : 
+#  date        : 
+
+
+- title       : 'Fast 100 Firmen boykottieren Facebook'
+  source_url  : https://www.tagesschau.de/ausland/facebook-anzeigenboykott-101.html
+  description : 'An einem Tag mehr als 50 Milliarden Dollar Börsenwert verloren: Der Anzeigenboykott bei Facebook für weniger Hass im Netz trifft das Unternehmen. Nun sollen auch europäische Unternehmen mitmachen.'
+  network     : facebook
+  date        : 2020-06-29
+
+- title       : 'Facebook: TikTok-Konkurrent Reels kommt nach Deutschland'
+  source_url  : https://www.heise.de/news/Facebook-TikTok-Konkurrent-Reels-kommt-nach-Deutschland-4792024.html
+  description : 'Facebook ergänzt Instagram um das Kurzvideo-Format Reels und will damit dem erfolgreichen chinesischen Videodienst TikTok Paroli bieten.'
+  network     : facebook
+  date        : 2020-06-23
+
+- title       : 'BR, NDR, WDR: "Facebook versagt im Kampf gegen rechte Hetze"'
+  source_url  : https://www.heise.de/news/BR-NDR-WDR-Facebook-versagt-im-Kampf-gegen-rechte-Hetze-4792322.html
+  description : 'Nur wenige Klicks reichten aus, um in eine Welt menschenverachtenden Denkens abtauchen zu können, meinen Reporter der Sender.'
+  network     : facebook
+  date        : 2020-06-23
 
 - title       : 'Snapchat: Trumps Beiträge werden aus dem "Discover"-Bereich entfernt'
   source_url  : https://www.heise.de/news/Snapchat-Trumps-Beitraege-werden-aus-dem-Discover-Bereich-entfernt-4773701.html

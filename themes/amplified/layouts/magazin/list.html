@@ -28,7 +28,6 @@
   </div><!-- /padding -->
 </div><!-- /wrapper -->
 
-
-{{ partial "advertisment/wordpress-buch.html" . }}
+  {{ if eq .Page.Params.advertisement false }}{{ else }}{{ partial "advertisment/wordpress-buch.html" . }}{{ end }}
 
 {{ end }}

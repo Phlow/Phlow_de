@@ -1,0 +1,91 @@
+{{ define "main" }}
+
+<div><!-- wrapper -->
+  <div class="px4 lg-px4">
+
+    <div class="max-width-4 mx-auto">
+      <article class="clearfix mxn2">
+
+        <div class="sm-col sm-col-12 px2">
+        {{ partial "helper/article-header.html" . }}
+        {{ partial "helper/summary-content.html" . }}
+        </div>
+
+        <div class="sm-col sm-col-12 md-col-6 mt3 px2">
+
+          <h2 class="mt0 mb3">Journalismus</h2>
+
+          {{ range .Site.Taxonomies.tags.darstellungsform }}
+            <div class="mb4">
+              {{ if .Params.image.thumb }}
+              <a href="{{.Permalink}}" title="Lesen › {{.Title}}">
+              <amp-img
+                  class="right ml2 mb1"
+                  src="{{ .Params.image.thumb }}"
+                  alt="Lesen sie {{.Title}}"
+                  width="128"
+                  height="128"
+                  layout="fixed">
+              </amp-img>
+              </a>
+              {{ end }}
+
+
+              <h2 class="h6 mt0"><a href="{{.Permalink}}">{{.Title}}</a></h2>
+              <p>
+                {{.Summary | plainify }}
+                <a href="{{.Permalink}}" title="Lesen › {{.Title}}">Mehr ›</a>
+              </p>
+              <div class="clearfix"></div>
+            </div>
+          {{ end }}
+        </div>
+
+
+
+
+        <div class="sm-col sm-col-12 md-col-6 mt3 px2">
+
+          <h2 class="mt0 mb3">Recherche</h2>
+
+          {{ range sort .Site.Taxonomies.tags.recherche "File.TranslationBaseName" }}
+            <div class="mb4">
+              {{ if .Params.image.thumb }}
+              <a href="{{.Permalink}}" title="Lesen › {{.Title}}">
+              <amp-img
+                  class="right ml2 mb1"
+                  src="{{ .Params.image.thumb }}"
+                  alt="Lesen sie {{.Title}}"
+                  width="128"
+                  height="128"
+                  layout="fixed">
+              </amp-img>
+              </a>
+              {{ end }}
+
+
+              <h2 class="h6 mt0"><a href="{{.Permalink}}">{{.Title}}</a></h2>
+              <p>
+                {{.Summary | plainify }}
+                <a href="{{.Permalink}}" title="Lesen › {{.Title}}">Mehr ›</a>
+              </p>
+              <div class="clearfix"></div>
+            </div>
+          {{ end }}
+        </div>
+
+
+
+
+
+
+
+
+
+
+      </article><!-- /clearfix -->
+    </div><!-- /max-width-2 -->
+  </div><!-- /padding -->
+</div><!-- /wrapper -->
+
+{{ end }}

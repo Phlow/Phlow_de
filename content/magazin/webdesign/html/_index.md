@@ -9,7 +9,5 @@ image:
 Lerne Schritt für Schritt HTML5 und CSS, um eigene Websites zu gestalten. Unsere Anleitungen und Videos helfen Dir dabei.
 <!--more-->
 
-<ul class="list-reset">
-{{< list-cat category="html-grundlagen" heading="HTML-Grundlagen" >}}
-{{< list-cat category="css-grundlagen" heading="CSS-Grundlagen" >}}
-</ul>
+{{< list-cat class="list-reset"category="html-grundlagen" heading="HTML-Grundlagen" >}}
+{{< list-cat class="list-reset"category="css-grundlagen" heading="CSS-Grundlagen" >}}

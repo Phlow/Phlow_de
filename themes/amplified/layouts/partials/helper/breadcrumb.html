@@ -1,12 +1,22 @@
 {{ define "breadcrumb" }}
   {{ if .p1.Parent }}
-  {{ template "breadcrumb" (dict "p1" .p1.Parent "p2" .p2 )  }}
+  {{ template "breadcrumb" (dict "p1" .p1.Parent "p2" .p2 ) }}
   {{ else if not .p1.IsHome }}
-  {{ template "breadcrumb" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+  {{ template "breadcrumb" (dict "p1" .p1.Site.Home "p2" .p2 ) }}
   {{ end }}
   <li class="inline-block{{ if eq .p1 .p2 }} active{{ end }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
     <small>
-      <a href="{{ .p1.Permalink }}">{{ if eq .p1.Title "Bildung ist unser Produkt!" }}Start{{ else }}{{ .p1.Title | safeHTML | truncate 40 }}{{ end }}</a>&nbsp;/&nbsp;
+      <a href="{{ .p1.Permalink }}">
+        {{ if eq .p1.Title "Bildung ist unser Produkt!" }}
+          Start
+        {{ else }}
+          {{ if .p1.Params.breadcrumb_title  }}
+            {{ .p1.Params.breadcrumb_title | safeHTML }}
+          {{ else }}
+            {{ .p1.Title | safeHTML | truncate 40 }}
+    {{ end }}
+    {{ end }}
+  </a>&nbsp;/&nbsp;
     </small>
   </li>
 {{ end }}

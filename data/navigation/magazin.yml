@@ -4,11 +4,11 @@
   topbar        : true
   sidebar       : true
 
-# - menu_title    : 'Texten fürs Web'
-#   title         : 'Digitaler Journalismus'
-#   url_link      : 'magazin/journalismus/'
-#   topbar        : true
-#   sidebar       : true
+- menu_title    : 'Journalismus'
+  title         : 'Texten fürs Web'
+  url_link      : 'magazin/journalismus/'
+  topbar        : true
+  sidebar       : true
 
 - menu_title    : 'Social Media'
   title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'

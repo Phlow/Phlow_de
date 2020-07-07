@@ -9,8 +9,10 @@ image:
   url           : https://unsplash.com/@dnevozhai
 slug            : htaccess
 ---
-Hypertext Access, häufig abgekürzt als *.htaccess*, ist eine Konfigurationsdatei mit mächtigen Funktionen. Über eine *.htaccess* steuerst Du das Verhalten eines Servers – z.B. was passieren soll, wenn der Server eine aufgerufene Internetseite nicht findet oder Du kannst eine Website mit einer Passwortabfrage schützen.
+Mit der _.htaccess_-Datei steuerst Du das Verhalten des Servers, der Deine Webseiten ausliefert. Dazu gehören passwortgeschützte Websites, direkte Umleitungen von URLs oder auch die Kompression der Auslieferung via _gzip_.
 <!--more-->
+
+Hypertext Access, häufig abgekürzt als *.htaccess*, ist eine Konfigurationsdatei mit mächtigen Funktionen. Über eine *.htaccess* steuerst Du das Verhalten eines Servers – z.B. was passieren soll, wenn der Server eine aufgerufene Internetseite nicht findet oder Du kannst eine Website mit einer Passwortabfrage schützen.
 
 {{< toc >}}
 
@@ -42,47 +44,116 @@ Lass' Dich davon aber nicht abschrecken. Denn mit *.htaccess* lassen sich ein pa
 
 ## Hilfreiche 404 Fehlerseiten
 
-So leiten Sie Ihren 404-Fehler auf eine benutzerdefinierte Seite um
+Eine 404-Fehlermeldung ist der Standard-HTTP-Antwortcode, der zurückgegeben wird, wenn der Besucher nicht mit dem Server kommunizieren kann. Der Besucher erhält eine standardisierte 404-Fehlerseite.
 
-http://www.htaccessbasics.com/404-custom-error-page/
+{{< amp/img src="/images/webdesign/404-fehlerseite-970x226.png" alt="" width="970" height="226" >}}
+
+Dies ist ein sehr häufiger Fehler im Web, der auftritt, wenn Du versuchst, eine Seite zu besuchen, die entweder gelöscht oder an einen anderen Ort verschoben wurde.
+
+Wenn Du zum Beispiel die Struktur Deiner Website änderst und ein bestimmtes Verzeichnis in einen anderen Teil der Website verschiebst, erhält jeder, der versucht, die alte Seiten-URL zu besuchen, eine 404-Fehlermeldung.
+
+Wenn ein Besucher auf Deine Website kommt und eine Standard-404-Fehlermeldung sieht, die keine Aussage hat, dann ist es unwahrscheinlich, dass er sich die Mühe macht, irgendeinen Teil Deiner Website zu sehen. Darum ist es sehr wichtig, eine 404-Seite zu erstellen, die das abfedert.
+
+{{< info >}}
+Schau Dir unsere Beispiele für erfolgreiche [404-Fehlerseiten]({{< ref "0050-fehlerseite.md" >}}) an und lass Dich inspirieren.
+{{< /info >}}
+
+Glücklicherweise macht _.htaccess_ dies sehr einfach. Zuerst musst Du eine 404-Fehlerseite erstellen. So würden Sie z.B. eine Seite auf `https://www.deinedomain.de/404.php` erstellen.
+
+Sobald Du Deine 404-Seite eingerichtet hast, brauchst Du nur noch Besucher mit falschen Url's auf diese Seite umzuleiten. Dazu fügst Du einfach die folgende Zeile in die _.htaccess_-Datei ein:
+
+~~~
+ErrorDocument 404 /404.php
+~~~
+
+## https forcieren
+
+Wenn Du ein SSL-Zertifikat für Deine Website eingebaut hast und _https_ funktioniert, dann leitest Du am Besten alle _http_-Anfragen mit den folgenden Server-Befehlen in der _.htaccess_-Datei um.
+
+Getestet für HostEurope
+
+~~~
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+~~~
 
 ## Redirect-Umleitungen legen für Suchmaschinen und Besucher
 
-## Passwort-geschützte Bereiche per .htaccess-Datei
+Ein 301 HTTP Response Status Code ist eine Möglichkeit, Suchmaschinen mitzuteilen, dass eine Seite, Seiten, ein Verzeichnis oder eine ganze Website dauerhaft an einen anderen Ort im Web verschoben wurde.
 
-{{< amp/img src="/images/webdesign/htaccess-passwortschutz.jpg" alt="Foto von Jon Moore https://unsplash.com/@thejmoore" width="1920" height="823" >}}
+Der grundlegende Code für die Weiterleitung ist :
 
-## Website Optimierung & Schnellere Websites: GZIP Kompression aktivieren per .htaccess
+~~~
+Redirect 301 /artikel.html https://phlow.de/artikel.html
+~~~
 
-Mit dem folgenden Code-Schnipsel stellt man die GZIP-Kompression an.
+Der alte Speicherort der Datei muss der absolute Pfad vom Stammverzeichnis Ihres Servers sein. Der neue Speicherort sollte http verwenden.
 
-<pre>&lt;ifModule mod_gzip.c&gt;
-mod_gzip_on Yes
-mod_gzip_dechunk Yes
-mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
-mod_gzip_item_include handler ^cgi-script$
-mod_gzip_item_include mime ^text/.*
-mod_gzip_item_include mime ^application/x-javascript.*
-mod_gzip_item_exclude mime ^image/.*
-mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
-&lt;/ifModule&gt;
+## gzip-Komprimierung aktivieren
 
-&lt;IfModule mod_deflate.c&gt;
-AddOutputFilterByType DEFLATE text/plain
-AddOutputFilterByType DEFLATE text/html
-AddOutputFilterByType DEFLATE text/xml
-AddOutputFilterByType DEFLATE text/css
-AddOutputFilterByType DEFLATE application/xml
-AddOutputFilterByType DEFLATE application/xhtml+xml
-AddOutputFilterByType DEFLATE application/rss+xml
-AddOutputFilterByType DEFLATE application/javascript
-AddOutputFilterByType DEFLATE application/x-javascript
-&lt;/IfModule&gt;
-</pre>
+> gzip ist ein freies Kompressionsprogramm, das, ebenso wie das entsprechende Dateiformat gzip, praktisch für alle Computerbetriebssysteme verfügbar ist (unter den Bedingungen der GPL auch im Quelltext).
 
-Ob Deine Website mit _gzip_ komprimiert ausgeliefert wird, checkst Du einfach mit einem Online-Werkzeug wie z.B. [checkgzipcompression.com](https://checkgzipcompression.com/).
+Ob eine Website Dateien komprimiert per [gzip](https://de.wikipedia.org/wiki/Gzip) ausgibt, testest Du leicht mit Online-Werkzeug, wie diesem [gzip-Test](https://www.giftofspeed.com/gzip-test/). Wenn gzip nicht aktiviert ist, kannst Du den folgenden Code nutzen.
 
-## .htaccess – Weiterführende Literatur und Websites
+~~~
+<IfModule mod_deflate.c>
+# Komprimiere HTML, CSS, JavaScript, Text, XML und fonts
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+  AddOutputFilterByType DEFLATE application/x-font
+  AddOutputFilterByType DEFLATE application/x-font-opentype
+  AddOutputFilterByType DEFLATE application/x-font-otf
+  AddOutputFilterByType DEFLATE application/x-font-truetype
+  AddOutputFilterByType DEFLATE application/x-font-ttf
+  AddOutputFilterByType DEFLATE application/x-javascript
+  AddOutputFilterByType DEFLATE application/xhtml+xml
+  AddOutputFilterByType DEFLATE application/xml
+  AddOutputFilterByType DEFLATE font/opentype
+  AddOutputFilterByType DEFLATE font/otf
+  AddOutputFilterByType DEFLATE font/ttf
+  AddOutputFilterByType DEFLATE image/svg+xml
+  AddOutputFilterByType DEFLATE image/x-icon
+  AddOutputFilterByType DEFLATE text/css
+  AddOutputFilterByType DEFLATE text/html
+  AddOutputFilterByType DEFLATE text/javascript
+  AddOutputFilterByType DEFLATE text/plain
+  AddOutputFilterByType DEFLATE text/xml
+ 
+  # Browser bugs entfernen (nur für wirklich alte Browser)
+  BrowserMatch ^Mozilla/4 gzip-only-text/html
+  BrowserMatch ^Mozilla/4\.0[678] no-gzip
+  BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+  Header append Vary User-Agent
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresDefault "access plus 1 month"
+  ExpiresByType image/gif "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/jpg "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType text/html "access plus 3 days"
+  ExpiresByType text/xml "access plus 1 seconds"
+  ExpiresByType text/plain "access plus 1 seconds"
+  ExpiresByType application/xml "access plus 1 seconds"
+  ExpiresByType application/rss+xml "access plus 1 seconds"
+  ExpiresByType application/json "access plus 1 seconds"
+  ExpiresByType text/css "access plus 1 week"
+  ExpiresByType text/javascript "access plus 1 week"
+  ExpiresByType application/javascript "access plus 1 week"
+  ExpiresByType application/x-javascript "access plus 1 week"
+  ExpiresByType image/x-ico "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresByType application/pdf "access plus 1 month"
+</IfModule>
+~~~
+
+## .htaccess – Weiterführende Websites
 
 * <http://www.htaccessbasics.com/>
 * <http://www.htaccess-guide.com/>

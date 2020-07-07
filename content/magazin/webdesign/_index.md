@@ -16,20 +16,21 @@ Wie baut man Webseiten? Welche Software brauche ich? Was ist wichtig beim Webdes
 <div class="clearfix">
 <div class="mt3 sm-col sm-col-12 lg-col-6 ">
 
-<ul class="list-reset">
-
 ## Software für Webdesigner {.h4}
-{{< list-cat category="software" >}}
+
+{{< list-cat category="software" class="list-reset" >}}
+
 ## HTML-Grundlagen {.h4}
+
 {{< list-cat category="html-grundlagen" >}}
+
 ## CSS-Grundlagen {.h4}
+
 {{< list-cat category="css-grundlagen" >}}
 
-</ul>
 </div><!-- /spalte-1 -->
 
 <div class="mt3 sm-col sm-col-12 lg-col-6  mb4 px2">
-<ul class="list-reset">
 
 ## Bilder, Formate, Bildbearbeitung {.h4}
 {{< list-cat category="bilder" >}}
@@ -42,7 +43,6 @@ Wie baut man Webseiten? Welche Software brauche ich? Was ist wichtig beim Webdes
 ## Code: Webdesign Bausteine {.h4}
 {{< list-cat category="code" >}}
 
-</ul>
 </div><!-- /spalte-2 -->
 </div>
 

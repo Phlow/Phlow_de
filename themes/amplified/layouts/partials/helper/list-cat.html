@@ -1,11 +1,16 @@
-<li class="pb3">
+{{/*
+*
+*  {{< list-cat category="software" class="list-reset" heading="Titel" >}}
+*
+*/}}<ul{{ if .Params.class }} class="{{ .Params.class }}"{{ end }}>
+{{ if .Params.heading }}<li class="pb1">
   <section><header class="h4 sans">{{ .Params.heading }}</header></section>
-  <ul>
+</li>{{ end }}
     {{ $kat := .Params.category }}
     {{ range .Content }}
       {{ if eq .Params.Categories $kat }}
-        <li><a href="{{.Permalink}}">{{ .Title | htmlUnescape }}</a></li>
+        <li><a href="{{ .Permalink }}">{{ .Title | htmlUnescape }}</a></li>
       {{ end }}
     {{ end }}
-  </ul>
-</li>
+
+</ul>
