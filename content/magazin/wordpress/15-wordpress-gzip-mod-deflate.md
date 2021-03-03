@@ -1,7 +1,7 @@
 ---
-subtitle: Optimierung
-title: "WordPress beschleunigen mit gzip und mod_deflate"
-category: wordpress
+subtitle            : Optimierung
+title               : "WordPress beschleunigen mit gzip und mod_deflate"
+category            : wordpress
 tags:
   - beschleunigung
   - gzip
@@ -9,12 +9,12 @@ tags:
   - webdesign
   - wordpress
 image:
-    title: /images/webdesign/komprimieren_shutterstock_72987988-800x451.jpg
-    thumb: wordpress.png
-    caption: "Kompression – Foto von Shutterstock"
-    caption_url: http://www.shutterstock.com/pic.mhtml?id=72987988&src=id
-style: "#navigation > nav > section > ul.left > li:nth-child(5) > a { background: #82cbd0; color: #fff; }"
-permalink: /wordpress/beschleunigen/
+    title           : /images/webdesign/komprimieren_shutterstock_72987988-800x451.jpg
+    thumb           : wordpress.png
+    caption         : "Kompression – Foto von Shutterstock"
+    caption_url     : http://www.shutterstock.com/pic.mhtml?id=72987988&src=id
+style               : "#navigation > nav > section > ul.left > li:nth-child(5) > a { background: #82cbd0; color: #fff; }"
+url                 : /magazin/wordpress/wordpress-gzip-mod-deflate/
 ---
 Die beiden Module gzip (mod\_gzip) und mod\_deflate beschleunigen WordPress-Websites mittels Kompression enorm. Die Installation ist denkbar einfach.
 <!--more-->

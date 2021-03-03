@@ -1,8 +1,6 @@
 {{ define "main" }}
-
 <div><!-- wrapper -->
   <div class="px3 lg-px4">
-
     <div class="max-width-2 mx-auto">
       <article class="clearfix mxn2">
 
@@ -16,15 +14,8 @@
         <a class="button warning" href="{{ .Page.Params.download_link_2 }}" target="_blank">{{ if .Page.Params.download_link_text_2 }}{{ .Page.Params.download_link_text_2 }}{{ else }}Download ›{{ end }}</a>
       {{ end }}
 
-
       </article><!-- /clearfix -->
-
     </div><!-- /max-width-2 -->
   </div><!-- /padding -->
-
-
-  {{ partial "advertisment/wordpress-buch.html" . }}
-
-
 </div><!-- /wrapper -->
 {{ end }}

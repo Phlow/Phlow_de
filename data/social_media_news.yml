@@ -10,6 +10,48 @@
 #  network     : 
 #  date        : 
 
+- title       : 'Spotlight: Snapchat startet TikTok für Snaps'
+  source_url  : https://www.heise.de/news/Spotlight-Snapchat-startet-TikTok-fuer-Snaps-4969425.html
+  description : 'Mit Snapchats Spotlight veröffentlichen Nutzer kurze Videos in Snaps – eine Funktion, die an TikTok und Instagram Reels erinnert.'
+  network     : snapchat
+  date        : 2020-11-24
+
+- title       : 'TikTok Sweeps Britain But Norwegians Watch More Videos'
+  source_url  : https://www.bloomberg.com/news/articles/2020-09-30/tiktok-users-in-uk-germany-france-italy-norway-ages-screentime-open-rates
+  description : 'A marketing presentation details the social platform’s surging growth during lockdowns and grip on European markets.'
+  network     : tiktok
+  date        : 2020-09-30
+
+- title       : 'Falschmeldungen zu Corona – Sieben Millionen Beiträge gelöscht'
+  source_url  : https://www.tagesschau.de/faktenfinder/facebook-fakenews-109.html
+  description : 'Die Flut der Desinformation zu Corona überschwemmt das Netz: Allein Facebook hat innerhalb von drei Monaten sieben Millionen Beiträge gelöscht. Doch viele irreführende Inhalte sind weiterhin online - obwohl sie widerlegt wurden.'
+  network     : facebook
+  date        : 2020-09-10
+
+- title       : 'Facebook integriert seinen Messenger in Instagram'
+  source_url  : https://www.heise.de/news/Facebook-integriert-seinen-Messenger-in-Instagram-4871975.html
+  description : 'Künftig lassen sich in der Instagram-App Nachrichten via Facebooks Messenger schreiben. Das soziale Netzwerk plant schon lange seine Chat-Dienste zu verknüpfen.'
+  network     : instagram
+  date        : 2020-08-17
+
+- title       : 'Analyse: Instagram Follower-Wachstum und der Einfluss der Postingfrequenz'
+  source_url  : https://www.futurebiz.de/artikel/analyse-instagram-follower-wachstum/
+  description : 'Instagram ist und bleibt einer der wichtigsten Social Media Kanäle, wenn es um Influencer Marketing und Influencer Relations geht. Auf Seite der Influencerinnen gibt es verschiedene Stimmen darüber, dass ein organisches Follower-Wachstum auf Instagram immer schwieriger ist und nicht mehr mit dem Follower-Wachstum von ein paar Jahren vergleichbar ist.'
+  network     : instagram
+  date        : 2020-07-27
+
+- title       : 'Eltern in Sorge: Macht das Smartphone Kinder krank?'
+  source_url  : https://www.heise.de/news/Macht-das-Smartphone-krank-Eltern-in-Sorge-um-ihre-Kinder-4840542.html
+  description : 'In den Corona-Einschränkungen ermöglichten digitale Medien Jugendlichen das Homeschooling und das Kontakthalten. Doch Smartphone & Co. haben nicht nur Vorteile.'
+  network     : studie
+  date        : 2020-07-09
+
+
+- title       : 'Studie: Jugendliche spielten während des Lockdowns viel länger digital'
+  source_url  : https://www.heise.de/news/Studie-Jugendliche-spielten-waehrend-des-Lockdowns-viel-laenger-digital-4857343.html
+  description : 'Kinder und Jugendliche mussten während des Lockdowns mehr Zeit in den eigenen vier Wänden verbringen. Dabei spielten sie viel mehr. Experten sind alarmiert.'
+  network     : studie
+  date        : 2020-07-29
 
 - title       : 'Fast 100 Firmen boykottieren Facebook'
   source_url  : https://www.tagesschau.de/ausland/facebook-anzeigenboykott-101.html
@@ -641,11 +683,11 @@
 
 - title       : 'Ericsson Mobility Report 2017'
   source_url  : https://www.ericsson.com/assets/local/mobility-report/documents/2017/ericsson-mobility-report-june-2017.pdf
-  network     : studienn
+  network     : studien
   date        : 2017-06-01
 
 - title       : 'Mary Meeker’s 2017 Internet Trends'
-  source_url  : http://www.kpcb.com/internet-trends
+  source_url  : https://www.kleinerperkins.com/perspectives/internet-trends-report-2017
   network     : studien
   date        : 2017-05-30
 

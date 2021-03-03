@@ -9,5 +9,3 @@ image:
     header_width    : 1920
     header_height   : 400
 ---
-
-

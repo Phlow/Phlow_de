@@ -1,4 +1,5 @@
 ---
+subtitle        : "Schreibwerkstatt"
 title           : Pressemeldung
 categories      : praxis
 tags:

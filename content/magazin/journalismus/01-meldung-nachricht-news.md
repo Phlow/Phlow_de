@@ -1,4 +1,5 @@
 ---
+date                : 2020-07-13
 weight              : 10
 subtitle            : "Die Nachricht"
 title               : "Wie man eine Nachricht (Meldung, News) schreibt!"

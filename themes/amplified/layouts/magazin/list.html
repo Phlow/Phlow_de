@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <div><!-- wrapper -->
   <div class="px4 lg-px4">
     <div class="max-width-3 mx-auto">
@@ -22,12 +21,8 @@
               </li>
           {{ end }}
         </ul>
-
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->
   </div><!-- /padding -->
 </div><!-- /wrapper -->
-
-  {{ if eq .Page.Params.advertisement false }}{{ else }}{{ partial "advertisment/wordpress-buch.html" . }}{{ end }}
-
 {{ end }}

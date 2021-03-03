@@ -48,7 +48,7 @@ zusammen. Unterhaltsam ist auch das ähnliche Video von Tchibo:
 
 ## Exemplarische Beispiele für Social Media Guide Lines
 
-* [Social Media Leitfaden für die Caritas](http://blog.caritas-webfamilie.de/2011/05/27/social-media-leitfaden-fuer-caritas-entwurf/)
-* [Social Media Leitfaden Deutsche Post](http://www.dpdhl.com/content/dam/dpdhl/presse/social_media/dpdhl_social_media_guidelines_de.pdf)
-* [Video: Social Media Richtlinien bei Linde](https://www.youtube.com/watch?&v=TFtNU_yBRNM)
-* [Video: Social Media Leitfaden Tchibo](https://www.youtube.com/watch?v=e_mLQ_eWk_o)
+* [Social Media Leitfaden für die Caritas](https://www.caritas.de/diecaritas/deutschercaritasverband/mitarbeitende/caritaswebfamilie/social-media-leitlinien)
+* [Social Media Leitfaden Deutsche Post (PDF)](https://www.yumpu.com/de/document/read/4943032/social-media-guidelines-deutsche-post-dhl)
+* [Social Media Richtlinien bei Linde (Video)](https://www.youtube.com/watch?&v=TFtNU_yBRNM)
+* [Social Media Leitfaden Tchibo (Video)](https://www.youtube.com/watch?v=e_mLQ_eWk_o)

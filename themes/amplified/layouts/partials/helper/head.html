@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html ⚡="{{ .Site.Language.Lang }}">
+<html ⚡="{{ .Site.Language.Lang }}" lang="{{ .Site.Language.Lang }}">
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-  <meta name="amp-google-client-id-api" content="googleanalytics">
-
+  <meta name="theme-color" content="#317EFB"/>
 {{ partial "seo/_seo" . }}
 {{ partial "amp/scripts.html" . }}
 {{ partial "amp/boilerplate.html" . }}
@@ -32,4 +31,3 @@
 </head>
 <body>
 <a id="topofpage" style="height:0; width:0"></a>
-{{ partial "helper/google-analytics.html" . }}

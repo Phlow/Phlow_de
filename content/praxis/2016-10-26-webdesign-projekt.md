@@ -54,7 +54,7 @@ Webdesign, Marketing & SEO
 
 ## Logo › Rakete
 
-- [SVG – Logo als Vektor]({{ site.url }}/download/webdesign-projekt/logo/rocket.svg)
+- [SVG – Logo als Vektor](/download/webdesign-projekt/logo/rocket.svg)
 
 <img width="120" height="120" src="/download/webdesign-projekt/logo/rocket.svg" alt="">
 
@@ -77,7 +77,7 @@ Webdesign, Webdesigner, Social Media, Marketing, Experte, HTML, CSS, Responsive 
 
 Die Farbpalette kannst Du als Photoshop-Farbpalette herunterladen. Klick einfach auf das Icon.
 
-[![](/images/praxis/photoshop_color_palette.png)]({{ site.url }}{{ site.baseurl }}/download/webdesign-projekt/farben/ari_glamslam.aco)
+[![](/images/praxis/photoshop_color_palette.png)](/download/webdesign-projekt/farben/ari_glamslam.aco)
 
 ## Bildmaterial
 

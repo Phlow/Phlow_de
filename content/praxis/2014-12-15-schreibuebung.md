@@ -17,4 +17,4 @@ Diese Textübungen helfen Dir prägnantere Sätze zu schreiben und den Fokus vor
 * Verben anstelle Substantive
 * Verfassen einer Nachricht
 
-<a href="/praesentation/text-werkstatt/index.html" class="button success">Zur Textwerkstatt ›</a>
+<a href="/praxis/text-werkstatt/index.html" class="button success">Zur Textwerkstatt ›</a>

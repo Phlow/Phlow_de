@@ -6,9 +6,9 @@ download_link_text  : Texte Schreiben Folien runterladen ›
 download_link_2     : http://media.phlow.de/lecture/2019-12-04-jwv-seo.pdf
 download_link_text_2: SEO-Folien runterladen ›
 image:
-    header          : /images/hd-links-1920x823.jpg
+    header          : /images/hd-links-1920x400.jpg
     header_width    : 1920
-    header_height   : 823
+    header_height   : 400
 breadcrumb          : false
 url                 : /link/jwv-seo/
 ---

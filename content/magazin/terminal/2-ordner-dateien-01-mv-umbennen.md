@@ -1,11 +1,11 @@
 ---
-title: Dateien umbenennen und verschieben mit mv
-chapter         : 2
-categories : "Ordner und Dateien"
-description : 'Will man eine große
+title               : Dateien umbenennen und verschieben mit mv
+chapter             : 2
+categories          : "Ordner und Dateien"
+description         : 'Will man eine große
 Anzahl an Dateien in einem Rutsch nach einem Schema oder mit einem Datum
 umbenennen, ist das Terminal die ideale Wahl.'
-slug            : mv-dateien-umbennen
+slug                : mv-dateien-umbennen
 ---
 Will man eine große Anzahl an Dateien in einem Rutsch nach einem Schema
 oder mit einer fortlaufenden Zahl oder einem Datum umbenennen, ist das
@@ -13,10 +13,14 @@ Terminal die ideale Wahl. Dieses Kapitel stellt verschiedene Methoden
 vor, Dateien umzubenennen.
 <!--more-->
 
+{{< toc >}}
+
 **`mv` ist der Standardbefehl, um Dateien umzubenennen und/oder Dateien
 zu verschieben.** `mv` steht für *move*. Passt man einen Moment nicht
 auf, so hat man nicht nur eine Datei oder einen Stapel Dateien
 umbenannt, sondern gleichzeitig auch noch verschoben.
+
+## Dateien umbenennen
 
 Um eine Datei *alter\_name.jpg* in *neuer\_name.jpg* umzubennen, muss
 man den folgenden Befehl eingeben. Wichtig ist, dass man sich bei der
@@ -43,6 +47,8 @@ Befindest Du Dich z.B. im Ordner *\~/Desktop/test*, landet die Datei
 
     $ mv ~/Desktop/altes_bild.jpg neues_bild.jpg
 
+## Mehrere Dateien gleichzeitig verschieben
+
 Mit `mv` kannst Du auch **mehrere Dateien gleichzeitig verschieben**.
 Dazu schreibst Du die Dateinamen eine nach der anderen auf und trennst
 die Dateinamen durch ein Leerzeichen und gibst abschließend das
@@ -54,10 +60,12 @@ das `*` als Platzhalterzeichen nutzen.
 Der obige Befehl verschiebt *bild-02.jpg* und *bild-03.jpg* auf den
 Schreibtisch.
 
+## Ganze Ordner verschieben
+
 Neben Dateien **verschiebt `mv` auf Befehl auch ganze Ordner**. Der
 folgende Befehl verschiebt *unterordner* in *ordner*.
 
-    $ mv unterordner/ order/
+    $ mv unterordner/ ordner/
 
 Um mehr Kontrolle und Informationen von `mv` zu erhalten, gibt es die
 Option `-v`. `-v` veranlasst `mv` die eigenen Aktivitäten auf den
@@ -78,7 +86,7 @@ soll. Mit der Option `n` wiederum unterbindest Du generell das
 Überschreiben existierender Daten. Dahingegen überschreibt `mv` mit
 `-u` nur dann Dateien, wenn diese älteren Datums sind.
 
-# Datum der Datei in den Dateinamen schreiben
+## Datum der Datei in den Dateinamen schreiben
 
 Jede Datei hat ein eigenes Datum. Lädt man z.B. von einer Digitalkamera
 Bilder herunter, haben die Bilddateien oft ein nichtssagendes Format wie
@@ -86,9 +94,7 @@ z.B. *dcim\_6422.jpg*. Um einen Stapel Dateien unkompliziert
 umzubenennen, muss man…
 
 1.  …zuerst das Datum der jeweiligen Datei auslesen,
-
 2.  …dann das Datum formatieren…
-
 3.  …und schließlich die Datei umbenennen.
 
 Der Befehl `stat` zeigt Informationen über eine Datei an. Das sind Datum
@@ -161,14 +167,14 @@ kryptisch ist:
 
     for f in *.jpg; do D=$(date -r $(stat -f %B $f) +%Y-%m-%d-%H-%M-%S); mv -vi "$f" "$D-$f"; done
 
-# Alle Dateien in Kleinbuchstaben umbenennen
+## Alle Dateien in Kleinbuchstaben umbenennen
 
 **Ein-Zeilen-Befehl: Alle Dateien in Kleinbuchstaben
     umbenennen.**
 
     for file in *; do mv "$file" "$file.tmp"; mv "$file.tmp" "`echo $file | tr "[:upper:]" "[:lower:]"`"; done
 
-# Allen Dateien Worte oder Zeichen voranstellen
+## Allen Dateien Worte oder Zeichen voranstellen
 
 Wenn Du allen Dateien ein Wort voranstellen möchtest, dann geht das
 einfach über die folgende Schleife. Zuvor kannst Du mit `echo` testen,
@@ -182,7 +188,7 @@ ob das Endergebnis Deiner Anforderung entspricht.
 
     for file in *.jpg; do mv "$file" "bild-$file"; done
 
-# Zeichen oder Worte ersetzen
+## Zeichen oder Worte ersetzen
 
 Mit der folgenden Schleife ersetzt Du Zeichenfolge. Um nach dem obigen
 Beispiel die Zeichenfolge *bild-* wieder zu entfernen und mit *foto-* zu
@@ -195,7 +201,7 @@ Für das Beispiel bedeutet das:name: value
 
     for file in *.jpg; do mv "$file" "${file/bild-/foto-}"; done
 
-# Zeichen oder Worte löschen
+## Zeichen oder Worte löschen
 
 Um Zeichen oder Worte in Dateinamen zu löschen, nutzt Du den obigen
 Befehl und modifizierst ihn.

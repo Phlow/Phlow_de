@@ -1,5 +1,6 @@
 ---
-title             : 'Bildbearbeitung'
+subtitle          : 'Bildbearbeitung'
+title             : 'Bildbearbeitungs-Paket'
 categories: praxis
 tags:
   - uebungsmaterial

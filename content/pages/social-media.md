@@ -12,4 +12,4 @@ Soziale Medien prägen das alltägliche Leben. Um am Ball zu bleiben, nutzen, in
 [4]: https://www.youtube.com/user/PhlowMedia
 [5]: https://twitter.com/phlow
 [6]: https://github.com/phlow
-[7]: https://www.instagram.com/phlowmedia
+[7]: https://www.instagram.com/mo_loves_music

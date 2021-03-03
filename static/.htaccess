@@ -14,6 +14,13 @@ redirect 301 /impressum https://phlow.de/impressum.php
 redirect 301 /impressum.html https://phlow.de/impressum.php
 
 #
+# Redirects 2020-11-27
+#
+
+redirect 301 /webdesign/ https://phlow.de/phlow-webdesign/
+
+
+#
 # Redirects 2020-06-11
 #
 

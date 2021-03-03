@@ -4,9 +4,9 @@ title               : 'Folien Social Media Leitfaden'
 download_link       : http://media.phlow.de/lecture/2020-03-11-jwv-social-media-leitfaden.pdf
 download_link_text  : Folien zum Seminar runterladen ›
 image:
-    header          : /images/hd-links-1920x823.jpg
+    header          : /images/hd-links-1920x400.jpg
     header_width    : 1920
-    header_height   : 823
+    header_height   : 400
 breadcrumb          : false
 url                 : /link/jwv-leitfaden/
 ---

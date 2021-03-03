@@ -32,7 +32,7 @@ verkleinern und die Seitenverhältnisse beibehalten willst, dann nutzt Du
 `sips` gemeinsam mit der Option `-Z`. Anschließend gibst Du einen
 Pixelwert an, der von der Höhe oder Breite des Bildes nicht
 überschritten werden darf. Die folgenden beiden Befehle verkleinern
-*bild-1600x900.jpg* und *bild-900x1600.jpg* auf
+*bild-1600x900.jpg* und *bild-900x1600.jpg* auf 360 Pixel.
 
     $ sips -Z 360 bild-900x1600.jpg
     $ sips -Z 360 bild-1600x900.jpg
@@ -85,7 +85,7 @@ Bild anpassen und zurechtschneiden und Seitenverhältnis ignorieren
          --resampleHeight pixelsH
                Resample image to specified height.
 
-## Bilder passgenau zuschneiden und in angelegten Ordner thumbs speichern
+## Bilder passgenau zuschneiden und im Unterordner speichern
 
 Um die Dateien in einen Ordner namens *thumbnails* zu speichern, gibt
 man folgendes an:
@@ -96,6 +96,24 @@ Wenn Sie nur eine Datei mit einer neuen Dateiendung zu erstellen – z.B.
 *.jpg* – dann hängen Sie die Endung einfach so an:
 
     $ sips -Z 150 -c 150 150 bild.jpg --out bild_thumb.jpg
+
+## Bilder von einem Format ins andere konvertieren
+
+Um ein einzelnes Bild mit sips zu konvertieren, verwendest Du die folgende Syntax:
+
+    $ sips -s format [image type] [file name] --out [output file]
+
+Eine Datei mit dem Namen _test.jpg_, die Du in das [PNG-Format]({{< ref "09-bilder-01-04-png.md" >}}) konvertieren möchtest, musst Du dann den folgenden Befehl eingeben:
+
+    sips -s format png test.jpg --out test.png
+
+Das Konvertieren einer Gruppe von Bildern ist etwas kniffliger, und die Verwendung einfacher Platzhalter wie bei der Größenänderung mit Sips funktioniert nicht ganz so. Du wirst feststellen, dass die Verwendung eines generischen Platzhalters wie * die Datei ebenfalls nicht umbenennt, daher verwenden wir stattdessen sehr einfaches Shell-Scripting mit der folgenden Befehlssyntax:
+
+    $ for i in [filename]; do sips -s format [image type] $i --out [destination]/$i.[extension];done
+
+Dazu konvertieren wir einen Ordner mit .jpg-Dateien in png-Dateien in einem neuen Unterordner des aktuellen Verzeichnisses, genannt _konvertiert_:
+
+    $ for i in *.jpg; do sips -s format png $i --out konvertiert/$i.png;done
 
 ## Dateiformat von Bildern mit 100% Qualität in JPGs konvertieren
 

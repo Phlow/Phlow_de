@@ -9,7 +9,7 @@ tags:
     - textgattung
     - textform
 categories          : darstellungsform
-url                 : /text/darstellungsform/
+url                 : /magazin/darstellungsform/
 ---
 Informationen zu den verschiedenen Darstellungsformen im Journalismus und die drei Gruppen der Darstellungsformen.
 <!--more-->
