@@ -5,8 +5,8 @@ title             : Fettschrift mit &lt;strong&gt; und Kursivschrift mit &lt;em&
 categories        : html-grundlagen
 slug              : fettschrift-kursivschrift
 youtube           : vukoDxYg7C0
-image:
-    title         : /images/webdesign/006-html-fettschrift-kursivschrift-1280x720.jpg
+# image:
+#     title         : /images/webdesign/006-html-fettschrift-kursivschrift-1280x720.jpg
 ---
 Dieses Video-Tutorial stellt Dir die beiden HTML-Befehle für Fettschrift und Kursivschrift vor und wie Du sie am Besten nutzt.
 <!--more-->

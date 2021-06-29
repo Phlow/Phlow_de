@@ -1,15 +1,14 @@
 {{ define "main" }}
 <div><!-- wrapper -->
-  <div class="px4 lg-px4">
-    <div class="max-width-4 mx-auto">
-      <article class="clearfix mxn2">
-
-        {{ partial "helper/article-header.html" . }}
-        {{ partial "helper/summary-content.html" . }}
-
+  <div class="clearfix">
+    <div class="max-width-5 mx-auto">
+      <article>
+        <div class="col col-12 px2 mt2">
+            {{ partial "helper/article-header.html" . }}
+            {{ partial "helper/summary-content.html" . }}
+        </div><!-- /col -->
       </article><!-- /clearfix -->
     </div><!-- /max-width-2 -->
   </div><!-- /padding -->
 </div><!-- /wrapper -->
-
 {{ end }}

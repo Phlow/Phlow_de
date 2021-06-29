@@ -9,6 +9,7 @@
 {{ partial "amp/scripts.html" . }}
 {{ partial "amp/boilerplate.html" . }}
 
+{{- $styles := resources.Get "sass/styles.scss" | toCSS | minify | fingerprint }}
 <style amp-custom>
   {{ if eq .Page.Section "seminare" }}
   {{ partial "css/phlow_seminare.css" . | safeCSS }}
@@ -22,7 +23,11 @@
   {{ partial "css/phlow.css" . | safeCSS }}
   {{ end }}
   {{ if .Page.Params.Styles }}{{ .Page.Params.styles | safeCSS }}{{ end }}
+  {{ print $styles.Content | safeCSS }}
 </style>
+
+
+
 
 <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ else }}{{ .Site.BaseURL }}{{ .Section }}/index.xml{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" />
 

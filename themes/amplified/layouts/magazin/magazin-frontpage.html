@@ -1,13 +1,13 @@
 {{ define "main" }}
 
 <div><!-- wrapper -->
-  <div class="clearfix ">
-    <div class="max-width-4 mx-auto">
+  <div class="clearfix">
+    <div class="max-width-5 mx-auto">
       <article>
 
         <div class="col col-12 px2 mt2">
           <header>
-            <h1 class="m0">{{ if .Page.Params.Subtitle }}
+            <h1 class="">{{ if .Page.Params.Subtitle }}
               <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.Subtitle }}</span><br>{{ end }}
               {{ .Title }}
             </h1>
@@ -16,71 +16,11 @@
           {{ .Content }}
         </div>
 
-        <div class="col col-12 px2 mb2">
-          <p>
-            {{ range first 1 .Site.Data.social_media_news }}
-              <a class="button warning" href="/magazin/social-media/social-media-news/#id-1">Neues aus dem Blog: <em>»{{ .title }}«</em></a>
-            {{ end }}
-          </p>
-        </div>
 
-
-
-
-
-
-        <div class="col col-6 px2">
-          <a href="{{ .Site.BaseURL }}magazin/social-media/">
-            <amp-img
-              src="{{ .Site.BaseURL }}images/socialmedia/cover-social-media-leitfaden-500-656.jpg"
-              width="500"
-              height="656"
-              alt="Social Media Aktuelle Entwicklungen, Trends und Studien"
-              layout="responsive">
-            </amp-img>
-          </a>
-          <h2 class="mt1"><a href="{{ .Site.BaseURL }}magazin/social-media/">Social Media</a></h2>
-          <p>
-            Dieser Leitfaden komplettiert meine <a href="{{ "/seminare/social-media/" | absURL }}">Social Media Seminare</a>. An dieser Stelle findest Du aktuelle Fakten, Entwicklungen und Beschreibungen der sozialen Netzwerke.
-          </p>
-          <p>
-            <a href="{{ .Site.BaseURL }}magazin/social-media/" class="button">Zum Leitfaden ›</a>
-          </p>
-          <p>Aktuelle Entwicklungen, Trends und Studien gibt es in unserem kleinen Social Media News-Blog.</p>
-          <p>
-            <a href="{{ ref . "2018-12-01-social-media-news.md" }}" class="button success">Social Media News ›</a>
-          </p>
-        </div>
-
-
-
-        <div class="col col-6 px2">
-          <a href="{{ .Site.BaseURL }}magazin/journalismus/">
-            <amp-img
-              src="{{ .Site.BaseURL }}images/journalismus/cover-journalismus-500x656.jpg"
-              width="500"
-              height="656"
-              alt="Anleitungen Texten fürs Web"
-              layout="responsive">
-            </amp-img>
-          </a>
-          <h2 class="mt1"><a href="{{ .Site.BaseURL }}magazin/journalismus/">Texten fürs Web</a></h2>
-          <p>
-            Worauf kommt es beim Texten an? Wie schreibe ich eine Nachricht und wie ein Interview? Wie formuliere ich meine Texte für soziale Medien? Wie recherchiere ich und quetsche die besten Informationen aus den Suchmaschinen? Unsere Anleitungen, Videos und Tipps unterstützen Dich beim digitalen Publizieren.
-          </p>
-          <p>
-            <a href="{{ .Site.BaseURL }}magazin/journalismus/" class="button">Journalismus lernen ›</a>
-          </p>
-        </div>
-
-
-<div class="clearfix">
-</div>
-
-
-        <div class="col col-6 px2">
+        <div class="col xs-col-12 sm-col-6 md-col-4 px2">
           <a href="{{ .Site.BaseURL }}magazin/webdesign/">
             <amp-img
+              class="xs-hide"
               src="{{ .Site.BaseURL }}images/webdesign/cover-webdesign-lernen-500x656.jpg"
               width="500"
               height="656"
@@ -98,10 +38,31 @@
         </div>
 
 
+        <div class="col xs-col-12 sm-col-6 md-col-4 px2">
+          <a href="{{ .Site.BaseURL }}magazin/journalismus/">
+            <amp-img
+              class="xs-hide"
+              src="{{ .Site.BaseURL }}images/journalismus/cover-journalismus-500x656.jpg"
+              width="500"
+              height="656"
+              alt="Anleitungen Texten fürs Web"
+              layout="responsive">
+            </amp-img>
+          </a>
+          <h2 class="mt1"><a href="{{ .Site.BaseURL }}magazin/journalismus/">Texten fürs Web</a></h2>
+          <p>
+            Worauf kommt es beim Texten an? Wie schreibe ich eine Nachricht und wie ein Interview? Wie formuliere ich meine Texte für soziale Medien? Wie recherchiere ich und quetsche die besten Informationen aus den Suchmaschinen? Unsere Anleitungen, Videos und Tipps unterstützen Dich beim digitalen Publizieren.
+          </p>
+          <p>
+            <a href="{{ .Site.BaseURL }}magazin/journalismus/" class="button">Journalismus lernen ›</a>
+          </p>
+        </div>
 
-        <div class="col col-6 px2">
+
+        <div class="col xs-col-12 sm-col-6 md-col-4 px2">
           <a href="{{ .Site.BaseURL }}magazin/terminal/">
             <amp-img
+              class="xs-hide"
               src="{{ .Site.BaseURL }}images/terminal/cover-terminal-fuer-webdesigner-500x656.jpg"
               width="500"
               height="656"

@@ -1,46 +1,19 @@
 - menu_title    : 'Seminare'
   title         : 'Übersicht über unsere Themen'
-  url_link      : 'seminare/programm/'
-  topbar        : true
-  sidebar       : true
-  dropdown:
-    - menu_title      : 'Wordpress'
-      title           : 'wordpress'
-      url_link        : 'seminare/wordpress-website/'
-      sidebar         : true
-      topbar          : true
-    - menu_title      : 'Social Media'
-      title           : 'social-media'
-      url_link        : 'seminare/social-media/'
-      sidebar         : true
-      topbar          : true
-    - menu_title      : 'Suchmaschinenoptimierung'
-      title           : 'Gute lesbare Texte bilden die wichtigste Basis einer Website. Dieser Workshop zeigt, wie man Texte für Leser und Suchmaschinen optimal aufbereitet.'
-      url_link        : 'seminare/seminar-koeln-texte-schreiben-internet/'
-      sidebar         : true
-      topbar          : true
-    - menu_title      : 'InHouse & Individuelle Seminare'
-      title           : 'Maßgeschneiderte Seminare und Workshops für Sie'
-      url_link        : 'seminare/individuelle-seminare/'
-      sidebar         : true
-      topbar          : true
-
-- menu_title    : 'Termine'
-  title         : 'Unsere aktuellen Seminartermine'
-  url_link      : 'seminare/termine/'
+  url_link      : 'seminare/'
   topbar        : true
   sidebar       : true
 
-- menu_title    : 'Kontakt'
-  title         : 'Sie haben Fragen zu unseren Seminaren? Rufen Sie uns an!'
-  url_link      : 'seminare/kontakt/'
-  topbar        : true
-  sidebar       : true
+# - menu_title    : 'Kontakt'
+#   title         : 'Sie haben Fragen zu unseren Seminaren? Rufen Sie uns an!'
+#   url_link      : 'seminare/kontakt/'
+#   topbar        : true
+#   sidebar       : true
 
-- menu_title    : 'Kunden & Info'
-  title         : 'Unsere Kunden lieben uns'
-  url_link      : 'seminare/info/'
-  topbar        : true
-  sidebar       : true
+# - menu_title    : 'Kunden & Info'
+#   title         : 'Unsere Kunden lieben uns'
+#   url_link      : 'seminare/info/'
+#   topbar        : true
+#   sidebar       : true
 
 

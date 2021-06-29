@@ -11,37 +11,33 @@ image:
 Wie baut man Webseiten? Welche Software brauche ich? Was ist wichtig beim Webdesign? Wie nutzt man HTML und CSS? Und wie funktioniert Responsive Webdesign? Anleitungen rund um das wunderbare Thema *Webdesign*.
 <!--more-->
 
-{{< toc >}}
-
 <div class="clearfix">
-<div class="mt3 sm-col sm-col-12 lg-col-6 ">
+<div class="sm-col sm-col-12 lg-col-6">
 
 ## Software für Webdesigner {.h4}
 
-{{< list-cat category="software" class="list-reset" >}}
+{{< list-cat category="software" class="toc-list" >}}
 
 ## HTML-Grundlagen {.h4}
 
-{{< list-cat category="html-grundlagen" >}}
+{{< list-cat category="html-grundlagen" class="toc-list" >}}
 
 ## CSS-Grundlagen {.h4}
 
-{{< list-cat category="css-grundlagen" >}}
+{{< list-cat category="css-grundlagen" class="toc-list" >}}
 
 </div><!-- /spalte-1 -->
 
-<div class="mt3 sm-col sm-col-12 lg-col-6  mb4 px2">
+<div class="sm-col sm-col-12 lg-col-6 mb4 px2">
 
 ## Bilder, Formate, Bildbearbeitung {.h4}
-{{< list-cat category="bilder" >}}
+{{< list-cat category="bilder" class="toc-list" >}}
 ## Webdesign Specials {.h4}
-{{< list-cat category="special"  >}}
+{{< list-cat category="special" class="toc-list" >}}
 ## Anhang/Sonstiges Webdesign {.h4}
-{{< list-cat category="anhang">}}
+{{< list-cat category="anhang"class="toc-list" >}}
 ## Webdesign Bücher {.h4}
-{{< list-cat category="buchkritik" >}}
-## Code: Webdesign Bausteine {.h4}
-{{< list-cat category="code" >}}
+{{< list-cat category="buchkritik" class="toc-list" >}}
 
 </div><!-- /spalte-2 -->
 </div>

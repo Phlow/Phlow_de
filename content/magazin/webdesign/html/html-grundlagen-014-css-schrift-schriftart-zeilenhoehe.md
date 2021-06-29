@@ -3,8 +3,8 @@ weight            : 014
 subtitle          : 'Webdesign Grundlagen'
 title             : 'CSS Schriftart und Zeilenhöhe'
 youtube           : eVdpEh4bKdk
-image:
-    title         : /images/webdesign/014-css-schrift-schriftart-zeilenhoehe-1280x720.jpg
+# image:
+#     title         : /images/webdesign/014-css-schrift-schriftart-zeilenhoehe-1280x720.jpg
 categories        : css-grundlagen
 slug              : schrift-schriftart-zeilenhoehe
 ---

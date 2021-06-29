@@ -34,7 +34,7 @@ Dateien hintereinander ein.
 > 
 > **`rm` ist super-gefährlich, weil `rm` Dateien endgültig löscht. `rm`
 > verschiebt Dateien nicht in den Papierkorb. Dazu nutzt Du besser den
-> Befehl link:{{ '/mv-umbennen/' | absolute\_url }}\[mv\].** Darum
+> Befehl [mv]({{< ref "2-ordner-dateien-01-mv-umbennen.md" >}}).** Darum
 > Vorsicht\!
 
 # Dateien vorsichtig löschen mit `rm -i`

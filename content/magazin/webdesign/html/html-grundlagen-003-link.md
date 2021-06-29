@@ -2,10 +2,8 @@
 weight         : 003
 subtitle       : 'Webdesign Grundlagen'
 title          : 'Der Link: Texte und Bilder verlinken'
-youtube        : 3IwFRPHP6HE
-image          :
-  header       : /images/webdesign/html-links.jpg
 categories     : html-grundlagen
+youtube        : 3IwFRPHP6HE
 slug            : link
 ---
 Links (Verweise) machen das Internet zum Internet, indem Du Inhalte – also Webseiten – miteinander direkt verknüpfst. Mit dem HTML-Link-Befehl `<a>` webst Du das Netz.

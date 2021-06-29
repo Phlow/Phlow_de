@@ -1,59 +1,42 @@
 {{ define "main" }}
+
 <div><!-- wrapper -->
-  <div class="px4 lg-px4"><!-- padding -->
-    <div class="max-width-4 mt2 mx-auto">
-      <div class="clearfix">
-        <h1>Bildung ist unser Produkt!</h1>
-
-        {{ .Content }}
-
-      </div><!-- /clearfix -->
-
-
-      <div class="clearfix mxn2">
-        <div class="sm-col sm-col-6 px2">
-          <h2>WordPress</h2>
-
-          <ul class="toc-list">
-            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "wordpress" }}
-                <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+  <div class="px4 lg-px4">
+    <div class="max-width-3 mx-auto">
+      <article class="clearfix mxn2">
+        <header>
+          <h1 class="mt2">
+            {{ if .Page.Params.subtitle }}
+            <span class="subtitle sans caps mt2 mb0">{{ .Page.Params.subtitle }}</span><br>
             {{ end }}
-          </ul>
-        </div>
+            {{ .Title }}
+          </h1>
+        </header>
 
-        <div class="sm-col sm-col-6 px2">
-          <h2>Social Media</h2>
+          {{ .Content }}
 
-          <ul class="toc-list">
-            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "socialmedia" }}
-              <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-            {{ end }}
-          </ul>
-        </div>
+      </article><!-- /clearfix -->
+    </div><!-- /max-width-2 -->
 
-
-        <div class="sm-col sm-col-6 px2">
-          <h2>Marketing</h2>
-
-          <ul class="toc-list">
-            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "marketing" }}
-              <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-
-        <div class="sm-col sm-col-6 px2">
-          <h2>SEO & Journalismus</h2>
-
-          <ul class="toc-list">
-            {{ range where (where .Pages "Section" "seminare") ".Params.categories" "==" "journalismus" }}
-                  <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </div><!-- /max-width-4 -->
 
   </div><!-- /padding -->
 </div><!-- /wrapper -->
 {{ end }}
+
+{{ define "footer" }}
+
+<footer id="footer-content">
+<div style="margin-top: 16em;" id="subfooter" class="px4 lg-px4">
+    <div class="max-width-4 mx-auto">
+      <div class="clearfix">
+         <div class="px2 center">
+            <a class="grey sans" href="https://phlow.de/impressum" target="_blank" title="Impressum &amp; Datenschutz"><small>Impressum &amp; Datenschutz</small></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ end }}
+
+

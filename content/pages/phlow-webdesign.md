@@ -6,8 +6,11 @@ amp:
     carousel: true
 date: 2019-03-13T20:23:21+01:00
 ---
-Bei unserem Webdesign für Kunden fokussieren wir uns auf elegante, suchmaschinenoptimierte Websites, die schnell im Smartphone geladen sind. Unsere Websites sind immer _responsive_ und erzielen Top-Positionen in Google & Co. Durch mehr Sichtbarkeit in den Suchmaschinen helfen wir unseren Kunden ihr Geschäft kontinuierlich zu vergrößern. Websites bauen wir mit moderner Open Source Software wie [WordPress][1], [Hugo][2] oder [Jekyll][3]. Wenn Sie einen modernen Auftritt benötigen, [kontaktieren][4] Sie uns.
+Seit 2000 bauen [wir][0] Websites für Kunden. Unser Webdesign fokussiert sich auf elegante, schnell im Smartphone geladene, suchmaschinenoptimierte Websites. Hauptziel unserer Websites sind Top-Positionen in Google. Denn durch mehr Sichtbarkeit in den Suchmaschinen helfen wir unseren Kunden ihr Geschäft kontinuierlich zu vergrößern. Dafür setzen wir moderne Open Source Software wie [WordPress][1], [Hugo][2] oder [Jekyll][3] ein.
 
+Möchten Sie einen modernen Auftritt? [Kontaktieren Sie uns.][4]
+
+[0]: {{< ref "info.md" >}}
 [1]: http://wordpress.org
 [2]: https://gohugo.io
 [3]: https://jekyllrb.com

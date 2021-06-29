@@ -3,8 +3,8 @@ weight            : 011
 subtitle          : HTML-Grundlagen
 title             : 'HTML: Relative und Absolute Links'
 youtube           : PhTp17k5hFY
-image:
-    title         : /images/webdesign/011-html-relative-absolute-links-1280x720.jpg
+# image:
+#     title         : /images/webdesign/011-html-relative-absolute-links-1280x720.jpg
 categories        : html-grundlagen
 slug              : relative-absolute-links
 ---

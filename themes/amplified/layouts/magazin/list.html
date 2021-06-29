@@ -7,13 +7,6 @@
         {{ partial "helper/article-header.html" . }}
         {{ partial "helper/summary-content.html" . }}
 
-        {{ if eq .Page.Params.blognews false }}{{ else }}
-          <p>
-            {{ range first 1 .Site.Data.social_media_news }}
-              <a class="button warning" href="/magazin/social-media/social-media-news/#id-1">Neues aus dem Blog: <em>»{{ .title }}«</em></a>
-            {{ end }}
-          </p>
-        {{ end }}
         <ul class="toc-list">
           {{ range sort .Pages "File.TranslationBaseName" }}
               <li>

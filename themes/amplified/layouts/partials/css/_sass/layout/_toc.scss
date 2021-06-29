@@ -37,8 +37,8 @@
 .toc-article  {
   font-family: $header-font-family;
   padding: .5em 0 .5em 0;
-  border-top: 1px solid $line-color;
-  border-bottom: 1px solid $line-color;
+  border-top: 1px dotted $line-color;
+  border-bottom: 1px dotted $line-color;
 }
 
 .toc-article p {
@@ -68,21 +68,22 @@
 .toc-list li {
   -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
   transition: all .15s cubic-bezier(.33,.66,.66,1);
-  border-top: 1px solid $line-color;
+  border-top: 1px dotted $line-color;
   line-height: 1.85em;
 }
 
-.toc-list ul li ul li ul li {
-  padding-left: 1em;
+.toc-list li ul li {
+  font-size: $font-size-small;
+  padding-left: 2rem;
 }
 
 body.archive .toc-list li:nth-child(5n) {
   margin-bottom: 2em;
-  border-bottom: 1px solid $line-color;
+  border-bottom: 1px dotted $line-color;
 }
 
 .toc-list li:last-child  {
-  border-bottom: 1px solid $line-color;
+  border-bottom: 1px dotted $line-color;
 }
 
 .toc-list li li:last-child  {
@@ -93,7 +94,7 @@ body.archive .toc-list li:nth-child(5n) {
 // show border bottom and instead a border on top
 .toc-list li.archive-link  {
   border: 0;
-  border-top: 1px solid $line-color;
+  border-top: 1px dotted $line-color;
 }
 
 .toc-list li a span {
@@ -101,43 +102,48 @@ body.archive .toc-list li:nth-child(5n) {
   padding-right: .5em;
 }
 
-.toc-list ul li:hover {
-  background: $background-light-color;
+.toc-list li:hover {
+  background: $ci-2;
 }
 
-.toc-list ul li:hover li {
+.toc-list li:hover li {
+  background: lighten($ci-2, 25);
+}
+
+.toc-list li ul li:hover {
+  background: lighten($ci-2, 10);
+}
+
+.toc-list li ul li:hover li {
   background: $background-color;
 }
 
-.toc-list ul li ul li:hover {
+.toc-list li ul li ul li:hover {
   background: $background-light-color;
 }
 
-.toc-list ul li ul li:hover li {
+.toc-list li ul li ul li:hover li {
   background: $background-color;
 }
 
-.toc-list ul li ul li ul li:hover {
+.toc-list li ul li ul li ul li:hover {
   background: $background-light-color;
 }
 
-.toc-list ul li ul li ul li:hover li {
-  background: $background-color;
-}
-
-.toc-list ul li ul li ul li ul li:hover {
-  background: $background-light-color;
+.toc-list li {
+  -webkit-transition: all .5s cubic-bezier(.33,.66,.66,1);
+  transition: all .5s cubic-bezier(.33,.66,.66,1);
 }
 
 .toc-list a {
   border: 0;
   display: block;
-  -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
-  transition: all .15s cubic-bezier(.33,.66,.66,1);
+  -webkit-transition: all .5s cubic-bezier(.33,.66,.66,1);
+  transition: all .5s cubic-bezier(.33,.66,.66,1);
   box-shadow: inset 0 0 0 transparent;
 }
 
 .toc-list a:hover {
-  padding-left: 1em;
   box-shadow: inset 0 0 0 transparent;
+  background: $ci-2;
 }

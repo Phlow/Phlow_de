@@ -1,7 +1,7 @@
     ---
 subtitle              : Format der Zukunft
 title                 : Das SVG-Bildformat
-meta_title          : 'Das SVG-Bildformat erklärt – So funktioniert die Vektorbilder'
+meta_title          : 'Das SVG-Bildformat erklärt – So funktionieren die Vektorbilder'
 meta_description    : 'SVG-Bilder sind Vektorgrafiken. Im Gegensatz zu anderen Bildformaten, werden nicht Pixel, sondern Pfade abgespeichert.'
 categories            : bilder
 weight                : 0905

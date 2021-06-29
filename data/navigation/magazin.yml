@@ -9,12 +9,6 @@
   url_link      : 'magazin/journalismus/'
   topbar        : true
   sidebar       : true
-
-- menu_title    : 'Social Media'
-  title         : 'Zahlen, Fakten, Nachrichten und Tutorials rund um Social Media'
-  url_link      : 'magazin/social-media/'
-  topbar        : true
-  sidebar       : true
   
 - menu_title      : 'Wordpress'
   title          : 'Anleitungen, Videos und Tipps und Tricks für WordPress'

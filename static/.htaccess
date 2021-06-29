@@ -1,4 +1,4 @@
-ErrorDocument 404 /404.html
+ErrorDocument 404 /404/
 
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
@@ -12,6 +12,27 @@ RewriteEngine On
 redirect 301 /impressum/ https://phlow.de/impressum.php
 redirect 301 /impressum https://phlow.de/impressum.php
 redirect 301 /impressum.html https://phlow.de/impressum.php
+
+#
+# Redirects 2021-03-03
+#
+
+redirect 301 /webdesign/ https://phlow.de/phlow-webdesign/
+redirect 301 /seminare/kontakt/ https://andersneu.de/kontakt/
+redirect 301 /seminare/info/ https://andersneu.de/ueber-andersneu/
+redirect 301 /seminare/termine/ https://andersneu.de/termine/
+redirect 301 /seminare/programm/ https://andersneu.de/themen/
+
+redirect 301 /seminare/social-media/ https://andersneu.de/themen/social-media/
+redirect 301 /seminare/individuelle-seminare/ https://andersneu.de/inhouse-schulung/
+redirect 301 /seminare/digitales-marketing/ https://moritz.sauer.io/schreibt/digitaler-musikvertrieb/
+redirect 301 /seminare/digitale-musikdistribution/ https://moritz.sauer.io/schreibt/digitaler-musikvertrieb/
+redirect 301 /seminare/seminar-koeln-texte-schreiben-internet/ https://andersneu.de/themen/texte-schreiben-fuer-das-internet/
+redirect 301 /seminare/suchmaschinenoptimierung/ https://andersneu.de/themen/texte-schreiben-fuer-das-internet/
+redirect 301 /seminare/youtube-videos/ https://andersneu.de/themen/web-videos-fuer-social-media-mehr/
+redirect 301 /seminare/selbstvermarktung-marketing-musiker/ https://moritz.sauer.io/schreibt/digitaler-musikvertrieb/
+redirect 301 /seminare/wordpress/ https://andersneu.de/themen/wordpress/
+redirect 301 /seminare/wordpress-website/ https://andersneu.de/themen/wordpress/
 
 #
 # Redirects 2020-11-27

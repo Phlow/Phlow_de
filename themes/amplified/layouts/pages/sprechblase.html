@@ -1,0 +1,88 @@
+{{ partial "helper/head.html" . }}
+{{ partial "helper/navigation_startseite.html" . }}
+
+  <main class="pt4">
+    <div class="centered px2">
+      <div class="h3 p2 speech-bubble">
+        {{ .Content }}
+        <div style="position: relative;">
+          <img width="160" style="position: absolute; right: 20px; margin-top: 3.5rem; transform: rotate(-2deg);float: right; border-radius: 50%;" src="{{ .Page.Params.image.title  }}" alt="{{ .Page.Params.image.caption }}">
+        </div>
+      </div><!-- /.speech-bubble -->
+
+      <div id="subfooter" style="margin-top: 20em;">
+        <div class="max-width-4 mx-auto">
+          <div class="clearfix">
+             <div class="px2 center">
+                <a class="grey sans" href="https://phlow.de/impressum" target="_blank" title="Impressum & Datenschutz"><small>Impressum & Datenschutz</small></a>
+            </div>
+          </div>
+        </div>
+      </div><!-- /#subfooter -->
+
+    </div><!-- /.centered -->
+  </main>
+  <style>
+  body, html, main {
+  }
+  @media only screen and (min-width: 541px) {
+    body, html, main {
+      height: 90%;
+      display: grid;
+    }
+  }
+  .centered {
+    margin: auto;
+    max-width: 36em;
+  }
+  .speech-bubble p {
+    margin: 0;
+  }
+  .speech-bubble {
+      position: relative;
+    {{ if .Page.Params.bubble_style }}
+      {{ .Page.Params.bubble_style | safeCSS }};
+    {{ else }}
+      background: #ededed;
+    {{ end }}
+      border-radius: .4em;
+      transform: rotate(1deg);
+      transition: all .7s;
+  }
+  .speech-bubble a,
+  .speech-bubble a:visited,
+  .speech-bubble a:link {
+    {{ if .Page.Params.bubble_link }}
+      {{ .Page.Params.bubble_link | safeCSS }};
+    {{ end }}
+  }
+  .speech-bubble a:hover {
+    {{ if .Page.Params.bubble_link_hover }}
+      {{ .Page.Params.bubble_link_hover | safeCSS }};
+    {{ end }}
+  }
+  .speech-bubble:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 70%;
+      width: 0;
+      height: 0;
+      border: 42px solid transparent;
+    {{ if .Page.Params.bubble_ecke }}
+      {{ .Page.Params.bubble_ecke | safeCSS }};
+    {{ else }}
+      border-top-color: #ededed;
+    {{ end }}
+      border-bottom: 0;
+      border-right: 0;
+      margin-left: -19.5px;
+      margin-bottom: -39px;
+  }
+
+  </style>
+
+</body>
+</html>
+
+

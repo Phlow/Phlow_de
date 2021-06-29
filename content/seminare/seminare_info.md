@@ -1,9 +1,11 @@
 ---
+layout                   : list_seminare
 subtitle            : Seminare für Köln, Umgebung und Deutschland
 title               : "Informationen über Phlow Seminare"
 url                 : /seminare/info/
-image:
-  header            : images/social-media-seminar-workshop.jpg
+#image:
+#  header            : images/social-media-seminar-workshop.jpg
+advertisement      : false
 ---
 Seit 2000 beschäftigen wir uns intensiv mit dem Internet und den zahlreichen Möglichkeiten Inhalte zu publizieren. Spezialisiert haben wir uns auf die Gebiete WordPress, digitales Marketing, Suchmaschinenoptimierung (SEO), Social Media und Journalismus. Mit Stolz behaupten wir:
 <!--more-->

@@ -141,7 +141,7 @@ folgenden Befehl ffmpeg auf den aktuellen Stand bringen.
 
     $ brew update && brew upgrade ffmpeg
 
-## Formeln: Videos konvertieren mit ffmpeg
+## Videos konvertieren mit ffmpeg
 
 ### ffmpeg: Video Informationen anzeigen
 
@@ -175,7 +175,7 @@ Und der folgende Befehl wandelt eine mpg- in eine mp4-Datei.
 * `-c copy` Legt den Codec mit `c` fest. Da kein Codec benannt wird,
     bleibt es bei dem Eingangscodec. `copy` erstellt dann die Kopie.
 
-## Formeln: Audio konvertieren mit ffmpeg
+## Audio konvertieren mit ffmpeg
 
 ### WAV in MP3 umwandeln mit FFMPEG
 

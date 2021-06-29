@@ -1,8 +1,8 @@
 ---
-title                 : Populäre Bildmaße & Proportionen
-subtitle              : Pixelgrößen
+title                 : Online-Werkzeuge
+subtitle              : Qualität von HTML, CSS, GZIP überprüfen
 categories            : anhang
-url: /magazin/webdesign/webdesign-services/
+url                   : /magazin/webdesign/webdesign-services/
 ---
 Die folgenden Services unterstützen Dich bei der Entwicklung von Websites, um z.B. HTML-Code zu validieren, die Geschwindigkeit Deiner Websites zu testen und, und, und…
 <!--more-->

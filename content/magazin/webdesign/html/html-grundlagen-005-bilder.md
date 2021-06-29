@@ -4,12 +4,14 @@ subtitle        : HTML Grundlagen
 title           : 'Bilder einfügen mit img'
 categories      : html-grundlagen
 youtube         : V9ia1GlWC8c
-image:
-    title       : /images/webdesign/004-bilder-einfuegen-mit-img-1280x720.jpg
 slug            : bilder
 ---
-Mit dem HTML-Tag `<img>` baust Du eine Bilddatei wie z.B. eine JPG-Datei in ein HTML-Dokument ein.
+Mit dem HTML-Tag `<img>` baust Du eine Bilddatei in ein HTML-Dokument ein – z.B. JPG-, GIF-, SVG- oder PNG-Bilder.
 <!--more-->
+
+{{< info >}}
+Mehr Anleitungen zu Bilddateien und Bildformate findest Du in »[Bilder – Dateiformate für das Webdesign]({{< ref "09-bilder-01-01-bilder-dateiformate-webdesign.md" >}})«.
+{{< /info >}}
 
 `<img>` ist ein sogenanntes Standalone-Tag ohne Elementinhalt und ohne End-Tag. Du musst es also nicht schließen. Das `<img>`-Tag benötigt zwei Pflichtangaben: die beiden Attribute `src` und `alt`.
 

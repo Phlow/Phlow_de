@@ -3,8 +3,8 @@ weight            : 015
 subtitle          : 'Webdesign Grundlagen'
 title             : 'CSS Schriftgröße mit font-size und em, rem, px, %'
 youtube           : ddbpUiHd4aM
-image:
-    title         : /images/webdesign/015-css-schrift-schriftgroeße-em-rem-px-prozent-1280x720.jpg
+# image:
+#     title         : /images/webdesign/015-css-schrift-schriftgroeße-em-rem-px-prozent-1280x720.jpg
 categories:     css-grundlagen
 slug              : schriftgroesse-em-rem-px-prozent
 ---

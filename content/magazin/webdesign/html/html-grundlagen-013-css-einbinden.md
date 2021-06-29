@@ -3,8 +3,8 @@ weight      : 013
 subtitle    : 'Webdesign Grundlagen'
 title       : 'CSS in HTML einbinden'
 youtube     : 3Jdi-TpGLEA
-image:
-    title   : /images/webdesign/013-css-einbinden-1280x720.jpg
+# image:
+#     title   : /images/webdesign/013-css-einbinden-1280x720.jpg
 categories  : css-grundlagen
 slug              : css-einbinden
 ---

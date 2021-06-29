@@ -1,10 +1,11 @@
 ---
 subtitle            : Geschmeidig nach oben scrollen
-title               : 'Button einblenden mit scrollTop'
+title               : 'Nachoben-Button einblenden mit scrollTop'
 meta_description    : "Klein aber fein: scrollTop überwacht die vertikale Position der Scrollleiste und blendet ab einem bestimmten Punkt einen Scroll-Nach-Oben-Button ein."
-categories          : code
+categories          : anhang
 tags:
     - javascript
+url                       : /magazin/webdesign/nach-oben-button-javascript-einblenden/
 ---
 Klein aber fein: `scrollTop` überwacht die vertikale Position der Scrollleiste und wenn diese größer als *X* ist (im Beispiel 700 Pixel), blendet das Script den *.scrollup*-Button ein.
 <!--more-->

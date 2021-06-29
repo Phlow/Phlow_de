@@ -1,5 +1,5 @@
 ---
-subtitle            : Bildproportionen bzw. Seitenverhältnisse
+subtitle            : Seitenverhältnisse (Bildproportionen)
 title               : Bilder zurechtschneiden
 categories          : bilder
 weight              : 0926
